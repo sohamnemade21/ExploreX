@@ -1,0 +1,5402 @@
+[
+  {
+    "destinationId": "dest-001",
+    "month": "January",
+    "avgTempC": 2.6,
+    "avgRainfallMm": 0,
+    "avgHumidityPct": 56,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-001",
+    "month": "February",
+    "avgTempC": 7.1,
+    "avgRainfallMm": 69,
+    "avgHumidityPct": 52,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-001",
+    "month": "March",
+    "avgTempC": 10.0,
+    "avgRainfallMm": 1,
+    "avgHumidityPct": 51,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-001",
+    "month": "April",
+    "avgTempC": 17.9,
+    "avgRainfallMm": 48,
+    "avgHumidityPct": 49,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-001",
+    "month": "May",
+    "avgTempC": 26.7,
+    "avgRainfallMm": 67,
+    "avgHumidityPct": 45,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-001",
+    "month": "June",
+    "avgTempC": 33.3,
+    "avgRainfallMm": 261,
+    "avgHumidityPct": 74,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-001",
+    "month": "July",
+    "avgTempC": 36.2,
+    "avgRainfallMm": 295,
+    "avgHumidityPct": 71,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-001",
+    "month": "August",
+    "avgTempC": 33.3,
+    "avgRainfallMm": 732,
+    "avgHumidityPct": 83,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-001",
+    "month": "September",
+    "avgTempC": 28.9,
+    "avgRainfallMm": 581,
+    "avgHumidityPct": 84,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-001",
+    "month": "October",
+    "avgTempC": 19.5,
+    "avgRainfallMm": 10,
+    "avgHumidityPct": 36,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-001",
+    "month": "November",
+    "avgTempC": 12.4,
+    "avgRainfallMm": 50,
+    "avgHumidityPct": 34,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-001",
+    "month": "December",
+    "avgTempC": 7.2,
+    "avgRainfallMm": 7,
+    "avgHumidityPct": 57,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-002",
+    "month": "January",
+    "avgTempC": 3.7,
+    "avgRainfallMm": 16,
+    "avgHumidityPct": 45,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-002",
+    "month": "February",
+    "avgTempC": 7.3,
+    "avgRainfallMm": 40,
+    "avgHumidityPct": 55,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-002",
+    "month": "March",
+    "avgTempC": 11.8,
+    "avgRainfallMm": 41,
+    "avgHumidityPct": 50,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-002",
+    "month": "April",
+    "avgTempC": 21.3,
+    "avgRainfallMm": 29,
+    "avgHumidityPct": 34,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-002",
+    "month": "May",
+    "avgTempC": 25.6,
+    "avgRainfallMm": 17,
+    "avgHumidityPct": 36,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-002",
+    "month": "June",
+    "avgTempC": 32.3,
+    "avgRainfallMm": 368,
+    "avgHumidityPct": 84,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-002",
+    "month": "July",
+    "avgTempC": 34.6,
+    "avgRainfallMm": 616,
+    "avgHumidityPct": 73,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-002",
+    "month": "August",
+    "avgTempC": 31.7,
+    "avgRainfallMm": 412,
+    "avgHumidityPct": 84,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-002",
+    "month": "September",
+    "avgTempC": 25.3,
+    "avgRainfallMm": 471,
+    "avgHumidityPct": 73,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-002",
+    "month": "October",
+    "avgTempC": 18.3,
+    "avgRainfallMm": 38,
+    "avgHumidityPct": 32,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-002",
+    "month": "November",
+    "avgTempC": 10.3,
+    "avgRainfallMm": 41,
+    "avgHumidityPct": 39,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-002",
+    "month": "December",
+    "avgTempC": 6.1,
+    "avgRainfallMm": 31,
+    "avgHumidityPct": 52,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-003",
+    "month": "January",
+    "avgTempC": 3.2,
+    "avgRainfallMm": 6,
+    "avgHumidityPct": 49,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-003",
+    "month": "February",
+    "avgTempC": 8.0,
+    "avgRainfallMm": 22,
+    "avgHumidityPct": 31,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-003",
+    "month": "March",
+    "avgTempC": 12.6,
+    "avgRainfallMm": 57,
+    "avgHumidityPct": 65,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-003",
+    "month": "April",
+    "avgTempC": 19.0,
+    "avgRainfallMm": 31,
+    "avgHumidityPct": 36,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-003",
+    "month": "May",
+    "avgTempC": 24.7,
+    "avgRainfallMm": 17,
+    "avgHumidityPct": 37,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-003",
+    "month": "June",
+    "avgTempC": 30.9,
+    "avgRainfallMm": 427,
+    "avgHumidityPct": 74,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-003",
+    "month": "July",
+    "avgTempC": 34.9,
+    "avgRainfallMm": 610,
+    "avgHumidityPct": 81,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-003",
+    "month": "August",
+    "avgTempC": 32.5,
+    "avgRainfallMm": 860,
+    "avgHumidityPct": 72,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-003",
+    "month": "September",
+    "avgTempC": 24.7,
+    "avgRainfallMm": 465,
+    "avgHumidityPct": 72,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-003",
+    "month": "October",
+    "avgTempC": 20.8,
+    "avgRainfallMm": 8,
+    "avgHumidityPct": 42,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-003",
+    "month": "November",
+    "avgTempC": 10.0,
+    "avgRainfallMm": 56,
+    "avgHumidityPct": 38,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-003",
+    "month": "December",
+    "avgTempC": 4.3,
+    "avgRainfallMm": 42,
+    "avgHumidityPct": 37,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-004",
+    "month": "January",
+    "avgTempC": 2.3,
+    "avgRainfallMm": 59,
+    "avgHumidityPct": 33,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-004",
+    "month": "February",
+    "avgTempC": 7.0,
+    "avgRainfallMm": 73,
+    "avgHumidityPct": 57,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-004",
+    "month": "March",
+    "avgTempC": 9.3,
+    "avgRainfallMm": 50,
+    "avgHumidityPct": 61,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-004",
+    "month": "April",
+    "avgTempC": 18.1,
+    "avgRainfallMm": 54,
+    "avgHumidityPct": 41,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-004",
+    "month": "May",
+    "avgTempC": 25.3,
+    "avgRainfallMm": 23,
+    "avgHumidityPct": 47,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-004",
+    "month": "June",
+    "avgTempC": 32.1,
+    "avgRainfallMm": 352,
+    "avgHumidityPct": 71,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-004",
+    "month": "July",
+    "avgTempC": 34.2,
+    "avgRainfallMm": 831,
+    "avgHumidityPct": 77,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-004",
+    "month": "August",
+    "avgTempC": 33.2,
+    "avgRainfallMm": 710,
+    "avgHumidityPct": 83,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-004",
+    "month": "September",
+    "avgTempC": 24.5,
+    "avgRainfallMm": 690,
+    "avgHumidityPct": 71,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-004",
+    "month": "October",
+    "avgTempC": 18.3,
+    "avgRainfallMm": 49,
+    "avgHumidityPct": 38,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-004",
+    "month": "November",
+    "avgTempC": 11.7,
+    "avgRainfallMm": 67,
+    "avgHumidityPct": 45,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-004",
+    "month": "December",
+    "avgTempC": 7.6,
+    "avgRainfallMm": 69,
+    "avgHumidityPct": 31,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-005",
+    "month": "January",
+    "avgTempC": 2.7,
+    "avgRainfallMm": 45,
+    "avgHumidityPct": 60,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-005",
+    "month": "February",
+    "avgTempC": 6.2,
+    "avgRainfallMm": 62,
+    "avgHumidityPct": 52,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-005",
+    "month": "March",
+    "avgTempC": 9.6,
+    "avgRainfallMm": 64,
+    "avgHumidityPct": 50,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-005",
+    "month": "April",
+    "avgTempC": 16.8,
+    "avgRainfallMm": 23,
+    "avgHumidityPct": 31,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-005",
+    "month": "May",
+    "avgTempC": 26.6,
+    "avgRainfallMm": 28,
+    "avgHumidityPct": 31,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-005",
+    "month": "June",
+    "avgTempC": 31.8,
+    "avgRainfallMm": 487,
+    "avgHumidityPct": 71,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-005",
+    "month": "July",
+    "avgTempC": 32.0,
+    "avgRainfallMm": 683,
+    "avgHumidityPct": 86,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-005",
+    "month": "August",
+    "avgTempC": 32.4,
+    "avgRainfallMm": 798,
+    "avgHumidityPct": 77,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-005",
+    "month": "September",
+    "avgTempC": 25.7,
+    "avgRainfallMm": 302,
+    "avgHumidityPct": 77,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-005",
+    "month": "October",
+    "avgTempC": 18.8,
+    "avgRainfallMm": 34,
+    "avgHumidityPct": 64,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-005",
+    "month": "November",
+    "avgTempC": 10.4,
+    "avgRainfallMm": 7,
+    "avgHumidityPct": 44,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-005",
+    "month": "December",
+    "avgTempC": 6.3,
+    "avgRainfallMm": 49,
+    "avgHumidityPct": 52,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-006",
+    "month": "January",
+    "avgTempC": 3.0,
+    "avgRainfallMm": 22,
+    "avgHumidityPct": 41,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-006",
+    "month": "February",
+    "avgTempC": 7.7,
+    "avgRainfallMm": 40,
+    "avgHumidityPct": 52,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-006",
+    "month": "March",
+    "avgTempC": 13.3,
+    "avgRainfallMm": 3,
+    "avgHumidityPct": 52,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-006",
+    "month": "April",
+    "avgTempC": 19.3,
+    "avgRainfallMm": 72,
+    "avgHumidityPct": 39,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-006",
+    "month": "May",
+    "avgTempC": 26.7,
+    "avgRainfallMm": 24,
+    "avgHumidityPct": 61,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-006",
+    "month": "June",
+    "avgTempC": 30.1,
+    "avgRainfallMm": 379,
+    "avgHumidityPct": 85,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-006",
+    "month": "July",
+    "avgTempC": 34.4,
+    "avgRainfallMm": 257,
+    "avgHumidityPct": 77,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-006",
+    "month": "August",
+    "avgTempC": 31.9,
+    "avgRainfallMm": 220,
+    "avgHumidityPct": 86,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-006",
+    "month": "September",
+    "avgTempC": 25.3,
+    "avgRainfallMm": 539,
+    "avgHumidityPct": 89,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-006",
+    "month": "October",
+    "avgTempC": 19.9,
+    "avgRainfallMm": 16,
+    "avgHumidityPct": 51,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-006",
+    "month": "November",
+    "avgTempC": 9.6,
+    "avgRainfallMm": 41,
+    "avgHumidityPct": 33,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-006",
+    "month": "December",
+    "avgTempC": 7.1,
+    "avgRainfallMm": 75,
+    "avgHumidityPct": 39,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-007",
+    "month": "January",
+    "avgTempC": 5.0,
+    "avgRainfallMm": 67,
+    "avgHumidityPct": 53,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-007",
+    "month": "February",
+    "avgTempC": 5.5,
+    "avgRainfallMm": 47,
+    "avgHumidityPct": 55,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-007",
+    "month": "March",
+    "avgTempC": 9.9,
+    "avgRainfallMm": 43,
+    "avgHumidityPct": 49,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-007",
+    "month": "April",
+    "avgTempC": 19.3,
+    "avgRainfallMm": 20,
+    "avgHumidityPct": 57,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-007",
+    "month": "May",
+    "avgTempC": 24.3,
+    "avgRainfallMm": 62,
+    "avgHumidityPct": 50,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-007",
+    "month": "June",
+    "avgTempC": 32.7,
+    "avgRainfallMm": 775,
+    "avgHumidityPct": 92,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-007",
+    "month": "July",
+    "avgTempC": 32.6,
+    "avgRainfallMm": 828,
+    "avgHumidityPct": 95,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-007",
+    "month": "August",
+    "avgTempC": 32.4,
+    "avgRainfallMm": 881,
+    "avgHumidityPct": 88,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-007",
+    "month": "September",
+    "avgTempC": 26.6,
+    "avgRainfallMm": 587,
+    "avgHumidityPct": 79,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-007",
+    "month": "October",
+    "avgTempC": 16.8,
+    "avgRainfallMm": 37,
+    "avgHumidityPct": 38,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-007",
+    "month": "November",
+    "avgTempC": 12.0,
+    "avgRainfallMm": 0,
+    "avgHumidityPct": 55,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-007",
+    "month": "December",
+    "avgTempC": 3.9,
+    "avgRainfallMm": 72,
+    "avgHumidityPct": 32,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-008",
+    "month": "January",
+    "avgTempC": 3.8,
+    "avgRainfallMm": 40,
+    "avgHumidityPct": 44,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-008",
+    "month": "February",
+    "avgTempC": 3.8,
+    "avgRainfallMm": 13,
+    "avgHumidityPct": 61,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-008",
+    "month": "March",
+    "avgTempC": 10.1,
+    "avgRainfallMm": 9,
+    "avgHumidityPct": 45,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-008",
+    "month": "April",
+    "avgTempC": 18.8,
+    "avgRainfallMm": 40,
+    "avgHumidityPct": 40,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-008",
+    "month": "May",
+    "avgTempC": 25.5,
+    "avgRainfallMm": 11,
+    "avgHumidityPct": 51,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-008",
+    "month": "June",
+    "avgTempC": 30.2,
+    "avgRainfallMm": 471,
+    "avgHumidityPct": 76,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-008",
+    "month": "July",
+    "avgTempC": 32.3,
+    "avgRainfallMm": 269,
+    "avgHumidityPct": 81,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-008",
+    "month": "August",
+    "avgTempC": 29.2,
+    "avgRainfallMm": 310,
+    "avgHumidityPct": 93,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-008",
+    "month": "September",
+    "avgTempC": 26.7,
+    "avgRainfallMm": 595,
+    "avgHumidityPct": 84,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-008",
+    "month": "October",
+    "avgTempC": 18.2,
+    "avgRainfallMm": 21,
+    "avgHumidityPct": 56,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-008",
+    "month": "November",
+    "avgTempC": 10.9,
+    "avgRainfallMm": 48,
+    "avgHumidityPct": 52,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-008",
+    "month": "December",
+    "avgTempC": 6.4,
+    "avgRainfallMm": 12,
+    "avgHumidityPct": 60,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-009",
+    "month": "January",
+    "avgTempC": 2.2,
+    "avgRainfallMm": 73,
+    "avgHumidityPct": 44,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-009",
+    "month": "February",
+    "avgTempC": 4.7,
+    "avgRainfallMm": 9,
+    "avgHumidityPct": 32,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-009",
+    "month": "March",
+    "avgTempC": 12.8,
+    "avgRainfallMm": 40,
+    "avgHumidityPct": 46,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-009",
+    "month": "April",
+    "avgTempC": 17.2,
+    "avgRainfallMm": 9,
+    "avgHumidityPct": 51,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-009",
+    "month": "May",
+    "avgTempC": 27.0,
+    "avgRainfallMm": 48,
+    "avgHumidityPct": 40,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-009",
+    "month": "June",
+    "avgTempC": 30.9,
+    "avgRainfallMm": 760,
+    "avgHumidityPct": 72,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-009",
+    "month": "July",
+    "avgTempC": 34.4,
+    "avgRainfallMm": 828,
+    "avgHumidityPct": 85,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-009",
+    "month": "August",
+    "avgTempC": 30.2,
+    "avgRainfallMm": 641,
+    "avgHumidityPct": 90,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-009",
+    "month": "September",
+    "avgTempC": 24.2,
+    "avgRainfallMm": 644,
+    "avgHumidityPct": 75,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-009",
+    "month": "October",
+    "avgTempC": 20.4,
+    "avgRainfallMm": 42,
+    "avgHumidityPct": 43,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-009",
+    "month": "November",
+    "avgTempC": 11.9,
+    "avgRainfallMm": 52,
+    "avgHumidityPct": 65,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-009",
+    "month": "December",
+    "avgTempC": 6.2,
+    "avgRainfallMm": 69,
+    "avgHumidityPct": 46,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-010",
+    "month": "January",
+    "avgTempC": 1.6,
+    "avgRainfallMm": 38,
+    "avgHumidityPct": 45,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-010",
+    "month": "February",
+    "avgTempC": 6.6,
+    "avgRainfallMm": 50,
+    "avgHumidityPct": 65,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-010",
+    "month": "March",
+    "avgTempC": 10.1,
+    "avgRainfallMm": 19,
+    "avgHumidityPct": 33,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-010",
+    "month": "April",
+    "avgTempC": 17.4,
+    "avgRainfallMm": 54,
+    "avgHumidityPct": 35,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-010",
+    "month": "May",
+    "avgTempC": 24.5,
+    "avgRainfallMm": 80,
+    "avgHumidityPct": 60,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-010",
+    "month": "June",
+    "avgTempC": 29.9,
+    "avgRainfallMm": 226,
+    "avgHumidityPct": 76,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-010",
+    "month": "July",
+    "avgTempC": 33.1,
+    "avgRainfallMm": 498,
+    "avgHumidityPct": 72,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-010",
+    "month": "August",
+    "avgTempC": 32.3,
+    "avgRainfallMm": 318,
+    "avgHumidityPct": 79,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-010",
+    "month": "September",
+    "avgTempC": 27.3,
+    "avgRainfallMm": 682,
+    "avgHumidityPct": 85,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-010",
+    "month": "October",
+    "avgTempC": 18.8,
+    "avgRainfallMm": 33,
+    "avgHumidityPct": 35,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-010",
+    "month": "November",
+    "avgTempC": 10.2,
+    "avgRainfallMm": 49,
+    "avgHumidityPct": 41,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-010",
+    "month": "December",
+    "avgTempC": 3.9,
+    "avgRainfallMm": 48,
+    "avgHumidityPct": 53,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-011",
+    "month": "January",
+    "avgTempC": 4.6,
+    "avgRainfallMm": 5,
+    "avgHumidityPct": 46,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-011",
+    "month": "February",
+    "avgTempC": 8.2,
+    "avgRainfallMm": 33,
+    "avgHumidityPct": 44,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-011",
+    "month": "March",
+    "avgTempC": 11.0,
+    "avgRainfallMm": 72,
+    "avgHumidityPct": 33,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-011",
+    "month": "April",
+    "avgTempC": 20.5,
+    "avgRainfallMm": 12,
+    "avgHumidityPct": 35,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-011",
+    "month": "May",
+    "avgTempC": 29.2,
+    "avgRainfallMm": 69,
+    "avgHumidityPct": 56,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-011",
+    "month": "June",
+    "avgTempC": 33.1,
+    "avgRainfallMm": 803,
+    "avgHumidityPct": 77,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-011",
+    "month": "July",
+    "avgTempC": 34.5,
+    "avgRainfallMm": 596,
+    "avgHumidityPct": 86,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-011",
+    "month": "August",
+    "avgTempC": 34.3,
+    "avgRainfallMm": 748,
+    "avgHumidityPct": 91,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-011",
+    "month": "September",
+    "avgTempC": 28.9,
+    "avgRainfallMm": 686,
+    "avgHumidityPct": 88,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-011",
+    "month": "October",
+    "avgTempC": 18.2,
+    "avgRainfallMm": 60,
+    "avgHumidityPct": 49,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-011",
+    "month": "November",
+    "avgTempC": 12.6,
+    "avgRainfallMm": 4,
+    "avgHumidityPct": 62,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-011",
+    "month": "December",
+    "avgTempC": 5.3,
+    "avgRainfallMm": 66,
+    "avgHumidityPct": 39,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-012",
+    "month": "January",
+    "avgTempC": 6.5,
+    "avgRainfallMm": 57,
+    "avgHumidityPct": 41,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-012",
+    "month": "February",
+    "avgTempC": 8.0,
+    "avgRainfallMm": 21,
+    "avgHumidityPct": 43,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-012",
+    "month": "March",
+    "avgTempC": 11.9,
+    "avgRainfallMm": 16,
+    "avgHumidityPct": 32,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-012",
+    "month": "April",
+    "avgTempC": 21.7,
+    "avgRainfallMm": 55,
+    "avgHumidityPct": 42,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-012",
+    "month": "May",
+    "avgTempC": 28.6,
+    "avgRainfallMm": 80,
+    "avgHumidityPct": 39,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-012",
+    "month": "June",
+    "avgTempC": 34.4,
+    "avgRainfallMm": 464,
+    "avgHumidityPct": 80,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-012",
+    "month": "July",
+    "avgTempC": 34.3,
+    "avgRainfallMm": 268,
+    "avgHumidityPct": 72,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-012",
+    "month": "August",
+    "avgTempC": 32.0,
+    "avgRainfallMm": 606,
+    "avgHumidityPct": 87,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-012",
+    "month": "September",
+    "avgTempC": 27.1,
+    "avgRainfallMm": 482,
+    "avgHumidityPct": 86,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-012",
+    "month": "October",
+    "avgTempC": 20.9,
+    "avgRainfallMm": 1,
+    "avgHumidityPct": 63,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-012",
+    "month": "November",
+    "avgTempC": 10.9,
+    "avgRainfallMm": 14,
+    "avgHumidityPct": 56,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-012",
+    "month": "December",
+    "avgTempC": 8.5,
+    "avgRainfallMm": 72,
+    "avgHumidityPct": 36,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-013",
+    "month": "January",
+    "avgTempC": 1.1,
+    "avgRainfallMm": 72,
+    "avgHumidityPct": 36,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-013",
+    "month": "February",
+    "avgTempC": 3.5,
+    "avgRainfallMm": 68,
+    "avgHumidityPct": 52,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-013",
+    "month": "March",
+    "avgTempC": 8.1,
+    "avgRainfallMm": 33,
+    "avgHumidityPct": 54,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-013",
+    "month": "April",
+    "avgTempC": 13.1,
+    "avgRainfallMm": 73,
+    "avgHumidityPct": 60,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-013",
+    "month": "May",
+    "avgTempC": 21.1,
+    "avgRainfallMm": 35,
+    "avgHumidityPct": 55,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-013",
+    "month": "June",
+    "avgTempC": 26.1,
+    "avgRainfallMm": 77,
+    "avgHumidityPct": 55,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-013",
+    "month": "July",
+    "avgTempC": 29.0,
+    "avgRainfallMm": 539,
+    "avgHumidityPct": 92,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-013",
+    "month": "August",
+    "avgTempC": 29.6,
+    "avgRainfallMm": 686,
+    "avgHumidityPct": 78,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-013",
+    "month": "September",
+    "avgTempC": 23.8,
+    "avgRainfallMm": 2,
+    "avgHumidityPct": 51,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-013",
+    "month": "October",
+    "avgTempC": 14.1,
+    "avgRainfallMm": 38,
+    "avgHumidityPct": 49,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-013",
+    "month": "November",
+    "avgTempC": 9.4,
+    "avgRainfallMm": 62,
+    "avgHumidityPct": 36,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-013",
+    "month": "December",
+    "avgTempC": 1.2,
+    "avgRainfallMm": 29,
+    "avgHumidityPct": 38,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-014",
+    "month": "January",
+    "avgTempC": -0.7,
+    "avgRainfallMm": 56,
+    "avgHumidityPct": 50,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-014",
+    "month": "February",
+    "avgTempC": 1.0,
+    "avgRainfallMm": 53,
+    "avgHumidityPct": 35,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-014",
+    "month": "March",
+    "avgTempC": 8.7,
+    "avgRainfallMm": 27,
+    "avgHumidityPct": 56,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-014",
+    "month": "April",
+    "avgTempC": 16.5,
+    "avgRainfallMm": 66,
+    "avgHumidityPct": 53,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-014",
+    "month": "May",
+    "avgTempC": 21.0,
+    "avgRainfallMm": 65,
+    "avgHumidityPct": 40,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-014",
+    "month": "June",
+    "avgTempC": 26.7,
+    "avgRainfallMm": 64,
+    "avgHumidityPct": 55,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-014",
+    "month": "July",
+    "avgTempC": 28.3,
+    "avgRainfallMm": 736,
+    "avgHumidityPct": 88,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-014",
+    "month": "August",
+    "avgTempC": 29.5,
+    "avgRainfallMm": 397,
+    "avgHumidityPct": 76,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-014",
+    "month": "September",
+    "avgTempC": 22.5,
+    "avgRainfallMm": 31,
+    "avgHumidityPct": 32,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-014",
+    "month": "October",
+    "avgTempC": 14.3,
+    "avgRainfallMm": 46,
+    "avgHumidityPct": 42,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-014",
+    "month": "November",
+    "avgTempC": 7.3,
+    "avgRainfallMm": 59,
+    "avgHumidityPct": 62,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-014",
+    "month": "December",
+    "avgTempC": 1.2,
+    "avgRainfallMm": 15,
+    "avgHumidityPct": 31,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-015",
+    "month": "January",
+    "avgTempC": -1.3,
+    "avgRainfallMm": 62,
+    "avgHumidityPct": 58,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-015",
+    "month": "February",
+    "avgTempC": 1.4,
+    "avgRainfallMm": 60,
+    "avgHumidityPct": 65,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-015",
+    "month": "March",
+    "avgTempC": 8.5,
+    "avgRainfallMm": 20,
+    "avgHumidityPct": 46,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-015",
+    "month": "April",
+    "avgTempC": 13.1,
+    "avgRainfallMm": 11,
+    "avgHumidityPct": 48,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-015",
+    "month": "May",
+    "avgTempC": 23.9,
+    "avgRainfallMm": 6,
+    "avgHumidityPct": 40,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-015",
+    "month": "June",
+    "avgTempC": 28.6,
+    "avgRainfallMm": 27,
+    "avgHumidityPct": 44,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-015",
+    "month": "July",
+    "avgTempC": 29.1,
+    "avgRainfallMm": 893,
+    "avgHumidityPct": 76,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-015",
+    "month": "August",
+    "avgTempC": 26.1,
+    "avgRainfallMm": 619,
+    "avgHumidityPct": 86,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-015",
+    "month": "September",
+    "avgTempC": 24.1,
+    "avgRainfallMm": 1,
+    "avgHumidityPct": 60,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-015",
+    "month": "October",
+    "avgTempC": 13.9,
+    "avgRainfallMm": 22,
+    "avgHumidityPct": 30,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-015",
+    "month": "November",
+    "avgTempC": 8.4,
+    "avgRainfallMm": 77,
+    "avgHumidityPct": 49,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-015",
+    "month": "December",
+    "avgTempC": 3.6,
+    "avgRainfallMm": 35,
+    "avgHumidityPct": 57,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-016",
+    "month": "January",
+    "avgTempC": -1.0,
+    "avgRainfallMm": 44,
+    "avgHumidityPct": 59,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-016",
+    "month": "February",
+    "avgTempC": 2.7,
+    "avgRainfallMm": 59,
+    "avgHumidityPct": 49,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-016",
+    "month": "March",
+    "avgTempC": 7.8,
+    "avgRainfallMm": 79,
+    "avgHumidityPct": 55,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-016",
+    "month": "April",
+    "avgTempC": 17.0,
+    "avgRainfallMm": 0,
+    "avgHumidityPct": 62,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-016",
+    "month": "May",
+    "avgTempC": 23.1,
+    "avgRainfallMm": 47,
+    "avgHumidityPct": 65,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-016",
+    "month": "June",
+    "avgTempC": 27.2,
+    "avgRainfallMm": 77,
+    "avgHumidityPct": 48,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-016",
+    "month": "July",
+    "avgTempC": 28.3,
+    "avgRainfallMm": 310,
+    "avgHumidityPct": 85,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-016",
+    "month": "August",
+    "avgTempC": 27.3,
+    "avgRainfallMm": 483,
+    "avgHumidityPct": 90,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-016",
+    "month": "September",
+    "avgTempC": 23.1,
+    "avgRainfallMm": 35,
+    "avgHumidityPct": 46,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-016",
+    "month": "October",
+    "avgTempC": 13.6,
+    "avgRainfallMm": 38,
+    "avgHumidityPct": 42,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-016",
+    "month": "November",
+    "avgTempC": 8.7,
+    "avgRainfallMm": 30,
+    "avgHumidityPct": 33,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-016",
+    "month": "December",
+    "avgTempC": 2.7,
+    "avgRainfallMm": 76,
+    "avgHumidityPct": 55,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-017",
+    "month": "January",
+    "avgTempC": 0.6,
+    "avgRainfallMm": 17,
+    "avgHumidityPct": 31,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-017",
+    "month": "February",
+    "avgTempC": 3.6,
+    "avgRainfallMm": 37,
+    "avgHumidityPct": 46,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-017",
+    "month": "March",
+    "avgTempC": 8.4,
+    "avgRainfallMm": 51,
+    "avgHumidityPct": 54,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-017",
+    "month": "April",
+    "avgTempC": 14.4,
+    "avgRainfallMm": 74,
+    "avgHumidityPct": 42,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-017",
+    "month": "May",
+    "avgTempC": 23.1,
+    "avgRainfallMm": 28,
+    "avgHumidityPct": 64,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-017",
+    "month": "June",
+    "avgTempC": 28.0,
+    "avgRainfallMm": 60,
+    "avgHumidityPct": 52,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-017",
+    "month": "July",
+    "avgTempC": 31.5,
+    "avgRainfallMm": 374,
+    "avgHumidityPct": 91,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-017",
+    "month": "August",
+    "avgTempC": 26.4,
+    "avgRainfallMm": 385,
+    "avgHumidityPct": 79,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-017",
+    "month": "September",
+    "avgTempC": 23.4,
+    "avgRainfallMm": 16,
+    "avgHumidityPct": 46,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-017",
+    "month": "October",
+    "avgTempC": 16.8,
+    "avgRainfallMm": 71,
+    "avgHumidityPct": 41,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-017",
+    "month": "November",
+    "avgTempC": 6.4,
+    "avgRainfallMm": 42,
+    "avgHumidityPct": 35,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-017",
+    "month": "December",
+    "avgTempC": 1.7,
+    "avgRainfallMm": 28,
+    "avgHumidityPct": 49,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-018",
+    "month": "January",
+    "avgTempC": 6.5,
+    "avgRainfallMm": 42,
+    "avgHumidityPct": 53,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-018",
+    "month": "February",
+    "avgTempC": 10.9,
+    "avgRainfallMm": 37,
+    "avgHumidityPct": 59,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-018",
+    "month": "March",
+    "avgTempC": 16.4,
+    "avgRainfallMm": 60,
+    "avgHumidityPct": 33,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-018",
+    "month": "April",
+    "avgTempC": 22.3,
+    "avgRainfallMm": 74,
+    "avgHumidityPct": 34,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-018",
+    "month": "May",
+    "avgTempC": 28.4,
+    "avgRainfallMm": 24,
+    "avgHumidityPct": 62,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-018",
+    "month": "June",
+    "avgTempC": 35.6,
+    "avgRainfallMm": 897,
+    "avgHumidityPct": 82,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-018",
+    "month": "July",
+    "avgTempC": 38.9,
+    "avgRainfallMm": 623,
+    "avgHumidityPct": 71,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-018",
+    "month": "August",
+    "avgTempC": 37.4,
+    "avgRainfallMm": 354,
+    "avgHumidityPct": 74,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-018",
+    "month": "September",
+    "avgTempC": 31.9,
+    "avgRainfallMm": 550,
+    "avgHumidityPct": 83,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-018",
+    "month": "October",
+    "avgTempC": 21.7,
+    "avgRainfallMm": 668,
+    "avgHumidityPct": 74,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-018",
+    "month": "November",
+    "avgTempC": 14.9,
+    "avgRainfallMm": 23,
+    "avgHumidityPct": 35,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-018",
+    "month": "December",
+    "avgTempC": 8.7,
+    "avgRainfallMm": 80,
+    "avgHumidityPct": 41,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-019",
+    "month": "January",
+    "avgTempC": 7.6,
+    "avgRainfallMm": 7,
+    "avgHumidityPct": 30,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-019",
+    "month": "February",
+    "avgTempC": 10.1,
+    "avgRainfallMm": 26,
+    "avgHumidityPct": 40,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-019",
+    "month": "March",
+    "avgTempC": 16.4,
+    "avgRainfallMm": 20,
+    "avgHumidityPct": 61,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-019",
+    "month": "April",
+    "avgTempC": 23.2,
+    "avgRainfallMm": 11,
+    "avgHumidityPct": 38,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-019",
+    "month": "May",
+    "avgTempC": 30.0,
+    "avgRainfallMm": 54,
+    "avgHumidityPct": 55,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-019",
+    "month": "June",
+    "avgTempC": 33.8,
+    "avgRainfallMm": 688,
+    "avgHumidityPct": 82,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-019",
+    "month": "July",
+    "avgTempC": 38.7,
+    "avgRainfallMm": 746,
+    "avgHumidityPct": 76,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-019",
+    "month": "August",
+    "avgTempC": 36.8,
+    "avgRainfallMm": 214,
+    "avgHumidityPct": 80,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-019",
+    "month": "September",
+    "avgTempC": 28.3,
+    "avgRainfallMm": 743,
+    "avgHumidityPct": 76,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-019",
+    "month": "October",
+    "avgTempC": 23.7,
+    "avgRainfallMm": 204,
+    "avgHumidityPct": 90,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-019",
+    "month": "November",
+    "avgTempC": 14.5,
+    "avgRainfallMm": 28,
+    "avgHumidityPct": 52,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-019",
+    "month": "December",
+    "avgTempC": 9.8,
+    "avgRainfallMm": 13,
+    "avgHumidityPct": 54,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-020",
+    "month": "January",
+    "avgTempC": 4.9,
+    "avgRainfallMm": 39,
+    "avgHumidityPct": 40,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-020",
+    "month": "February",
+    "avgTempC": 10.5,
+    "avgRainfallMm": 5,
+    "avgHumidityPct": 49,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-020",
+    "month": "March",
+    "avgTempC": 14.5,
+    "avgRainfallMm": 58,
+    "avgHumidityPct": 63,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-020",
+    "month": "April",
+    "avgTempC": 23.2,
+    "avgRainfallMm": 43,
+    "avgHumidityPct": 57,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-020",
+    "month": "May",
+    "avgTempC": 31.1,
+    "avgRainfallMm": 17,
+    "avgHumidityPct": 51,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-020",
+    "month": "June",
+    "avgTempC": 35.6,
+    "avgRainfallMm": 701,
+    "avgHumidityPct": 81,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-020",
+    "month": "July",
+    "avgTempC": 36.3,
+    "avgRainfallMm": 368,
+    "avgHumidityPct": 95,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-020",
+    "month": "August",
+    "avgTempC": 35.6,
+    "avgRainfallMm": 433,
+    "avgHumidityPct": 77,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-020",
+    "month": "September",
+    "avgTempC": 30.1,
+    "avgRainfallMm": 334,
+    "avgHumidityPct": 76,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-020",
+    "month": "October",
+    "avgTempC": 20.3,
+    "avgRainfallMm": 803,
+    "avgHumidityPct": 86,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-020",
+    "month": "November",
+    "avgTempC": 13.7,
+    "avgRainfallMm": 46,
+    "avgHumidityPct": 32,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-020",
+    "month": "December",
+    "avgTempC": 9.2,
+    "avgRainfallMm": 32,
+    "avgHumidityPct": 64,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-021",
+    "month": "January",
+    "avgTempC": 7.0,
+    "avgRainfallMm": 76,
+    "avgHumidityPct": 33,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-021",
+    "month": "February",
+    "avgTempC": 9.1,
+    "avgRainfallMm": 2,
+    "avgHumidityPct": 33,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-021",
+    "month": "March",
+    "avgTempC": 13.3,
+    "avgRainfallMm": 53,
+    "avgHumidityPct": 58,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-021",
+    "month": "April",
+    "avgTempC": 21.2,
+    "avgRainfallMm": 70,
+    "avgHumidityPct": 46,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-021",
+    "month": "May",
+    "avgTempC": 29.6,
+    "avgRainfallMm": 19,
+    "avgHumidityPct": 43,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-021",
+    "month": "June",
+    "avgTempC": 33.5,
+    "avgRainfallMm": 845,
+    "avgHumidityPct": 70,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-021",
+    "month": "July",
+    "avgTempC": 37.0,
+    "avgRainfallMm": 877,
+    "avgHumidityPct": 73,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-021",
+    "month": "August",
+    "avgTempC": 34.7,
+    "avgRainfallMm": 476,
+    "avgHumidityPct": 89,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-021",
+    "month": "September",
+    "avgTempC": 30.2,
+    "avgRainfallMm": 340,
+    "avgHumidityPct": 83,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-021",
+    "month": "October",
+    "avgTempC": 22.2,
+    "avgRainfallMm": 13,
+    "avgHumidityPct": 62,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-021",
+    "month": "November",
+    "avgTempC": 12.3,
+    "avgRainfallMm": 15,
+    "avgHumidityPct": 48,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-021",
+    "month": "December",
+    "avgTempC": 7.1,
+    "avgRainfallMm": 13,
+    "avgHumidityPct": 61,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-022",
+    "month": "January",
+    "avgTempC": 6.2,
+    "avgRainfallMm": 25,
+    "avgHumidityPct": 46,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-022",
+    "month": "February",
+    "avgTempC": 7.7,
+    "avgRainfallMm": 25,
+    "avgHumidityPct": 52,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-022",
+    "month": "March",
+    "avgTempC": 10.5,
+    "avgRainfallMm": 37,
+    "avgHumidityPct": 40,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-022",
+    "month": "April",
+    "avgTempC": 20.6,
+    "avgRainfallMm": 63,
+    "avgHumidityPct": 43,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-022",
+    "month": "May",
+    "avgTempC": 26.3,
+    "avgRainfallMm": 61,
+    "avgHumidityPct": 51,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-022",
+    "month": "June",
+    "avgTempC": 31.2,
+    "avgRainfallMm": 213,
+    "avgHumidityPct": 91,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-022",
+    "month": "July",
+    "avgTempC": 35.5,
+    "avgRainfallMm": 313,
+    "avgHumidityPct": 88,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-022",
+    "month": "August",
+    "avgTempC": 33.9,
+    "avgRainfallMm": 352,
+    "avgHumidityPct": 72,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-022",
+    "month": "September",
+    "avgTempC": 28.2,
+    "avgRainfallMm": 276,
+    "avgHumidityPct": 93,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-022",
+    "month": "October",
+    "avgTempC": 19.7,
+    "avgRainfallMm": 32,
+    "avgHumidityPct": 44,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-022",
+    "month": "November",
+    "avgTempC": 12.2,
+    "avgRainfallMm": 37,
+    "avgHumidityPct": 46,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-022",
+    "month": "December",
+    "avgTempC": 8.3,
+    "avgRainfallMm": 12,
+    "avgHumidityPct": 41,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-023",
+    "month": "January",
+    "avgTempC": 7.6,
+    "avgRainfallMm": 37,
+    "avgHumidityPct": 53,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-023",
+    "month": "February",
+    "avgTempC": 9.3,
+    "avgRainfallMm": 40,
+    "avgHumidityPct": 57,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-023",
+    "month": "March",
+    "avgTempC": 11.9,
+    "avgRainfallMm": 12,
+    "avgHumidityPct": 32,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-023",
+    "month": "April",
+    "avgTempC": 20.7,
+    "avgRainfallMm": 17,
+    "avgHumidityPct": 40,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-023",
+    "month": "May",
+    "avgTempC": 30.4,
+    "avgRainfallMm": 56,
+    "avgHumidityPct": 47,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-023",
+    "month": "June",
+    "avgTempC": 35.6,
+    "avgRainfallMm": 295,
+    "avgHumidityPct": 81,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-023",
+    "month": "July",
+    "avgTempC": 36.0,
+    "avgRainfallMm": 387,
+    "avgHumidityPct": 73,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-023",
+    "month": "August",
+    "avgTempC": 35.7,
+    "avgRainfallMm": 667,
+    "avgHumidityPct": 78,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-023",
+    "month": "September",
+    "avgTempC": 30.0,
+    "avgRainfallMm": 906,
+    "avgHumidityPct": 85,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-023",
+    "month": "October",
+    "avgTempC": 19.9,
+    "avgRainfallMm": 21,
+    "avgHumidityPct": 37,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-023",
+    "month": "November",
+    "avgTempC": 12.3,
+    "avgRainfallMm": 7,
+    "avgHumidityPct": 40,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-023",
+    "month": "December",
+    "avgTempC": 9.6,
+    "avgRainfallMm": 75,
+    "avgHumidityPct": 60,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-024",
+    "month": "January",
+    "avgTempC": 7.2,
+    "avgRainfallMm": 56,
+    "avgHumidityPct": 41,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-024",
+    "month": "February",
+    "avgTempC": 10.3,
+    "avgRainfallMm": 45,
+    "avgHumidityPct": 31,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-024",
+    "month": "March",
+    "avgTempC": 16.0,
+    "avgRainfallMm": 16,
+    "avgHumidityPct": 60,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-024",
+    "month": "April",
+    "avgTempC": 21.6,
+    "avgRainfallMm": 14,
+    "avgHumidityPct": 56,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-024",
+    "month": "May",
+    "avgTempC": 29.9,
+    "avgRainfallMm": 8,
+    "avgHumidityPct": 46,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-024",
+    "month": "June",
+    "avgTempC": 35.9,
+    "avgRainfallMm": 1,
+    "avgHumidityPct": 63,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-024",
+    "month": "July",
+    "avgTempC": 38.7,
+    "avgRainfallMm": 73,
+    "avgHumidityPct": 44,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-024",
+    "month": "August",
+    "avgTempC": 34.9,
+    "avgRainfallMm": 43,
+    "avgHumidityPct": 63,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-024",
+    "month": "September",
+    "avgTempC": 29.0,
+    "avgRainfallMm": 79,
+    "avgHumidityPct": 36,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-024",
+    "month": "October",
+    "avgTempC": 21.7,
+    "avgRainfallMm": 944,
+    "avgHumidityPct": 77,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-024",
+    "month": "November",
+    "avgTempC": 14.9,
+    "avgRainfallMm": 879,
+    "avgHumidityPct": 91,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-024",
+    "month": "December",
+    "avgTempC": 10.4,
+    "avgRainfallMm": 352,
+    "avgHumidityPct": 87,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-025",
+    "month": "January",
+    "avgTempC": 5.5,
+    "avgRainfallMm": 78,
+    "avgHumidityPct": 33,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-025",
+    "month": "February",
+    "avgTempC": 10.9,
+    "avgRainfallMm": 20,
+    "avgHumidityPct": 62,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-025",
+    "month": "March",
+    "avgTempC": 13.2,
+    "avgRainfallMm": 63,
+    "avgHumidityPct": 40,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-025",
+    "month": "April",
+    "avgTempC": 21.4,
+    "avgRainfallMm": 62,
+    "avgHumidityPct": 50,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-025",
+    "month": "May",
+    "avgTempC": 30.0,
+    "avgRainfallMm": 35,
+    "avgHumidityPct": 33,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-025",
+    "month": "June",
+    "avgTempC": 35.1,
+    "avgRainfallMm": 70,
+    "avgHumidityPct": 54,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-025",
+    "month": "July",
+    "avgTempC": 37.3,
+    "avgRainfallMm": 30,
+    "avgHumidityPct": 35,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-025",
+    "month": "August",
+    "avgTempC": 33.8,
+    "avgRainfallMm": 73,
+    "avgHumidityPct": 58,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-025",
+    "month": "September",
+    "avgTempC": 29.2,
+    "avgRainfallMm": 63,
+    "avgHumidityPct": 58,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-025",
+    "month": "October",
+    "avgTempC": 23.1,
+    "avgRainfallMm": 709,
+    "avgHumidityPct": 93,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-025",
+    "month": "November",
+    "avgTempC": 14.6,
+    "avgRainfallMm": 305,
+    "avgHumidityPct": 82,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-025",
+    "month": "December",
+    "avgTempC": 7.5,
+    "avgRainfallMm": 770,
+    "avgHumidityPct": 87,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-026",
+    "month": "January",
+    "avgTempC": 9.1,
+    "avgRainfallMm": 11,
+    "avgHumidityPct": 49,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-026",
+    "month": "February",
+    "avgTempC": 10.2,
+    "avgRainfallMm": 71,
+    "avgHumidityPct": 43,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-026",
+    "month": "March",
+    "avgTempC": 14.5,
+    "avgRainfallMm": 58,
+    "avgHumidityPct": 51,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-026",
+    "month": "April",
+    "avgTempC": 23.9,
+    "avgRainfallMm": 6,
+    "avgHumidityPct": 44,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-026",
+    "month": "May",
+    "avgTempC": 31.1,
+    "avgRainfallMm": 42,
+    "avgHumidityPct": 65,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-026",
+    "month": "June",
+    "avgTempC": 36.4,
+    "avgRainfallMm": 76,
+    "avgHumidityPct": 60,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-026",
+    "month": "July",
+    "avgTempC": 36.0,
+    "avgRainfallMm": 46,
+    "avgHumidityPct": 58,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-026",
+    "month": "August",
+    "avgTempC": 34.9,
+    "avgRainfallMm": 28,
+    "avgHumidityPct": 30,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-026",
+    "month": "September",
+    "avgTempC": 30.1,
+    "avgRainfallMm": 37,
+    "avgHumidityPct": 65,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-026",
+    "month": "October",
+    "avgTempC": 20.7,
+    "avgRainfallMm": 918,
+    "avgHumidityPct": 73,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-026",
+    "month": "November",
+    "avgTempC": 13.6,
+    "avgRainfallMm": 368,
+    "avgHumidityPct": 85,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-026",
+    "month": "December",
+    "avgTempC": 10.4,
+    "avgRainfallMm": 934,
+    "avgHumidityPct": 93,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-027",
+    "month": "January",
+    "avgTempC": 8.9,
+    "avgRainfallMm": 13,
+    "avgHumidityPct": 46,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-027",
+    "month": "February",
+    "avgTempC": 12.2,
+    "avgRainfallMm": 24,
+    "avgHumidityPct": 37,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-027",
+    "month": "March",
+    "avgTempC": 15.8,
+    "avgRainfallMm": 50,
+    "avgHumidityPct": 43,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-027",
+    "month": "April",
+    "avgTempC": 21.9,
+    "avgRainfallMm": 24,
+    "avgHumidityPct": 51,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-027",
+    "month": "May",
+    "avgTempC": 32.7,
+    "avgRainfallMm": 53,
+    "avgHumidityPct": 32,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-027",
+    "month": "June",
+    "avgTempC": 37.5,
+    "avgRainfallMm": 75,
+    "avgHumidityPct": 37,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-027",
+    "month": "July",
+    "avgTempC": 39.1,
+    "avgRainfallMm": 57,
+    "avgHumidityPct": 59,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-027",
+    "month": "August",
+    "avgTempC": 38.3,
+    "avgRainfallMm": 64,
+    "avgHumidityPct": 38,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-027",
+    "month": "September",
+    "avgTempC": 31.9,
+    "avgRainfallMm": 0,
+    "avgHumidityPct": 63,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-027",
+    "month": "October",
+    "avgTempC": 24.8,
+    "avgRainfallMm": 766,
+    "avgHumidityPct": 83,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-027",
+    "month": "November",
+    "avgTempC": 17.1,
+    "avgRainfallMm": 694,
+    "avgHumidityPct": 86,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-027",
+    "month": "December",
+    "avgTempC": 10.8,
+    "avgRainfallMm": 381,
+    "avgHumidityPct": 92,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-028",
+    "month": "January",
+    "avgTempC": -0.5,
+    "avgRainfallMm": 16,
+    "avgHumidityPct": 36,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-028",
+    "month": "February",
+    "avgTempC": 2.0,
+    "avgRainfallMm": 76,
+    "avgHumidityPct": 50,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-028",
+    "month": "March",
+    "avgTempC": 9.4,
+    "avgRainfallMm": 49,
+    "avgHumidityPct": 56,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-028",
+    "month": "April",
+    "avgTempC": 14.6,
+    "avgRainfallMm": 31,
+    "avgHumidityPct": 47,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-028",
+    "month": "May",
+    "avgTempC": 22.3,
+    "avgRainfallMm": 43,
+    "avgHumidityPct": 48,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-028",
+    "month": "June",
+    "avgTempC": 27.6,
+    "avgRainfallMm": 17,
+    "avgHumidityPct": 38,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-028",
+    "month": "July",
+    "avgTempC": 30.0,
+    "avgRainfallMm": 916,
+    "avgHumidityPct": 93,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-028",
+    "month": "August",
+    "avgTempC": 29.4,
+    "avgRainfallMm": 918,
+    "avgHumidityPct": 87,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-028",
+    "month": "September",
+    "avgTempC": 24.2,
+    "avgRainfallMm": 928,
+    "avgHumidityPct": 93,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-028",
+    "month": "October",
+    "avgTempC": 13.8,
+    "avgRainfallMm": 80,
+    "avgHumidityPct": 43,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-028",
+    "month": "November",
+    "avgTempC": 8.2,
+    "avgRainfallMm": 79,
+    "avgHumidityPct": 48,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-028",
+    "month": "December",
+    "avgTempC": 2.0,
+    "avgRainfallMm": 16,
+    "avgHumidityPct": 41,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-029",
+    "month": "January",
+    "avgTempC": 1.0,
+    "avgRainfallMm": 41,
+    "avgHumidityPct": 37,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-029",
+    "month": "February",
+    "avgTempC": 2.3,
+    "avgRainfallMm": 71,
+    "avgHumidityPct": 60,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-029",
+    "month": "March",
+    "avgTempC": 6.6,
+    "avgRainfallMm": 53,
+    "avgHumidityPct": 64,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-029",
+    "month": "April",
+    "avgTempC": 15.1,
+    "avgRainfallMm": 54,
+    "avgHumidityPct": 30,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-029",
+    "month": "May",
+    "avgTempC": 21.1,
+    "avgRainfallMm": 3,
+    "avgHumidityPct": 54,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-029",
+    "month": "June",
+    "avgTempC": 27.1,
+    "avgRainfallMm": 7,
+    "avgHumidityPct": 42,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-029",
+    "month": "July",
+    "avgTempC": 30.7,
+    "avgRainfallMm": 364,
+    "avgHumidityPct": 79,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-029",
+    "month": "August",
+    "avgTempC": 28.8,
+    "avgRainfallMm": 349,
+    "avgHumidityPct": 71,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-029",
+    "month": "September",
+    "avgTempC": 23.5,
+    "avgRainfallMm": 502,
+    "avgHumidityPct": 76,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-029",
+    "month": "October",
+    "avgTempC": 16.3,
+    "avgRainfallMm": 4,
+    "avgHumidityPct": 52,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-029",
+    "month": "November",
+    "avgTempC": 9.0,
+    "avgRainfallMm": 13,
+    "avgHumidityPct": 65,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-029",
+    "month": "December",
+    "avgTempC": 1.0,
+    "avgRainfallMm": 71,
+    "avgHumidityPct": 54,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-030",
+    "month": "January",
+    "avgTempC": 1.7,
+    "avgRainfallMm": 36,
+    "avgHumidityPct": 33,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-030",
+    "month": "February",
+    "avgTempC": 3.8,
+    "avgRainfallMm": 49,
+    "avgHumidityPct": 56,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-030",
+    "month": "March",
+    "avgTempC": 5.7,
+    "avgRainfallMm": 40,
+    "avgHumidityPct": 65,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-030",
+    "month": "April",
+    "avgTempC": 15.5,
+    "avgRainfallMm": 32,
+    "avgHumidityPct": 42,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-030",
+    "month": "May",
+    "avgTempC": 24.1,
+    "avgRainfallMm": 56,
+    "avgHumidityPct": 44,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-030",
+    "month": "June",
+    "avgTempC": 28.9,
+    "avgRainfallMm": 47,
+    "avgHumidityPct": 64,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-030",
+    "month": "July",
+    "avgTempC": 30.9,
+    "avgRainfallMm": 401,
+    "avgHumidityPct": 94,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-030",
+    "month": "August",
+    "avgTempC": 27.8,
+    "avgRainfallMm": 398,
+    "avgHumidityPct": 79,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-030",
+    "month": "September",
+    "avgTempC": 21.2,
+    "avgRainfallMm": 899,
+    "avgHumidityPct": 72,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-030",
+    "month": "October",
+    "avgTempC": 13.5,
+    "avgRainfallMm": 22,
+    "avgHumidityPct": 62,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-030",
+    "month": "November",
+    "avgTempC": 6.6,
+    "avgRainfallMm": 5,
+    "avgHumidityPct": 57,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-030",
+    "month": "December",
+    "avgTempC": 0.7,
+    "avgRainfallMm": 33,
+    "avgHumidityPct": 38,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-031",
+    "month": "January",
+    "avgTempC": -0.7,
+    "avgRainfallMm": 32,
+    "avgHumidityPct": 30,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-031",
+    "month": "February",
+    "avgTempC": 0.6,
+    "avgRainfallMm": 19,
+    "avgHumidityPct": 32,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-031",
+    "month": "March",
+    "avgTempC": 8.6,
+    "avgRainfallMm": 41,
+    "avgHumidityPct": 33,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-031",
+    "month": "April",
+    "avgTempC": 15.0,
+    "avgRainfallMm": 80,
+    "avgHumidityPct": 49,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-031",
+    "month": "May",
+    "avgTempC": 21.9,
+    "avgRainfallMm": 73,
+    "avgHumidityPct": 65,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-031",
+    "month": "June",
+    "avgTempC": 26.9,
+    "avgRainfallMm": 40,
+    "avgHumidityPct": 63,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-031",
+    "month": "July",
+    "avgTempC": 28.3,
+    "avgRainfallMm": 388,
+    "avgHumidityPct": 86,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-031",
+    "month": "August",
+    "avgTempC": 27.7,
+    "avgRainfallMm": 717,
+    "avgHumidityPct": 75,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-031",
+    "month": "September",
+    "avgTempC": 20.9,
+    "avgRainfallMm": 749,
+    "avgHumidityPct": 82,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-031",
+    "month": "October",
+    "avgTempC": 15.7,
+    "avgRainfallMm": 28,
+    "avgHumidityPct": 43,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-031",
+    "month": "November",
+    "avgTempC": 6.7,
+    "avgRainfallMm": 42,
+    "avgHumidityPct": 53,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-031",
+    "month": "December",
+    "avgTempC": 1.9,
+    "avgRainfallMm": 79,
+    "avgHumidityPct": 63,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-032",
+    "month": "January",
+    "avgTempC": -1.5,
+    "avgRainfallMm": 71,
+    "avgHumidityPct": 30,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-032",
+    "month": "February",
+    "avgTempC": 1.0,
+    "avgRainfallMm": 44,
+    "avgHumidityPct": 58,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-032",
+    "month": "March",
+    "avgTempC": 9.3,
+    "avgRainfallMm": 78,
+    "avgHumidityPct": 45,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-032",
+    "month": "April",
+    "avgTempC": 16.7,
+    "avgRainfallMm": 41,
+    "avgHumidityPct": 54,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-032",
+    "month": "May",
+    "avgTempC": 21.5,
+    "avgRainfallMm": 14,
+    "avgHumidityPct": 54,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-032",
+    "month": "June",
+    "avgTempC": 29.6,
+    "avgRainfallMm": 36,
+    "avgHumidityPct": 31,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-032",
+    "month": "July",
+    "avgTempC": 31.2,
+    "avgRainfallMm": 583,
+    "avgHumidityPct": 86,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-032",
+    "month": "August",
+    "avgTempC": 26.2,
+    "avgRainfallMm": 656,
+    "avgHumidityPct": 85,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-032",
+    "month": "September",
+    "avgTempC": 21.8,
+    "avgRainfallMm": 867,
+    "avgHumidityPct": 76,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-032",
+    "month": "October",
+    "avgTempC": 13.7,
+    "avgRainfallMm": 10,
+    "avgHumidityPct": 36,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-032",
+    "month": "November",
+    "avgTempC": 5.5,
+    "avgRainfallMm": 68,
+    "avgHumidityPct": 64,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-032",
+    "month": "December",
+    "avgTempC": 2.7,
+    "avgRainfallMm": 8,
+    "avgHumidityPct": 43,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-033",
+    "month": "January",
+    "avgTempC": 1.3,
+    "avgRainfallMm": 27,
+    "avgHumidityPct": 57,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-033",
+    "month": "February",
+    "avgTempC": 3.3,
+    "avgRainfallMm": 26,
+    "avgHumidityPct": 64,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-033",
+    "month": "March",
+    "avgTempC": 8.5,
+    "avgRainfallMm": 55,
+    "avgHumidityPct": 34,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-033",
+    "month": "April",
+    "avgTempC": 14.8,
+    "avgRainfallMm": 19,
+    "avgHumidityPct": 31,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-033",
+    "month": "May",
+    "avgTempC": 20.9,
+    "avgRainfallMm": 42,
+    "avgHumidityPct": 32,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-033",
+    "month": "June",
+    "avgTempC": 29.2,
+    "avgRainfallMm": 6,
+    "avgHumidityPct": 41,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-033",
+    "month": "July",
+    "avgTempC": 30.3,
+    "avgRainfallMm": 771,
+    "avgHumidityPct": 72,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-033",
+    "month": "August",
+    "avgTempC": 27.6,
+    "avgRainfallMm": 433,
+    "avgHumidityPct": 78,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-033",
+    "month": "September",
+    "avgTempC": 22.1,
+    "avgRainfallMm": 661,
+    "avgHumidityPct": 90,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-033",
+    "month": "October",
+    "avgTempC": 14.6,
+    "avgRainfallMm": 40,
+    "avgHumidityPct": 31,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-033",
+    "month": "November",
+    "avgTempC": 5.5,
+    "avgRainfallMm": 15,
+    "avgHumidityPct": 64,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-033",
+    "month": "December",
+    "avgTempC": 3.0,
+    "avgRainfallMm": 79,
+    "avgHumidityPct": 34,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-034",
+    "month": "January",
+    "avgTempC": 0.8,
+    "avgRainfallMm": 74,
+    "avgHumidityPct": 32,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-034",
+    "month": "February",
+    "avgTempC": 3.7,
+    "avgRainfallMm": 9,
+    "avgHumidityPct": 52,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-034",
+    "month": "March",
+    "avgTempC": 8.6,
+    "avgRainfallMm": 13,
+    "avgHumidityPct": 48,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-034",
+    "month": "April",
+    "avgTempC": 14.1,
+    "avgRainfallMm": 38,
+    "avgHumidityPct": 35,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-034",
+    "month": "May",
+    "avgTempC": 22.1,
+    "avgRainfallMm": 56,
+    "avgHumidityPct": 54,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-034",
+    "month": "June",
+    "avgTempC": 26.6,
+    "avgRainfallMm": 3,
+    "avgHumidityPct": 60,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-034",
+    "month": "July",
+    "avgTempC": 31.0,
+    "avgRainfallMm": 425,
+    "avgHumidityPct": 74,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-034",
+    "month": "August",
+    "avgTempC": 29.8,
+    "avgRainfallMm": 758,
+    "avgHumidityPct": 79,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-034",
+    "month": "September",
+    "avgTempC": 23.2,
+    "avgRainfallMm": 347,
+    "avgHumidityPct": 79,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-034",
+    "month": "October",
+    "avgTempC": 15.2,
+    "avgRainfallMm": 47,
+    "avgHumidityPct": 30,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-034",
+    "month": "November",
+    "avgTempC": 6.0,
+    "avgRainfallMm": 71,
+    "avgHumidityPct": 39,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-034",
+    "month": "December",
+    "avgTempC": 2.2,
+    "avgRainfallMm": 0,
+    "avgHumidityPct": 55,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-035",
+    "month": "January",
+    "avgTempC": -1.1,
+    "avgRainfallMm": 10,
+    "avgHumidityPct": 49,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-035",
+    "month": "February",
+    "avgTempC": 1.7,
+    "avgRainfallMm": 44,
+    "avgHumidityPct": 43,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-035",
+    "month": "March",
+    "avgTempC": 6.2,
+    "avgRainfallMm": 65,
+    "avgHumidityPct": 39,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-035",
+    "month": "April",
+    "avgTempC": 13.9,
+    "avgRainfallMm": 28,
+    "avgHumidityPct": 46,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-035",
+    "month": "May",
+    "avgTempC": 24.0,
+    "avgRainfallMm": 23,
+    "avgHumidityPct": 33,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-035",
+    "month": "June",
+    "avgTempC": 28.7,
+    "avgRainfallMm": 762,
+    "avgHumidityPct": 84,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-035",
+    "month": "July",
+    "avgTempC": 30.8,
+    "avgRainfallMm": 274,
+    "avgHumidityPct": 79,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-035",
+    "month": "August",
+    "avgTempC": 26.9,
+    "avgRainfallMm": 456,
+    "avgHumidityPct": 73,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-035",
+    "month": "September",
+    "avgTempC": 24.4,
+    "avgRainfallMm": 794,
+    "avgHumidityPct": 85,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-035",
+    "month": "October",
+    "avgTempC": 15.8,
+    "avgRainfallMm": 45,
+    "avgHumidityPct": 38,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-035",
+    "month": "November",
+    "avgTempC": 6.7,
+    "avgRainfallMm": 30,
+    "avgHumidityPct": 36,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-035",
+    "month": "December",
+    "avgTempC": 1.4,
+    "avgRainfallMm": 8,
+    "avgHumidityPct": 42,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-036",
+    "month": "January",
+    "avgTempC": 0.5,
+    "avgRainfallMm": 57,
+    "avgHumidityPct": 51,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-036",
+    "month": "February",
+    "avgTempC": 2.3,
+    "avgRainfallMm": 39,
+    "avgHumidityPct": 39,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-036",
+    "month": "March",
+    "avgTempC": 9.3,
+    "avgRainfallMm": 46,
+    "avgHumidityPct": 50,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-036",
+    "month": "April",
+    "avgTempC": 14.3,
+    "avgRainfallMm": 21,
+    "avgHumidityPct": 30,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-036",
+    "month": "May",
+    "avgTempC": 21.6,
+    "avgRainfallMm": 28,
+    "avgHumidityPct": 57,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-036",
+    "month": "June",
+    "avgTempC": 28.7,
+    "avgRainfallMm": 568,
+    "avgHumidityPct": 74,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-036",
+    "month": "July",
+    "avgTempC": 29.9,
+    "avgRainfallMm": 539,
+    "avgHumidityPct": 85,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-036",
+    "month": "August",
+    "avgTempC": 27.2,
+    "avgRainfallMm": 567,
+    "avgHumidityPct": 94,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-036",
+    "month": "September",
+    "avgTempC": 21.2,
+    "avgRainfallMm": 764,
+    "avgHumidityPct": 73,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-036",
+    "month": "October",
+    "avgTempC": 16.4,
+    "avgRainfallMm": 77,
+    "avgHumidityPct": 35,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-036",
+    "month": "November",
+    "avgTempC": 6.3,
+    "avgRainfallMm": 17,
+    "avgHumidityPct": 64,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-036",
+    "month": "December",
+    "avgTempC": 2.9,
+    "avgRainfallMm": 80,
+    "avgHumidityPct": 34,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-037",
+    "month": "January",
+    "avgTempC": 1.8,
+    "avgRainfallMm": 2,
+    "avgHumidityPct": 62,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-037",
+    "month": "February",
+    "avgTempC": 4.4,
+    "avgRainfallMm": 74,
+    "avgHumidityPct": 55,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-037",
+    "month": "March",
+    "avgTempC": 9.0,
+    "avgRainfallMm": 27,
+    "avgHumidityPct": 32,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-037",
+    "month": "April",
+    "avgTempC": 16.2,
+    "avgRainfallMm": 69,
+    "avgHumidityPct": 64,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-037",
+    "month": "May",
+    "avgTempC": 23.3,
+    "avgRainfallMm": 19,
+    "avgHumidityPct": 53,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-037",
+    "month": "June",
+    "avgTempC": 30.7,
+    "avgRainfallMm": 803,
+    "avgHumidityPct": 93,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-037",
+    "month": "July",
+    "avgTempC": 31.3,
+    "avgRainfallMm": 337,
+    "avgHumidityPct": 84,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-037",
+    "month": "August",
+    "avgTempC": 28.7,
+    "avgRainfallMm": 292,
+    "avgHumidityPct": 82,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-037",
+    "month": "September",
+    "avgTempC": 22.7,
+    "avgRainfallMm": 210,
+    "avgHumidityPct": 91,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-037",
+    "month": "October",
+    "avgTempC": 17.3,
+    "avgRainfallMm": 78,
+    "avgHumidityPct": 40,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-037",
+    "month": "November",
+    "avgTempC": 7.4,
+    "avgRainfallMm": 17,
+    "avgHumidityPct": 58,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-037",
+    "month": "December",
+    "avgTempC": 4.2,
+    "avgRainfallMm": 72,
+    "avgHumidityPct": 39,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-038",
+    "month": "January",
+    "avgTempC": -1.2,
+    "avgRainfallMm": 61,
+    "avgHumidityPct": 52,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-038",
+    "month": "February",
+    "avgTempC": 0.9,
+    "avgRainfallMm": 62,
+    "avgHumidityPct": 44,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-038",
+    "month": "March",
+    "avgTempC": 6.3,
+    "avgRainfallMm": 47,
+    "avgHumidityPct": 44,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-038",
+    "month": "April",
+    "avgTempC": 17.3,
+    "avgRainfallMm": 26,
+    "avgHumidityPct": 63,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-038",
+    "month": "May",
+    "avgTempC": 23.0,
+    "avgRainfallMm": 46,
+    "avgHumidityPct": 54,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-038",
+    "month": "June",
+    "avgTempC": 26.8,
+    "avgRainfallMm": 665,
+    "avgHumidityPct": 71,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-038",
+    "month": "July",
+    "avgTempC": 29.0,
+    "avgRainfallMm": 864,
+    "avgHumidityPct": 80,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-038",
+    "month": "August",
+    "avgTempC": 29.9,
+    "avgRainfallMm": 733,
+    "avgHumidityPct": 90,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-038",
+    "month": "September",
+    "avgTempC": 23.3,
+    "avgRainfallMm": 469,
+    "avgHumidityPct": 88,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-038",
+    "month": "October",
+    "avgTempC": 16.2,
+    "avgRainfallMm": 22,
+    "avgHumidityPct": 54,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-038",
+    "month": "November",
+    "avgTempC": 8.2,
+    "avgRainfallMm": 46,
+    "avgHumidityPct": 34,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-038",
+    "month": "December",
+    "avgTempC": 2.7,
+    "avgRainfallMm": 48,
+    "avgHumidityPct": 44,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-039",
+    "month": "January",
+    "avgTempC": 0.9,
+    "avgRainfallMm": 45,
+    "avgHumidityPct": 52,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-039",
+    "month": "February",
+    "avgTempC": 3.0,
+    "avgRainfallMm": 61,
+    "avgHumidityPct": 30,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-039",
+    "month": "March",
+    "avgTempC": 7.1,
+    "avgRainfallMm": 17,
+    "avgHumidityPct": 58,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-039",
+    "month": "April",
+    "avgTempC": 16.6,
+    "avgRainfallMm": 9,
+    "avgHumidityPct": 62,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-039",
+    "month": "May",
+    "avgTempC": 22.2,
+    "avgRainfallMm": 27,
+    "avgHumidityPct": 39,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-039",
+    "month": "June",
+    "avgTempC": 29.8,
+    "avgRainfallMm": 570,
+    "avgHumidityPct": 89,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-039",
+    "month": "July",
+    "avgTempC": 29.9,
+    "avgRainfallMm": 321,
+    "avgHumidityPct": 91,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-039",
+    "month": "August",
+    "avgTempC": 27.4,
+    "avgRainfallMm": 538,
+    "avgHumidityPct": 93,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-039",
+    "month": "September",
+    "avgTempC": 23.4,
+    "avgRainfallMm": 891,
+    "avgHumidityPct": 85,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-039",
+    "month": "October",
+    "avgTempC": 16.6,
+    "avgRainfallMm": 75,
+    "avgHumidityPct": 40,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-039",
+    "month": "November",
+    "avgTempC": 7.5,
+    "avgRainfallMm": 52,
+    "avgHumidityPct": 31,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-039",
+    "month": "December",
+    "avgTempC": 1.5,
+    "avgRainfallMm": 16,
+    "avgHumidityPct": 40,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-040",
+    "month": "January",
+    "avgTempC": 2.9,
+    "avgRainfallMm": 65,
+    "avgHumidityPct": 32,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-040",
+    "month": "February",
+    "avgTempC": 2.1,
+    "avgRainfallMm": 18,
+    "avgHumidityPct": 33,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-040",
+    "month": "March",
+    "avgTempC": 10.7,
+    "avgRainfallMm": 23,
+    "avgHumidityPct": 63,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-040",
+    "month": "April",
+    "avgTempC": 17.9,
+    "avgRainfallMm": 76,
+    "avgHumidityPct": 31,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-040",
+    "month": "May",
+    "avgTempC": 22.7,
+    "avgRainfallMm": 36,
+    "avgHumidityPct": 35,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-040",
+    "month": "June",
+    "avgTempC": 30.8,
+    "avgRainfallMm": 821,
+    "avgHumidityPct": 85,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-040",
+    "month": "July",
+    "avgTempC": 32.7,
+    "avgRainfallMm": 374,
+    "avgHumidityPct": 77,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-040",
+    "month": "August",
+    "avgTempC": 30.6,
+    "avgRainfallMm": 815,
+    "avgHumidityPct": 74,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-040",
+    "month": "September",
+    "avgTempC": 24.5,
+    "avgRainfallMm": 386,
+    "avgHumidityPct": 89,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-040",
+    "month": "October",
+    "avgTempC": 17.3,
+    "avgRainfallMm": 33,
+    "avgHumidityPct": 40,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-040",
+    "month": "November",
+    "avgTempC": 9.3,
+    "avgRainfallMm": 43,
+    "avgHumidityPct": 59,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-040",
+    "month": "December",
+    "avgTempC": 2.9,
+    "avgRainfallMm": 8,
+    "avgHumidityPct": 44,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-041",
+    "month": "January",
+    "avgTempC": 0.7,
+    "avgRainfallMm": 16,
+    "avgHumidityPct": 36,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-041",
+    "month": "February",
+    "avgTempC": 5.3,
+    "avgRainfallMm": 66,
+    "avgHumidityPct": 62,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-041",
+    "month": "March",
+    "avgTempC": 8.8,
+    "avgRainfallMm": 19,
+    "avgHumidityPct": 36,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-041",
+    "month": "April",
+    "avgTempC": 19.1,
+    "avgRainfallMm": 78,
+    "avgHumidityPct": 32,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-041",
+    "month": "May",
+    "avgTempC": 26.1,
+    "avgRainfallMm": 68,
+    "avgHumidityPct": 62,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-041",
+    "month": "June",
+    "avgTempC": 31.2,
+    "avgRainfallMm": 295,
+    "avgHumidityPct": 85,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-041",
+    "month": "July",
+    "avgTempC": 33.9,
+    "avgRainfallMm": 817,
+    "avgHumidityPct": 87,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-041",
+    "month": "August",
+    "avgTempC": 30.3,
+    "avgRainfallMm": 894,
+    "avgHumidityPct": 90,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-041",
+    "month": "September",
+    "avgTempC": 26.6,
+    "avgRainfallMm": 630,
+    "avgHumidityPct": 81,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-041",
+    "month": "October",
+    "avgTempC": 16.5,
+    "avgRainfallMm": 67,
+    "avgHumidityPct": 57,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-041",
+    "month": "November",
+    "avgTempC": 9.5,
+    "avgRainfallMm": 61,
+    "avgHumidityPct": 54,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-041",
+    "month": "December",
+    "avgTempC": 4.3,
+    "avgRainfallMm": 73,
+    "avgHumidityPct": 36,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-042",
+    "month": "January",
+    "avgTempC": 3.6,
+    "avgRainfallMm": 32,
+    "avgHumidityPct": 60,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-042",
+    "month": "February",
+    "avgTempC": 5.0,
+    "avgRainfallMm": 10,
+    "avgHumidityPct": 48,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-042",
+    "month": "March",
+    "avgTempC": 9.1,
+    "avgRainfallMm": 69,
+    "avgHumidityPct": 56,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-042",
+    "month": "April",
+    "avgTempC": 17.9,
+    "avgRainfallMm": 0,
+    "avgHumidityPct": 30,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-042",
+    "month": "May",
+    "avgTempC": 23.1,
+    "avgRainfallMm": 15,
+    "avgHumidityPct": 63,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-042",
+    "month": "June",
+    "avgTempC": 31.3,
+    "avgRainfallMm": 870,
+    "avgHumidityPct": 76,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-042",
+    "month": "July",
+    "avgTempC": 32.0,
+    "avgRainfallMm": 523,
+    "avgHumidityPct": 83,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-042",
+    "month": "August",
+    "avgTempC": 31.2,
+    "avgRainfallMm": 358,
+    "avgHumidityPct": 83,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-042",
+    "month": "September",
+    "avgTempC": 26.5,
+    "avgRainfallMm": 459,
+    "avgHumidityPct": 78,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-042",
+    "month": "October",
+    "avgTempC": 18.0,
+    "avgRainfallMm": 54,
+    "avgHumidityPct": 53,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-042",
+    "month": "November",
+    "avgTempC": 9.7,
+    "avgRainfallMm": 50,
+    "avgHumidityPct": 43,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-042",
+    "month": "December",
+    "avgTempC": 3.3,
+    "avgRainfallMm": 71,
+    "avgHumidityPct": 60,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-043",
+    "month": "January",
+    "avgTempC": 2.5,
+    "avgRainfallMm": 71,
+    "avgHumidityPct": 65,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-043",
+    "month": "February",
+    "avgTempC": 5.6,
+    "avgRainfallMm": 39,
+    "avgHumidityPct": 52,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-043",
+    "month": "March",
+    "avgTempC": 11.5,
+    "avgRainfallMm": 50,
+    "avgHumidityPct": 38,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-043",
+    "month": "April",
+    "avgTempC": 17.3,
+    "avgRainfallMm": 15,
+    "avgHumidityPct": 44,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-043",
+    "month": "May",
+    "avgTempC": 23.9,
+    "avgRainfallMm": 20,
+    "avgHumidityPct": 36,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-043",
+    "month": "June",
+    "avgTempC": 29.9,
+    "avgRainfallMm": 610,
+    "avgHumidityPct": 95,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-043",
+    "month": "July",
+    "avgTempC": 33.3,
+    "avgRainfallMm": 763,
+    "avgHumidityPct": 89,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-043",
+    "month": "August",
+    "avgTempC": 29.2,
+    "avgRainfallMm": 923,
+    "avgHumidityPct": 71,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-043",
+    "month": "September",
+    "avgTempC": 26.3,
+    "avgRainfallMm": 851,
+    "avgHumidityPct": 70,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-043",
+    "month": "October",
+    "avgTempC": 19.2,
+    "avgRainfallMm": 18,
+    "avgHumidityPct": 60,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-043",
+    "month": "November",
+    "avgTempC": 8.3,
+    "avgRainfallMm": 55,
+    "avgHumidityPct": 35,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-043",
+    "month": "December",
+    "avgTempC": 2.9,
+    "avgRainfallMm": 28,
+    "avgHumidityPct": 53,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-044",
+    "month": "January",
+    "avgTempC": 1.7,
+    "avgRainfallMm": 4,
+    "avgHumidityPct": 54,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-044",
+    "month": "February",
+    "avgTempC": 1.2,
+    "avgRainfallMm": 51,
+    "avgHumidityPct": 63,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-044",
+    "month": "March",
+    "avgTempC": 9.3,
+    "avgRainfallMm": 76,
+    "avgHumidityPct": 33,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-044",
+    "month": "April",
+    "avgTempC": 14.8,
+    "avgRainfallMm": 22,
+    "avgHumidityPct": 61,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-044",
+    "month": "May",
+    "avgTempC": 24.2,
+    "avgRainfallMm": 406,
+    "avgHumidityPct": 91,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-044",
+    "month": "June",
+    "avgTempC": 26.8,
+    "avgRainfallMm": 730,
+    "avgHumidityPct": 79,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-044",
+    "month": "July",
+    "avgTempC": 30.1,
+    "avgRainfallMm": 813,
+    "avgHumidityPct": 86,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-044",
+    "month": "August",
+    "avgTempC": 26.7,
+    "avgRainfallMm": 437,
+    "avgHumidityPct": 89,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-044",
+    "month": "September",
+    "avgTempC": 21.5,
+    "avgRainfallMm": 236,
+    "avgHumidityPct": 81,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-044",
+    "month": "October",
+    "avgTempC": 13.3,
+    "avgRainfallMm": 0,
+    "avgHumidityPct": 40,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-044",
+    "month": "November",
+    "avgTempC": 6.9,
+    "avgRainfallMm": 35,
+    "avgHumidityPct": 55,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-044",
+    "month": "December",
+    "avgTempC": 2.4,
+    "avgRainfallMm": 50,
+    "avgHumidityPct": 55,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-045",
+    "month": "January",
+    "avgTempC": 0.9,
+    "avgRainfallMm": 66,
+    "avgHumidityPct": 30,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-045",
+    "month": "February",
+    "avgTempC": 2.2,
+    "avgRainfallMm": 8,
+    "avgHumidityPct": 35,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-045",
+    "month": "March",
+    "avgTempC": 6.9,
+    "avgRainfallMm": 71,
+    "avgHumidityPct": 52,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-045",
+    "month": "April",
+    "avgTempC": 15.4,
+    "avgRainfallMm": 35,
+    "avgHumidityPct": 44,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-045",
+    "month": "May",
+    "avgTempC": 24.2,
+    "avgRainfallMm": 399,
+    "avgHumidityPct": 84,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-045",
+    "month": "June",
+    "avgTempC": 27.0,
+    "avgRainfallMm": 788,
+    "avgHumidityPct": 70,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-045",
+    "month": "July",
+    "avgTempC": 28.4,
+    "avgRainfallMm": 616,
+    "avgHumidityPct": 86,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-045",
+    "month": "August",
+    "avgTempC": 27.2,
+    "avgRainfallMm": 274,
+    "avgHumidityPct": 86,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-045",
+    "month": "September",
+    "avgTempC": 22.6,
+    "avgRainfallMm": 319,
+    "avgHumidityPct": 95,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-045",
+    "month": "October",
+    "avgTempC": 16.3,
+    "avgRainfallMm": 32,
+    "avgHumidityPct": 64,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-045",
+    "month": "November",
+    "avgTempC": 8.3,
+    "avgRainfallMm": 73,
+    "avgHumidityPct": 46,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-045",
+    "month": "December",
+    "avgTempC": 3.1,
+    "avgRainfallMm": 48,
+    "avgHumidityPct": 60,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-046",
+    "month": "January",
+    "avgTempC": 0.7,
+    "avgRainfallMm": 43,
+    "avgHumidityPct": 59,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-046",
+    "month": "February",
+    "avgTempC": 1.9,
+    "avgRainfallMm": 75,
+    "avgHumidityPct": 31,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-046",
+    "month": "March",
+    "avgTempC": 7.0,
+    "avgRainfallMm": 33,
+    "avgHumidityPct": 34,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-046",
+    "month": "April",
+    "avgTempC": 16.2,
+    "avgRainfallMm": 28,
+    "avgHumidityPct": 44,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-046",
+    "month": "May",
+    "avgTempC": 22.6,
+    "avgRainfallMm": 622,
+    "avgHumidityPct": 81,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-046",
+    "month": "June",
+    "avgTempC": 29.3,
+    "avgRainfallMm": 209,
+    "avgHumidityPct": 92,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-046",
+    "month": "July",
+    "avgTempC": 28.4,
+    "avgRainfallMm": 454,
+    "avgHumidityPct": 79,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-046",
+    "month": "August",
+    "avgTempC": 29.3,
+    "avgRainfallMm": 889,
+    "avgHumidityPct": 93,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-046",
+    "month": "September",
+    "avgTempC": 24.2,
+    "avgRainfallMm": 277,
+    "avgHumidityPct": 87,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-046",
+    "month": "October",
+    "avgTempC": 14.4,
+    "avgRainfallMm": 60,
+    "avgHumidityPct": 50,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-046",
+    "month": "November",
+    "avgTempC": 6.2,
+    "avgRainfallMm": 73,
+    "avgHumidityPct": 47,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-046",
+    "month": "December",
+    "avgTempC": 3.0,
+    "avgRainfallMm": 24,
+    "avgHumidityPct": 61,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-047",
+    "month": "January",
+    "avgTempC": 1.5,
+    "avgRainfallMm": 30,
+    "avgHumidityPct": 45,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-047",
+    "month": "February",
+    "avgTempC": 0.8,
+    "avgRainfallMm": 26,
+    "avgHumidityPct": 44,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-047",
+    "month": "March",
+    "avgTempC": 6.1,
+    "avgRainfallMm": 31,
+    "avgHumidityPct": 52,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-047",
+    "month": "April",
+    "avgTempC": 16.7,
+    "avgRainfallMm": 13,
+    "avgHumidityPct": 37,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-047",
+    "month": "May",
+    "avgTempC": 22.5,
+    "avgRainfallMm": 892,
+    "avgHumidityPct": 91,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-047",
+    "month": "June",
+    "avgTempC": 29.4,
+    "avgRainfallMm": 206,
+    "avgHumidityPct": 94,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-047",
+    "month": "July",
+    "avgTempC": 29.5,
+    "avgRainfallMm": 243,
+    "avgHumidityPct": 85,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-047",
+    "month": "August",
+    "avgTempC": 29.6,
+    "avgRainfallMm": 522,
+    "avgHumidityPct": 85,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-047",
+    "month": "September",
+    "avgTempC": 22.5,
+    "avgRainfallMm": 788,
+    "avgHumidityPct": 78,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-047",
+    "month": "October",
+    "avgTempC": 14.6,
+    "avgRainfallMm": 65,
+    "avgHumidityPct": 47,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-047",
+    "month": "November",
+    "avgTempC": 5.7,
+    "avgRainfallMm": 73,
+    "avgHumidityPct": 38,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-047",
+    "month": "December",
+    "avgTempC": 3.8,
+    "avgRainfallMm": 54,
+    "avgHumidityPct": 60,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-048",
+    "month": "January",
+    "avgTempC": -0.6,
+    "avgRainfallMm": 4,
+    "avgHumidityPct": 62,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-048",
+    "month": "February",
+    "avgTempC": 3.9,
+    "avgRainfallMm": 22,
+    "avgHumidityPct": 59,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-048",
+    "month": "March",
+    "avgTempC": 6.8,
+    "avgRainfallMm": 66,
+    "avgHumidityPct": 59,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-048",
+    "month": "April",
+    "avgTempC": 15.7,
+    "avgRainfallMm": 1,
+    "avgHumidityPct": 30,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-048",
+    "month": "May",
+    "avgTempC": 21.8,
+    "avgRainfallMm": 48,
+    "avgHumidityPct": 36,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-048",
+    "month": "June",
+    "avgTempC": 26.7,
+    "avgRainfallMm": 78,
+    "avgHumidityPct": 46,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-048",
+    "month": "July",
+    "avgTempC": 29.1,
+    "avgRainfallMm": 469,
+    "avgHumidityPct": 77,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-048",
+    "month": "August",
+    "avgTempC": 27.5,
+    "avgRainfallMm": 827,
+    "avgHumidityPct": 80,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-048",
+    "month": "September",
+    "avgTempC": 21.3,
+    "avgRainfallMm": 710,
+    "avgHumidityPct": 83,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-048",
+    "month": "October",
+    "avgTempC": 16.4,
+    "avgRainfallMm": 47,
+    "avgHumidityPct": 53,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-048",
+    "month": "November",
+    "avgTempC": 6.2,
+    "avgRainfallMm": 35,
+    "avgHumidityPct": 58,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-048",
+    "month": "December",
+    "avgTempC": 3.3,
+    "avgRainfallMm": 16,
+    "avgHumidityPct": 44,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-049",
+    "month": "January",
+    "avgTempC": 0.2,
+    "avgRainfallMm": 34,
+    "avgHumidityPct": 45,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-049",
+    "month": "February",
+    "avgTempC": 0.6,
+    "avgRainfallMm": 48,
+    "avgHumidityPct": 42,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-049",
+    "month": "March",
+    "avgTempC": 8.7,
+    "avgRainfallMm": 19,
+    "avgHumidityPct": 60,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-049",
+    "month": "April",
+    "avgTempC": 15.0,
+    "avgRainfallMm": 22,
+    "avgHumidityPct": 56,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-049",
+    "month": "May",
+    "avgTempC": 22.6,
+    "avgRainfallMm": 845,
+    "avgHumidityPct": 86,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-049",
+    "month": "June",
+    "avgTempC": 27.9,
+    "avgRainfallMm": 523,
+    "avgHumidityPct": 95,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-049",
+    "month": "July",
+    "avgTempC": 31.4,
+    "avgRainfallMm": 456,
+    "avgHumidityPct": 87,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-049",
+    "month": "August",
+    "avgTempC": 26.4,
+    "avgRainfallMm": 248,
+    "avgHumidityPct": 82,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-049",
+    "month": "September",
+    "avgTempC": 21.4,
+    "avgRainfallMm": 367,
+    "avgHumidityPct": 71,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-049",
+    "month": "October",
+    "avgTempC": 16.4,
+    "avgRainfallMm": 32,
+    "avgHumidityPct": 60,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-049",
+    "month": "November",
+    "avgTempC": 8.5,
+    "avgRainfallMm": 12,
+    "avgHumidityPct": 58,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-049",
+    "month": "December",
+    "avgTempC": 1.5,
+    "avgRainfallMm": 33,
+    "avgHumidityPct": 53,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-050",
+    "month": "January",
+    "avgTempC": -0.6,
+    "avgRainfallMm": 71,
+    "avgHumidityPct": 46,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-050",
+    "month": "February",
+    "avgTempC": 1.4,
+    "avgRainfallMm": 52,
+    "avgHumidityPct": 37,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-050",
+    "month": "March",
+    "avgTempC": 7.8,
+    "avgRainfallMm": 77,
+    "avgHumidityPct": 42,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-050",
+    "month": "April",
+    "avgTempC": 16.9,
+    "avgRainfallMm": 68,
+    "avgHumidityPct": 41,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-050",
+    "month": "May",
+    "avgTempC": 21.8,
+    "avgRainfallMm": 36,
+    "avgHumidityPct": 52,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-050",
+    "month": "June",
+    "avgTempC": 29.1,
+    "avgRainfallMm": 65,
+    "avgHumidityPct": 61,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-050",
+    "month": "July",
+    "avgTempC": 29.5,
+    "avgRainfallMm": 657,
+    "avgHumidityPct": 72,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-050",
+    "month": "August",
+    "avgTempC": 28.5,
+    "avgRainfallMm": 493,
+    "avgHumidityPct": 84,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-050",
+    "month": "September",
+    "avgTempC": 23.1,
+    "avgRainfallMm": 348,
+    "avgHumidityPct": 75,
+    "monsoonSeason": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-050",
+    "month": "October",
+    "avgTempC": 15.5,
+    "avgRainfallMm": 43,
+    "avgHumidityPct": 56,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-050",
+    "month": "November",
+    "avgTempC": 8.9,
+    "avgRainfallMm": 73,
+    "avgHumidityPct": 55,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "destinationId": "dest-050",
+    "month": "December",
+    "avgTempC": 0.7,
+    "avgRainfallMm": 9,
+    "avgHumidityPct": 35,
+    "monsoonSeason": false,
+    "dataSource": "synthetic"
+  }
+]

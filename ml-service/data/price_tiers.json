@@ -1,0 +1,5666 @@
+{
+  "schema_version": "1.0",
+  "description": "Hotel tier breakpoints and per-destination price statistics for the RandomForest dynamic pricing model. Base prices calibrated from Booking.com / MakeMyTrip / Agoda listing medians.",
+  "global_tier_breakpoints_inr": {
+    "1": {
+      "label": "Budget / Hostel",
+      "min_inr": 0,
+      "max_inr": 1999
+    },
+    "2": {
+      "label": "Economy / 2-Star / Guest House",
+      "min_inr": 2000,
+      "max_inr": 3499
+    },
+    "3": {
+      "label": "Midscale / 3-Star",
+      "min_inr": 3500,
+      "max_inr": 5499
+    },
+    "4": {
+      "label": "Upscale / 4-Star / Boutique Heritage",
+      "min_inr": 5500,
+      "max_inr": 8999
+    },
+    "5": {
+      "label": "Luxury / 5-Star / Palace Resort",
+      "min_inr": 9000,
+      "max_inr": 99999
+    }
+  },
+  "holiday_surge_rule": "base_price × 1.25 on public holidays (Republic Day, Holi, Independence Day, Diwali, Christmas etc.)",
+  "total_destinations": 67,
+  "per_destination": {
+    "Tarkarli": {
+      "popularity_tier": "gem",
+      "tiers": {
+        "1": {
+          "hotel_tier": 1,
+          "label": "Budget / Hostel",
+          "base_price_inr": {
+            "min": 800,
+            "max": 890,
+            "avg": 836
+          },
+          "holiday_price_inr": {
+            "min": 1060,
+            "max": 1060,
+            "avg": 1060
+          },
+          "avg_holiday_surge_pct": 26.7,
+          "avg_occupancy_pct": 53.6
+        },
+        "2": {
+          "hotel_tier": 2,
+          "label": "Economy / 2-Star / Guest House",
+          "base_price_inr": {
+            "min": 1690,
+            "max": 1900,
+            "avg": 1813
+          },
+          "holiday_price_inr": {
+            "min": 2070,
+            "max": 2070,
+            "avg": 2070
+          },
+          "avg_holiday_surge_pct": 14.2,
+          "avg_occupancy_pct": 49.6
+        },
+        "3": {
+          "hotel_tier": 3,
+          "label": "Midscale / 3-Star",
+          "base_price_inr": {
+            "min": 3090,
+            "max": 3380,
+            "avg": 3249
+          },
+          "holiday_price_inr": {
+            "min": 4100,
+            "max": 4100,
+            "avg": 4100
+          },
+          "avg_holiday_surge_pct": 26.2,
+          "avg_occupancy_pct": 52.8
+        },
+        "4": {
+          "hotel_tier": 4,
+          "label": "Upscale / 4-Star / Boutique Heritage",
+          "base_price_inr": {
+            "min": 5490,
+            "max": 6090,
+            "avg": 5853
+          },
+          "holiday_price_inr": {
+            "min": 7060,
+            "max": 7060,
+            "avg": 7060
+          },
+          "avg_holiday_surge_pct": 20.6,
+          "avg_occupancy_pct": 53.1
+        },
+        "5": {
+          "hotel_tier": 5,
+          "label": "Luxury / 5-Star / Palace Resort",
+          "base_price_inr": {
+            "min": 13530,
+            "max": 14720,
+            "avg": 14166
+          },
+          "holiday_price_inr": {
+            "min": 16710,
+            "max": 16710,
+            "avg": 16710
+          },
+          "avg_holiday_surge_pct": 18.0,
+          "avg_occupancy_pct": 52.9
+        }
+      }
+    },
+    "Sindhudurg": {
+      "popularity_tier": "emerging",
+      "tiers": {
+        "1": {
+          "hotel_tier": 1,
+          "label": "Budget / Hostel",
+          "base_price_inr": {
+            "min": 810,
+            "max": 890,
+            "avg": 843
+          },
+          "holiday_price_inr": {
+            "min": 810,
+            "max": 890,
+            "avg": 843
+          },
+          "avg_holiday_surge_pct": 0.0,
+          "avg_occupancy_pct": 48.9
+        },
+        "2": {
+          "hotel_tier": 2,
+          "label": "Economy / 2-Star / Guest House",
+          "base_price_inr": {
+            "min": 1690,
+            "max": 1900,
+            "avg": 1792
+          },
+          "holiday_price_inr": {
+            "min": 1690,
+            "max": 1900,
+            "avg": 1792
+          },
+          "avg_holiday_surge_pct": 0.0,
+          "avg_occupancy_pct": 49.8
+        },
+        "3": {
+          "hotel_tier": 3,
+          "label": "Midscale / 3-Star",
+          "base_price_inr": {
+            "min": 3010,
+            "max": 3390,
+            "avg": 3270
+          },
+          "holiday_price_inr": {
+            "min": 3010,
+            "max": 3390,
+            "avg": 3270
+          },
+          "avg_holiday_surge_pct": 0.0,
+          "avg_occupancy_pct": 51.4
+        },
+        "4": {
+          "hotel_tier": 4,
+          "label": "Upscale / 4-Star / Boutique Heritage",
+          "base_price_inr": {
+            "min": 5460,
+            "max": 6050,
+            "avg": 5714
+          },
+          "holiday_price_inr": {
+            "min": 5460,
+            "max": 6050,
+            "avg": 5714
+          },
+          "avg_holiday_surge_pct": 0.0,
+          "avg_occupancy_pct": 51.9
+        },
+        "5": {
+          "hotel_tier": 5,
+          "label": "Luxury / 5-Star / Palace Resort",
+          "base_price_inr": {
+            "min": 13300,
+            "max": 14820,
+            "avg": 14025
+          },
+          "holiday_price_inr": {
+            "min": 13300,
+            "max": 14820,
+            "avg": 14025
+          },
+          "avg_holiday_surge_pct": 0.0,
+          "avg_occupancy_pct": 49.9
+        }
+      }
+    },
+    "Kolhapur": {
+      "popularity_tier": "popular",
+      "tiers": {
+        "1": {
+          "hotel_tier": 1,
+          "label": "Budget / Hostel",
+          "base_price_inr": {
+            "min": 800,
+            "max": 900,
+            "avg": 849
+          },
+          "holiday_price_inr": {
+            "min": 1110,
+            "max": 1110,
+            "avg": 1110
+          },
+          "avg_holiday_surge_pct": 30.7,
+          "avg_occupancy_pct": 53.3
+        },
+        "2": {
+          "hotel_tier": 2,
+          "label": "Economy / 2-Star / Guest House",
+          "base_price_inr": {
+            "min": 1750,
+            "max": 1850,
+            "avg": 1789
+          },
+          "holiday_price_inr": {
+            "min": 2080,
+            "max": 2080,
+            "avg": 2080
+          },
+          "avg_holiday_surge_pct": 16.3,
+          "avg_occupancy_pct": 54.2
+        },
+        "3": {
+          "hotel_tier": 3,
+          "label": "Midscale / 3-Star",
+          "base_price_inr": {
+            "min": 3010,
+            "max": 3380,
+            "avg": 3202
+          },
+          "holiday_price_inr": {
+            "min": 3720,
+            "max": 3720,
+            "avg": 3720
+          },
+          "avg_holiday_surge_pct": 16.2,
+          "avg_occupancy_pct": 51.9
+        },
+        "4": {
+          "hotel_tier": 4,
+          "label": "Upscale / 4-Star / Boutique Heritage",
+          "base_price_inr": {
+            "min": 5490,
+            "max": 6080,
+            "avg": 5810
+          },
+          "holiday_price_inr": {
+            "min": 7280,
+            "max": 7280,
+            "avg": 7280
+          },
+          "avg_holiday_surge_pct": 25.3,
+          "avg_occupancy_pct": 50.1
+        },
+        "5": {
+          "hotel_tier": 5,
+          "label": "Luxury / 5-Star / Palace Resort",
+          "base_price_inr": {
+            "min": 13260,
+            "max": 14720,
+            "avg": 14142
+          },
+          "holiday_price_inr": {
+            "min": 16510,
+            "max": 16510,
+            "avg": 16510
+          },
+          "avg_holiday_surge_pct": 16.7,
+          "avg_occupancy_pct": 51.6
+        }
+      }
+    },
+    "Solapur": {
+      "popularity_tier": "emerging",
+      "tiers": {
+        "1": {
+          "hotel_tier": 1,
+          "label": "Budget / Hostel",
+          "base_price_inr": {
+            "min": 800,
+            "max": 880,
+            "avg": 841
+          },
+          "holiday_price_inr": {
+            "min": 800,
+            "max": 880,
+            "avg": 841
+          },
+          "avg_holiday_surge_pct": 0.0,
+          "avg_occupancy_pct": 48.6
+        },
+        "2": {
+          "hotel_tier": 2,
+          "label": "Economy / 2-Star / Guest House",
+          "base_price_inr": {
+            "min": 1700,
+            "max": 1880,
+            "avg": 1776
+          },
+          "holiday_price_inr": {
+            "min": 1700,
+            "max": 1880,
+            "avg": 1776
+          },
+          "avg_holiday_surge_pct": 0.0,
+          "avg_occupancy_pct": 50.8
+        },
+        "3": {
+          "hotel_tier": 3,
+          "label": "Midscale / 3-Star",
+          "base_price_inr": {
+            "min": 3070,
+            "max": 3360,
+            "avg": 3192
+          },
+          "holiday_price_inr": {
+            "min": 3070,
+            "max": 3360,
+            "avg": 3192
+          },
+          "avg_holiday_surge_pct": 0.0,
+          "avg_occupancy_pct": 52.4
+        },
+        "4": {
+          "hotel_tier": 4,
+          "label": "Upscale / 4-Star / Boutique Heritage",
+          "base_price_inr": {
+            "min": 5460,
+            "max": 6150,
+            "avg": 5747
+          },
+          "holiday_price_inr": {
+            "min": 5460,
+            "max": 6150,
+            "avg": 5747
+          },
+          "avg_holiday_surge_pct": 0.0,
+          "avg_occupancy_pct": 48.8
+        },
+        "5": {
+          "hotel_tier": 5,
+          "label": "Luxury / 5-Star / Palace Resort",
+          "base_price_inr": {
+            "min": 13240,
+            "max": 14830,
+            "avg": 14138
+          },
+          "holiday_price_inr": {
+            "min": 13240,
+            "max": 14830,
+            "avg": 14138
+          },
+          "avg_holiday_surge_pct": 0.0,
+          "avg_occupancy_pct": 49.0
+        }
+      }
+    },
+    "Aurangabad": {
+      "popularity_tier": "popular",
+      "tiers": {
+        "1": {
+          "hotel_tier": 1,
+          "label": "Budget / Hostel",
+          "base_price_inr": {
+            "min": 810,
+            "max": 900,
+            "avg": 861
+          },
+          "holiday_price_inr": {
+            "min": 1060,
+            "max": 1140,
+            "avg": 1100
+          },
+          "avg_holiday_surge_pct": 27.8,
+          "avg_occupancy_pct": 57.7
+        },
+        "2": {
+          "hotel_tier": 2,
+          "label": "Economy / 2-Star / Guest House",
+          "base_price_inr": {
+            "min": 1720,
+            "max": 1890,
+            "avg": 1810
+          },
+          "holiday_price_inr": {
+            "min": 2230,
+            "max": 2370,
+            "avg": 2300
+          },
+          "avg_holiday_surge_pct": 27.1,
+          "avg_occupancy_pct": 55.8
+        },
+        "3": {
+          "hotel_tier": 3,
+          "label": "Midscale / 3-Star",
+          "base_price_inr": {
+            "min": 3030,
+            "max": 3360,
+            "avg": 3186
+          },
+          "holiday_price_inr": {
+            "min": 3900,
+            "max": 4090,
+            "avg": 3995
+          },
+          "avg_holiday_surge_pct": 25.4,
+          "avg_occupancy_pct": 52.0
+        },
+        "4": {
+          "hotel_tier": 4,
+          "label": "Upscale / 4-Star / Boutique Heritage",
+          "base_price_inr": {
+            "min": 5470,
+            "max": 6130,
+            "avg": 5680
+          },
+          "holiday_price_inr": {
+            "min": 7200,
+            "max": 7650,
+            "avg": 7425
+          },
+          "avg_holiday_surge_pct": 30.7,
+          "avg_occupancy_pct": 50.8
+        },
+        "5": {
+          "hotel_tier": 5,
+          "label": "Luxury / 5-Star / Palace Resort",
+          "base_price_inr": {
+            "min": 13270,
+            "max": 14720,
+            "avg": 14116
+          },
+          "holiday_price_inr": {
+            "min": 17540,
+            "max": 18090,
+            "avg": 17815
+          },
+          "avg_holiday_surge_pct": 26.2,
+          "avg_occupancy_pct": 57.2
+        }
+      }
+    },
+    "Ratnagiri": {
+      "popularity_tier": "emerging",
+      "tiers": {
+        "1": {
+          "hotel_tier": 1,
+          "label": "Budget / Hostel",
+          "base_price_inr": {
+            "min": 810,
+            "max": 890,
+            "avg": 845
+          },
+          "holiday_price_inr": {
+            "min": 1010,
+            "max": 1010,
+            "avg": 1010
+          },
+          "avg_holiday_surge_pct": 19.5,
+          "avg_occupancy_pct": 52.5
+        },
+        "2": {
+          "hotel_tier": 2,
+          "label": "Economy / 2-Star / Guest House",
+          "base_price_inr": {
+            "min": 1700,
+            "max": 1900,
+            "avg": 1796
+          },
+          "holiday_price_inr": {
+            "min": 2250,
+            "max": 2250,
+            "avg": 2250
+          },
+          "avg_holiday_surge_pct": 25.3,
+          "avg_occupancy_pct": 48.1
+        },
+        "3": {
+          "hotel_tier": 3,
+          "label": "Midscale / 3-Star",
+          "base_price_inr": {
+            "min": 3050,
+            "max": 3390,
+            "avg": 3193
+          },
+          "holiday_price_inr": {
+            "min": 4290,
+            "max": 4290,
+            "avg": 4290
+          },
+          "avg_holiday_surge_pct": 34.4,
+          "avg_occupancy_pct": 48.7
+        },
+        "4": {
+          "hotel_tier": 4,
+          "label": "Upscale / 4-Star / Boutique Heritage",
+          "base_price_inr": {
+            "min": 5470,
+            "max": 6090,
+            "avg": 5853
+          },
+          "holiday_price_inr": {
+            "min": 7510,
+            "max": 7510,
+            "avg": 7510
+          },
+          "avg_holiday_surge_pct": 28.3,
+          "avg_occupancy_pct": 50.9
+        },
+        "5": {
+          "hotel_tier": 5,
+          "label": "Luxury / 5-Star / Palace Resort",
+          "base_price_inr": {
+            "min": 13290,
+            "max": 14700,
+            "avg": 14004
+          },
+          "holiday_price_inr": {
+            "min": 16980,
+            "max": 16980,
+            "avg": 16980
+          },
+          "avg_holiday_surge_pct": 21.3,
+          "avg_occupancy_pct": 55.2
+        }
+      }
+    },
+    "Lonavala": {
+      "popularity_tier": "popular",
+      "tiers": {
+        "1": {
+          "hotel_tier": 1,
+          "label": "Budget / Hostel",
+          "base_price_inr": {
+            "min": 810,
+            "max": 870,
+            "avg": 840
+          },
+          "holiday_price_inr": {
+            "min": 1030,
+            "max": 1030,
+            "avg": 1030
+          },
+          "avg_holiday_surge_pct": 22.6,
+          "avg_occupancy_pct": 52.8
+        },
+        "2": {
+          "hotel_tier": 2,
+          "label": "Economy / 2-Star / Guest House",
+          "base_price_inr": {
+            "min": 1730,
+            "max": 1890,
+            "avg": 1796
+          },
+          "holiday_price_inr": {
+            "min": 2130,
+            "max": 2130,
+            "avg": 2130
+          },
+          "avg_holiday_surge_pct": 18.6,
+          "avg_occupancy_pct": 53.6
+        },
+        "3": {
+          "hotel_tier": 3,
+          "label": "Midscale / 3-Star",
+          "base_price_inr": {
+            "min": 3010,
+            "max": 3360,
+            "avg": 3213
+          },
+          "holiday_price_inr": {
+            "min": 4030,
+            "max": 4030,
+            "avg": 4030
+          },
+          "avg_holiday_surge_pct": 25.4,
+          "avg_occupancy_pct": 51.3
+        },
+        "4": {
+          "hotel_tier": 4,
+          "label": "Upscale / 4-Star / Boutique Heritage",
+          "base_price_inr": {
+            "min": 5640,
+            "max": 6150,
+            "avg": 5845
+          },
+          "holiday_price_inr": {
+            "min": 7000,
+            "max": 7000,
+            "avg": 7000
+          },
+          "avg_holiday_surge_pct": 19.8,
+          "avg_occupancy_pct": 55.2
+        },
+        "5": {
+          "hotel_tier": 5,
+          "label": "Luxury / 5-Star / Palace Resort",
+          "base_price_inr": {
+            "min": 13260,
+            "max": 14820,
+            "avg": 14038
+          },
+          "holiday_price_inr": {
+            "min": 19140,
+            "max": 19140,
+            "avg": 19140
+          },
+          "avg_holiday_surge_pct": 36.3,
+          "avg_occupancy_pct": 55.5
+        }
+      }
+    },
+    "Pune": {
+      "popularity_tier": "popular",
+      "tiers": {
+        "1": {
+          "hotel_tier": 1,
+          "label": "Budget / Hostel",
+          "base_price_inr": {
+            "min": 800,
+            "max": 900,
+            "avg": 858
+          },
+          "holiday_price_inr": {
+            "min": 800,
+            "max": 900,
+            "avg": 858
+          },
+          "avg_holiday_surge_pct": 0.0,
+          "avg_occupancy_pct": 53.2
+        },
+        "2": {
+          "hotel_tier": 2,
+          "label": "Economy / 2-Star / Guest House",
+          "base_price_inr": {
+            "min": 1740,
+            "max": 1900,
+            "avg": 1822
+          },
+          "holiday_price_inr": {
+            "min": 1740,
+            "max": 1900,
+            "avg": 1822
+          },
+          "avg_holiday_surge_pct": 0.0,
+          "avg_occupancy_pct": 50.7
+        },
+        "3": {
+          "hotel_tier": 3,
+          "label": "Midscale / 3-Star",
+          "base_price_inr": {
+            "min": 3040,
+            "max": 3380,
+            "avg": 3198
+          },
+          "holiday_price_inr": {
+            "min": 3040,
+            "max": 3380,
+            "avg": 3198
+          },
+          "avg_holiday_surge_pct": 0.0,
+          "avg_occupancy_pct": 50.4
+        },
+        "4": {
+          "hotel_tier": 4,
+          "label": "Upscale / 4-Star / Boutique Heritage",
+          "base_price_inr": {
+            "min": 5460,
+            "max": 6110,
+            "avg": 5763
+          },
+          "holiday_price_inr": {
+            "min": 5460,
+            "max": 6110,
+            "avg": 5763
+          },
+          "avg_holiday_surge_pct": 0.0,
+          "avg_occupancy_pct": 51.4
+        },
+        "5": {
+          "hotel_tier": 5,
+          "label": "Luxury / 5-Star / Palace Resort",
+          "base_price_inr": {
+            "min": 13200,
+            "max": 14740,
+            "avg": 14039
+          },
+          "holiday_price_inr": {
+            "min": 13200,
+            "max": 14740,
+            "avg": 14039
+          },
+          "avg_holiday_surge_pct": 0.0,
+          "avg_occupancy_pct": 50.5
+        }
+      }
+    },
+    "Mahabaleshwar": {
+      "popularity_tier": "popular",
+      "tiers": {
+        "1": {
+          "hotel_tier": 1,
+          "label": "Budget / Hostel",
+          "base_price_inr": {
+            "min": 800,
+            "max": 890,
+            "avg": 842
+          },
+          "holiday_price_inr": {
+            "min": 800,
+            "max": 890,
+            "avg": 842
+          },
+          "avg_holiday_surge_pct": 0.0,
+          "avg_occupancy_pct": 48.7
+        },
+        "2": {
+          "hotel_tier": 2,
+          "label": "Economy / 2-Star / Guest House",
+          "base_price_inr": {
+            "min": 1720,
+            "max": 1890,
+            "avg": 1803
+          },
+          "holiday_price_inr": {
+            "min": 1720,
+            "max": 1890,
+            "avg": 1803
+          },
+          "avg_holiday_surge_pct": 0.0,
+          "avg_occupancy_pct": 48.5
+        },
+        "3": {
+          "hotel_tier": 3,
+          "label": "Midscale / 3-Star",
+          "base_price_inr": {
+            "min": 3030,
+            "max": 3360,
+            "avg": 3178
+          },
+          "holiday_price_inr": {
+            "min": 3030,
+            "max": 3360,
+            "avg": 3178
+          },
+          "avg_holiday_surge_pct": 0.0,
+          "avg_occupancy_pct": 48.0
+        },
+        "4": {
+          "hotel_tier": 4,
+          "label": "Upscale / 4-Star / Boutique Heritage",
+          "base_price_inr": {
+            "min": 5460,
+            "max": 6070,
+            "avg": 5772
+          },
+          "holiday_price_inr": {
+            "min": 5460,
+            "max": 6070,
+            "avg": 5772
+          },
+          "avg_holiday_surge_pct": 0.0,
+          "avg_occupancy_pct": 51.3
+        },
+        "5": {
+          "hotel_tier": 5,
+          "label": "Luxury / 5-Star / Palace Resort",
+          "base_price_inr": {
+            "min": 13200,
+            "max": 14700,
+            "avg": 13966
+          },
+          "holiday_price_inr": {
+            "min": 13200,
+            "max": 14700,
+            "avg": 13966
+          },
+          "avg_holiday_surge_pct": 0.0,
+          "avg_occupancy_pct": 52.8
+        }
+      }
+    },
+    "Alibaug": {
+      "popularity_tier": "popular",
+      "tiers": {
+        "1": {
+          "hotel_tier": 1,
+          "label": "Budget / Hostel",
+          "base_price_inr": {
+            "min": 800,
+            "max": 890,
+            "avg": 833
+          },
+          "holiday_price_inr": {
+            "min": 1070,
+            "max": 1070,
+            "avg": 1070
+          },
+          "avg_holiday_surge_pct": 28.5,
+          "avg_occupancy_pct": 56.3
+        },
+        "2": {
+          "hotel_tier": 2,
+          "label": "Economy / 2-Star / Guest House",
+          "base_price_inr": {
+            "min": 1710,
+            "max": 1900,
+            "avg": 1790
+          },
+          "holiday_price_inr": {
+            "min": 2320,
+            "max": 2320,
+            "avg": 2320
+          },
+          "avg_holiday_surge_pct": 29.6,
+          "avg_occupancy_pct": 53.0
+        },
+        "3": {
+          "hotel_tier": 3,
+          "label": "Midscale / 3-Star",
+          "base_price_inr": {
+            "min": 3060,
+            "max": 3390,
+            "avg": 3206
+          },
+          "holiday_price_inr": {
+            "min": 3970,
+            "max": 3970,
+            "avg": 3970
+          },
+          "avg_holiday_surge_pct": 23.8,
+          "avg_occupancy_pct": 53.2
+        },
+        "4": {
+          "hotel_tier": 4,
+          "label": "Upscale / 4-Star / Boutique Heritage",
+          "base_price_inr": {
+            "min": 5560,
+            "max": 6130,
+            "avg": 5841
+          },
+          "holiday_price_inr": {
+            "min": 6960,
+            "max": 6960,
+            "avg": 6960
+          },
+          "avg_holiday_surge_pct": 19.2,
+          "avg_occupancy_pct": 52.7
+        },
+        "5": {
+          "hotel_tier": 5,
+          "label": "Luxury / 5-Star / Palace Resort",
+          "base_price_inr": {
+            "min": 13490,
+            "max": 14640,
+            "avg": 14016
+          },
+          "holiday_price_inr": {
+            "min": 15960,
+            "max": 15960,
+            "avg": 15960
+          },
+          "avg_holiday_surge_pct": 13.9,
+          "avg_occupancy_pct": 53.1
+        }
+      }
+    },
+    "North Goa": {
+      "popularity_tier": "popular",
+      "tiers": {
+        "1": {
+          "hotel_tier": 1,
+          "label": "Budget / Hostel",
+          "base_price_inr": {
+            "min": 1370,
+            "max": 1460,
+            "avg": 1405
+          },
+          "holiday_price_inr": {
+            "min": 1370,
+            "max": 1460,
+            "avg": 1405
+          },
+          "avg_holiday_surge_pct": 0.0,
+          "avg_occupancy_pct": 48.3
+        },
+        "2": {
+          "hotel_tier": 2,
+          "label": "Economy / 2-Star / Guest House",
+          "base_price_inr": {
+            "min": 2660,
+            "max": 2950,
+            "avg": 2777
+          },
+          "holiday_price_inr": {
+            "min": 2660,
+            "max": 2950,
+            "avg": 2777
+          },
+          "avg_holiday_surge_pct": 0.0,
+          "avg_occupancy_pct": 49.3
+        },
+        "3": {
+          "hotel_tier": 3,
+          "label": "Midscale / 3-Star",
+          "base_price_inr": {
+            "min": 4600,
+            "max": 5040,
+            "avg": 4809
+          },
+          "holiday_price_inr": {
+            "min": 4600,
+            "max": 5040,
+            "avg": 4809
+          },
+          "avg_holiday_surge_pct": 0.0,
+          "avg_occupancy_pct": 56.2
+        },
+        "4": {
+          "hotel_tier": 4,
+          "label": "Upscale / 4-Star / Boutique Heritage",
+          "base_price_inr": {
+            "min": 8220,
+            "max": 8940,
+            "avg": 8542
+          },
+          "holiday_price_inr": {
+            "min": 8220,
+            "max": 8940,
+            "avg": 8542
+          },
+          "avg_holiday_surge_pct": 0.0,
+          "avg_occupancy_pct": 56.2
+        },
+        "5": {
+          "hotel_tier": 5,
+          "label": "Luxury / 5-Star / Palace Resort",
+          "base_price_inr": {
+            "min": 20710,
+            "max": 23200,
+            "avg": 21538
+          },
+          "holiday_price_inr": {
+            "min": 20710,
+            "max": 23200,
+            "avg": 21538
+          },
+          "avg_holiday_surge_pct": 0.0,
+          "avg_occupancy_pct": 50.3
+        }
+      }
+    },
+    "South Goa": {
+      "popularity_tier": "popular",
+      "tiers": {
+        "1": {
+          "hotel_tier": 1,
+          "label": "Budget / Hostel",
+          "base_price_inr": {
+            "min": 1410,
+            "max": 1580,
+            "avg": 1493
+          },
+          "holiday_price_inr": {
+            "min": 1910,
+            "max": 1960,
+            "avg": 1935
+          },
+          "avg_holiday_surge_pct": 29.6,
+          "avg_occupancy_pct": 57.7
+        },
+        "2": {
+          "hotel_tier": 2,
+          "label": "Economy / 2-Star / Guest House",
+          "base_price_inr": {
+            "min": 2860,
+            "max": 3130,
+            "avg": 2998
+          },
+          "holiday_price_inr": {
+            "min": 3770,
+            "max": 3810,
+            "avg": 3790
+          },
+          "avg_holiday_surge_pct": 26.4,
+          "avg_occupancy_pct": 51.8
+        },
+        "3": {
+          "hotel_tier": 3,
+          "label": "Midscale / 3-Star",
+          "base_price_inr": {
+            "min": 4890,
+            "max": 5480,
+            "avg": 5130
+          },
+          "holiday_price_inr": {
+            "min": 6200,
+            "max": 7070,
+            "avg": 6635
+          },
+          "avg_holiday_surge_pct": 29.3,
+          "avg_occupancy_pct": 56.7
+        },
+        "4": {
+          "hotel_tier": 4,
+          "label": "Upscale / 4-Star / Boutique Heritage",
+          "base_price_inr": {
+            "min": 9010,
+            "max": 9940,
+            "avg": 9413
+          },
+          "holiday_price_inr": {
+            "min": 11440,
+            "max": 11840,
+            "avg": 11640
+          },
+          "avg_holiday_surge_pct": 23.7,
+          "avg_occupancy_pct": 53.2
+        },
+        "5": {
+          "hotel_tier": 5,
+          "label": "Luxury / 5-Star / Palace Resort",
+          "base_price_inr": {
+            "min": 24970,
+            "max": 27550,
+            "avg": 26175
+          },
+          "holiday_price_inr": {
+            "min": 32230,
+            "max": 32410,
+            "avg": 32320
+          },
+          "avg_holiday_surge_pct": 23.5,
+          "avg_occupancy_pct": 57.2
+        }
+      }
+    },
+    "Panjim": {
+      "popularity_tier": "popular",
+      "tiers": {
+        "1": {
+          "hotel_tier": 1,
+          "label": "Budget / Hostel",
+          "base_price_inr": {
+            "min": 1140,
+            "max": 1260,
+            "avg": 1194
+          },
+          "holiday_price_inr": {
+            "min": 1460,
+            "max": 1460,
+            "avg": 1460
+          },
+          "avg_holiday_surge_pct": 22.3,
+          "avg_occupancy_pct": 54.9
+        },
+        "2": {
+          "hotel_tier": 2,
+          "label": "Economy / 2-Star / Guest House",
+          "base_price_inr": {
+            "min": 2370,
+            "max": 2650,
+            "avg": 2500
+          },
+          "holiday_price_inr": {
+            "min": 3070,
+            "max": 3070,
+            "avg": 3070
+          },
+          "avg_holiday_surge_pct": 22.8,
+          "avg_occupancy_pct": 58.3
+        },
+        "3": {
+          "hotel_tier": 3,
+          "label": "Midscale / 3-Star",
+          "base_price_inr": {
+            "min": 4020,
+            "max": 4370,
+            "avg": 4168
+          },
+          "holiday_price_inr": {
+            "min": 5020,
+            "max": 5020,
+            "avg": 5020
+          },
+          "avg_holiday_surge_pct": 20.4,
+          "avg_occupancy_pct": 53.0
+        },
+        "4": {
+          "hotel_tier": 4,
+          "label": "Upscale / 4-Star / Boutique Heritage",
+          "base_price_inr": {
+            "min": 7210,
+            "max": 7870,
+            "avg": 7531
+          },
+          "holiday_price_inr": {
+            "min": 9790,
+            "max": 9790,
+            "avg": 9790
+          },
+          "avg_holiday_surge_pct": 30.0,
+          "avg_occupancy_pct": 51.3
+        },
+        "5": {
+          "hotel_tier": 5,
+          "label": "Luxury / 5-Star / Palace Resort",
+          "base_price_inr": {
+            "min": 15340,
+            "max": 16950,
+            "avg": 16145
+          },
+          "holiday_price_inr": {
+            "min": 21470,
+            "max": 21470,
+            "avg": 21470
+          },
+          "avg_holiday_surge_pct": 33.0,
+          "avg_occupancy_pct": 52.5
+        }
+      }
+    },
+    "Jaipur": {
+      "popularity_tier": "popular",
+      "tiers": {
+        "1": {
+          "hotel_tier": 1,
+          "label": "Budget / Hostel",
+          "base_price_inr": {
+            "min": 1040,
+            "max": 1150,
+            "avg": 1095
+          },
+          "holiday_price_inr": {
+            "min": 1370,
+            "max": 1370,
+            "avg": 1370
+          },
+          "avg_holiday_surge_pct": 25.2,
+          "avg_occupancy_pct": 55.1
+        },
+        "2": {
+          "hotel_tier": 2,
+          "label": "Economy / 2-Star / Guest House",
+          "base_price_inr": {
+            "min": 2080,
+            "max": 2330,
+            "avg": 2219
+          },
+          "holiday_price_inr": {
+            "min": 2970,
+            "max": 2970,
+            "avg": 2970
+          },
+          "avg_holiday_surge_pct": 33.8,
+          "avg_occupancy_pct": 53.2
+        },
+        "3": {
+          "hotel_tier": 3,
+          "label": "Midscale / 3-Star",
+          "base_price_inr": {
+            "min": 3800,
+            "max": 4180,
+            "avg": 3988
+          },
+          "holiday_price_inr": {
+            "min": 4900,
+            "max": 4900,
+            "avg": 4900
+          },
+          "avg_holiday_surge_pct": 22.9,
+          "avg_occupancy_pct": 47.2
+        },
+        "4": {
+          "hotel_tier": 4,
+          "label": "Upscale / 4-Star / Boutique Heritage",
+          "base_price_inr": {
+            "min": 7350,
+            "max": 8200,
+            "avg": 7719
+          },
+          "holiday_price_inr": {
+            "min": 9920,
+            "max": 9920,
+            "avg": 9920
+          },
+          "avg_holiday_surge_pct": 28.5,
+          "avg_occupancy_pct": 55.8
+        },
+        "5": {
+          "hotel_tier": 5,
+          "label": "Luxury / 5-Star / Palace Resort",
+          "base_price_inr": {
+            "min": 22580,
+            "max": 25390,
+            "avg": 23601
+          },
+          "holiday_price_inr": {
+            "min": 30880,
+            "max": 30880,
+            "avg": 30880
+          },
+          "avg_holiday_surge_pct": 30.8,
+          "avg_occupancy_pct": 53.3
+        }
+      }
+    },
+    "Udaipur": {
+      "popularity_tier": "popular",
+      "tiers": {
+        "1": {
+          "hotel_tier": 1,
+          "label": "Budget / Hostel",
+          "base_price_inr": {
+            "min": 1230,
+            "max": 1360,
+            "avg": 1301
+          },
+          "holiday_price_inr": {
+            "min": 1230,
+            "max": 1360,
+            "avg": 1301
+          },
+          "avg_holiday_surge_pct": 0.0,
+          "avg_occupancy_pct": 54.3
+        },
+        "2": {
+          "hotel_tier": 2,
+          "label": "Economy / 2-Star / Guest House",
+          "base_price_inr": {
+            "min": 2450,
+            "max": 2660,
+            "avg": 2535
+          },
+          "holiday_price_inr": {
+            "min": 2450,
+            "max": 2660,
+            "avg": 2535
+          },
+          "avg_holiday_surge_pct": 0.0,
+          "avg_occupancy_pct": 50.2
+        },
+        "3": {
+          "hotel_tier": 3,
+          "label": "Midscale / 3-Star",
+          "base_price_inr": {
+            "min": 4610,
+            "max": 5160,
+            "avg": 4830
+          },
+          "holiday_price_inr": {
+            "min": 4610,
+            "max": 5160,
+            "avg": 4830
+          },
+          "avg_holiday_surge_pct": 0.0,
+          "avg_occupancy_pct": 50.8
+        },
+        "4": {
+          "hotel_tier": 4,
+          "label": "Upscale / 4-Star / Boutique Heritage",
+          "base_price_inr": {
+            "min": 8690,
+            "max": 9710,
+            "avg": 9172
+          },
+          "holiday_price_inr": {
+            "min": 8690,
+            "max": 9710,
+            "avg": 9172
+          },
+          "avg_holiday_surge_pct": 0.0,
+          "avg_occupancy_pct": 50.5
+        },
+        "5": {
+          "hotel_tier": 5,
+          "label": "Luxury / 5-Star / Palace Resort",
+          "base_price_inr": {
+            "min": 31110,
+            "max": 33840,
+            "avg": 32002
+          },
+          "holiday_price_inr": {
+            "min": 31110,
+            "max": 33840,
+            "avg": 32002
+          },
+          "avg_holiday_surge_pct": 0.0,
+          "avg_occupancy_pct": 53.2
+        }
+      }
+    },
+    "Jodhpur": {
+      "popularity_tier": "popular",
+      "tiers": {
+        "1": {
+          "hotel_tier": 1,
+          "label": "Budget / Hostel",
+          "base_price_inr": {
+            "min": 940,
+            "max": 1050,
+            "avg": 993
+          },
+          "holiday_price_inr": {
+            "min": 940,
+            "max": 1050,
+            "avg": 993
+          },
+          "avg_holiday_surge_pct": 0.0,
+          "avg_occupancy_pct": 53.1
+        },
+        "2": {
+          "hotel_tier": 2,
+          "label": "Economy / 2-Star / Guest House",
+          "base_price_inr": {
+            "min": 1990,
+            "max": 2220,
+            "avg": 2125
+          },
+          "holiday_price_inr": {
+            "min": 1990,
+            "max": 2220,
+            "avg": 2125
+          },
+          "avg_holiday_surge_pct": 0.0,
+          "avg_occupancy_pct": 50.0
+        },
+        "3": {
+          "hotel_tier": 3,
+          "label": "Midscale / 3-Star",
+          "base_price_inr": {
+            "min": 3600,
+            "max": 3990,
+            "avg": 3782
+          },
+          "holiday_price_inr": {
+            "min": 3600,
+            "max": 3990,
+            "avg": 3782
+          },
+          "avg_holiday_surge_pct": 0.0,
+          "avg_occupancy_pct": 49.8
+        },
+        "4": {
+          "hotel_tier": 4,
+          "label": "Upscale / 4-Star / Boutique Heritage",
+          "base_price_inr": {
+            "min": 6860,
+            "max": 7610,
+            "avg": 7320
+          },
+          "holiday_price_inr": {
+            "min": 6860,
+            "max": 7610,
+            "avg": 7320
+          },
+          "avg_holiday_surge_pct": 0.0,
+          "avg_occupancy_pct": 49.2
+        },
+        "5": {
+          "hotel_tier": 5,
+          "label": "Luxury / 5-Star / Palace Resort",
+          "base_price_inr": {
+            "min": 18600,
+            "max": 20090,
+            "avg": 19322
+          },
+          "holiday_price_inr": {
+            "min": 18600,
+            "max": 20090,
+            "avg": 19322
+          },
+          "avg_holiday_surge_pct": 0.0,
+          "avg_occupancy_pct": 54.6
+        }
+      }
+    },
+    "Jaisalmer": {
+      "popularity_tier": "popular",
+      "tiers": {
+        "1": {
+          "hotel_tier": 1,
+          "label": "Budget / Hostel",
+          "base_price_inr": {
+            "min": 860,
+            "max": 940,
+            "avg": 903
+          },
+          "holiday_price_inr": {
+            "min": 1100,
+            "max": 1130,
+            "avg": 1115
+          },
+          "avg_holiday_surge_pct": 23.5,
+          "avg_occupancy_pct": 57.1
+        },
+        "2": {
+          "hotel_tier": 2,
+          "label": "Economy / 2-Star / Guest House",
+          "base_price_inr": {
+            "min": 1720,
+            "max": 1910,
+            "avg": 1788
+          },
+          "holiday_price_inr": {
+            "min": 2210,
+            "max": 2280,
+            "avg": 2245
+          },
+          "avg_holiday_surge_pct": 25.6,
+          "avg_occupancy_pct": 54.8
+        },
+        "3": {
+          "hotel_tier": 3,
+          "label": "Midscale / 3-Star",
+          "base_price_inr": {
+            "min": 3230,
+            "max": 3490,
+            "avg": 3348
+          },
+          "holiday_price_inr": {
+            "min": 4190,
+            "max": 4600,
+            "avg": 4395
+          },
+          "avg_holiday_surge_pct": 31.3,
+          "avg_occupancy_pct": 52.7
+        },
+        "4": {
+          "hotel_tier": 4,
+          "label": "Upscale / 4-Star / Boutique Heritage",
+          "base_price_inr": {
+            "min": 6480,
+            "max": 7110,
+            "avg": 6748
+          },
+          "holiday_price_inr": {
+            "min": 8780,
+            "max": 9110,
+            "avg": 8945
+          },
+          "avg_holiday_surge_pct": 32.6,
+          "avg_occupancy_pct": 53.2
+        },
+        "5": {
+          "hotel_tier": 5,
+          "label": "Luxury / 5-Star / Palace Resort",
+          "base_price_inr": {
+            "min": 17030,
+            "max": 19070,
+            "avg": 18089
+          },
+          "holiday_price_inr": {
+            "min": 20100,
+            "max": 22830,
+            "avg": 21465
+          },
+          "avg_holiday_surge_pct": 18.7,
+          "avg_occupancy_pct": 57.0
+        }
+      }
+    },
+    "Pushkar": {
+      "popularity_tier": "popular",
+      "tiers": {
+        "1": {
+          "hotel_tier": 1,
+          "label": "Budget / Hostel",
+          "base_price_inr": {
+            "min": 810,
+            "max": 890,
+            "avg": 856
+          },
+          "holiday_price_inr": {
+            "min": 1090,
+            "max": 1090,
+            "avg": 1090
+          },
+          "avg_holiday_surge_pct": 27.3,
+          "avg_occupancy_pct": 54.2
+        },
+        "2": {
+          "hotel_tier": 2,
+          "label": "Economy / 2-Star / Guest House",
+          "base_price_inr": {
+            "min": 1730,
+            "max": 1890,
+            "avg": 1818
+          },
+          "holiday_price_inr": {
+            "min": 2180,
+            "max": 2180,
+            "avg": 2180
+          },
+          "avg_holiday_surge_pct": 19.9,
+          "avg_occupancy_pct": 52.0
+        },
+        "3": {
+          "hotel_tier": 3,
+          "label": "Midscale / 3-Star",
+          "base_price_inr": {
+            "min": 3080,
+            "max": 3380,
+            "avg": 3263
+          },
+          "holiday_price_inr": {
+            "min": 3830,
+            "max": 3830,
+            "avg": 3830
+          },
+          "avg_holiday_surge_pct": 17.4,
+          "avg_occupancy_pct": 54.7
+        },
+        "4": {
+          "hotel_tier": 4,
+          "label": "Upscale / 4-Star / Boutique Heritage",
+          "base_price_inr": {
+            "min": 5460,
+            "max": 6060,
+            "avg": 5673
+          },
+          "holiday_price_inr": {
+            "min": 6750,
+            "max": 6750,
+            "avg": 6750
+          },
+          "avg_holiday_surge_pct": 19.0,
+          "avg_occupancy_pct": 51.2
+        },
+        "5": {
+          "hotel_tier": 5,
+          "label": "Luxury / 5-Star / Palace Resort",
+          "base_price_inr": {
+            "min": 13370,
+            "max": 14580,
+            "avg": 13799
+          },
+          "holiday_price_inr": {
+            "min": 16560,
+            "max": 16560,
+            "avg": 16560
+          },
+          "avg_holiday_surge_pct": 20.0,
+          "avg_occupancy_pct": 49.1
+        }
+      }
+    },
+    "Munnar": {
+      "popularity_tier": "popular",
+      "tiers": {
+        "1": {
+          "hotel_tier": 1,
+          "label": "Budget / Hostel",
+          "base_price_inr": {
+            "min": 800,
+            "max": 890,
+            "avg": 849
+          },
+          "holiday_price_inr": {
+            "min": 1110,
+            "max": 1110,
+            "avg": 1110
+          },
+          "avg_holiday_surge_pct": 30.7,
+          "avg_occupancy_pct": 57.2
+        },
+        "2": {
+          "hotel_tier": 2,
+          "label": "Economy / 2-Star / Guest House",
+          "base_price_inr": {
+            "min": 1740,
+            "max": 1900,
+            "avg": 1833
+          },
+          "holiday_price_inr": {
+            "min": 2180,
+            "max": 2180,
+            "avg": 2180
+          },
+          "avg_holiday_surge_pct": 18.9,
+          "avg_occupancy_pct": 49.8
+        },
+        "3": {
+          "hotel_tier": 3,
+          "label": "Midscale / 3-Star",
+          "base_price_inr": {
+            "min": 3090,
+            "max": 3370,
+            "avg": 3195
+          },
+          "holiday_price_inr": {
+            "min": 4190,
+            "max": 4190,
+            "avg": 4190
+          },
+          "avg_holiday_surge_pct": 31.2,
+          "avg_occupancy_pct": 54.8
+        },
+        "4": {
+          "hotel_tier": 4,
+          "label": "Upscale / 4-Star / Boutique Heritage",
+          "base_price_inr": {
+            "min": 5590,
+            "max": 6110,
+            "avg": 5814
+          },
+          "holiday_price_inr": {
+            "min": 7310,
+            "max": 7310,
+            "avg": 7310
+          },
+          "avg_holiday_surge_pct": 25.7,
+          "avg_occupancy_pct": 47.7
+        },
+        "5": {
+          "hotel_tier": 5,
+          "label": "Luxury / 5-Star / Palace Resort",
+          "base_price_inr": {
+            "min": 13480,
+            "max": 14220,
+            "avg": 13783
+          },
+          "holiday_price_inr": {
+            "min": 16530,
+            "max": 16530,
+            "avg": 16530
+          },
+          "avg_holiday_surge_pct": 19.9,
+          "avg_occupancy_pct": 52.2
+        }
+      }
+    },
+    "Alleppey": {
+      "popularity_tier": "popular",
+      "tiers": {
+        "1": {
+          "hotel_tier": 1,
+          "label": "Budget / Hostel",
+          "base_price_inr": {
+            "min": 800,
+            "max": 890,
+            "avg": 845
+          },
+          "holiday_price_inr": {
+            "min": 1000,
+            "max": 1000,
+            "avg": 1000
+          },
+          "avg_holiday_surge_pct": 18.4,
+          "avg_occupancy_pct": 54.8
+        },
+        "2": {
+          "hotel_tier": 2,
+          "label": "Economy / 2-Star / Guest House",
+          "base_price_inr": {
+            "min": 1690,
+            "max": 1880,
+            "avg": 1775
+          },
+          "holiday_price_inr": {
+            "min": 2320,
+            "max": 2320,
+            "avg": 2320
+          },
+          "avg_holiday_surge_pct": 30.7,
+          "avg_occupancy_pct": 54.0
+        },
+        "3": {
+          "hotel_tier": 3,
+          "label": "Midscale / 3-Star",
+          "base_price_inr": {
+            "min": 3010,
+            "max": 3350,
+            "avg": 3121
+          },
+          "holiday_price_inr": {
+            "min": 4010,
+            "max": 4010,
+            "avg": 4010
+          },
+          "avg_holiday_surge_pct": 28.5,
+          "avg_occupancy_pct": 53.2
+        },
+        "4": {
+          "hotel_tier": 4,
+          "label": "Upscale / 4-Star / Boutique Heritage",
+          "base_price_inr": {
+            "min": 5490,
+            "max": 6140,
+            "avg": 5705
+          },
+          "holiday_price_inr": {
+            "min": 7350,
+            "max": 7350,
+            "avg": 7350
+          },
+          "avg_holiday_surge_pct": 28.8,
+          "avg_occupancy_pct": 49.1
+        },
+        "5": {
+          "hotel_tier": 5,
+          "label": "Luxury / 5-Star / Palace Resort",
+          "base_price_inr": {
+            "min": 13240,
+            "max": 14470,
+            "avg": 13889
+          },
+          "holiday_price_inr": {
+            "min": 17590,
+            "max": 17590,
+            "avg": 17590
+          },
+          "avg_holiday_surge_pct": 26.6,
+          "avg_occupancy_pct": 51.0
+        }
+      }
+    },
+    "Wayanad": {
+      "popularity_tier": "popular",
+      "tiers": {
+        "1": {
+          "hotel_tier": 1,
+          "label": "Budget / Hostel",
+          "base_price_inr": {
+            "min": 810,
+            "max": 900,
+            "avg": 848
+          },
+          "holiday_price_inr": {
+            "min": 810,
+            "max": 900,
+            "avg": 848
+          },
+          "avg_holiday_surge_pct": 0.0,
+          "avg_occupancy_pct": 51.7
+        },
+        "2": {
+          "hotel_tier": 2,
+          "label": "Economy / 2-Star / Guest House",
+          "base_price_inr": {
+            "min": 1710,
+            "max": 1900,
+            "avg": 1802
+          },
+          "holiday_price_inr": {
+            "min": 1710,
+            "max": 1900,
+            "avg": 1802
+          },
+          "avg_holiday_surge_pct": 0.0,
+          "avg_occupancy_pct": 49.8
+        },
+        "3": {
+          "hotel_tier": 3,
+          "label": "Midscale / 3-Star",
+          "base_price_inr": {
+            "min": 3040,
+            "max": 3380,
+            "avg": 3212
+          },
+          "holiday_price_inr": {
+            "min": 3040,
+            "max": 3380,
+            "avg": 3212
+          },
+          "avg_holiday_surge_pct": 0.0,
+          "avg_occupancy_pct": 47.8
+        },
+        "4": {
+          "hotel_tier": 4,
+          "label": "Upscale / 4-Star / Boutique Heritage",
+          "base_price_inr": {
+            "min": 5460,
+            "max": 6090,
+            "avg": 5719
+          },
+          "holiday_price_inr": {
+            "min": 5460,
+            "max": 6090,
+            "avg": 5719
+          },
+          "avg_holiday_surge_pct": 0.0,
+          "avg_occupancy_pct": 50.8
+        },
+        "5": {
+          "hotel_tier": 5,
+          "label": "Luxury / 5-Star / Palace Resort",
+          "base_price_inr": {
+            "min": 13370,
+            "max": 14800,
+            "avg": 14008
+          },
+          "holiday_price_inr": {
+            "min": 13370,
+            "max": 14800,
+            "avg": 14008
+          },
+          "avg_holiday_surge_pct": 0.0,
+          "avg_occupancy_pct": 51.8
+        }
+      }
+    },
+    "Coorg": {
+      "popularity_tier": "popular",
+      "tiers": {
+        "1": {
+          "hotel_tier": 1,
+          "label": "Budget / Hostel",
+          "base_price_inr": {
+            "min": 810,
+            "max": 900,
+            "avg": 853
+          },
+          "holiday_price_inr": {
+            "min": 810,
+            "max": 900,
+            "avg": 853
+          },
+          "avg_holiday_surge_pct": 0.0,
+          "avg_occupancy_pct": 50.4
+        },
+        "2": {
+          "hotel_tier": 2,
+          "label": "Economy / 2-Star / Guest House",
+          "base_price_inr": {
+            "min": 1730,
+            "max": 1900,
+            "avg": 1840
+          },
+          "holiday_price_inr": {
+            "min": 1730,
+            "max": 1900,
+            "avg": 1840
+          },
+          "avg_holiday_surge_pct": 0.0,
+          "avg_occupancy_pct": 48.2
+        },
+        "3": {
+          "hotel_tier": 3,
+          "label": "Midscale / 3-Star",
+          "base_price_inr": {
+            "min": 3010,
+            "max": 3360,
+            "avg": 3228
+          },
+          "holiday_price_inr": {
+            "min": 3010,
+            "max": 3360,
+            "avg": 3228
+          },
+          "avg_holiday_surge_pct": 0.0,
+          "avg_occupancy_pct": 48.4
+        },
+        "4": {
+          "hotel_tier": 4,
+          "label": "Upscale / 4-Star / Boutique Heritage",
+          "base_price_inr": {
+            "min": 5460,
+            "max": 6100,
+            "avg": 5780
+          },
+          "holiday_price_inr": {
+            "min": 5460,
+            "max": 6100,
+            "avg": 5780
+          },
+          "avg_holiday_surge_pct": 0.0,
+          "avg_occupancy_pct": 51.8
+        },
+        "5": {
+          "hotel_tier": 5,
+          "label": "Luxury / 5-Star / Palace Resort",
+          "base_price_inr": {
+            "min": 13170,
+            "max": 14710,
+            "avg": 13952
+          },
+          "holiday_price_inr": {
+            "min": 13170,
+            "max": 14710,
+            "avg": 13952
+          },
+          "avg_holiday_surge_pct": 0.0,
+          "avg_occupancy_pct": 47.4
+        }
+      }
+    },
+    "Hampi": {
+      "popularity_tier": "popular",
+      "tiers": {
+        "1": {
+          "hotel_tier": 1,
+          "label": "Budget / Hostel",
+          "base_price_inr": {
+            "min": 830,
+            "max": 890,
+            "avg": 865
+          },
+          "holiday_price_inr": {
+            "min": 1070,
+            "max": 1070,
+            "avg": 1070
+          },
+          "avg_holiday_surge_pct": 23.8,
+          "avg_occupancy_pct": 51.9
+        },
+        "2": {
+          "hotel_tier": 2,
+          "label": "Economy / 2-Star / Guest House",
+          "base_price_inr": {
+            "min": 1700,
+            "max": 1880,
+            "avg": 1787
+          },
+          "holiday_price_inr": {
+            "min": 2400,
+            "max": 2400,
+            "avg": 2400
+          },
+          "avg_holiday_surge_pct": 34.3,
+          "avg_occupancy_pct": 53.6
+        },
+        "3": {
+          "hotel_tier": 3,
+          "label": "Midscale / 3-Star",
+          "base_price_inr": {
+            "min": 3030,
+            "max": 3390,
+            "avg": 3263
+          },
+          "holiday_price_inr": {
+            "min": 3740,
+            "max": 3740,
+            "avg": 3740
+          },
+          "avg_holiday_surge_pct": 14.6,
+          "avg_occupancy_pct": 56.2
+        },
+        "4": {
+          "hotel_tier": 4,
+          "label": "Upscale / 4-Star / Boutique Heritage",
+          "base_price_inr": {
+            "min": 5560,
+            "max": 6100,
+            "avg": 5760
+          },
+          "holiday_price_inr": {
+            "min": 7230,
+            "max": 7230,
+            "avg": 7230
+          },
+          "avg_holiday_surge_pct": 25.5,
+          "avg_occupancy_pct": 53.2
+        },
+        "5": {
+          "hotel_tier": 5,
+          "label": "Luxury / 5-Star / Palace Resort",
+          "base_price_inr": {
+            "min": 13260,
+            "max": 14670,
+            "avg": 13730
+          },
+          "holiday_price_inr": {
+            "min": 17330,
+            "max": 17330,
+            "avg": 17330
+          },
+          "avg_holiday_surge_pct": 26.2,
+          "avg_occupancy_pct": 48.7
+        }
+      }
+    },
+    "Mysuru": {
+      "popularity_tier": "popular",
+      "tiers": {
+        "1": {
+          "hotel_tier": 1,
+          "label": "Budget / Hostel",
+          "base_price_inr": {
+            "min": 810,
+            "max": 890,
+            "avg": 858
+          },
+          "holiday_price_inr": {
+            "min": 1000,
+            "max": 1090,
+            "avg": 1045
+          },
+          "avg_holiday_surge_pct": 21.8,
+          "avg_occupancy_pct": 51.7
+        },
+        "2": {
+          "hotel_tier": 2,
+          "label": "Economy / 2-Star / Guest House",
+          "base_price_inr": {
+            "min": 1750,
+            "max": 1900,
+            "avg": 1826
+          },
+          "holiday_price_inr": {
+            "min": 2200,
+            "max": 2280,
+            "avg": 2240
+          },
+          "avg_holiday_surge_pct": 22.7,
+          "avg_occupancy_pct": 51.9
+        },
+        "3": {
+          "hotel_tier": 3,
+          "label": "Midscale / 3-Star",
+          "base_price_inr": {
+            "min": 3040,
+            "max": 3360,
+            "avg": 3168
+          },
+          "holiday_price_inr": {
+            "min": 4210,
+            "max": 4270,
+            "avg": 4240
+          },
+          "avg_holiday_surge_pct": 33.8,
+          "avg_occupancy_pct": 56.1
+        },
+        "4": {
+          "hotel_tier": 4,
+          "label": "Upscale / 4-Star / Boutique Heritage",
+          "base_price_inr": {
+            "min": 5570,
+            "max": 6150,
+            "avg": 5997
+          },
+          "holiday_price_inr": {
+            "min": 6790,
+            "max": 7470,
+            "avg": 7130
+          },
+          "avg_holiday_surge_pct": 18.9,
+          "avg_occupancy_pct": 55.2
+        },
+        "5": {
+          "hotel_tier": 5,
+          "label": "Luxury / 5-Star / Palace Resort",
+          "base_price_inr": {
+            "min": 13460,
+            "max": 14730,
+            "avg": 13980
+          },
+          "holiday_price_inr": {
+            "min": 18070,
+            "max": 18190,
+            "avg": 18130
+          },
+          "avg_holiday_surge_pct": 29.7,
+          "avg_occupancy_pct": 54.0
+        }
+      }
+    },
+    "Ooty": {
+      "popularity_tier": "popular",
+      "tiers": {
+        "1": {
+          "hotel_tier": 1,
+          "label": "Budget / Hostel",
+          "base_price_inr": {
+            "min": 810,
+            "max": 890,
+            "avg": 841
+          },
+          "holiday_price_inr": {
+            "min": 1040,
+            "max": 1080,
+            "avg": 1060
+          },
+          "avg_holiday_surge_pct": 26.0,
+          "avg_occupancy_pct": 54.0
+        },
+        "2": {
+          "hotel_tier": 2,
+          "label": "Economy / 2-Star / Guest House",
+          "base_price_inr": {
+            "min": 1690,
+            "max": 1870,
+            "avg": 1780
+          },
+          "holiday_price_inr": {
+            "min": 2320,
+            "max": 2360,
+            "avg": 2340
+          },
+          "avg_holiday_surge_pct": 31.5,
+          "avg_occupancy_pct": 57.2
+        },
+        "3": {
+          "hotel_tier": 3,
+          "label": "Midscale / 3-Star",
+          "base_price_inr": {
+            "min": 3010,
+            "max": 3390,
+            "avg": 3253
+          },
+          "holiday_price_inr": {
+            "min": 3960,
+            "max": 4090,
+            "avg": 4025
+          },
+          "avg_holiday_surge_pct": 23.7,
+          "avg_occupancy_pct": 56.8
+        },
+        "4": {
+          "hotel_tier": 4,
+          "label": "Upscale / 4-Star / Boutique Heritage",
+          "base_price_inr": {
+            "min": 5560,
+            "max": 6120,
+            "avg": 5865
+          },
+          "holiday_price_inr": {
+            "min": 7520,
+            "max": 7690,
+            "avg": 7605
+          },
+          "avg_holiday_surge_pct": 29.7,
+          "avg_occupancy_pct": 55.9
+        },
+        "5": {
+          "hotel_tier": 5,
+          "label": "Luxury / 5-Star / Palace Resort",
+          "base_price_inr": {
+            "min": 13210,
+            "max": 14610,
+            "avg": 13835
+          },
+          "holiday_price_inr": {
+            "min": 17260,
+            "max": 18630,
+            "avg": 17945
+          },
+          "avg_holiday_surge_pct": 29.7,
+          "avg_occupancy_pct": 56.3
+        }
+      }
+    },
+    "Chettinad": {
+      "popularity_tier": "gem",
+      "tiers": {
+        "1": {
+          "hotel_tier": 1,
+          "label": "Budget / Hostel",
+          "base_price_inr": {
+            "min": 820,
+            "max": 900,
+            "avg": 869
+          },
+          "holiday_price_inr": {
+            "min": 980,
+            "max": 980,
+            "avg": 980
+          },
+          "avg_holiday_surge_pct": 12.8,
+          "avg_occupancy_pct": 50.7
+        },
+        "2": {
+          "hotel_tier": 2,
+          "label": "Economy / 2-Star / Guest House",
+          "base_price_inr": {
+            "min": 1690,
+            "max": 1900,
+            "avg": 1796
+          },
+          "holiday_price_inr": {
+            "min": 2040,
+            "max": 2040,
+            "avg": 2040
+          },
+          "avg_holiday_surge_pct": 13.6,
+          "avg_occupancy_pct": 50.8
+        },
+        "3": {
+          "hotel_tier": 3,
+          "label": "Midscale / 3-Star",
+          "base_price_inr": {
+            "min": 3080,
+            "max": 3300,
+            "avg": 3218
+          },
+          "holiday_price_inr": {
+            "min": 4190,
+            "max": 4190,
+            "avg": 4190
+          },
+          "avg_holiday_surge_pct": 30.2,
+          "avg_occupancy_pct": 52.4
+        },
+        "4": {
+          "hotel_tier": 4,
+          "label": "Upscale / 4-Star / Boutique Heritage",
+          "base_price_inr": {
+            "min": 5510,
+            "max": 6010,
+            "avg": 5769
+          },
+          "holiday_price_inr": {
+            "min": 7090,
+            "max": 7090,
+            "avg": 7090
+          },
+          "avg_holiday_surge_pct": 22.9,
+          "avg_occupancy_pct": 51.8
+        },
+        "5": {
+          "hotel_tier": 5,
+          "label": "Luxury / 5-Star / Palace Resort",
+          "base_price_inr": {
+            "min": 13600,
+            "max": 14740,
+            "avg": 14193
+          },
+          "holiday_price_inr": {
+            "min": 17950,
+            "max": 17950,
+            "avg": 17950
+          },
+          "avg_holiday_surge_pct": 26.5,
+          "avg_occupancy_pct": 54.2
+        }
+      }
+    },
+    "Madurai": {
+      "popularity_tier": "popular",
+      "tiers": {
+        "1": {
+          "hotel_tier": 1,
+          "label": "Budget / Hostel",
+          "base_price_inr": {
+            "min": 810,
+            "max": 900,
+            "avg": 849
+          },
+          "holiday_price_inr": {
+            "min": 970,
+            "max": 970,
+            "avg": 970
+          },
+          "avg_holiday_surge_pct": 14.2,
+          "avg_occupancy_pct": 49.8
+        },
+        "2": {
+          "hotel_tier": 2,
+          "label": "Economy / 2-Star / Guest House",
+          "base_price_inr": {
+            "min": 1690,
+            "max": 1900,
+            "avg": 1816
+          },
+          "holiday_price_inr": {
+            "min": 2280,
+            "max": 2280,
+            "avg": 2280
+          },
+          "avg_holiday_surge_pct": 25.5,
+          "avg_occupancy_pct": 49.8
+        },
+        "3": {
+          "hotel_tier": 3,
+          "label": "Midscale / 3-Star",
+          "base_price_inr": {
+            "min": 3040,
+            "max": 3300,
+            "avg": 3159
+          },
+          "holiday_price_inr": {
+            "min": 3920,
+            "max": 3920,
+            "avg": 3920
+          },
+          "avg_holiday_surge_pct": 24.1,
+          "avg_occupancy_pct": 54.8
+        },
+        "4": {
+          "hotel_tier": 4,
+          "label": "Upscale / 4-Star / Boutique Heritage",
+          "base_price_inr": {
+            "min": 5500,
+            "max": 6060,
+            "avg": 5794
+          },
+          "holiday_price_inr": {
+            "min": 7270,
+            "max": 7270,
+            "avg": 7270
+          },
+          "avg_holiday_surge_pct": 25.5,
+          "avg_occupancy_pct": 54.1
+        },
+        "5": {
+          "hotel_tier": 5,
+          "label": "Luxury / 5-Star / Palace Resort",
+          "base_price_inr": {
+            "min": 13270,
+            "max": 14620,
+            "avg": 13868
+          },
+          "holiday_price_inr": {
+            "min": 16940,
+            "max": 16940,
+            "avg": 16940
+          },
+          "avg_holiday_surge_pct": 22.2,
+          "avg_occupancy_pct": 50.5
+        }
+      }
+    },
+    "Kanyakumari": {
+      "popularity_tier": "popular",
+      "tiers": {
+        "1": {
+          "hotel_tier": 1,
+          "label": "Budget / Hostel",
+          "base_price_inr": {
+            "min": 800,
+            "max": 900,
+            "avg": 855
+          },
+          "holiday_price_inr": {
+            "min": 1040,
+            "max": 1040,
+            "avg": 1040
+          },
+          "avg_holiday_surge_pct": 21.7,
+          "avg_occupancy_pct": 51.2
+        },
+        "2": {
+          "hotel_tier": 2,
+          "label": "Economy / 2-Star / Guest House",
+          "base_price_inr": {
+            "min": 1710,
+            "max": 1900,
+            "avg": 1795
+          },
+          "holiday_price_inr": {
+            "min": 2310,
+            "max": 2310,
+            "avg": 2310
+          },
+          "avg_holiday_surge_pct": 28.7,
+          "avg_occupancy_pct": 50.0
+        },
+        "3": {
+          "hotel_tier": 3,
+          "label": "Midscale / 3-Star",
+          "base_price_inr": {
+            "min": 3020,
+            "max": 3360,
+            "avg": 3197
+          },
+          "holiday_price_inr": {
+            "min": 3960,
+            "max": 3960,
+            "avg": 3960
+          },
+          "avg_holiday_surge_pct": 23.9,
+          "avg_occupancy_pct": 51.1
+        },
+        "4": {
+          "hotel_tier": 4,
+          "label": "Upscale / 4-Star / Boutique Heritage",
+          "base_price_inr": {
+            "min": 5530,
+            "max": 6110,
+            "avg": 5854
+          },
+          "holiday_price_inr": {
+            "min": 7160,
+            "max": 7160,
+            "avg": 7160
+          },
+          "avg_holiday_surge_pct": 22.3,
+          "avg_occupancy_pct": 55.8
+        },
+        "5": {
+          "hotel_tier": 5,
+          "label": "Luxury / 5-Star / Palace Resort",
+          "base_price_inr": {
+            "min": 13250,
+            "max": 14680,
+            "avg": 14009
+          },
+          "holiday_price_inr": {
+            "min": 17220,
+            "max": 17220,
+            "avg": 17220
+          },
+          "avg_holiday_surge_pct": 22.9,
+          "avg_occupancy_pct": 53.0
+        }
+      }
+    },
+    "Manali": {
+      "popularity_tier": "popular",
+      "tiers": {
+        "1": {
+          "hotel_tier": 1,
+          "label": "Budget / Hostel",
+          "base_price_inr": {
+            "min": 950,
+            "max": 1060,
+            "avg": 1009
+          },
+          "holiday_price_inr": {
+            "min": 1250,
+            "max": 1250,
+            "avg": 1250
+          },
+          "avg_holiday_surge_pct": 23.9,
+          "avg_occupancy_pct": 54.0
+        },
+        "2": {
+          "hotel_tier": 2,
+          "label": "Economy / 2-Star / Guest House",
+          "base_price_inr": {
+            "min": 1980,
+            "max": 2190,
+            "avg": 2096
+          },
+          "holiday_price_inr": {
+            "min": 2580,
+            "max": 2580,
+            "avg": 2580
+          },
+          "avg_holiday_surge_pct": 23.1,
+          "avg_occupancy_pct": 54.0
+        },
+        "3": {
+          "hotel_tier": 3,
+          "label": "Midscale / 3-Star",
+          "base_price_inr": {
+            "min": 3600,
+            "max": 3990,
+            "avg": 3719
+          },
+          "holiday_price_inr": {
+            "min": 4810,
+            "max": 4810,
+            "avg": 4810
+          },
+          "avg_holiday_surge_pct": 29.3,
+          "avg_occupancy_pct": 53.1
+        },
+        "4": {
+          "hotel_tier": 4,
+          "label": "Upscale / 4-Star / Boutique Heritage",
+          "base_price_inr": {
+            "min": 6780,
+            "max": 7610,
+            "avg": 7157
+          },
+          "holiday_price_inr": {
+            "min": 8670,
+            "max": 8670,
+            "avg": 8670
+          },
+          "avg_holiday_surge_pct": 21.1,
+          "avg_occupancy_pct": 50.5
+        },
+        "5": {
+          "hotel_tier": 5,
+          "label": "Luxury / 5-Star / Palace Resort",
+          "base_price_inr": {
+            "min": 17110,
+            "max": 19060,
+            "avg": 18166
+          },
+          "holiday_price_inr": {
+            "min": 22500,
+            "max": 22500,
+            "avg": 22500
+          },
+          "avg_holiday_surge_pct": 23.9,
+          "avg_occupancy_pct": 55.7
+        }
+      }
+    },
+    "Kasol": {
+      "popularity_tier": "popular",
+      "tiers": {
+        "1": {
+          "hotel_tier": 1,
+          "label": "Budget / Hostel",
+          "base_price_inr": {
+            "min": 820,
+            "max": 900,
+            "avg": 859
+          },
+          "holiday_price_inr": {
+            "min": 820,
+            "max": 900,
+            "avg": 859
+          },
+          "avg_holiday_surge_pct": 0.0,
+          "avg_occupancy_pct": 52.8
+        },
+        "2": {
+          "hotel_tier": 2,
+          "label": "Economy / 2-Star / Guest House",
+          "base_price_inr": {
+            "min": 1730,
+            "max": 1910,
+            "avg": 1828
+          },
+          "holiday_price_inr": {
+            "min": 1730,
+            "max": 1910,
+            "avg": 1828
+          },
+          "avg_holiday_surge_pct": 0.0,
+          "avg_occupancy_pct": 54.4
+        },
+        "3": {
+          "hotel_tier": 3,
+          "label": "Midscale / 3-Star",
+          "base_price_inr": {
+            "min": 3050,
+            "max": 3360,
+            "avg": 3192
+          },
+          "holiday_price_inr": {
+            "min": 3050,
+            "max": 3360,
+            "avg": 3192
+          },
+          "avg_holiday_surge_pct": 0.0,
+          "avg_occupancy_pct": 46.5
+        },
+        "4": {
+          "hotel_tier": 4,
+          "label": "Upscale / 4-Star / Boutique Heritage",
+          "base_price_inr": {
+            "min": 5550,
+            "max": 6130,
+            "avg": 5827
+          },
+          "holiday_price_inr": {
+            "min": 5550,
+            "max": 6130,
+            "avg": 5827
+          },
+          "avg_holiday_surge_pct": 0.0,
+          "avg_occupancy_pct": 51.8
+        },
+        "5": {
+          "hotel_tier": 5,
+          "label": "Luxury / 5-Star / Palace Resort",
+          "base_price_inr": {
+            "min": 13170,
+            "max": 14680,
+            "avg": 13871
+          },
+          "holiday_price_inr": {
+            "min": 13170,
+            "max": 14680,
+            "avg": 13871
+          },
+          "avg_holiday_surge_pct": 0.0,
+          "avg_occupancy_pct": 52.2
+        }
+      }
+    },
+    "Spiti Valley": {
+      "popularity_tier": "gem",
+      "tiers": {
+        "1": {
+          "hotel_tier": 1,
+          "label": "Budget / Hostel",
+          "base_price_inr": {
+            "min": 800,
+            "max": 900,
+            "avg": 856
+          },
+          "holiday_price_inr": {
+            "min": 800,
+            "max": 900,
+            "avg": 856
+          },
+          "avg_holiday_surge_pct": 0.0,
+          "avg_occupancy_pct": 48.1
+        },
+        "2": {
+          "hotel_tier": 2,
+          "label": "Economy / 2-Star / Guest House",
+          "base_price_inr": {
+            "min": 1710,
+            "max": 1900,
+            "avg": 1776
+          },
+          "holiday_price_inr": {
+            "min": 1710,
+            "max": 1900,
+            "avg": 1776
+          },
+          "avg_holiday_surge_pct": 0.0,
+          "avg_occupancy_pct": 49.7
+        },
+        "3": {
+          "hotel_tier": 3,
+          "label": "Midscale / 3-Star",
+          "base_price_inr": {
+            "min": 3030,
+            "max": 3270,
+            "avg": 3155
+          },
+          "holiday_price_inr": {
+            "min": 3030,
+            "max": 3270,
+            "avg": 3155
+          },
+          "avg_holiday_surge_pct": 0.0,
+          "avg_occupancy_pct": 51.8
+        },
+        "4": {
+          "hotel_tier": 4,
+          "label": "Upscale / 4-Star / Boutique Heritage",
+          "base_price_inr": {
+            "min": 5520,
+            "max": 6110,
+            "avg": 5813
+          },
+          "holiday_price_inr": {
+            "min": 5520,
+            "max": 6110,
+            "avg": 5813
+          },
+          "avg_holiday_surge_pct": 0.0,
+          "avg_occupancy_pct": 49.2
+        }
+      }
+    },
+    "Dharamsala": {
+      "popularity_tier": "popular",
+      "tiers": {
+        "1": {
+          "hotel_tier": 1,
+          "label": "Budget / Hostel",
+          "base_price_inr": {
+            "min": 810,
+            "max": 890,
+            "avg": 845
+          },
+          "holiday_price_inr": {
+            "min": 810,
+            "max": 890,
+            "avg": 845
+          },
+          "avg_holiday_surge_pct": 0.0,
+          "avg_occupancy_pct": 52.0
+        },
+        "2": {
+          "hotel_tier": 2,
+          "label": "Economy / 2-Star / Guest House",
+          "base_price_inr": {
+            "min": 1750,
+            "max": 1900,
+            "avg": 1846
+          },
+          "holiday_price_inr": {
+            "min": 1750,
+            "max": 1900,
+            "avg": 1846
+          },
+          "avg_holiday_surge_pct": 0.0,
+          "avg_occupancy_pct": 52.8
+        },
+        "3": {
+          "hotel_tier": 3,
+          "label": "Midscale / 3-Star",
+          "base_price_inr": {
+            "min": 3080,
+            "max": 3270,
+            "avg": 3162
+          },
+          "holiday_price_inr": {
+            "min": 3080,
+            "max": 3270,
+            "avg": 3162
+          },
+          "avg_holiday_surge_pct": 0.0,
+          "avg_occupancy_pct": 50.1
+        },
+        "4": {
+          "hotel_tier": 4,
+          "label": "Upscale / 4-Star / Boutique Heritage",
+          "base_price_inr": {
+            "min": 5480,
+            "max": 6090,
+            "avg": 5818
+          },
+          "holiday_price_inr": {
+            "min": 5480,
+            "max": 6090,
+            "avg": 5818
+          },
+          "avg_holiday_surge_pct": 0.0,
+          "avg_occupancy_pct": 48.0
+        },
+        "5": {
+          "hotel_tier": 5,
+          "label": "Luxury / 5-Star / Palace Resort",
+          "base_price_inr": {
+            "min": 13420,
+            "max": 14740,
+            "avg": 14209
+          },
+          "holiday_price_inr": {
+            "min": 13420,
+            "max": 14740,
+            "avg": 14209
+          },
+          "avg_holiday_surge_pct": 0.0,
+          "avg_occupancy_pct": 49.6
+        }
+      }
+    },
+    "Rishikesh": {
+      "popularity_tier": "popular",
+      "tiers": {
+        "1": {
+          "hotel_tier": 1,
+          "label": "Budget / Hostel",
+          "base_price_inr": {
+            "min": 760,
+            "max": 830,
+            "avg": 794
+          },
+          "holiday_price_inr": {
+            "min": 760,
+            "max": 830,
+            "avg": 794
+          },
+          "avg_holiday_surge_pct": 0.0,
+          "avg_occupancy_pct": 52.6
+        },
+        "2": {
+          "hotel_tier": 2,
+          "label": "Economy / 2-Star / Guest House",
+          "base_price_inr": {
+            "min": 1690,
+            "max": 1890,
+            "avg": 1780
+          },
+          "holiday_price_inr": {
+            "min": 1690,
+            "max": 1890,
+            "avg": 1780
+          },
+          "avg_holiday_surge_pct": 0.0,
+          "avg_occupancy_pct": 47.8
+        },
+        "3": {
+          "hotel_tier": 3,
+          "label": "Midscale / 3-Star",
+          "base_price_inr": {
+            "min": 3110,
+            "max": 3440,
+            "avg": 3288
+          },
+          "holiday_price_inr": {
+            "min": 3110,
+            "max": 3440,
+            "avg": 3288
+          },
+          "avg_holiday_surge_pct": 0.0,
+          "avg_occupancy_pct": 48.2
+        },
+        "4": {
+          "hotel_tier": 4,
+          "label": "Upscale / 4-Star / Boutique Heritage",
+          "base_price_inr": {
+            "min": 6190,
+            "max": 6860,
+            "avg": 6524
+          },
+          "holiday_price_inr": {
+            "min": 6190,
+            "max": 6860,
+            "avg": 6524
+          },
+          "avg_holiday_surge_pct": 0.0,
+          "avg_occupancy_pct": 54.8
+        },
+        "5": {
+          "hotel_tier": 5,
+          "label": "Luxury / 5-Star / Palace Resort",
+          "base_price_inr": {
+            "min": 17870,
+            "max": 20100,
+            "avg": 19187
+          },
+          "holiday_price_inr": {
+            "min": 17870,
+            "max": 20100,
+            "avg": 19187
+          },
+          "avg_holiday_surge_pct": 0.0,
+          "avg_occupancy_pct": 51.6
+        }
+      }
+    },
+    "Mussoorie": {
+      "popularity_tier": "popular",
+      "tiers": {
+        "1": {
+          "hotel_tier": 1,
+          "label": "Budget / Hostel",
+          "base_price_inr": {
+            "min": 800,
+            "max": 900,
+            "avg": 851
+          },
+          "holiday_price_inr": {
+            "min": 800,
+            "max": 900,
+            "avg": 851
+          },
+          "avg_holiday_surge_pct": 0.0,
+          "avg_occupancy_pct": 51.1
+        },
+        "2": {
+          "hotel_tier": 2,
+          "label": "Economy / 2-Star / Guest House",
+          "base_price_inr": {
+            "min": 1710,
+            "max": 1890,
+            "avg": 1792
+          },
+          "holiday_price_inr": {
+            "min": 1710,
+            "max": 1890,
+            "avg": 1792
+          },
+          "avg_holiday_surge_pct": 0.0,
+          "avg_occupancy_pct": 46.8
+        },
+        "3": {
+          "hotel_tier": 3,
+          "label": "Midscale / 3-Star",
+          "base_price_inr": {
+            "min": 3040,
+            "max": 3390,
+            "avg": 3228
+          },
+          "holiday_price_inr": {
+            "min": 3040,
+            "max": 3390,
+            "avg": 3228
+          },
+          "avg_holiday_surge_pct": 0.0,
+          "avg_occupancy_pct": 48.1
+        },
+        "4": {
+          "hotel_tier": 4,
+          "label": "Upscale / 4-Star / Boutique Heritage",
+          "base_price_inr": {
+            "min": 5480,
+            "max": 6130,
+            "avg": 5868
+          },
+          "holiday_price_inr": {
+            "min": 5480,
+            "max": 6130,
+            "avg": 5868
+          },
+          "avg_holiday_surge_pct": 0.0,
+          "avg_occupancy_pct": 46.7
+        },
+        "5": {
+          "hotel_tier": 5,
+          "label": "Luxury / 5-Star / Palace Resort",
+          "base_price_inr": {
+            "min": 13360,
+            "max": 14770,
+            "avg": 14169
+          },
+          "holiday_price_inr": {
+            "min": 13360,
+            "max": 14770,
+            "avg": 14169
+          },
+          "avg_holiday_surge_pct": 0.0,
+          "avg_occupancy_pct": 47.5
+        }
+      }
+    },
+    "Auli": {
+      "popularity_tier": "emerging",
+      "tiers": {
+        "1": {
+          "hotel_tier": 1,
+          "label": "Budget / Hostel",
+          "base_price_inr": {
+            "min": 810,
+            "max": 890,
+            "avg": 851
+          },
+          "holiday_price_inr": {
+            "min": 1000,
+            "max": 1000,
+            "avg": 1000
+          },
+          "avg_holiday_surge_pct": 17.5,
+          "avg_occupancy_pct": 49.8
+        },
+        "2": {
+          "hotel_tier": 2,
+          "label": "Economy / 2-Star / Guest House",
+          "base_price_inr": {
+            "min": 1710,
+            "max": 1860,
+            "avg": 1805
+          },
+          "holiday_price_inr": {
+            "min": 2230,
+            "max": 2230,
+            "avg": 2230
+          },
+          "avg_holiday_surge_pct": 23.6,
+          "avg_occupancy_pct": 49.8
+        },
+        "3": {
+          "hotel_tier": 3,
+          "label": "Midscale / 3-Star",
+          "base_price_inr": {
+            "min": 3040,
+            "max": 3280,
+            "avg": 3137
+          },
+          "holiday_price_inr": {
+            "min": 4010,
+            "max": 4010,
+            "avg": 4010
+          },
+          "avg_holiday_surge_pct": 27.8,
+          "avg_occupancy_pct": 53.1
+        },
+        "4": {
+          "hotel_tier": 4,
+          "label": "Upscale / 4-Star / Boutique Heritage",
+          "base_price_inr": {
+            "min": 5480,
+            "max": 6140,
+            "avg": 5822
+          },
+          "holiday_price_inr": {
+            "min": 7140,
+            "max": 7140,
+            "avg": 7140
+          },
+          "avg_holiday_surge_pct": 22.6,
+          "avg_occupancy_pct": 47.3
+        }
+      }
+    },
+    "Khajuraho": {
+      "popularity_tier": "popular",
+      "tiers": {
+        "1": {
+          "hotel_tier": 1,
+          "label": "Budget / Hostel",
+          "base_price_inr": {
+            "min": 800,
+            "max": 900,
+            "avg": 834
+          },
+          "holiday_price_inr": {
+            "min": 1110,
+            "max": 1110,
+            "avg": 1110
+          },
+          "avg_holiday_surge_pct": 33.2,
+          "avg_occupancy_pct": 51.5
+        },
+        "2": {
+          "hotel_tier": 2,
+          "label": "Economy / 2-Star / Guest House",
+          "base_price_inr": {
+            "min": 1700,
+            "max": 1890,
+            "avg": 1795
+          },
+          "holiday_price_inr": {
+            "min": 2250,
+            "max": 2250,
+            "avg": 2250
+          },
+          "avg_holiday_surge_pct": 25.4,
+          "avg_occupancy_pct": 54.1
+        },
+        "3": {
+          "hotel_tier": 3,
+          "label": "Midscale / 3-Star",
+          "base_price_inr": {
+            "min": 3010,
+            "max": 3300,
+            "avg": 3159
+          },
+          "holiday_price_inr": {
+            "min": 4230,
+            "max": 4230,
+            "avg": 4230
+          },
+          "avg_holiday_surge_pct": 33.9,
+          "avg_occupancy_pct": 53.0
+        },
+        "4": {
+          "hotel_tier": 4,
+          "label": "Upscale / 4-Star / Boutique Heritage",
+          "base_price_inr": {
+            "min": 5470,
+            "max": 6050,
+            "avg": 5727
+          },
+          "holiday_price_inr": {
+            "min": 7280,
+            "max": 7280,
+            "avg": 7280
+          },
+          "avg_holiday_surge_pct": 27.1,
+          "avg_occupancy_pct": 56.6
+        },
+        "5": {
+          "hotel_tier": 5,
+          "label": "Luxury / 5-Star / Palace Resort",
+          "base_price_inr": {
+            "min": 13270,
+            "max": 14780,
+            "avg": 14080
+          },
+          "holiday_price_inr": {
+            "min": 18220,
+            "max": 18220,
+            "avg": 18220
+          },
+          "avg_holiday_surge_pct": 29.4,
+          "avg_occupancy_pct": 54.5
+        }
+      }
+    },
+    "Orchha": {
+      "popularity_tier": "gem",
+      "tiers": {
+        "1": {
+          "hotel_tier": 1,
+          "label": "Budget / Hostel",
+          "base_price_inr": {
+            "min": 810,
+            "max": 870,
+            "avg": 845
+          },
+          "holiday_price_inr": {
+            "min": 970,
+            "max": 970,
+            "avg": 970
+          },
+          "avg_holiday_surge_pct": 14.9,
+          "avg_occupancy_pct": 50.7
+        },
+        "2": {
+          "hotel_tier": 2,
+          "label": "Economy / 2-Star / Guest House",
+          "base_price_inr": {
+            "min": 1690,
+            "max": 1900,
+            "avg": 1823
+          },
+          "holiday_price_inr": {
+            "min": 2230,
+            "max": 2230,
+            "avg": 2230
+          },
+          "avg_holiday_surge_pct": 22.3,
+          "avg_occupancy_pct": 49.7
+        },
+        "3": {
+          "hotel_tier": 3,
+          "label": "Midscale / 3-Star",
+          "base_price_inr": {
+            "min": 3020,
+            "max": 3380,
+            "avg": 3273
+          },
+          "holiday_price_inr": {
+            "min": 3820,
+            "max": 3820,
+            "avg": 3820
+          },
+          "avg_holiday_surge_pct": 16.7,
+          "avg_occupancy_pct": 54.9
+        },
+        "4": {
+          "hotel_tier": 4,
+          "label": "Upscale / 4-Star / Boutique Heritage",
+          "base_price_inr": {
+            "min": 5550,
+            "max": 6110,
+            "avg": 5833
+          },
+          "holiday_price_inr": {
+            "min": 7140,
+            "max": 7140,
+            "avg": 7140
+          },
+          "avg_holiday_surge_pct": 22.4,
+          "avg_occupancy_pct": 52.2
+        },
+        "5": {
+          "hotel_tier": 5,
+          "label": "Luxury / 5-Star / Palace Resort",
+          "base_price_inr": {
+            "min": 13190,
+            "max": 14640,
+            "avg": 13898
+          },
+          "holiday_price_inr": {
+            "min": 17870,
+            "max": 17870,
+            "avg": 17870
+          },
+          "avg_holiday_surge_pct": 28.6,
+          "avg_occupancy_pct": 54.4
+        }
+      }
+    },
+    "Pachmarhi": {
+      "popularity_tier": "emerging",
+      "tiers": {
+        "1": {
+          "hotel_tier": 1,
+          "label": "Budget / Hostel",
+          "base_price_inr": {
+            "min": 800,
+            "max": 890,
+            "avg": 847
+          },
+          "holiday_price_inr": {
+            "min": 1070,
+            "max": 1070,
+            "avg": 1070
+          },
+          "avg_holiday_surge_pct": 26.3,
+          "avg_occupancy_pct": 52.3
+        },
+        "2": {
+          "hotel_tier": 2,
+          "label": "Economy / 2-Star / Guest House",
+          "base_price_inr": {
+            "min": 1730,
+            "max": 1900,
+            "avg": 1827
+          },
+          "holiday_price_inr": {
+            "min": 2220,
+            "max": 2220,
+            "avg": 2220
+          },
+          "avg_holiday_surge_pct": 21.5,
+          "avg_occupancy_pct": 53.7
+        },
+        "3": {
+          "hotel_tier": 3,
+          "label": "Midscale / 3-Star",
+          "base_price_inr": {
+            "min": 3010,
+            "max": 3340,
+            "avg": 3146
+          },
+          "holiday_price_inr": {
+            "min": 3980,
+            "max": 3980,
+            "avg": 3980
+          },
+          "avg_holiday_surge_pct": 26.5,
+          "avg_occupancy_pct": 49.4
+        },
+        "4": {
+          "hotel_tier": 4,
+          "label": "Upscale / 4-Star / Boutique Heritage",
+          "base_price_inr": {
+            "min": 5460,
+            "max": 6040,
+            "avg": 5775
+          },
+          "holiday_price_inr": {
+            "min": 6930,
+            "max": 6930,
+            "avg": 6930
+          },
+          "avg_holiday_surge_pct": 20.0,
+          "avg_occupancy_pct": 54.1
+        },
+        "5": {
+          "hotel_tier": 5,
+          "label": "Luxury / 5-Star / Palace Resort",
+          "base_price_inr": {
+            "min": 13360,
+            "max": 14390,
+            "avg": 13850
+          },
+          "holiday_price_inr": {
+            "min": 16340,
+            "max": 16340,
+            "avg": 16340
+          },
+          "avg_holiday_surge_pct": 18.0,
+          "avg_occupancy_pct": 52.6
+        }
+      }
+    },
+    "Rann of Kutch": {
+      "popularity_tier": "popular",
+      "tiers": {
+        "1": {
+          "hotel_tier": 1,
+          "label": "Budget / Hostel",
+          "base_price_inr": {
+            "min": 810,
+            "max": 900,
+            "avg": 843
+          },
+          "holiday_price_inr": {
+            "min": 1030,
+            "max": 1030,
+            "avg": 1030
+          },
+          "avg_holiday_surge_pct": 22.2,
+          "avg_occupancy_pct": 51.2
+        },
+        "2": {
+          "hotel_tier": 2,
+          "label": "Economy / 2-Star / Guest House",
+          "base_price_inr": {
+            "min": 1690,
+            "max": 1880,
+            "avg": 1815
+          },
+          "holiday_price_inr": {
+            "min": 2210,
+            "max": 2210,
+            "avg": 2210
+          },
+          "avg_holiday_surge_pct": 21.8,
+          "avg_occupancy_pct": 52.3
+        },
+        "3": {
+          "hotel_tier": 3,
+          "label": "Midscale / 3-Star",
+          "base_price_inr": {
+            "min": 3010,
+            "max": 3380,
+            "avg": 3154
+          },
+          "holiday_price_inr": {
+            "min": 3900,
+            "max": 3900,
+            "avg": 3900
+          },
+          "avg_holiday_surge_pct": 23.7,
+          "avg_occupancy_pct": 50.4
+        },
+        "4": {
+          "hotel_tier": 4,
+          "label": "Upscale / 4-Star / Boutique Heritage",
+          "base_price_inr": {
+            "min": 5470,
+            "max": 6080,
+            "avg": 5683
+          },
+          "holiday_price_inr": {
+            "min": 7090,
+            "max": 7090,
+            "avg": 7090
+          },
+          "avg_holiday_surge_pct": 24.8,
+          "avg_occupancy_pct": 51.8
+        },
+        "5": {
+          "hotel_tier": 5,
+          "label": "Luxury / 5-Star / Palace Resort",
+          "base_price_inr": {
+            "min": 13190,
+            "max": 14830,
+            "avg": 13871
+          },
+          "holiday_price_inr": {
+            "min": 17720,
+            "max": 17720,
+            "avg": 17720
+          },
+          "avg_holiday_surge_pct": 27.7,
+          "avg_occupancy_pct": 51.0
+        }
+      }
+    },
+    "Ahmedabad": {
+      "popularity_tier": "popular",
+      "tiers": {
+        "1": {
+          "hotel_tier": 1,
+          "label": "Budget / Hostel",
+          "base_price_inr": {
+            "min": 810,
+            "max": 900,
+            "avg": 859
+          },
+          "holiday_price_inr": {
+            "min": 810,
+            "max": 900,
+            "avg": 859
+          },
+          "avg_holiday_surge_pct": 0.0,
+          "avg_occupancy_pct": 53.4
+        },
+        "2": {
+          "hotel_tier": 2,
+          "label": "Economy / 2-Star / Guest House",
+          "base_price_inr": {
+            "min": 1700,
+            "max": 1890,
+            "avg": 1789
+          },
+          "holiday_price_inr": {
+            "min": 1700,
+            "max": 1890,
+            "avg": 1789
+          },
+          "avg_holiday_surge_pct": 0.0,
+          "avg_occupancy_pct": 49.1
+        },
+        "3": {
+          "hotel_tier": 3,
+          "label": "Midscale / 3-Star",
+          "base_price_inr": {
+            "min": 3020,
+            "max": 3390,
+            "avg": 3173
+          },
+          "holiday_price_inr": {
+            "min": 3020,
+            "max": 3390,
+            "avg": 3173
+          },
+          "avg_holiday_surge_pct": 0.0,
+          "avg_occupancy_pct": 46.8
+        },
+        "4": {
+          "hotel_tier": 4,
+          "label": "Upscale / 4-Star / Boutique Heritage",
+          "base_price_inr": {
+            "min": 5490,
+            "max": 5970,
+            "avg": 5693
+          },
+          "holiday_price_inr": {
+            "min": 5490,
+            "max": 5970,
+            "avg": 5693
+          },
+          "avg_holiday_surge_pct": 0.0,
+          "avg_occupancy_pct": 51.2
+        },
+        "5": {
+          "hotel_tier": 5,
+          "label": "Luxury / 5-Star / Palace Resort",
+          "base_price_inr": {
+            "min": 13450,
+            "max": 14800,
+            "avg": 14162
+          },
+          "holiday_price_inr": {
+            "min": 13450,
+            "max": 14800,
+            "avg": 14162
+          },
+          "avg_holiday_surge_pct": 0.0,
+          "avg_occupancy_pct": 54.5
+        }
+      }
+    },
+    "Dwarka": {
+      "popularity_tier": "popular",
+      "tiers": {
+        "1": {
+          "hotel_tier": 1,
+          "label": "Budget / Hostel",
+          "base_price_inr": {
+            "min": 810,
+            "max": 890,
+            "avg": 847
+          },
+          "holiday_price_inr": {
+            "min": 810,
+            "max": 890,
+            "avg": 847
+          },
+          "avg_holiday_surge_pct": 0.0,
+          "avg_occupancy_pct": 55.9
+        },
+        "2": {
+          "hotel_tier": 2,
+          "label": "Economy / 2-Star / Guest House",
+          "base_price_inr": {
+            "min": 1690,
+            "max": 1870,
+            "avg": 1782
+          },
+          "holiday_price_inr": {
+            "min": 1690,
+            "max": 1870,
+            "avg": 1782
+          },
+          "avg_holiday_surge_pct": 0.0,
+          "avg_occupancy_pct": 52.5
+        },
+        "3": {
+          "hotel_tier": 3,
+          "label": "Midscale / 3-Star",
+          "base_price_inr": {
+            "min": 3070,
+            "max": 3380,
+            "avg": 3178
+          },
+          "holiday_price_inr": {
+            "min": 3070,
+            "max": 3380,
+            "avg": 3178
+          },
+          "avg_holiday_surge_pct": 0.0,
+          "avg_occupancy_pct": 50.4
+        },
+        "4": {
+          "hotel_tier": 4,
+          "label": "Upscale / 4-Star / Boutique Heritage",
+          "base_price_inr": {
+            "min": 5540,
+            "max": 6120,
+            "avg": 5850
+          },
+          "holiday_price_inr": {
+            "min": 5540,
+            "max": 6120,
+            "avg": 5850
+          },
+          "avg_holiday_surge_pct": 0.0,
+          "avg_occupancy_pct": 48.9
+        },
+        "5": {
+          "hotel_tier": 5,
+          "label": "Luxury / 5-Star / Palace Resort",
+          "base_price_inr": {
+            "min": 13500,
+            "max": 14750,
+            "avg": 13867
+          },
+          "holiday_price_inr": {
+            "min": 13500,
+            "max": 14750,
+            "avg": 13867
+          },
+          "avg_holiday_surge_pct": 0.0,
+          "avg_occupancy_pct": 45.4
+        }
+      }
+    },
+    "Puri": {
+      "popularity_tier": "popular",
+      "tiers": {
+        "1": {
+          "hotel_tier": 1,
+          "label": "Budget / Hostel",
+          "base_price_inr": {
+            "min": 810,
+            "max": 880,
+            "avg": 844
+          },
+          "holiday_price_inr": {
+            "min": 1010,
+            "max": 1060,
+            "avg": 1035
+          },
+          "avg_holiday_surge_pct": 22.6,
+          "avg_occupancy_pct": 55.1
+        },
+        "2": {
+          "hotel_tier": 2,
+          "label": "Economy / 2-Star / Guest House",
+          "base_price_inr": {
+            "min": 1690,
+            "max": 1900,
+            "avg": 1788
+          },
+          "holiday_price_inr": {
+            "min": 2120,
+            "max": 2370,
+            "avg": 2245
+          },
+          "avg_holiday_surge_pct": 25.6,
+          "avg_occupancy_pct": 55.3
+        },
+        "3": {
+          "hotel_tier": 3,
+          "label": "Midscale / 3-Star",
+          "base_price_inr": {
+            "min": 3020,
+            "max": 3380,
+            "avg": 3199
+          },
+          "holiday_price_inr": {
+            "min": 3800,
+            "max": 3900,
+            "avg": 3850
+          },
+          "avg_holiday_surge_pct": 20.4,
+          "avg_occupancy_pct": 54.5
+        },
+        "4": {
+          "hotel_tier": 4,
+          "label": "Upscale / 4-Star / Boutique Heritage",
+          "base_price_inr": {
+            "min": 5570,
+            "max": 6130,
+            "avg": 5908
+          },
+          "holiday_price_inr": {
+            "min": 7000,
+            "max": 7190,
+            "avg": 7095
+          },
+          "avg_holiday_surge_pct": 20.1,
+          "avg_occupancy_pct": 55.2
+        },
+        "5": {
+          "hotel_tier": 5,
+          "label": "Luxury / 5-Star / Palace Resort",
+          "base_price_inr": {
+            "min": 13320,
+            "max": 14440,
+            "avg": 13981
+          },
+          "holiday_price_inr": {
+            "min": 16100,
+            "max": 17320,
+            "avg": 16710
+          },
+          "avg_holiday_surge_pct": 19.5,
+          "avg_occupancy_pct": 55.4
+        }
+      }
+    },
+    "Konark": {
+      "popularity_tier": "popular",
+      "tiers": {
+        "1": {
+          "hotel_tier": 1,
+          "label": "Budget / Hostel",
+          "base_price_inr": {
+            "min": 800,
+            "max": 900,
+            "avg": 842
+          },
+          "holiday_price_inr": {
+            "min": 970,
+            "max": 1000,
+            "avg": 985
+          },
+          "avg_holiday_surge_pct": 17.0,
+          "avg_occupancy_pct": 56.3
+        },
+        "2": {
+          "hotel_tier": 2,
+          "label": "Economy / 2-Star / Guest House",
+          "base_price_inr": {
+            "min": 1730,
+            "max": 1900,
+            "avg": 1824
+          },
+          "holiday_price_inr": {
+            "min": 2320,
+            "max": 2330,
+            "avg": 2325
+          },
+          "avg_holiday_surge_pct": 27.5,
+          "avg_occupancy_pct": 51.0
+        },
+        "3": {
+          "hotel_tier": 3,
+          "label": "Midscale / 3-Star",
+          "base_price_inr": {
+            "min": 3040,
+            "max": 3390,
+            "avg": 3213
+          },
+          "holiday_price_inr": {
+            "min": 3620,
+            "max": 4160,
+            "avg": 3890
+          },
+          "avg_holiday_surge_pct": 21.1,
+          "avg_occupancy_pct": 49.6
+        },
+        "4": {
+          "hotel_tier": 4,
+          "label": "Upscale / 4-Star / Boutique Heritage",
+          "base_price_inr": {
+            "min": 5590,
+            "max": 6130,
+            "avg": 5837
+          },
+          "holiday_price_inr": {
+            "min": 6840,
+            "max": 7650,
+            "avg": 7245
+          },
+          "avg_holiday_surge_pct": 24.1,
+          "avg_occupancy_pct": 51.7
+        },
+        "5": {
+          "hotel_tier": 5,
+          "label": "Luxury / 5-Star / Palace Resort",
+          "base_price_inr": {
+            "min": 13300,
+            "max": 14740,
+            "avg": 14033
+          },
+          "holiday_price_inr": {
+            "min": 15870,
+            "max": 16750,
+            "avg": 16310
+          },
+          "avg_holiday_surge_pct": 16.2,
+          "avg_occupancy_pct": 52.3
+        }
+      }
+    },
+    "Raghurajpur": {
+      "popularity_tier": "gem",
+      "tiers": {
+        "1": {
+          "hotel_tier": 1,
+          "label": "Budget / Hostel",
+          "base_price_inr": {
+            "min": 800,
+            "max": 890,
+            "avg": 854
+          },
+          "holiday_price_inr": {
+            "min": 1030,
+            "max": 1030,
+            "avg": 1030
+          },
+          "avg_holiday_surge_pct": 20.7,
+          "avg_occupancy_pct": 55.8
+        },
+        "2": {
+          "hotel_tier": 2,
+          "label": "Economy / 2-Star / Guest House",
+          "base_price_inr": {
+            "min": 1730,
+            "max": 1900,
+            "avg": 1798
+          },
+          "holiday_price_inr": {
+            "min": 2310,
+            "max": 2310,
+            "avg": 2310
+          },
+          "avg_holiday_surge_pct": 28.5,
+          "avg_occupancy_pct": 48.8
+        },
+        "3": {
+          "hotel_tier": 3,
+          "label": "Midscale / 3-Star",
+          "base_price_inr": {
+            "min": 3060,
+            "max": 3350,
+            "avg": 3194
+          },
+          "holiday_price_inr": {
+            "min": 3990,
+            "max": 3990,
+            "avg": 3990
+          },
+          "avg_holiday_surge_pct": 24.9,
+          "avg_occupancy_pct": 53.4
+        },
+        "4": {
+          "hotel_tier": 4,
+          "label": "Upscale / 4-Star / Boutique Heritage",
+          "base_price_inr": {
+            "min": 5510,
+            "max": 6070,
+            "avg": 5872
+          },
+          "holiday_price_inr": {
+            "min": 7620,
+            "max": 7620,
+            "avg": 7620
+          },
+          "avg_holiday_surge_pct": 29.8,
+          "avg_occupancy_pct": 57.7
+        },
+        "5": {
+          "hotel_tier": 5,
+          "label": "Luxury / 5-Star / Palace Resort",
+          "base_price_inr": {
+            "min": 13330,
+            "max": 14610,
+            "avg": 13956
+          },
+          "holiday_price_inr": {
+            "min": 18760,
+            "max": 18760,
+            "avg": 18760
+          },
+          "avg_holiday_surge_pct": 34.4,
+          "avg_occupancy_pct": 52.8
+        }
+      }
+    },
+    "Gangtok": {
+      "popularity_tier": "popular",
+      "tiers": {
+        "1": {
+          "hotel_tier": 1,
+          "label": "Budget / Hostel",
+          "base_price_inr": {
+            "min": 810,
+            "max": 900,
+            "avg": 850
+          },
+          "holiday_price_inr": {
+            "min": 810,
+            "max": 900,
+            "avg": 850
+          },
+          "avg_holiday_surge_pct": 0.0,
+          "avg_occupancy_pct": 49.2
+        },
+        "2": {
+          "hotel_tier": 2,
+          "label": "Economy / 2-Star / Guest House",
+          "base_price_inr": {
+            "min": 1730,
+            "max": 1860,
+            "avg": 1782
+          },
+          "holiday_price_inr": {
+            "min": 1730,
+            "max": 1860,
+            "avg": 1782
+          },
+          "avg_holiday_surge_pct": 0.0,
+          "avg_occupancy_pct": 54.9
+        },
+        "3": {
+          "hotel_tier": 3,
+          "label": "Midscale / 3-Star",
+          "base_price_inr": {
+            "min": 3040,
+            "max": 3370,
+            "avg": 3201
+          },
+          "holiday_price_inr": {
+            "min": 3040,
+            "max": 3370,
+            "avg": 3201
+          },
+          "avg_holiday_surge_pct": 0.0,
+          "avg_occupancy_pct": 49.8
+        },
+        "4": {
+          "hotel_tier": 4,
+          "label": "Upscale / 4-Star / Boutique Heritage",
+          "base_price_inr": {
+            "min": 5610,
+            "max": 6100,
+            "avg": 5873
+          },
+          "holiday_price_inr": {
+            "min": 5610,
+            "max": 6100,
+            "avg": 5873
+          },
+          "avg_holiday_surge_pct": 0.0,
+          "avg_occupancy_pct": 53.0
+        },
+        "5": {
+          "hotel_tier": 5,
+          "label": "Luxury / 5-Star / Palace Resort",
+          "base_price_inr": {
+            "min": 13210,
+            "max": 14830,
+            "avg": 14130
+          },
+          "holiday_price_inr": {
+            "min": 13210,
+            "max": 14830,
+            "avg": 14130
+          },
+          "avg_holiday_surge_pct": 0.0,
+          "avg_occupancy_pct": 50.8
+        }
+      }
+    },
+    "Lachung": {
+      "popularity_tier": "emerging",
+      "tiers": {
+        "1": {
+          "hotel_tier": 1,
+          "label": "Budget / Hostel",
+          "base_price_inr": {
+            "min": 800,
+            "max": 890,
+            "avg": 850
+          },
+          "holiday_price_inr": {
+            "min": 800,
+            "max": 890,
+            "avg": 850
+          },
+          "avg_holiday_surge_pct": 0.0,
+          "avg_occupancy_pct": 53.0
+        },
+        "2": {
+          "hotel_tier": 2,
+          "label": "Economy / 2-Star / Guest House",
+          "base_price_inr": {
+            "min": 1740,
+            "max": 1870,
+            "avg": 1818
+          },
+          "holiday_price_inr": {
+            "min": 1740,
+            "max": 1870,
+            "avg": 1818
+          },
+          "avg_holiday_surge_pct": 0.0,
+          "avg_occupancy_pct": 50.8
+        },
+        "3": {
+          "hotel_tier": 3,
+          "label": "Midscale / 3-Star",
+          "base_price_inr": {
+            "min": 3050,
+            "max": 3370,
+            "avg": 3203
+          },
+          "holiday_price_inr": {
+            "min": 3050,
+            "max": 3370,
+            "avg": 3203
+          },
+          "avg_holiday_surge_pct": 0.0,
+          "avg_occupancy_pct": 48.2
+        },
+        "4": {
+          "hotel_tier": 4,
+          "label": "Upscale / 4-Star / Boutique Heritage",
+          "base_price_inr": {
+            "min": 5490,
+            "max": 6100,
+            "avg": 5820
+          },
+          "holiday_price_inr": {
+            "min": 5490,
+            "max": 6100,
+            "avg": 5820
+          },
+          "avg_holiday_surge_pct": 0.0,
+          "avg_occupancy_pct": 49.0
+        }
+      }
+    },
+    "Kaziranga": {
+      "popularity_tier": "popular",
+      "tiers": {
+        "1": {
+          "hotel_tier": 1,
+          "label": "Budget / Hostel",
+          "base_price_inr": {
+            "min": 800,
+            "max": 900,
+            "avg": 847
+          },
+          "holiday_price_inr": {
+            "min": 1040,
+            "max": 1080,
+            "avg": 1060
+          },
+          "avg_holiday_surge_pct": 25.1,
+          "avg_occupancy_pct": 53.4
+        },
+        "2": {
+          "hotel_tier": 2,
+          "label": "Economy / 2-Star / Guest House",
+          "base_price_inr": {
+            "min": 1700,
+            "max": 1860,
+            "avg": 1763
+          },
+          "holiday_price_inr": {
+            "min": 2280,
+            "max": 2300,
+            "avg": 2290
+          },
+          "avg_holiday_surge_pct": 29.9,
+          "avg_occupancy_pct": 53.8
+        },
+        "3": {
+          "hotel_tier": 3,
+          "label": "Midscale / 3-Star",
+          "base_price_inr": {
+            "min": 3020,
+            "max": 3380,
+            "avg": 3236
+          },
+          "holiday_price_inr": {
+            "min": 4080,
+            "max": 4170,
+            "avg": 4125
+          },
+          "avg_holiday_surge_pct": 27.5,
+          "avg_occupancy_pct": 57.0
+        },
+        "4": {
+          "hotel_tier": 4,
+          "label": "Upscale / 4-Star / Boutique Heritage",
+          "base_price_inr": {
+            "min": 5510,
+            "max": 6130,
+            "avg": 5919
+          },
+          "holiday_price_inr": {
+            "min": 7150,
+            "max": 7630,
+            "avg": 7390
+          },
+          "avg_holiday_surge_pct": 24.9,
+          "avg_occupancy_pct": 55.9
+        },
+        "5": {
+          "hotel_tier": 5,
+          "label": "Luxury / 5-Star / Palace Resort",
+          "base_price_inr": {
+            "min": 13510,
+            "max": 14750,
+            "avg": 14136
+          },
+          "holiday_price_inr": {
+            "min": 17660,
+            "max": 17850,
+            "avg": 17755
+          },
+          "avg_holiday_surge_pct": 25.6,
+          "avg_occupancy_pct": 56.9
+        }
+      }
+    },
+    "Majuli": {
+      "popularity_tier": "gem",
+      "tiers": {
+        "1": {
+          "hotel_tier": 1,
+          "label": "Budget / Hostel",
+          "base_price_inr": {
+            "min": 800,
+            "max": 890,
+            "avg": 856
+          },
+          "holiday_price_inr": {
+            "min": 800,
+            "max": 890,
+            "avg": 856
+          },
+          "avg_holiday_surge_pct": 0.0,
+          "avg_occupancy_pct": 53.0
+        },
+        "2": {
+          "hotel_tier": 2,
+          "label": "Economy / 2-Star / Guest House",
+          "base_price_inr": {
+            "min": 1700,
+            "max": 1900,
+            "avg": 1795
+          },
+          "holiday_price_inr": {
+            "min": 1700,
+            "max": 1900,
+            "avg": 1795
+          },
+          "avg_holiday_surge_pct": 0.0,
+          "avg_occupancy_pct": 52.3
+        },
+        "3": {
+          "hotel_tier": 3,
+          "label": "Midscale / 3-Star",
+          "base_price_inr": {
+            "min": 3040,
+            "max": 3380,
+            "avg": 3212
+          },
+          "holiday_price_inr": {
+            "min": 3040,
+            "max": 3380,
+            "avg": 3212
+          },
+          "avg_holiday_surge_pct": 0.0,
+          "avg_occupancy_pct": 48.3
+        },
+        "4": {
+          "hotel_tier": 4,
+          "label": "Upscale / 4-Star / Boutique Heritage",
+          "base_price_inr": {
+            "min": 5480,
+            "max": 5970,
+            "avg": 5747
+          },
+          "holiday_price_inr": {
+            "min": 5480,
+            "max": 5970,
+            "avg": 5747
+          },
+          "avg_holiday_surge_pct": 0.0,
+          "avg_occupancy_pct": 51.1
+        },
+        "5": {
+          "hotel_tier": 5,
+          "label": "Luxury / 5-Star / Palace Resort",
+          "base_price_inr": {
+            "min": 13290,
+            "max": 14800,
+            "avg": 14058
+          },
+          "holiday_price_inr": {
+            "min": 13290,
+            "max": 14800,
+            "avg": 14058
+          },
+          "avg_holiday_surge_pct": 0.0,
+          "avg_occupancy_pct": 46.5
+        }
+      }
+    },
+    "Tirthan Valley": {
+      "popularity_tier": "gem",
+      "tiers": {
+        "1": {
+          "hotel_tier": 1,
+          "label": "Budget / Hostel",
+          "base_price_inr": {
+            "min": 810,
+            "max": 890,
+            "avg": 845
+          },
+          "holiday_price_inr": {
+            "min": 1020,
+            "max": 1020,
+            "avg": 1020
+          },
+          "avg_holiday_surge_pct": 20.8,
+          "avg_occupancy_pct": 49.8
+        },
+        "2": {
+          "hotel_tier": 2,
+          "label": "Economy / 2-Star / Guest House",
+          "base_price_inr": {
+            "min": 1730,
+            "max": 1910,
+            "avg": 1818
+          },
+          "holiday_price_inr": {
+            "min": 2110,
+            "max": 2110,
+            "avg": 2110
+          },
+          "avg_holiday_surge_pct": 16.0,
+          "avg_occupancy_pct": 51.1
+        },
+        "3": {
+          "hotel_tier": 3,
+          "label": "Midscale / 3-Star",
+          "base_price_inr": {
+            "min": 3010,
+            "max": 3370,
+            "avg": 3235
+          },
+          "holiday_price_inr": {
+            "min": 3680,
+            "max": 3680,
+            "avg": 3680
+          },
+          "avg_holiday_surge_pct": 13.8,
+          "avg_occupancy_pct": 52.8
+        },
+        "4": {
+          "hotel_tier": 4,
+          "label": "Upscale / 4-Star / Boutique Heritage",
+          "base_price_inr": {
+            "min": 5480,
+            "max": 6110,
+            "avg": 5769
+          },
+          "holiday_price_inr": {
+            "min": 6740,
+            "max": 6740,
+            "avg": 6740
+          },
+          "avg_holiday_surge_pct": 16.8,
+          "avg_occupancy_pct": 49.8
+        },
+        "5": {
+          "hotel_tier": 5,
+          "label": "Luxury / 5-Star / Palace Resort",
+          "base_price_inr": {
+            "min": 13270,
+            "max": 14630,
+            "avg": 14019
+          },
+          "holiday_price_inr": {
+            "min": 16540,
+            "max": 16540,
+            "avg": 16540
+          },
+          "avg_holiday_surge_pct": 18.0,
+          "avg_occupancy_pct": 55.4
+        }
+      }
+    },
+    "Ziro": {
+      "popularity_tier": "gem",
+      "tiers": {
+        "1": {
+          "hotel_tier": 1,
+          "label": "Budget / Hostel",
+          "base_price_inr": {
+            "min": 800,
+            "max": 890,
+            "avg": 848
+          },
+          "holiday_price_inr": {
+            "min": 800,
+            "max": 890,
+            "avg": 848
+          },
+          "avg_holiday_surge_pct": 0.0,
+          "avg_occupancy_pct": 53.7
+        },
+        "2": {
+          "hotel_tier": 2,
+          "label": "Economy / 2-Star / Guest House",
+          "base_price_inr": {
+            "min": 1700,
+            "max": 1870,
+            "avg": 1797
+          },
+          "holiday_price_inr": {
+            "min": 1700,
+            "max": 1870,
+            "avg": 1797
+          },
+          "avg_holiday_surge_pct": 0.0,
+          "avg_occupancy_pct": 49.5
+        },
+        "3": {
+          "hotel_tier": 3,
+          "label": "Midscale / 3-Star",
+          "base_price_inr": {
+            "min": 3020,
+            "max": 3360,
+            "avg": 3175
+          },
+          "holiday_price_inr": {
+            "min": 3020,
+            "max": 3360,
+            "avg": 3175
+          },
+          "avg_holiday_surge_pct": 0.0,
+          "avg_occupancy_pct": 45.7
+        },
+        "4": {
+          "hotel_tier": 4,
+          "label": "Upscale / 4-Star / Boutique Heritage",
+          "base_price_inr": {
+            "min": 5460,
+            "max": 6100,
+            "avg": 5737
+          },
+          "holiday_price_inr": {
+            "min": 5460,
+            "max": 6100,
+            "avg": 5737
+          },
+          "avg_holiday_surge_pct": 0.0,
+          "avg_occupancy_pct": 48.2
+        },
+        "5": {
+          "hotel_tier": 5,
+          "label": "Luxury / 5-Star / Palace Resort",
+          "base_price_inr": {
+            "min": 13180,
+            "max": 14770,
+            "avg": 13977
+          },
+          "holiday_price_inr": {
+            "min": 13180,
+            "max": 14770,
+            "avg": 13977
+          },
+          "avg_holiday_surge_pct": 0.0,
+          "avg_occupancy_pct": 51.6
+        }
+      }
+    },
+    "Hamirpur": {
+      "popularity_tier": "emerging",
+      "tiers": {
+        "1": {
+          "hotel_tier": 1,
+          "label": "Budget / Hostel",
+          "base_price_inr": {
+            "min": 820,
+            "max": 900,
+            "avg": 864
+          },
+          "holiday_price_inr": {
+            "min": 990,
+            "max": 990,
+            "avg": 990
+          },
+          "avg_holiday_surge_pct": 14.6,
+          "avg_occupancy_pct": 51.8
+        },
+        "2": {
+          "hotel_tier": 2,
+          "label": "Economy / 2-Star / Guest House",
+          "base_price_inr": {
+            "min": 1720,
+            "max": 1890,
+            "avg": 1836
+          },
+          "holiday_price_inr": {
+            "min": 2120,
+            "max": 2120,
+            "avg": 2120
+          },
+          "avg_holiday_surge_pct": 15.4,
+          "avg_occupancy_pct": 53.5
+        },
+        "3": {
+          "hotel_tier": 3,
+          "label": "Midscale / 3-Star",
+          "base_price_inr": {
+            "min": 3070,
+            "max": 3350,
+            "avg": 3231
+          },
+          "holiday_price_inr": {
+            "min": 3640,
+            "max": 3640,
+            "avg": 3640
+          },
+          "avg_holiday_surge_pct": 12.7,
+          "avg_occupancy_pct": 51.0
+        },
+        "4": {
+          "hotel_tier": 4,
+          "label": "Upscale / 4-Star / Boutique Heritage",
+          "base_price_inr": {
+            "min": 5500,
+            "max": 6110,
+            "avg": 5899
+          },
+          "holiday_price_inr": {
+            "min": 6840,
+            "max": 6840,
+            "avg": 6840
+          },
+          "avg_holiday_surge_pct": 16.0,
+          "avg_occupancy_pct": 51.5
+        },
+        "5": {
+          "hotel_tier": 5,
+          "label": "Luxury / 5-Star / Palace Resort",
+          "base_price_inr": {
+            "min": 13190,
+            "max": 14840,
+            "avg": 14063
+          },
+          "holiday_price_inr": {
+            "min": 15780,
+            "max": 15780,
+            "avg": 15780
+          },
+          "avg_holiday_surge_pct": 12.2,
+          "avg_occupancy_pct": 52.4
+        }
+      }
+    },
+    "Matheran": {
+      "popularity_tier": "popular",
+      "tiers": {
+        "1": {
+          "hotel_tier": 1,
+          "label": "Budget / Hostel",
+          "base_price_inr": {
+            "min": 820,
+            "max": 900,
+            "avg": 859
+          },
+          "holiday_price_inr": {
+            "min": 1000,
+            "max": 1030,
+            "avg": 1015
+          },
+          "avg_holiday_surge_pct": 18.2,
+          "avg_occupancy_pct": 54.7
+        },
+        "2": {
+          "hotel_tier": 2,
+          "label": "Economy / 2-Star / Guest House",
+          "base_price_inr": {
+            "min": 1760,
+            "max": 1900,
+            "avg": 1814
+          },
+          "holiday_price_inr": {
+            "min": 2130,
+            "max": 2280,
+            "avg": 2205
+          },
+          "avg_holiday_surge_pct": 21.6,
+          "avg_occupancy_pct": 57.0
+        },
+        "3": {
+          "hotel_tier": 3,
+          "label": "Midscale / 3-Star",
+          "base_price_inr": {
+            "min": 3030,
+            "max": 3330,
+            "avg": 3152
+          },
+          "holiday_price_inr": {
+            "min": 3650,
+            "max": 3850,
+            "avg": 3750
+          },
+          "avg_holiday_surge_pct": 19.0,
+          "avg_occupancy_pct": 55.8
+        },
+        "4": {
+          "hotel_tier": 4,
+          "label": "Upscale / 4-Star / Boutique Heritage",
+          "base_price_inr": {
+            "min": 5520,
+            "max": 6070,
+            "avg": 5748
+          },
+          "holiday_price_inr": {
+            "min": 6670,
+            "max": 7130,
+            "avg": 6900
+          },
+          "avg_holiday_surge_pct": 20.0,
+          "avg_occupancy_pct": 53.7
+        },
+        "5": {
+          "hotel_tier": 5,
+          "label": "Luxury / 5-Star / Palace Resort",
+          "base_price_inr": {
+            "min": 13290,
+            "max": 14810,
+            "avg": 14177
+          },
+          "holiday_price_inr": {
+            "min": 17940,
+            "max": 18150,
+            "avg": 18045
+          },
+          "avg_holiday_surge_pct": 27.3,
+          "avg_occupancy_pct": 53.7
+        }
+      }
+    },
+    "Mount Abu": {
+      "popularity_tier": "popular",
+      "tiers": {
+        "1": {
+          "hotel_tier": 1,
+          "label": "Budget / Hostel",
+          "base_price_inr": {
+            "min": 820,
+            "max": 900,
+            "avg": 865
+          },
+          "holiday_price_inr": {
+            "min": 990,
+            "max": 1070,
+            "avg": 1030
+          },
+          "avg_holiday_surge_pct": 19.1,
+          "avg_occupancy_pct": 54.6
+        },
+        "2": {
+          "hotel_tier": 2,
+          "label": "Economy / 2-Star / Guest House",
+          "base_price_inr": {
+            "min": 1740,
+            "max": 1880,
+            "avg": 1812
+          },
+          "holiday_price_inr": {
+            "min": 2130,
+            "max": 2280,
+            "avg": 2205
+          },
+          "avg_holiday_surge_pct": 21.7,
+          "avg_occupancy_pct": 55.4
+        },
+        "3": {
+          "hotel_tier": 3,
+          "label": "Midscale / 3-Star",
+          "base_price_inr": {
+            "min": 3020,
+            "max": 3390,
+            "avg": 3245
+          },
+          "holiday_price_inr": {
+            "min": 3800,
+            "max": 4180,
+            "avg": 3990
+          },
+          "avg_holiday_surge_pct": 23.0,
+          "avg_occupancy_pct": 56.0
+        },
+        "4": {
+          "hotel_tier": 4,
+          "label": "Upscale / 4-Star / Boutique Heritage",
+          "base_price_inr": {
+            "min": 5500,
+            "max": 5980,
+            "avg": 5750
+          },
+          "holiday_price_inr": {
+            "min": 7200,
+            "max": 7500,
+            "avg": 7350
+          },
+          "avg_holiday_surge_pct": 27.8,
+          "avg_occupancy_pct": 56.2
+        },
+        "5": {
+          "hotel_tier": 5,
+          "label": "Luxury / 5-Star / Palace Resort",
+          "base_price_inr": {
+            "min": 13340,
+            "max": 14710,
+            "avg": 14171
+          },
+          "holiday_price_inr": {
+            "min": 16340,
+            "max": 18910,
+            "avg": 17625
+          },
+          "avg_holiday_surge_pct": 24.4,
+          "avg_occupancy_pct": 54.3
+        }
+      }
+    },
+    "Thekkady": {
+      "popularity_tier": "popular",
+      "tiers": {
+        "1": {
+          "hotel_tier": 1,
+          "label": "Budget / Hostel",
+          "base_price_inr": {
+            "min": 810,
+            "max": 890,
+            "avg": 861
+          },
+          "holiday_price_inr": {
+            "min": 980,
+            "max": 980,
+            "avg": 980
+          },
+          "avg_holiday_surge_pct": 13.8,
+          "avg_occupancy_pct": 53.5
+        },
+        "2": {
+          "hotel_tier": 2,
+          "label": "Economy / 2-Star / Guest House",
+          "base_price_inr": {
+            "min": 1740,
+            "max": 1880,
+            "avg": 1799
+          },
+          "holiday_price_inr": {
+            "min": 2210,
+            "max": 2210,
+            "avg": 2210
+          },
+          "avg_holiday_surge_pct": 22.8,
+          "avg_occupancy_pct": 53.0
+        },
+        "3": {
+          "hotel_tier": 3,
+          "label": "Midscale / 3-Star",
+          "base_price_inr": {
+            "min": 3020,
+            "max": 3370,
+            "avg": 3175
+          },
+          "holiday_price_inr": {
+            "min": 4000,
+            "max": 4000,
+            "avg": 4000
+          },
+          "avg_holiday_surge_pct": 26.0,
+          "avg_occupancy_pct": 55.2
+        },
+        "4": {
+          "hotel_tier": 4,
+          "label": "Upscale / 4-Star / Boutique Heritage",
+          "base_price_inr": {
+            "min": 5460,
+            "max": 6150,
+            "avg": 5845
+          },
+          "holiday_price_inr": {
+            "min": 7280,
+            "max": 7280,
+            "avg": 7280
+          },
+          "avg_holiday_surge_pct": 24.6,
+          "avg_occupancy_pct": 48.8
+        },
+        "5": {
+          "hotel_tier": 5,
+          "label": "Luxury / 5-Star / Palace Resort",
+          "base_price_inr": {
+            "min": 13520,
+            "max": 14810,
+            "avg": 14265
+          },
+          "holiday_price_inr": {
+            "min": 16870,
+            "max": 16870,
+            "avg": 16870
+          },
+          "avg_holiday_surge_pct": 18.3,
+          "avg_occupancy_pct": 49.2
+        }
+      }
+    },
+    "Shimla": {
+      "popularity_tier": "popular",
+      "tiers": {
+        "1": {
+          "hotel_tier": 1,
+          "label": "Budget / Hostel",
+          "base_price_inr": {
+            "min": 1100,
+            "max": 1190,
+            "avg": 1134
+          },
+          "holiday_price_inr": {
+            "min": 1420,
+            "max": 1420,
+            "avg": 1420
+          },
+          "avg_holiday_surge_pct": 25.3,
+          "avg_occupancy_pct": 51.9
+        },
+        "2": {
+          "hotel_tier": 2,
+          "label": "Economy / 2-Star / Guest House",
+          "base_price_inr": {
+            "min": 2280,
+            "max": 2530,
+            "avg": 2410
+          },
+          "holiday_price_inr": {
+            "min": 3060,
+            "max": 3060,
+            "avg": 3060
+          },
+          "avg_holiday_surge_pct": 27.0,
+          "avg_occupancy_pct": 53.0
+        },
+        "3": {
+          "hotel_tier": 3,
+          "label": "Midscale / 3-Star",
+          "base_price_inr": {
+            "min": 4150,
+            "max": 4500,
+            "avg": 4317
+          },
+          "holiday_price_inr": {
+            "min": 4830,
+            "max": 4830,
+            "avg": 4830
+          },
+          "avg_holiday_surge_pct": 11.9,
+          "avg_occupancy_pct": 50.7
+        },
+        "4": {
+          "hotel_tier": 4,
+          "label": "Upscale / 4-Star / Boutique Heritage",
+          "base_price_inr": {
+            "min": 7350,
+            "max": 8200,
+            "avg": 7898
+          },
+          "holiday_price_inr": {
+            "min": 10450,
+            "max": 10450,
+            "avg": 10450
+          },
+          "avg_holiday_surge_pct": 32.3,
+          "avg_occupancy_pct": 49.9
+        },
+        "5": {
+          "hotel_tier": 5,
+          "label": "Luxury / 5-Star / Palace Resort",
+          "base_price_inr": {
+            "min": 18850,
+            "max": 21140,
+            "avg": 20219
+          },
+          "holiday_price_inr": {
+            "min": 23070,
+            "max": 23070,
+            "avg": 23070
+          },
+          "avg_holiday_surge_pct": 14.1,
+          "avg_occupancy_pct": 53.6
+        }
+      }
+    },
+    "Nainital": {
+      "popularity_tier": "popular",
+      "tiers": {
+        "1": {
+          "hotel_tier": 1,
+          "label": "Budget / Hostel",
+          "base_price_inr": {
+            "min": 830,
+            "max": 900,
+            "avg": 871
+          },
+          "holiday_price_inr": {
+            "min": 1010,
+            "max": 1080,
+            "avg": 1045
+          },
+          "avg_holiday_surge_pct": 20.0,
+          "avg_occupancy_pct": 54.3
+        },
+        "2": {
+          "hotel_tier": 2,
+          "label": "Economy / 2-Star / Guest House",
+          "base_price_inr": {
+            "min": 1700,
+            "max": 1810,
+            "avg": 1757
+          },
+          "holiday_price_inr": {
+            "min": 2170,
+            "max": 2410,
+            "avg": 2290
+          },
+          "avg_holiday_surge_pct": 30.3,
+          "avg_occupancy_pct": 60.0
+        },
+        "3": {
+          "hotel_tier": 3,
+          "label": "Midscale / 3-Star",
+          "base_price_inr": {
+            "min": 3050,
+            "max": 3390,
+            "avg": 3250
+          },
+          "holiday_price_inr": {
+            "min": 3830,
+            "max": 4240,
+            "avg": 4035
+          },
+          "avg_holiday_surge_pct": 24.2,
+          "avg_occupancy_pct": 54.2
+        },
+        "4": {
+          "hotel_tier": 4,
+          "label": "Upscale / 4-Star / Boutique Heritage",
+          "base_price_inr": {
+            "min": 5550,
+            "max": 6100,
+            "avg": 5847
+          },
+          "holiday_price_inr": {
+            "min": 7580,
+            "max": 7970,
+            "avg": 7775
+          },
+          "avg_holiday_surge_pct": 33.0,
+          "avg_occupancy_pct": 52.8
+        },
+        "5": {
+          "hotel_tier": 5,
+          "label": "Luxury / 5-Star / Palace Resort",
+          "base_price_inr": {
+            "min": 13180,
+            "max": 14630,
+            "avg": 13790
+          },
+          "holiday_price_inr": {
+            "min": 17650,
+            "max": 17900,
+            "avg": 17775
+          },
+          "avg_holiday_surge_pct": 28.9,
+          "avg_occupancy_pct": 52.6
+        }
+      }
+    },
+    "Kodaikanal": {
+      "popularity_tier": "popular",
+      "tiers": {
+        "1": {
+          "hotel_tier": 1,
+          "label": "Budget / Hostel",
+          "base_price_inr": {
+            "min": 820,
+            "max": 890,
+            "avg": 857
+          },
+          "holiday_price_inr": {
+            "min": 1110,
+            "max": 1110,
+            "avg": 1110
+          },
+          "avg_holiday_surge_pct": 29.5,
+          "avg_occupancy_pct": 55.4
+        },
+        "2": {
+          "hotel_tier": 2,
+          "label": "Economy / 2-Star / Guest House",
+          "base_price_inr": {
+            "min": 1700,
+            "max": 1900,
+            "avg": 1814
+          },
+          "holiday_price_inr": {
+            "min": 2260,
+            "max": 2260,
+            "avg": 2260
+          },
+          "avg_holiday_surge_pct": 24.6,
+          "avg_occupancy_pct": 53.1
+        },
+        "3": {
+          "hotel_tier": 3,
+          "label": "Midscale / 3-Star",
+          "base_price_inr": {
+            "min": 3060,
+            "max": 3350,
+            "avg": 3272
+          },
+          "holiday_price_inr": {
+            "min": 3750,
+            "max": 3750,
+            "avg": 3750
+          },
+          "avg_holiday_surge_pct": 14.6,
+          "avg_occupancy_pct": 51.5
+        },
+        "4": {
+          "hotel_tier": 4,
+          "label": "Upscale / 4-Star / Boutique Heritage",
+          "base_price_inr": {
+            "min": 5490,
+            "max": 6090,
+            "avg": 5839
+          },
+          "holiday_price_inr": {
+            "min": 7110,
+            "max": 7110,
+            "avg": 7110
+          },
+          "avg_holiday_surge_pct": 21.8,
+          "avg_occupancy_pct": 51.0
+        },
+        "5": {
+          "hotel_tier": 5,
+          "label": "Luxury / 5-Star / Palace Resort",
+          "base_price_inr": {
+            "min": 13450,
+            "max": 14830,
+            "avg": 14005
+          },
+          "holiday_price_inr": {
+            "min": 18180,
+            "max": 18180,
+            "avg": 18180
+          },
+          "avg_holiday_surge_pct": 29.8,
+          "avg_occupancy_pct": 54.2
+        }
+      }
+    },
+    "Chikmagalur": {
+      "popularity_tier": "popular",
+      "tiers": {
+        "1": {
+          "hotel_tier": 1,
+          "label": "Budget / Hostel",
+          "base_price_inr": {
+            "min": 810,
+            "max": 880,
+            "avg": 844
+          },
+          "holiday_price_inr": {
+            "min": 1080,
+            "max": 1090,
+            "avg": 1085
+          },
+          "avg_holiday_surge_pct": 28.6,
+          "avg_occupancy_pct": 50.3
+        },
+        "2": {
+          "hotel_tier": 2,
+          "label": "Economy / 2-Star / Guest House",
+          "base_price_inr": {
+            "min": 1710,
+            "max": 1900,
+            "avg": 1785
+          },
+          "holiday_price_inr": {
+            "min": 2180,
+            "max": 2200,
+            "avg": 2190
+          },
+          "avg_holiday_surge_pct": 22.7,
+          "avg_occupancy_pct": 54.7
+        },
+        "3": {
+          "hotel_tier": 3,
+          "label": "Midscale / 3-Star",
+          "base_price_inr": {
+            "min": 3010,
+            "max": 3350,
+            "avg": 3168
+          },
+          "holiday_price_inr": {
+            "min": 3990,
+            "max": 4010,
+            "avg": 4000
+          },
+          "avg_holiday_surge_pct": 26.3,
+          "avg_occupancy_pct": 54.3
+        },
+        "4": {
+          "hotel_tier": 4,
+          "label": "Upscale / 4-Star / Boutique Heritage",
+          "base_price_inr": {
+            "min": 5460,
+            "max": 6080,
+            "avg": 5766
+          },
+          "holiday_price_inr": {
+            "min": 7410,
+            "max": 7640,
+            "avg": 7525
+          },
+          "avg_holiday_surge_pct": 30.5,
+          "avg_occupancy_pct": 52.7
+        },
+        "5": {
+          "hotel_tier": 5,
+          "label": "Luxury / 5-Star / Palace Resort",
+          "base_price_inr": {
+            "min": 13580,
+            "max": 14790,
+            "avg": 14133
+          },
+          "holiday_price_inr": {
+            "min": 17080,
+            "max": 18530,
+            "avg": 17805
+          },
+          "avg_holiday_surge_pct": 26.0,
+          "avg_occupancy_pct": 54.3
+        }
+      }
+    },
+    "Gokarna": {
+      "popularity_tier": "popular",
+      "tiers": {
+        "1": {
+          "hotel_tier": 1,
+          "label": "Budget / Hostel",
+          "base_price_inr": {
+            "min": 800,
+            "max": 900,
+            "avg": 855
+          },
+          "holiday_price_inr": {
+            "min": 1050,
+            "max": 1050,
+            "avg": 1050
+          },
+          "avg_holiday_surge_pct": 22.9,
+          "avg_occupancy_pct": 53.2
+        },
+        "2": {
+          "hotel_tier": 2,
+          "label": "Economy / 2-Star / Guest House",
+          "base_price_inr": {
+            "min": 1690,
+            "max": 1910,
+            "avg": 1798
+          },
+          "holiday_price_inr": {
+            "min": 2190,
+            "max": 2190,
+            "avg": 2190
+          },
+          "avg_holiday_surge_pct": 21.8,
+          "avg_occupancy_pct": 51.2
+        },
+        "3": {
+          "hotel_tier": 3,
+          "label": "Midscale / 3-Star",
+          "base_price_inr": {
+            "min": 3020,
+            "max": 3380,
+            "avg": 3183
+          },
+          "holiday_price_inr": {
+            "min": 3870,
+            "max": 3870,
+            "avg": 3870
+          },
+          "avg_holiday_surge_pct": 21.6,
+          "avg_occupancy_pct": 53.6
+        },
+        "4": {
+          "hotel_tier": 4,
+          "label": "Upscale / 4-Star / Boutique Heritage",
+          "base_price_inr": {
+            "min": 5470,
+            "max": 6030,
+            "avg": 5769
+          },
+          "holiday_price_inr": {
+            "min": 7460,
+            "max": 7460,
+            "avg": 7460
+          },
+          "avg_holiday_surge_pct": 29.3,
+          "avg_occupancy_pct": 54.8
+        },
+        "5": {
+          "hotel_tier": 5,
+          "label": "Luxury / 5-Star / Palace Resort",
+          "base_price_inr": {
+            "min": 13340,
+            "max": 14650,
+            "avg": 14138
+          },
+          "holiday_price_inr": {
+            "min": 15890,
+            "max": 15890,
+            "avg": 15890
+          },
+          "avg_holiday_surge_pct": 12.4,
+          "avg_occupancy_pct": 52.5
+        }
+      }
+    },
+    "Jim Corbett": {
+      "popularity_tier": "popular",
+      "tiers": {
+        "1": {
+          "hotel_tier": 1,
+          "label": "Budget / Hostel",
+          "base_price_inr": {
+            "min": 810,
+            "max": 900,
+            "avg": 862
+          },
+          "holiday_price_inr": {
+            "min": 810,
+            "max": 900,
+            "avg": 862
+          },
+          "avg_holiday_surge_pct": 0.0,
+          "avg_occupancy_pct": 51.8
+        },
+        "2": {
+          "hotel_tier": 2,
+          "label": "Economy / 2-Star / Guest House",
+          "base_price_inr": {
+            "min": 1700,
+            "max": 1850,
+            "avg": 1771
+          },
+          "holiday_price_inr": {
+            "min": 1700,
+            "max": 1850,
+            "avg": 1771
+          },
+          "avg_holiday_surge_pct": 0.0,
+          "avg_occupancy_pct": 50.8
+        },
+        "3": {
+          "hotel_tier": 3,
+          "label": "Midscale / 3-Star",
+          "base_price_inr": {
+            "min": 3040,
+            "max": 3390,
+            "avg": 3227
+          },
+          "holiday_price_inr": {
+            "min": 3040,
+            "max": 3390,
+            "avg": 3227
+          },
+          "avg_holiday_surge_pct": 0.0,
+          "avg_occupancy_pct": 54.4
+        },
+        "4": {
+          "hotel_tier": 4,
+          "label": "Upscale / 4-Star / Boutique Heritage",
+          "base_price_inr": {
+            "min": 5610,
+            "max": 6140,
+            "avg": 5873
+          },
+          "holiday_price_inr": {
+            "min": 5610,
+            "max": 6140,
+            "avg": 5873
+          },
+          "avg_holiday_surge_pct": 0.0,
+          "avg_occupancy_pct": 54.2
+        },
+        "5": {
+          "hotel_tier": 5,
+          "label": "Luxury / 5-Star / Palace Resort",
+          "base_price_inr": {
+            "min": 13340,
+            "max": 14790,
+            "avg": 14095
+          },
+          "holiday_price_inr": {
+            "min": 13340,
+            "max": 14790,
+            "avg": 14095
+          },
+          "avg_holiday_surge_pct": 0.0,
+          "avg_occupancy_pct": 51.0
+        }
+      }
+    },
+    "Varkala": {
+      "popularity_tier": "popular",
+      "tiers": {
+        "1": {
+          "hotel_tier": 1,
+          "label": "Budget / Hostel",
+          "base_price_inr": {
+            "min": 800,
+            "max": 890,
+            "avg": 849
+          },
+          "holiday_price_inr": {
+            "min": 800,
+            "max": 890,
+            "avg": 849
+          },
+          "avg_holiday_surge_pct": 0.0,
+          "avg_occupancy_pct": 50.3
+        },
+        "2": {
+          "hotel_tier": 2,
+          "label": "Economy / 2-Star / Guest House",
+          "base_price_inr": {
+            "min": 1760,
+            "max": 1900,
+            "avg": 1843
+          },
+          "holiday_price_inr": {
+            "min": 1760,
+            "max": 1900,
+            "avg": 1843
+          },
+          "avg_holiday_surge_pct": 0.0,
+          "avg_occupancy_pct": 53.2
+        },
+        "3": {
+          "hotel_tier": 3,
+          "label": "Midscale / 3-Star",
+          "base_price_inr": {
+            "min": 3010,
+            "max": 3380,
+            "avg": 3222
+          },
+          "holiday_price_inr": {
+            "min": 3010,
+            "max": 3380,
+            "avg": 3222
+          },
+          "avg_holiday_surge_pct": 0.0,
+          "avg_occupancy_pct": 47.8
+        },
+        "4": {
+          "hotel_tier": 4,
+          "label": "Upscale / 4-Star / Boutique Heritage",
+          "base_price_inr": {
+            "min": 5500,
+            "max": 6120,
+            "avg": 5913
+          },
+          "holiday_price_inr": {
+            "min": 5500,
+            "max": 6120,
+            "avg": 5913
+          },
+          "avg_holiday_surge_pct": 0.0,
+          "avg_occupancy_pct": 49.1
+        },
+        "5": {
+          "hotel_tier": 5,
+          "label": "Luxury / 5-Star / Palace Resort",
+          "base_price_inr": {
+            "min": 13220,
+            "max": 14790,
+            "avg": 13958
+          },
+          "holiday_price_inr": {
+            "min": 13220,
+            "max": 14790,
+            "avg": 13958
+          },
+          "avg_holiday_surge_pct": 0.0,
+          "avg_occupancy_pct": 52.9
+        }
+      }
+    },
+    "Kochi": {
+      "popularity_tier": "popular",
+      "tiers": {
+        "1": {
+          "hotel_tier": 1,
+          "label": "Budget / Hostel",
+          "base_price_inr": {
+            "min": 800,
+            "max": 900,
+            "avg": 854
+          },
+          "holiday_price_inr": {
+            "min": 970,
+            "max": 1020,
+            "avg": 995
+          },
+          "avg_holiday_surge_pct": 16.5,
+          "avg_occupancy_pct": 53.7
+        },
+        "2": {
+          "hotel_tier": 2,
+          "label": "Economy / 2-Star / Guest House",
+          "base_price_inr": {
+            "min": 1720,
+            "max": 1900,
+            "avg": 1809
+          },
+          "holiday_price_inr": {
+            "min": 2260,
+            "max": 2400,
+            "avg": 2330
+          },
+          "avg_holiday_surge_pct": 28.8,
+          "avg_occupancy_pct": 55.2
+        },
+        "3": {
+          "hotel_tier": 3,
+          "label": "Midscale / 3-Star",
+          "base_price_inr": {
+            "min": 3020,
+            "max": 3390,
+            "avg": 3194
+          },
+          "holiday_price_inr": {
+            "min": 3870,
+            "max": 3970,
+            "avg": 3920
+          },
+          "avg_holiday_surge_pct": 22.7,
+          "avg_occupancy_pct": 54.2
+        },
+        "4": {
+          "hotel_tier": 4,
+          "label": "Upscale / 4-Star / Boutique Heritage",
+          "base_price_inr": {
+            "min": 5460,
+            "max": 6110,
+            "avg": 5816
+          },
+          "holiday_price_inr": {
+            "min": 7130,
+            "max": 7170,
+            "avg": 7150
+          },
+          "avg_holiday_surge_pct": 22.9,
+          "avg_occupancy_pct": 55.8
+        },
+        "5": {
+          "hotel_tier": 5,
+          "label": "Luxury / 5-Star / Palace Resort",
+          "base_price_inr": {
+            "min": 13190,
+            "max": 14830,
+            "avg": 13910
+          },
+          "holiday_price_inr": {
+            "min": 17880,
+            "max": 18100,
+            "avg": 17990
+          },
+          "avg_holiday_surge_pct": 29.3,
+          "avg_occupancy_pct": 54.8
+        }
+      }
+    },
+    "Rameshwaram": {
+      "popularity_tier": "popular",
+      "tiers": {
+        "1": {
+          "hotel_tier": 1,
+          "label": "Budget / Hostel",
+          "base_price_inr": {
+            "min": 810,
+            "max": 900,
+            "avg": 859
+          },
+          "holiday_price_inr": {
+            "min": 1090,
+            "max": 1120,
+            "avg": 1105
+          },
+          "avg_holiday_surge_pct": 28.6,
+          "avg_occupancy_pct": 53.2
+        },
+        "2": {
+          "hotel_tier": 2,
+          "label": "Economy / 2-Star / Guest House",
+          "base_price_inr": {
+            "min": 1710,
+            "max": 1900,
+            "avg": 1812
+          },
+          "holiday_price_inr": {
+            "min": 2000,
+            "max": 2230,
+            "avg": 2115
+          },
+          "avg_holiday_surge_pct": 16.7,
+          "avg_occupancy_pct": 51.5
+        },
+        "3": {
+          "hotel_tier": 3,
+          "label": "Midscale / 3-Star",
+          "base_price_inr": {
+            "min": 3010,
+            "max": 3390,
+            "avg": 3134
+          },
+          "holiday_price_inr": {
+            "min": 3740,
+            "max": 4070,
+            "avg": 3905
+          },
+          "avg_holiday_surge_pct": 24.6,
+          "avg_occupancy_pct": 55.7
+        },
+        "4": {
+          "hotel_tier": 4,
+          "label": "Upscale / 4-Star / Boutique Heritage",
+          "base_price_inr": {
+            "min": 5540,
+            "max": 6150,
+            "avg": 5801
+          },
+          "holiday_price_inr": {
+            "min": 7280,
+            "max": 7620,
+            "avg": 7450
+          },
+          "avg_holiday_surge_pct": 28.4,
+          "avg_occupancy_pct": 54.4
+        },
+        "5": {
+          "hotel_tier": 5,
+          "label": "Luxury / 5-Star / Palace Resort",
+          "base_price_inr": {
+            "min": 13190,
+            "max": 14760,
+            "avg": 13905
+          },
+          "holiday_price_inr": {
+            "min": 17060,
+            "max": 17420,
+            "avg": 17240
+          },
+          "avg_holiday_surge_pct": 24.0,
+          "avg_occupancy_pct": 55.3
+        }
+      }
+    },
+    "Nashik": {
+      "popularity_tier": "popular",
+      "tiers": {
+        "1": {
+          "hotel_tier": 1,
+          "label": "Budget / Hostel",
+          "base_price_inr": {
+            "min": 800,
+            "max": 890,
+            "avg": 836
+          },
+          "holiday_price_inr": {
+            "min": 1080,
+            "max": 1080,
+            "avg": 1080
+          },
+          "avg_holiday_surge_pct": 29.1,
+          "avg_occupancy_pct": 52.6
+        },
+        "2": {
+          "hotel_tier": 2,
+          "label": "Economy / 2-Star / Guest House",
+          "base_price_inr": {
+            "min": 1700,
+            "max": 1870,
+            "avg": 1781
+          },
+          "holiday_price_inr": {
+            "min": 2330,
+            "max": 2330,
+            "avg": 2330
+          },
+          "avg_holiday_surge_pct": 30.8,
+          "avg_occupancy_pct": 53.2
+        },
+        "3": {
+          "hotel_tier": 3,
+          "label": "Midscale / 3-Star",
+          "base_price_inr": {
+            "min": 3050,
+            "max": 3330,
+            "avg": 3226
+          },
+          "holiday_price_inr": {
+            "min": 3910,
+            "max": 3910,
+            "avg": 3910
+          },
+          "avg_holiday_surge_pct": 21.2,
+          "avg_occupancy_pct": 50.9
+        },
+        "4": {
+          "hotel_tier": 4,
+          "label": "Upscale / 4-Star / Boutique Heritage",
+          "base_price_inr": {
+            "min": 5630,
+            "max": 6110,
+            "avg": 5886
+          },
+          "holiday_price_inr": {
+            "min": 6940,
+            "max": 6940,
+            "avg": 6940
+          },
+          "avg_holiday_surge_pct": 17.9,
+          "avg_occupancy_pct": 50.9
+        },
+        "5": {
+          "hotel_tier": 5,
+          "label": "Luxury / 5-Star / Palace Resort",
+          "base_price_inr": {
+            "min": 13520,
+            "max": 14670,
+            "avg": 14091
+          },
+          "holiday_price_inr": {
+            "min": 17570,
+            "max": 17570,
+            "avg": 17570
+          },
+          "avg_holiday_surge_pct": 24.7,
+          "avg_occupancy_pct": 54.2
+        }
+      }
+    },
+    "Tawang": {
+      "popularity_tier": "gem",
+      "tiers": {
+        "1": {
+          "hotel_tier": 1,
+          "label": "Budget / Hostel",
+          "base_price_inr": {
+            "min": 810,
+            "max": 900,
+            "avg": 838
+          },
+          "holiday_price_inr": {
+            "min": 810,
+            "max": 900,
+            "avg": 838
+          },
+          "avg_holiday_surge_pct": 0.0,
+          "avg_occupancy_pct": 51.0
+        },
+        "2": {
+          "hotel_tier": 2,
+          "label": "Economy / 2-Star / Guest House",
+          "base_price_inr": {
+            "min": 1700,
+            "max": 1900,
+            "avg": 1813
+          },
+          "holiday_price_inr": {
+            "min": 1700,
+            "max": 1900,
+            "avg": 1813
+          },
+          "avg_holiday_surge_pct": 0.0,
+          "avg_occupancy_pct": 53.0
+        },
+        "3": {
+          "hotel_tier": 3,
+          "label": "Midscale / 3-Star",
+          "base_price_inr": {
+            "min": 3040,
+            "max": 3390,
+            "avg": 3189
+          },
+          "holiday_price_inr": {
+            "min": 3040,
+            "max": 3390,
+            "avg": 3189
+          },
+          "avg_holiday_surge_pct": 0.0,
+          "avg_occupancy_pct": 48.1
+        },
+        "4": {
+          "hotel_tier": 4,
+          "label": "Upscale / 4-Star / Boutique Heritage",
+          "base_price_inr": {
+            "min": 5520,
+            "max": 6050,
+            "avg": 5806
+          },
+          "holiday_price_inr": {
+            "min": 5520,
+            "max": 6050,
+            "avg": 5806
+          },
+          "avg_holiday_surge_pct": 0.0,
+          "avg_occupancy_pct": 51.8
+        }
+      }
+    },
+    "Leh Ladakh": {
+      "popularity_tier": "popular",
+      "tiers": {
+        "1": {
+          "hotel_tier": 1,
+          "label": "Budget / Hostel",
+          "base_price_inr": {
+            "min": 1230,
+            "max": 1370,
+            "avg": 1292
+          },
+          "holiday_price_inr": {
+            "min": 1570,
+            "max": 1700,
+            "avg": 1635
+          },
+          "avg_holiday_surge_pct": 26.5,
+          "avg_occupancy_pct": 54.7
+        },
+        "2": {
+          "hotel_tier": 2,
+          "label": "Economy / 2-Star / Guest House",
+          "base_price_inr": {
+            "min": 2450,
+            "max": 2710,
+            "avg": 2589
+          },
+          "holiday_price_inr": {
+            "min": 3170,
+            "max": 3220,
+            "avg": 3195
+          },
+          "avg_holiday_surge_pct": 23.4,
+          "avg_occupancy_pct": 56.2
+        },
+        "3": {
+          "hotel_tier": 3,
+          "label": "Midscale / 3-Star",
+          "base_price_inr": {
+            "min": 4360,
+            "max": 4850,
+            "avg": 4653
+          },
+          "holiday_price_inr": {
+            "min": 5540,
+            "max": 5550,
+            "avg": 5545
+          },
+          "avg_holiday_surge_pct": 19.2,
+          "avg_occupancy_pct": 55.0
+        },
+        "4": {
+          "hotel_tier": 4,
+          "label": "Upscale / 4-Star / Boutique Heritage",
+          "base_price_inr": {
+            "min": 7930,
+            "max": 8630,
+            "avg": 8285
+          },
+          "holiday_price_inr": {
+            "min": 9890,
+            "max": 10850,
+            "avg": 10370
+          },
+          "avg_holiday_surge_pct": 25.2,
+          "avg_occupancy_pct": 56.8
+        },
+        "5": {
+          "hotel_tier": 5,
+          "label": "Luxury / 5-Star / Palace Resort",
+          "base_price_inr": {
+            "min": 18300,
+            "max": 19970,
+            "avg": 19361
+          },
+          "holiday_price_inr": {
+            "min": 23430,
+            "max": 23730,
+            "avg": 23580
+          },
+          "avg_holiday_surge_pct": 21.8,
+          "avg_occupancy_pct": 56.3
+        }
+      }
+    },
+    "Shillong": {
+      "popularity_tier": "popular",
+      "tiers": {
+        "1": {
+          "hotel_tier": 1,
+          "label": "Budget / Hostel",
+          "base_price_inr": {
+            "min": 800,
+            "max": 890,
+            "avg": 842
+          },
+          "holiday_price_inr": {
+            "min": 1120,
+            "max": 1150,
+            "avg": 1135
+          },
+          "avg_holiday_surge_pct": 34.8,
+          "avg_occupancy_pct": 53.7
+        },
+        "2": {
+          "hotel_tier": 2,
+          "label": "Economy / 2-Star / Guest House",
+          "base_price_inr": {
+            "min": 1700,
+            "max": 1880,
+            "avg": 1807
+          },
+          "holiday_price_inr": {
+            "min": 2160,
+            "max": 2250,
+            "avg": 2205
+          },
+          "avg_holiday_surge_pct": 22.0,
+          "avg_occupancy_pct": 54.3
+        },
+        "3": {
+          "hotel_tier": 3,
+          "label": "Midscale / 3-Star",
+          "base_price_inr": {
+            "min": 3080,
+            "max": 3370,
+            "avg": 3245
+          },
+          "holiday_price_inr": {
+            "min": 3870,
+            "max": 3890,
+            "avg": 3880
+          },
+          "avg_holiday_surge_pct": 19.6,
+          "avg_occupancy_pct": 54.6
+        },
+        "4": {
+          "hotel_tier": 4,
+          "label": "Upscale / 4-Star / Boutique Heritage",
+          "base_price_inr": {
+            "min": 5510,
+            "max": 6130,
+            "avg": 5741
+          },
+          "holiday_price_inr": {
+            "min": 7230,
+            "max": 7690,
+            "avg": 7460
+          },
+          "avg_holiday_surge_pct": 29.9,
+          "avg_occupancy_pct": 51.2
+        },
+        "5": {
+          "hotel_tier": 5,
+          "label": "Luxury / 5-Star / Palace Resort",
+          "base_price_inr": {
+            "min": 13310,
+            "max": 14820,
+            "avg": 14002
+          },
+          "holiday_price_inr": {
+            "min": 16420,
+            "max": 18470,
+            "avg": 17445
+          },
+          "avg_holiday_surge_pct": 24.6,
+          "avg_occupancy_pct": 53.5
+        }
+      }
+    }
+  }
+}

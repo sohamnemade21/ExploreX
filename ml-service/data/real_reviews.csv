@@ -1,0 +1,805 @@
+destination,rating,text,date
+Tarkarli,1,Driving towards Tarkarli Beach was a frustrating ordeal — heavy gridlock along narrow coastal lane in Tarkarli cost us two hours of precious time.,2026-01-01
+Tarkarli,1,Unorganized visitor queues near scuba boat jetty completely ruined our time at Sindhudurg Sea Fort in Tarkarli. Restroom facilities were in terrible shape.,2026-02-04
+Tarkarli,2,"Although Devbagh Sangam Point holds historic value, aggressive street hawkers near Devbagh sangam road in Tarkarli made it hard to enjoy a quiet walk.",2026-03-07
+Tarkarli,2,Long waiting lines outside Atithi Bamboo Malvani Dining left us exhausted. The Malvani rassa served near narrow coastal lane in Tarkarli was overpriced and bland.,2026-04-10
+Tarkarli,3,"Spent roughly 40 minutes around Malvan Marine Reserve in Tarkarli. The perspective towards scuba boat jetty was decent, though afternoon heat was oppressive.",2026-05-13
+Tarkarli,3,Checking out Malvan Rock Garden makes for a fine brief stop in Tarkarli. Limited vehicle parking near narrow coastal lane can be tricky during weekends.,2026-06-16
+Tarkarli,3,A fair overall visit to Tarkarli Beach. Surrounding views near Devbagh sangam road in Tarkarli are pleasant enough if you are staying nearby.,2026-07-19
+Tarkarli,4,Thoroughly enjoyed our visit to Sindhudurg Sea Fort! The clean pathways around scuba boat jetty made our excursion in Tarkarli very pleasant.,2026-08-22
+Tarkarli,4,Tasted incredible Malvani rassa right beside Devbagh Sangam Point. Pairing a good local meal with exploring Devbagh sangam road was a high point in Tarkarli.,2026-09-25
+Tarkarli,4,Stunning panoramic lighting at Atithi Bamboo Malvani Dining around 8:15 AM before afternoon mist settled over Tarkarli. Definitely arrive early.,2026-10-01
+Tarkarli,5,"Absolute crown jewel of our journey in Maharashtra! Tarkarli Beach in Tarkarli is remarkably serene, pristine, and full of character.",2026-11-04
+Tarkarli,5,"Experiencing Sindhudurg Sea Fort in Tarkarli at 7 AM was pure bliss — quiet morning air, glowing sunlight over Devbagh sangam road, and zero crowds.",2026-12-07
+Sindhudurg,1,Navigating to Vijaydurg Sea Fort turned into a nightmare because parking was non-existent along boat jetty queue in Sindhudurg.,2026-01-02
+Sindhudurg,1,Filthy restroom facilities and zero drinking water booths near Sindhudurg Fort Citadel made our visit to Sindhudurg extremely unpleasant for the family.,2026-02-05
+Sindhudurg,2,"The view from Padmagad Island Fortress is decent, but persistent vendors along boat jetty queue in Sindhudurg ruin the peaceful atmosphere.",2026-03-08
+Sindhudurg,2,We waited over 45 minutes for a table near Chaitanya Seafood Hotel. Service was overwhelmed and the local Malvan fried fish in Sindhudurg felt rushed.,2026-04-11
+Sindhudurg,3,"Decent stop at Achara Mangrove Beach in Sindhudurg. The view towards sea fort ferry pier was nice, though foggy weather blocked peak visibility.",2026-05-14
+Sindhudurg,3,Good atmosphere around sea fort ferry pier in Sindhudurg. We stopped by Chivla Beach Cove before lunch and enjoyed a brief walk.,2026-06-17
+Sindhudurg,3,"A standard visit to Vijaydurg Sea Fort. The nearby Malvan fried fish in Sindhudurg was satisfying, and the location near Chivla beach cove is easy to find.",2026-07-20
+Sindhudurg,4,Really enjoyed our time at Sindhudurg Fort Citadel! The surroundings near sea fort ferry pier in Sindhudurg were clean and very well maintained.,2026-08-23
+Sindhudurg,4,Had a fantastic afternoon exploring Padmagad Island Fortress. The atmosphere near Chivla beach cove in Sindhudurg was energetic and lively.,2026-09-26
+Sindhudurg,4,Impressive site! Chaitanya Seafood Hotel is definitely one of the top attractions in Sindhudurg. Arrive early to beat the heat.,2026-10-02
+Sindhudurg,5,Absolute perfection! Vijaydurg Sea Fort completely exceeded our expectations. The morning views over sea fort ferry pier in Sindhudurg were breathtaking.,2026-11-05
+Sindhudurg,5,Breathtaking scenery and incredible heritage! Sindhudurg Fort Citadel in Sindhudurg is an absolute masterpiece. Must visit early morning.,2026-12-08
+Kolhapur,1,Our morning visit to Mahalakshmi Ambabai Temple was ruined by chaotic traffic and greedy cab drivers demanding triple rates near temple parking bay in Kolhapur.,2026-01-03
+Kolhapur,1,Ticket counter queues at Panhala Fort Ramparts moved at a crawl. We waited 75 minutes in the heat outside Mahalakshmi shrine corridor in Kolhapur.,2026-02-06
+Kolhapur,2,"Visited Rankala Lake Walkway around midday. While the structure is impressive, parking near Rankala lake promenade in Kolhapur was disorganized.",2026-03-09
+Kolhapur,2,Food stalls near New Palace Shahu Museum charge double the normal rate for basic meals. Local authorities in Kolhapur should monitor this.,2026-04-12
+Kolhapur,3,"Visited Opal Kolhapuri Thali House in the afternoon. Pleasant breeze along temple parking bay, but commercial stalls near Mahalakshmi shrine corridor in Kolhapur are growing.",2026-05-15
+Kolhapur,3,"Bhavani Mandap Chappal Market offers nice photo opportunities. It gets busy after 4 PM, so plan your visit to Kolhapur accordingly.",2026-06-18
+Kolhapur,3,Mahalakshmi Ambabai Temple is fine for a quick one-hour visit. Beautiful lighting in late afternoon around Rankala lake promenade in Kolhapur.,2026-07-21
+Kolhapur,4,Great morning walk around Panhala Fort Ramparts. We arrived at 8 AM and got fantastic clear views of Mahalakshmi shrine corridor before crowds arrived in Kolhapur.,2026-08-24
+Kolhapur,4,Loved the architecture and scale of Rankala Lake Walkway. A very memorable highlight of our travel through Maharashtra and Kolhapur.,2026-09-27
+Kolhapur,4,We spent over two hours at New Palace Shahu Museum and loved every minute. The view towards temple parking bay in Kolhapur is spectacular.,2026-10-03
+Kolhapur,5,"The highlight of our entire trip to Maharashtra! Mahalakshmi Ambabai Temple in Kolhapur is pristine, quiet at sunrise, and deeply atmospheric.",2026-11-06
+Kolhapur,5,"Pure bliss at Panhala Fort Ramparts! The morning mist hovering over Rankala lake promenade in Kolhapur created a surreal, postcard-perfect scene.",2026-12-09
+Solapur,1,Reaching the entrance of Solapur Bhuikot Fort became stressful when vehicle queues backed up for three kilometers approaching highway bypass in Solapur.,2026-01-04
+Solapur,1,Terrible crowd management at Siddheshwar Temple Lake in Solapur. People were pushing near Bhuikot fort entry gate without any security or staff intervention.,2026-02-07
+Solapur,2,"Great Indian Bustard Reserve Nannaj has local significance, but the surrounding area in Solapur is overcrowded and lacks proper seating facilities near Siddheshwar temple pond.",2026-03-10
+Solapur,2,Disappointed by the food quality near Pundalik Shenoli Chivda Mess. Our order of Shenoli chivda in Solapur took forever and arrived lukewarm.,2026-04-13
+Solapur,3,Solapur Textile Market is a fair inclusion in a Solapur itinerary. Spent about 45 minutes here exploring the grounds near Bhuikot fort entry gate.,2026-05-16
+Solapur,3,Sampled Shenoli chivda near Great Indian Bustard Sanctuary Gate Nannaj which was quite tasty. The sight itself in Solapur is small but well-located.,2026-06-19
+Solapur,3,Walked around Solapur Bhuikot Fort after visiting Siddheshwar temple pond. Good place for families traveling through Maharashtra.,2026-07-22
+Solapur,4,Highly recommend visiting Siddheshwar Temple Lake when in Solapur. The guided walk around Bhuikot fort entry gate provided great local history of Maharashtra.,2026-08-25
+Solapur,4,Tasted delicious authentic Shenoli chivda near Great Indian Bustard Reserve Nannaj. Combining lunch with visiting Siddheshwar temple pond made for a perfect afternoon in Solapur.,2026-09-01
+Solapur,4,Excellent stop in Maharashtra. The path leading to Pundalik Shenoli Chivda Mess from highway bypass was lined with vibrant local shops selling Shenoli chivda in Solapur.,2026-10-04
+Solapur,5,Unforgettable experience at Solapur Bhuikot Fort. Sitting near Bhuikot fort entry gate in Solapur with a warm cup of tea was pure magic.,2026-11-07
+Solapur,5,"Flawless trip to Siddheshwar Temple Lake. Friendly locals in Solapur, delicious Shenoli chivda nearby, and pristine surroundings around Siddheshwar temple pond.",2026-12-10
+Aurangabad,1,The road leading up to Ajanta Caves Art was completely disorganized with cars parked bumper-to-bumper all down ticket counter queue in Aurangabad.,2026-01-05
+Aurangabad,1,Extremely unhygienic conditions near Ellora Kailasa Temple Cave. Trash was overflowing around Ajanta cave 16 steps and public amenities in Aurangabad were broken.,2026-02-08
+Aurangabad,2,"Okay place if you are nearby, but don't make a long trip for Bibi Ka Maqbara Tomb. The food options near Bibi Ka Maqbara gardens in Aurangabad were average at best.",2026-03-11
+Aurangabad,2,Overpriced dining options near Daulatabad Fort Hill Citadel. We paid ₹600 for a simple plate of Naan qalia in Aurangabad that tasted very average.,2026-04-14
+Aurangabad,3,Nice spot for a quick photo at Bhoj Naan Qalia Dining. Make sure to carry your own water as shops near Ajanta cave 16 steps in Aurangabad are pricey.,2026-05-17
+Aurangabad,3,"Spent a relaxed hour at Gul Mandi Silk Bazaar. Nothing extraordinary, but a peaceful spot near Ajanta cave 16 steps away from main city noise in Aurangabad.",2026-06-20
+Aurangabad,3,Fairly pleasant surroundings at Ajanta Caves Art. The breeze from ticket counter queue in Aurangabad was refreshing on a warm day.,2026-07-23
+Aurangabad,4,Beautiful spot! Loved the fresh Naan qalia served at the small eatery right outside Ellora Kailasa Temple Cave in Aurangabad.,2026-08-26
+Aurangabad,4,Very scenic surroundings at Bibi Ka Maqbara Tomb! Walking along ticket counter queue as the sun set over Bibi Ka Maqbara gardens in Aurangabad was delightful.,2026-09-02
+Aurangabad,4,Beautiful lighting for photography at Daulatabad Fort Hill Citadel around 5 PM. A charming place in Aurangabad that shouldn't be missed.,2026-10-05
+Aurangabad,5,10/10 destination! Ajanta Caves Art in Aurangabad is stunningly beautiful. Everything from the local Naan qalia to the scenery was top tier.,2026-11-08
+Aurangabad,5,Outstanding highlight of Maharashtra! Ellora Kailasa Temple Cave in Aurangabad offers unbelievable views and a rich cultural experience.,2026-12-11
+Ratnagiri,1,Getting stuck near Ratnadurg Coastal Fort resulted in a 90-minute delay due to narrow road bottlenecks along coastal hill road in Ratnagiri.,2026-01-06
+Ratnagiri,1,"Disappointing experience at Thiba Palace Royal Residence. We stood in a chaotic, unshaded line near Thiba palace lawn in Ratnagiri for over an hour.",2026-02-09
+Ratnagiri,2,Extremely crowded near Ganpatipule beach path. We could barely get a decent photo of Ganpatipule Temple Beach without dozens of tourists in frame.,2026-03-12
+Ratnagiri,2,Extremely slow service near Vivek Hotel Malvani Kitchen. Finding a clean table near coastal hill road in Ratnagiri was a struggle during peak lunch hours.,2026-04-15
+Ratnagiri,3,"Mixed feelings about Bhatye Beach Sands. The landscape near Thiba palace lawn is beautiful, but the approach road from Ratnagiri town needs repairs.",2026-05-18
+Ratnagiri,3,Reasonable experience at Mandavi Beach Gateway of Ratnagiri. Parking near coastal hill road in Ratnagiri was manageable during weekday morning hours.,2026-06-21
+Ratnagiri,3,Decent spot in Ratnagiri. Ratnadurg Coastal Fort is worth checking out near Ganpatipule beach path if you have extra time on your hands.,2026-07-24
+Ratnagiri,4,Thiba Palace Royal Residence is a must-see in Ratnagiri. Smooth entry process near Thiba palace lawn and wonderful photo opportunities all around.,2026-08-27
+Ratnagiri,4,Great experience at Ganpatipule Temple Beach. Well-kept gardens near Ganpatipule beach path and clear signage made our visit to Ratnagiri very comfortable.,2026-09-03
+Ratnagiri,4,Thoroughly enjoyed our visit to Vivek Hotel Malvani Kitchen. Peaceful atmosphere near coastal hill road and very welcoming local staff in Ratnagiri.,2026-10-06
+Ratnagiri,5,Magical visit to Ratnadurg Coastal Fort. The panoramic vista from Thiba palace lawn in Ratnagiri is something we will cherish forever.,2026-11-09
+Ratnagiri,5,An absolute jewel in Ratnagiri! We spent hours admiring Thiba Palace Royal Residence and walking along Ganpatipule beach path. Simply incredible.,2026-12-12
+Lonavala,1,Arriving at Karla Caves Rock Shrines was a waste of effort as entry gates near ghat traffic bend in Lonavala were choked with unmanaged vehicles.,2026-01-07
+Lonavala,1,"Poorly maintained facilities around Lohagad Hill Fort Trek. The restrooms near Karla cave climbing steps in Lonavala were shut down, causing massive inconvenience.",2026-02-10
+Lonavala,2,"Decent architectural features at Tiger Point Ridge Overlook, but loud commercial stalls right next to Tiger point cliff edge in Lonavala spoil the charm.",2026-03-13
+Lonavala,2,The environment around Bhushi Dam Monsoon Spillway was far too noisy. We ordered Maganlal chikki in Lonavala but couldn't eat peacefully due to crowds.,2026-04-16
+Lonavala,3,"Standard sight visit to Rama Krishna Veg Dining in Lonavala. The area around Karla cave climbing steps is clean, though seating is somewhat limited.",2026-05-19
+Lonavala,3,"Pretty location at Maganlal Chikki Store Bazaar in Lonavala. The walk along ghat traffic bend was pleasant, though visitor amenities are basic.",2026-06-22
+Lonavala,3,Quiet evening visit to Karla Caves Rock Shrines. Lighting around Tiger point cliff edge in Lonavala makes for a nice ambient stroll.,2026-07-25
+Lonavala,4,Very positive experience visiting Lohagad Hill Fort Trek. The historical grounds near Karla cave climbing steps in Lonavala are beautifully preserved.,2026-08-01
+Lonavala,4,Splendid afternoon visit to Tiger Point Ridge Overlook. Enjoyed fresh Maganlal chikki at a nearby cafe after walking around Tiger point cliff edge in Lonavala.,2026-09-04
+Lonavala,4,Wonderful morning walk at Bhushi Dam Monsoon Spillway. The views over Lonavala from the main deck near ghat traffic bend were top notch.,2026-10-07
+Lonavala,5,Pure bliss at Karla Caves Rock Shrines! The morning light reflecting over Karla cave climbing steps in Lonavala created a postcard-perfect memory.,2026-11-10
+Lonavala,5,Unmatched beauty at Lohagad Hill Fort Trek. Seeing the sunrise over Tiger point cliff edge in Lonavala was the single best moment of our vacation.,2026-12-13
+Pune,1,Heading over to Shaniwar Wada Palace Citadel left us stranded in midday heat as traffic near city bus stop in Pune ground to a complete halt.,2026-01-08
+Pune,1,Horrible entry process at Aga Khan Palace Memorial. Staff near Shaniwar Wada main gate in Pune were rude and unable to manage the weekend crowd.,2026-02-11
+Pune,2,Slightly underwhelming visit to Dagadusheth Halwai Ganapati Temple. The area around Koregaon park lane in Pune was quite noisy and littered with flyers.,2026-03-14
+Pune,2,Underwhelming food stop near Sinhagad Mountain Fort. The famous Vaishali masala dosa in Pune did not live up to the hype and prices were inflated.,2026-04-17
+Pune,3,"Fair experience at Vaishali Restaurant Fergusson Road. Good view of Shaniwar Wada main gate from the upper deck in Pune, but expected more historical information.",2026-05-20
+Pune,3,Fine place to stop by on your way through Pune. High Spirits Club Koregaon is pleasant in the late afternoon.,2026-06-23
+Pune,3,Satisfactory stop at Shaniwar Wada Palace Citadel. Enjoyed a quick cold drink near Koregaon park lane while taking in the Pune view.,2026-07-26
+Pune,4,Delightful morning spent at Aga Khan Palace Memorial. The cool air near Shaniwar Wada main gate in Pune made the walk extremely refreshing.,2026-08-02
+Pune,4,High quality experience at Dagadusheth Halwai Ganapati Temple. The sunset view over Koregaon park lane in Pune was absolutely stunning.,2026-09-05
+Pune,4,Highly rated stop for a reason! Sinhagad Mountain Fort in Pune offers great vantage points and tasty Vaishali masala dosa nearby.,2026-10-08
+Pune,5,Magnificent attraction! Shaniwar Wada Palace Citadel in Pune represents the very best of Maharashtra heritage and natural beauty.,2026-11-11
+Pune,5,Spectacular visit to Aga Khan Palace Memorial! The serene atmosphere around Koregaon park lane in Pune made us want to stay all day.,2026-12-14
+Mahabaleshwar,1,We planned to check out Arthur Seat Plateau Point proved to be an unpleasant hassle due to aggressive hawkers and parking chaos along valley point trail in Mahabaleshwar.,2026-01-09
+Mahabaleshwar,1,"Avoid visiting Pratapgad Hill Fort with senior citizens. The queue near Arthur seat cliff lookout in Mahabaleshwar was crammed, hot, and lacked any seating.",2026-02-12
+Mahabaleshwar,2,"Mediocre experience at Venna Lake Boat Club. The view toward Pratapgad fort stairs in Mahabaleshwar was nice, but pushy local guides kept interrupting us.",2026-03-15
+Mahabaleshwar,2,Long queues at the eateries near Lingmala Waterfalls Drop. We waited nearly an hour just to get a plate of Mapro strawberry cream in Mahabaleshwar.,2026-04-18
+Mahabaleshwar,3,"Average evening walk around Mapro Garden Strawberry Cafe. The breeze near Arthur seat cliff lookout in Mahabaleshwar was pleasant, but crowd noise was high.",2026-05-21
+Mahabaleshwar,3,Relaxing 45 minutes spent around Elphinstone Point View. Nice view of Arthur seat cliff lookout in Mahabaleshwar if you visit around 5 PM.,2026-06-24
+Mahabaleshwar,3,Pleasant grounds at Arthur Seat Plateau Point. The short walk from Pratapgad fort stairs in Mahabaleshwar was easy and breezy.,2026-07-27
+Mahabaleshwar,4,Impressed with the upkeep of Pratapgad Hill Fort. Walking through the gardens near Arthur seat cliff lookout in Mahabaleshwar was delightful.,2026-08-03
+Mahabaleshwar,4,Memorable cultural stop at Venna Lake Boat Club. Local guide near Pratapgad fort stairs in Mahabaleshwar gave us fascinating historical facts.,2026-09-06
+Mahabaleshwar,4,Charming experience at Lingmala Waterfalls Drop. Walking down valley point trail towards the main view in Mahabaleshwar was super scenic.,2026-10-09
+Mahabaleshwar,5,Incredible experience from start to finish. Arthur Seat Plateau Point in Mahabaleshwar offers breathtaking views near Arthur seat cliff lookout.,2026-11-12
+Mahabaleshwar,5,"World-class sight! Pratapgad Hill Fort in Mahabaleshwar is incredibly peaceful, spotless, and offers divine views near Pratapgad fort stairs.",2026-12-15
+Alibaug,1,Attempting to see Kolaba Sea Fort Citadel was overshadowed by filthy litter and lack of basic visitor management near jetty passenger line in Alibaug.,2026-01-10
+Alibaug,1,"Frustrating visit to Varsoli Beach Sands. Online tickets were not honored at Kolaba fort low tide walk in Alibaug, forcing everyone into a slow cash line.",2026-02-13
+Alibaug,2,"Nagaon Water Sports Beach is okay for a quick photo stop, but facilities around Nagaon beach water sports in Alibaug desperately need better upkeep.",2026-03-16
+Alibaug,2,Mediocre food experience near Sanman Konkani Restaurant. The local Sanman fish curry in Alibaug was disappointing given the high tourist price charged.,2026-04-19
+Alibaug,3,Worth a brief 30-minute stop at Kashid Beach Coast. The spot near Kolaba fort low tide walk in Alibaug offers nice angles for casual photographs.,2026-05-22
+Alibaug,3,Convenient roadside stop at Kanakeshwar Devasthan Hill Steps in Alibaug. Good spot to stretch your legs and try local snacks.,2026-06-25
+Alibaug,3,Solid 3-star experience at Kolaba Sea Fort Citadel. Good photo point near Nagaon beach water sports in Alibaug without overwhelming crowds.,2026-07-01
+Alibaug,4,Wonderful stop on our Maharashtra itinerary! Varsoli Beach Sands in Alibaug offers great views and rich cultural insights.,2026-08-04
+Alibaug,4,Very clean and organized attraction. Nagaon Water Sports Beach in Alibaug exceeded our expectations with great views of Nagaon beach water sports.,2026-09-07
+Alibaug,4,"Great photo spot in Alibaug. Sanman Konkani Restaurant was clean, peaceful, and easily accessible along jetty passenger line.",2026-10-10
+Alibaug,5,A masterclass in natural beauty! Kolaba Sea Fort Citadel in Alibaug completely blew us away with its peaceful vibes.,2026-11-13
+Alibaug,5,"Top recommendation for Maharashtra! Varsoli Beach Sands in Alibaug is magical, serene, and easily our favorite place.",2026-12-16
+North Goa,1,Traveling down to Baga Beach Strip was a frustrating ordeal — heavy gridlock along coastal scooter road in North Goa cost us two hours of precious time.,2026-01-11
+North Goa,1,Unorganized visitor queues near Aguada lighthouse hill completely ruined our time at Calangute Shoreline in North Goa. Restroom facilities were in terrible shape.,2026-02-14
+North Goa,2,"Although Aguada Lighthouse Fort holds historic value, aggressive street hawkers near Baga beach shack strip in North Goa made it hard to enjoy a quiet walk.",2026-03-17
+North Goa,2,Long waiting lines outside Anjuna Wednesday Flea Market left us exhausted. The Britto's crab curry served near coastal scooter road in North Goa was overpriced and bland.,2026-04-20
+North Goa,3,"Spent roughly 40 minutes around Britto's Beach Shack Restaurant in North Goa. The perspective towards Aguada lighthouse hill was decent, though afternoon heat was oppressive.",2026-05-23
+North Goa,3,Checking out Tito's Nightclub Lane makes for a fine brief stop in North Goa. Limited vehicle parking near coastal scooter road can be tricky during weekends.,2026-06-26
+North Goa,3,A fair overall visit to Baga Beach Strip. Surrounding views near Baga beach shack strip in North Goa are pleasant enough if you are staying nearby.,2026-07-02
+North Goa,4,Thoroughly enjoyed our visit to Calangute Shoreline! The clean pathways around Aguada lighthouse hill made our excursion in North Goa very pleasant.,2026-08-05
+North Goa,4,Tasted incredible Britto's crab curry right beside Aguada Lighthouse Fort. Pairing a good local meal with exploring Baga beach shack strip was a high point in North Goa.,2026-09-08
+North Goa,4,Stunning panoramic lighting at Anjuna Wednesday Flea Market around 8:15 AM before afternoon mist settled over North Goa. Definitely arrive early.,2026-10-11
+North Goa,5,"Absolute crown jewel of our journey in Goa! Baga Beach Strip in North Goa is remarkably serene, pristine, and full of character.",2026-11-14
+North Goa,5,"Experiencing Calangute Shoreline in North Goa at 7 AM was pure bliss — quiet morning air, glowing sunlight over Baga beach shack strip, and zero crowds.",2026-12-17
+South Goa,1,Checking out Palolem Bay Beach turned into a nightmare because parking was non-existent along palm grove path in South Goa.,2026-01-12
+South Goa,1,Filthy restroom facilities and zero drinking water booths near Cabo de Rama Cliff Fort made our visit to South Goa extremely unpleasant for the family.,2026-02-15
+South Goa,2,"The view from Dudhsagar Waterfalls Trek is decent, but persistent vendors along palm grove path in South Goa ruin the peaceful atmosphere.",2026-03-18
+South Goa,2,We waited over 45 minutes for a table near Fisherman's Wharf Cavelossim. Service was overwhelmed and the local Fisherman's wharf pomfret in South Goa felt rushed.,2026-04-21
+South Goa,3,"Decent stop at Agonda Quiet Beach in South Goa. The view towards Palolem bay cove was nice, though foggy weather blocked peak visibility.",2026-05-24
+South Goa,3,Good atmosphere around Palolem bay cove in South Goa. We stopped by Colva Beach Promenade before lunch and enjoyed a brief walk.,2026-06-27
+South Goa,3,"A standard visit to Palolem Bay Beach. The nearby Fisherman's wharf pomfret in South Goa was satisfying, and the location near Cabo de Rama fort cliff is easy to find.",2026-07-03
+South Goa,4,Really enjoyed our time at Cabo de Rama Cliff Fort! The surroundings near Palolem bay cove in South Goa were clean and very well maintained.,2026-08-06
+South Goa,4,Had a fantastic afternoon exploring Dudhsagar Waterfalls Trek. The atmosphere near Cabo de Rama fort cliff in South Goa was energetic and lively.,2026-09-09
+South Goa,4,Impressive site! Fisherman's Wharf Cavelossim is definitely one of the top attractions in South Goa. Arrive early to beat the heat.,2026-10-12
+South Goa,5,Absolute perfection! Palolem Bay Beach completely exceeded our expectations. The morning views over Palolem bay cove in South Goa were breathtaking.,2026-11-15
+South Goa,5,Breathtaking scenery and incredible heritage! Cabo de Rama Cliff Fort in South Goa is an absolute masterpiece. Must visit early morning.,2026-12-18
+Panjim,1,Stopping by Immaculate Conception Cathedral was ruined by chaotic traffic and greedy cab drivers demanding triple rates near mandovi river promenade in Panjim.,2026-01-13
+Panjim,1,Ticket counter queues at Fontainhas Heritage Quarter moved at a crawl. We waited 75 minutes in the heat outside Fontainhas Latin lane in Panjim.,2026-02-16
+Panjim,2,"Visited Deltin Royale Casino Ship around midday. While the structure is impressive, parking near Deltin casino offshore boat in Panjim was disorganized.",2026-03-19
+Panjim,2,Food stalls near Viva Panjim Kitchen charge double the normal rate for basic meals. Local authorities in Panjim should monitor this.,2026-04-22
+Panjim,3,"Visited Miramar Beach Estuary in the afternoon. Pleasant breeze along mandovi river promenade, but commercial stalls near Fontainhas Latin lane in Panjim are growing.",2026-05-25
+Panjim,3,"Reis Magos Fort Estuary offers nice photo opportunities. It gets busy after 4 PM, so plan your visit to Panjim accordingly.",2026-06-01
+Panjim,3,Immaculate Conception Cathedral is fine for a quick one-hour visit. Beautiful lighting in late afternoon around Deltin casino offshore boat in Panjim.,2026-07-04
+Panjim,4,Great morning walk around Fontainhas Heritage Quarter. We arrived at 8 AM and got fantastic clear views of Fontainhas Latin lane before crowds arrived in Panjim.,2026-08-07
+Panjim,4,Loved the architecture and scale of Deltin Royale Casino Ship. A very memorable highlight of our travel through Goa and Panjim.,2026-09-10
+Panjim,4,We spent over two hours at Viva Panjim Kitchen and loved every minute. The view towards mandovi river promenade in Panjim is spectacular.,2026-10-13
+Panjim,5,"The highlight of our entire trip to Goa! Immaculate Conception Cathedral in Panjim is pristine, quiet at sunrise, and deeply atmospheric.",2026-11-16
+Panjim,5,"Pure bliss at Fontainhas Heritage Quarter! The morning mist hovering over Deltin casino offshore boat in Panjim created a surreal, postcard-perfect scene.",2026-12-19
+Jaipur,1,Exploring around Amber Palace Fort became stressful when vehicle queues backed up for three kilometers approaching bazaar auto stand in Jaipur.,2026-01-14
+Jaipur,1,Terrible crowd management at Hawa Mahal Frontage in Jaipur. People were pushing near Amber fort elephant ramp without any security or staff intervention.,2026-02-17
+Jaipur,2,"City Palace Jaipur Courtyards has local significance, but the surrounding area in Jaipur is overcrowded and lacks proper seating facilities near Hawa Mahal street viewpoint.",2026-03-20
+Jaipur,2,Disappointed by the food quality near Jantar Mantar Sundial Site. Our order of Pyaz kachori in Jaipur took forever and arrived lukewarm.,2026-04-23
+Jaipur,3,Chokhi Dhani Resort Dining is a fair inclusion in a Jaipur itinerary. Spent about 45 minutes here exploring the grounds near Amber fort elephant ramp.,2026-05-26
+Jaipur,3,Sampled Pyaz kachori near Johri Bazaar Gem Market which was quite tasty. The sight itself in Jaipur is small but well-located.,2026-06-02
+Jaipur,3,Walked around Amber Palace Fort after visiting Hawa Mahal street viewpoint. Good place for families traveling through Rajasthan.,2026-07-05
+Jaipur,4,Highly recommend visiting Hawa Mahal Frontage when in Jaipur. The guided walk around Amber fort elephant ramp provided great local history of Rajasthan.,2026-08-08
+Jaipur,4,Tasted delicious authentic Pyaz kachori near City Palace Jaipur Courtyards. Combining lunch with visiting Hawa Mahal street viewpoint made for a perfect afternoon in Jaipur.,2026-09-11
+Jaipur,4,Excellent stop in Rajasthan. The path leading to Jantar Mantar Sundial Site from bazaar auto stand was lined with vibrant local shops selling Pyaz kachori in Jaipur.,2026-10-14
+Jaipur,5,Unforgettable experience at Amber Palace Fort. Sitting near Amber fort elephant ramp in Jaipur with a warm cup of tea was pure magic.,2026-11-17
+Jaipur,5,"Flawless trip to Hawa Mahal Frontage. Friendly locals in Jaipur, delicious Pyaz kachori nearby, and pristine surroundings around Hawa Mahal street viewpoint.",2026-12-20
+Udaipur,1,Walking over to City Palace Udaipur Museum was completely disorganized with cars parked bumper-to-bumper all down old city alley in Udaipur.,2026-01-15
+Udaipur,1,Extremely unhygienic conditions near Lake Pichola Boat Jetty. Trash was overflowing around Lake Pichola boat pier and public amenities in Udaipur were broken.,2026-02-18
+Udaipur,2,"Okay place if you are nearby, but don't make a long trip for Jag Mandir Island Palace. The food options near City palace balcony in Udaipur were average at best.",2026-03-21
+Udaipur,2,Overpriced dining options near Saheliyon Ki Bari Fountains. We paid ₹600 for a simple plate of Ambrai lakefront thali in Udaipur that tasted very average.,2026-04-24
+Udaipur,3,Nice spot for a quick photo at Ambrai Lakefront Restaurant. Make sure to carry your own water as shops near Lake Pichola boat pier in Udaipur are pricey.,2026-05-27
+Udaipur,3,"Spent a relaxed hour at Bagore Ki Haveli Museum. Nothing extraordinary, but a peaceful spot near Lake Pichola boat pier away from main city noise in Udaipur.",2026-06-03
+Udaipur,3,Fairly pleasant surroundings at City Palace Udaipur Museum. The breeze from old city alley in Udaipur was refreshing on a warm day.,2026-07-06
+Udaipur,4,Beautiful spot! Loved the fresh Ambrai lakefront thali served at the small eatery right outside Lake Pichola Boat Jetty in Udaipur.,2026-08-09
+Udaipur,4,Very scenic surroundings at Jag Mandir Island Palace! Walking along old city alley as the sun set over City palace balcony in Udaipur was delightful.,2026-09-12
+Udaipur,4,Beautiful lighting for photography at Saheliyon Ki Bari Fountains around 5 PM. A charming place in Udaipur that shouldn't be missed.,2026-10-15
+Udaipur,5,10/10 destination! City Palace Udaipur Museum in Udaipur is stunningly beautiful. Everything from the local Ambrai lakefront thali to the scenery was top tier.,2026-11-18
+Udaipur,5,Outstanding highlight of Rajasthan! Lake Pichola Boat Jetty in Udaipur offers unbelievable views and a rich cultural experience.,2026-12-21
+Jodhpur,1,Touring through Mehrangarh Fort Citadel resulted in a 90-minute delay due to narrow road bottlenecks along blue city rampart in Jodhpur.,2026-01-16
+Jodhpur,1,"Disappointing experience at Jaswant Thada Marble Shrine. We stood in a chaotic, unshaded line near Mehrangarh fort elevator in Jodhpur for over an hour.",2026-02-19
+Jodhpur,2,Extremely crowded near Jaswant Thada marble steps. We could barely get a decent photo of Umaid Bhawan Palace Wings without dozens of tourists in frame.,2026-03-22
+Jodhpur,2,Extremely slow service near Gypsy Thali Restaurant Jodhpur. Finding a clean table near blue city rampart in Jodhpur was a struggle during peak lunch hours.,2026-04-25
+Jodhpur,3,"Mixed feelings about Sardar Clock Tower Market. The landscape near Mehrangarh fort elevator is beautiful, but the approach road from Jodhpur town needs repairs.",2026-05-01
+Jodhpur,3,Reasonable experience at Mandore Gardens Cenotaphs. Parking near blue city rampart in Jodhpur was manageable during weekday morning hours.,2026-06-04
+Jodhpur,3,Decent spot in Jodhpur. Mehrangarh Fort Citadel is worth checking out near Jaswant Thada marble steps if you have extra time on your hands.,2026-07-07
+Jodhpur,4,Jaswant Thada Marble Shrine is a must-see in Jodhpur. Smooth entry process near Mehrangarh fort elevator and wonderful photo opportunities all around.,2026-08-10
+Jodhpur,4,Great experience at Umaid Bhawan Palace Wings. Well-kept gardens near Jaswant Thada marble steps and clear signage made our visit to Jodhpur very comfortable.,2026-09-13
+Jodhpur,4,Thoroughly enjoyed our visit to Gypsy Thali Restaurant Jodhpur. Peaceful atmosphere near blue city rampart and very welcoming local staff in Jodhpur.,2026-10-16
+Jodhpur,5,Magical visit to Mehrangarh Fort Citadel. The panoramic vista from Mehrangarh fort elevator in Jodhpur is something we will cherish forever.,2026-11-19
+Jodhpur,5,An absolute jewel in Jodhpur! We spent hours admiring Jaswant Thada Marble Shrine and walking along Jaswant Thada marble steps. Simply incredible.,2026-12-22
+Jaisalmer,1,Spending time near Jaisalmer Golden Fort was a waste of effort as entry gates near desert fort gate in Jaisalmer were choked with unmanaged vehicles.,2026-01-17
+Jaisalmer,1,"Poorly maintained facilities around Patwon Ki Haveli Carvings. The restrooms near Sam sand dunes camel camp in Jaisalmer were shut down, causing massive inconvenience.",2026-02-20
+Jaisalmer,2,"Decent architectural features at Sam Sand Dunes Desert Safari, but loud commercial stalls right next to Patwon Haveli carved alley in Jaisalmer spoil the charm.",2026-03-23
+Jaisalmer,2,The environment around Gadisar Lake Reservoir was far too noisy. We ordered Ker sangri thali in Jaisalmer but couldn't eat peacefully due to crowds.,2026-04-26
+Jaisalmer,3,"Standard sight visit to The Trio Fort Rooftop Dining in Jaisalmer. The area around Sam sand dunes camel camp is clean, though seating is somewhat limited.",2026-05-02
+Jaisalmer,3,"Pretty location at Bada Bagh Royal Cenotaphs in Jaisalmer. The walk along desert fort gate was pleasant, though visitor amenities are basic.",2026-06-05
+Jaisalmer,3,Quiet evening visit to Jaisalmer Golden Fort. Lighting around Patwon Haveli carved alley in Jaisalmer makes for a nice ambient stroll.,2026-07-08
+Jaisalmer,4,Very positive experience visiting Patwon Ki Haveli Carvings. The historical grounds near Sam sand dunes camel camp in Jaisalmer are beautifully preserved.,2026-08-11
+Jaisalmer,4,Splendid afternoon visit to Sam Sand Dunes Desert Safari. Enjoyed fresh Ker sangri thali at a nearby cafe after walking around Patwon Haveli carved alley in Jaisalmer.,2026-09-14
+Jaisalmer,4,Wonderful morning walk at Gadisar Lake Reservoir. The views over Jaisalmer from the main deck near desert fort gate were top notch.,2026-10-17
+Jaisalmer,5,Pure bliss at Jaisalmer Golden Fort! The morning light reflecting over Sam sand dunes camel camp in Jaisalmer created a postcard-perfect memory.,2026-11-20
+Jaisalmer,5,Unmatched beauty at Patwon Ki Haveli Carvings. Seeing the sunrise over Patwon Haveli carved alley in Jaisalmer was the single best moment of our vacation.,2026-12-23
+Pushkar,1,Passing by Brahma Temple Sanctum left us stranded in midday heat as traffic near holy lake steps in Pushkar ground to a complete halt.,2026-01-18
+Pushkar,1,Horrible entry process at Pushkar Sacred Lake Ghats. Staff near Brahma temple main ghat in Pushkar were rude and unable to manage the weekend crowd.,2026-02-21
+Pushkar,2,Slightly underwhelming visit to Savitri Devi Hill Cable Car. The area around Savitri hill ropeway trolley in Pushkar was quite noisy and littered with flyers.,2026-03-24
+Pushkar,2,Underwhelming food stop near La Capitale Falafel Cafe. The famous Falafel roll in Pushkar did not live up to the hype and prices were inflated.,2026-04-27
+Pushkar,3,"Fair experience at Pushkar Bazaar Handicrafts. Good view of Brahma temple main ghat from the upper deck in Pushkar, but expected more historical information.",2026-05-03
+Pushkar,3,Fine place to stop by on your way through Pushkar. Varaha Temple Ancient Shrine is pleasant in the late afternoon.,2026-06-06
+Pushkar,3,Satisfactory stop at Brahma Temple Sanctum. Enjoyed a quick cold drink near Savitri hill ropeway trolley while taking in the Pushkar view.,2026-07-09
+Pushkar,4,Delightful morning spent at Pushkar Sacred Lake Ghats. The cool air near Brahma temple main ghat in Pushkar made the walk extremely refreshing.,2026-08-12
+Pushkar,4,High quality experience at Savitri Devi Hill Cable Car. The sunset view over Savitri hill ropeway trolley in Pushkar was absolutely stunning.,2026-09-15
+Pushkar,4,Highly rated stop for a reason! La Capitale Falafel Cafe in Pushkar offers great vantage points and tasty Falafel roll nearby.,2026-10-18
+Pushkar,5,Magnificent attraction! Brahma Temple Sanctum in Pushkar represents the very best of Rajasthan heritage and natural beauty.,2026-11-21
+Pushkar,5,Spectacular visit to Pushkar Sacred Lake Ghats! The serene atmosphere around Savitri hill ropeway trolley in Pushkar made us want to stay all day.,2026-12-24
+Munnar,1,Venture out to Eravikulam National Park Tahr proved to be an unpleasant hassle due to aggressive hawkers and parking chaos along tea estate hairpins in Munnar.,2026-01-19
+Munnar,1,"Avoid visiting Mattupetty Dam Lake with senior citizens. The queue near Eravikulam Tahr trail in Munnar was crammed, hot, and lacked any seating.",2026-02-22
+Munnar,2,"Mediocre experience at Tata Tea Museum Factory. The view toward Mattupetty lake boat deck in Munnar was nice, but pushy local guides kept interrupting us.",2026-03-25
+Munnar,2,Long queues at the eateries near Attukad Falls Trail. We waited nearly an hour just to get a plate of Cardamom chai in Munnar.,2026-04-01
+Munnar,3,"Average evening walk around Saravana Bhavan Munnar. The breeze near Eravikulam Tahr trail in Munnar was pleasant, but crowd noise was high.",2026-05-04
+Munnar,3,Relaxing 45 minutes spent around Lockhart Gap Viewpoint. Nice view of Eravikulam Tahr trail in Munnar if you visit around 5 PM.,2026-06-07
+Munnar,3,Pleasant grounds at Eravikulam National Park Tahr. The short walk from Mattupetty lake boat deck in Munnar was easy and breezy.,2026-07-10
+Munnar,4,Impressed with the upkeep of Mattupetty Dam Lake. Walking through the gardens near Eravikulam Tahr trail in Munnar was delightful.,2026-08-13
+Munnar,4,Memorable cultural stop at Tata Tea Museum Factory. Local guide near Mattupetty lake boat deck in Munnar gave us fascinating historical facts.,2026-09-16
+Munnar,4,Charming experience at Attukad Falls Trail. Walking down tea estate hairpins towards the main view in Munnar was super scenic.,2026-10-19
+Munnar,5,Incredible experience from start to finish. Eravikulam National Park Tahr in Munnar offers breathtaking views near Eravikulam Tahr trail.,2026-11-22
+Munnar,5,"World-class sight! Mattupetty Dam Lake in Munnar is incredibly peaceful, spotless, and offers divine views near Mattupetty lake boat deck.",2026-12-25
+Alleppey,1,Visiting the grounds of Alleppey Backwaters Jetty was overshadowed by filthy litter and lack of basic visitor management near canal jetty point in Alleppey.,2026-01-20
+Alleppey,1,"Frustrating visit to Marari Beach Palms. Online tickets were not honored at Backwaters houseboat deck in Alleppey, forcing everyone into a slow cash line.",2026-02-23
+Alleppey,2,"Alleppey Lighthouse Tower is okay for a quick photo stop, but facilities around Marari beach palm grove in Alleppey desperately need better upkeep.",2026-03-26
+Alleppey,2,Mediocre food experience near Thaff Toddy & Seafood Dining. The local Kerala Karimeen fry in Alleppey was disappointing given the high tourist price charged.,2026-04-02
+Alleppey,3,Worth a brief 30-minute stop at Pathiramanal Island Bird Sanctuary. The spot near Backwaters houseboat deck in Alleppey offers nice angles for casual photographs.,2026-05-05
+Alleppey,3,Convenient roadside stop at Krishnapuram Palace Museum in Alleppey. Good spot to stretch your legs and try local snacks.,2026-06-08
+Alleppey,3,Solid 3-star experience at Alleppey Backwaters Jetty. Good photo point near Marari beach palm grove in Alleppey without overwhelming crowds.,2026-07-11
+Alleppey,4,Wonderful stop on our Kerala itinerary! Marari Beach Palms in Alleppey offers great views and rich cultural insights.,2026-08-14
+Alleppey,4,Very clean and organized attraction. Alleppey Lighthouse Tower in Alleppey exceeded our expectations with great views of Marari beach palm grove.,2026-09-17
+Alleppey,4,"Great photo spot in Alleppey. Thaff Toddy & Seafood Dining was clean, peaceful, and easily accessible along canal jetty point.",2026-10-20
+Alleppey,5,A masterclass in natural beauty! Alleppey Backwaters Jetty in Alleppey completely blew us away with its peaceful vibes.,2026-11-23
+Alleppey,5,"Top recommendation for Kerala! Marari Beach Palms in Alleppey is magical, serene, and easily our favorite place.",2026-12-26
+Wayanad,1,Making a trip to Banasura Sagar Earth Dam was a frustrating ordeal — heavy gridlock along forest hairpin curve in Wayanad cost us two hours of precious time.,2026-01-21
+Wayanad,1,Unorganized visitor queues near Edakkal cave petroglyph climb completely ruined our time at Edakkal Caves Petroglyphs in Wayanad. Restroom facilities were in terrible shape.,2026-02-24
+Wayanad,2,"Although Meenmutty Falls Trek holds historic value, aggressive street hawkers near Banasura dam speed boat in Wayanad made it hard to enjoy a quiet walk.",2026-03-27
+Wayanad,2,Long waiting lines outside Wilton Restaurant Wayanad left us exhausted. The Wilton chicken curry served near forest hairpin curve in Wayanad was overpriced and bland.,2026-04-03
+Wayanad,3,"Spent roughly 40 minutes around Banasura Hill Trek Base in Wayanad. The perspective towards Edakkal cave petroglyph climb was decent, though afternoon heat was oppressive.",2026-05-06
+Wayanad,3,Checking out Kuruva Island Bamboo Rafting makes for a fine brief stop in Wayanad. Limited vehicle parking near forest hairpin curve can be tricky during weekends.,2026-06-09
+Wayanad,3,A fair overall visit to Banasura Sagar Earth Dam. Surrounding views near Banasura dam speed boat in Wayanad are pleasant enough if you are staying nearby.,2026-07-12
+Wayanad,4,Thoroughly enjoyed our visit to Edakkal Caves Petroglyphs! The clean pathways around Edakkal cave petroglyph climb made our excursion in Wayanad very pleasant.,2026-08-15
+Wayanad,4,Tasted incredible Wilton chicken curry right beside Meenmutty Falls Trek. Pairing a good local meal with exploring Banasura dam speed boat was a high point in Wayanad.,2026-09-18
+Wayanad,4,Stunning panoramic lighting at Wilton Restaurant Wayanad around 8:15 AM before afternoon mist settled over Wayanad. Definitely arrive early.,2026-10-21
+Wayanad,5,"Absolute crown jewel of our journey in Kerala! Banasura Sagar Earth Dam in Wayanad is remarkably serene, pristine, and full of character.",2026-11-24
+Wayanad,5,"Experiencing Edakkal Caves Petroglyphs in Wayanad at 7 AM was pure bliss — quiet morning air, glowing sunlight over Banasura dam speed boat, and zero crowds.",2026-12-27
+Coorg,1,Finding our way to Abbey Falls Cascade turned into a nightmare because parking was non-existent along coffee estate path in Coorg.,2026-01-22
+Coorg,1,Filthy restroom facilities and zero drinking water booths near Namdroling Monastery Golden Temple made our visit to Coorg extremely unpleasant for the family.,2026-02-25
+Coorg,2,"The view from Dubare Elephant Camp is decent, but persistent vendors along coffee estate path in Coorg ruin the peaceful atmosphere.",2026-03-01
+Coorg,2,We waited over 45 minutes for a table near Raintree Coorg Cuisine Restaurant. Service was overwhelmed and the local Pandhi curry in Coorg felt rushed.,2026-04-04
+Coorg,3,"Decent stop at Madikeri Fort Museum in Coorg. The view towards Abbey falls wooden bridge was nice, though foggy weather blocked peak visibility.",2026-05-07
+Coorg,3,Good atmosphere around Abbey falls wooden bridge in Coorg. We stopped by Tadiandamol Peak Trek Trail before lunch and enjoyed a brief walk.,2026-06-10
+Coorg,3,"A standard visit to Abbey Falls Cascade. The nearby Pandhi curry in Coorg was satisfying, and the location near Bylakuppe golden temple hall is easy to find.",2026-07-13
+Coorg,4,Really enjoyed our time at Namdroling Monastery Golden Temple! The surroundings near Abbey falls wooden bridge in Coorg were clean and very well maintained.,2026-08-16
+Coorg,4,Had a fantastic afternoon exploring Dubare Elephant Camp. The atmosphere near Bylakuppe golden temple hall in Coorg was energetic and lively.,2026-09-19
+Coorg,4,Impressive site! Raintree Coorg Cuisine Restaurant is definitely one of the top attractions in Coorg. Arrive early to beat the heat.,2026-10-22
+Coorg,5,Absolute perfection! Abbey Falls Cascade completely exceeded our expectations. The morning views over Abbey falls wooden bridge in Coorg were breathtaking.,2026-11-25
+Coorg,5,Breathtaking scenery and incredible heritage! Namdroling Monastery Golden Temple in Coorg is an absolute masterpiece. Must visit early morning.,2026-12-01
+Hampi,1,Cruising past Virupaksha Temple Complex was ruined by chaotic traffic and greedy cab drivers demanding triple rates near boulder hill track in Hampi.,2026-01-23
+Hampi,1,Ticket counter queues at Vijaya Vittala Stone Chariot moved at a crawl. We waited 75 minutes in the heat outside Virupaksha temple car street in Hampi.,2026-02-26
+Hampi,2,"Visited Lotus Mahal Royal Enclosure around midday. While the structure is impressive, parking near Vittala stone chariot plaza in Hampi was disorganized.",2026-03-02
+Hampi,2,Food stalls near Hemakuta Hill Sunset Point charge double the normal rate for basic meals. Local authorities in Hampi should monitor this.,2026-04-05
+Hampi,3,"Visited Mango Tree Restaurant Hampi in the afternoon. Pleasant breeze along boulder hill track, but commercial stalls near Virupaksha temple car street in Hampi are growing.",2026-05-08
+Hampi,3,"Anegundi Monkey Temple Anjanadri Hill offers nice photo opportunities. It gets busy after 4 PM, so plan your visit to Hampi accordingly.",2026-06-11
+Hampi,3,Virupaksha Temple Complex is fine for a quick one-hour visit. Beautiful lighting in late afternoon around Vittala stone chariot plaza in Hampi.,2026-07-14
+Hampi,4,Great morning walk around Vijaya Vittala Stone Chariot. We arrived at 8 AM and got fantastic clear views of Virupaksha temple car street before crowds arrived in Hampi.,2026-08-17
+Hampi,4,Loved the architecture and scale of Lotus Mahal Royal Enclosure. A very memorable highlight of our travel through Karnataka and Hampi.,2026-09-20
+Hampi,4,We spent over two hours at Hemakuta Hill Sunset Point and loved every minute. The view towards boulder hill track in Hampi is spectacular.,2026-10-23
+Hampi,5,"The highlight of our entire trip to Karnataka! Virupaksha Temple Complex in Hampi is pristine, quiet at sunrise, and deeply atmospheric.",2026-11-26
+Hampi,5,"Pure bliss at Vijaya Vittala Stone Chariot! The morning mist hovering over Vittala stone chariot plaza in Hampi created a surreal, postcard-perfect scene.",2026-12-02
+Mysuru,1,Setting off for Mysore Palace Illuminations became stressful when vehicle queues backed up for three kilometers approaching palace gate line in Mysuru.,2026-01-24
+Mysuru,1,Terrible crowd management at Chamundeshwari Temple Hill in Mysuru. People were pushing near Mysore palace illuminate lawn without any security or staff intervention.,2026-02-27
+Mysuru,2,"Sri Chamarajendra Zoological Gardens has local significance, but the surrounding area in Mysuru is overcrowded and lacks proper seating facilities near Chamundi hill 1000 steps.",2026-03-03
+Mysuru,2,Disappointed by the food quality near MTR Mavalli Tiffin Room Mysuru. Our order of MTR Masala dosa in Mysuru took forever and arrived lukewarm.,2026-04-06
+Mysuru,3,Devaraja Silk & Spice Market is a fair inclusion in a Mysuru itinerary. Spent about 45 minutes here exploring the grounds near Mysore palace illuminate lawn.,2026-05-09
+Mysuru,3,Sampled MTR Masala dosa near Brindavan Gardens Fountains which was quite tasty. The sight itself in Mysuru is small but well-located.,2026-06-12
+Mysuru,3,Walked around Mysore Palace Illuminations after visiting Chamundi hill 1000 steps. Good place for families traveling through Karnataka.,2026-07-15
+Mysuru,4,Highly recommend visiting Chamundeshwari Temple Hill when in Mysuru. The guided walk around Mysore palace illuminate lawn provided great local history of Karnataka.,2026-08-18
+Mysuru,4,Tasted delicious authentic MTR Masala dosa near Sri Chamarajendra Zoological Gardens. Combining lunch with visiting Chamundi hill 1000 steps made for a perfect afternoon in Mysuru.,2026-09-21
+Mysuru,4,Excellent stop in Karnataka. The path leading to MTR Mavalli Tiffin Room Mysuru from palace gate line was lined with vibrant local shops selling MTR Masala dosa in Mysuru.,2026-10-24
+Mysuru,5,Unforgettable experience at Mysore Palace Illuminations. Sitting near Mysore palace illuminate lawn in Mysuru with a warm cup of tea was pure magic.,2026-11-27
+Mysuru,5,"Flawless trip to Chamundeshwari Temple Hill. Friendly locals in Mysuru, delicious MTR Masala dosa nearby, and pristine surroundings around Chamundi hill 1000 steps.",2026-12-03
+Ooty,1,Hiring a cab to Ooty Botanical Gardens was completely disorganized with cars parked bumper-to-bumper all down toy train track in Ooty.,2026-01-25
+Ooty,1,Extremely unhygienic conditions near Doddabetta Peak Viewpoint. Trash was overflowing around Botanical garden glasshouse and public amenities in Ooty were broken.,2026-02-01
+Ooty,2,"Okay place if you are nearby, but don't make a long trip for Ooty Lake Boating House. The food options near Doddabetta telescope peak in Ooty were average at best.",2026-03-04
+Ooty,2,Overpriced dining options near Nilgiri Mountain Railway Museum. We paid ₹600 for a simple plate of Ooty handmade chocolates in Ooty that tasted very average.,2026-04-07
+Ooty,3,Nice spot for a quick photo at Place To Bee Organic Restaurant. Make sure to carry your own water as shops near Botanical garden glasshouse in Ooty are pricey.,2026-05-10
+Ooty,3,"Spent a relaxed hour at Rose Garden Elk Hill. Nothing extraordinary, but a peaceful spot near Botanical garden glasshouse away from main city noise in Ooty.",2026-06-13
+Ooty,3,Fairly pleasant surroundings at Ooty Botanical Gardens. The breeze from toy train track in Ooty was refreshing on a warm day.,2026-07-16
+Ooty,4,Beautiful spot! Loved the fresh Ooty handmade chocolates served at the small eatery right outside Doddabetta Peak Viewpoint in Ooty.,2026-08-19
+Ooty,4,Very scenic surroundings at Ooty Lake Boating House! Walking along toy train track as the sun set over Doddabetta telescope peak in Ooty was delightful.,2026-09-22
+Ooty,4,Beautiful lighting for photography at Nilgiri Mountain Railway Museum around 5 PM. A charming place in Ooty that shouldn't be missed.,2026-10-25
+Ooty,5,10/10 destination! Ooty Botanical Gardens in Ooty is stunningly beautiful. Everything from the local Ooty handmade chocolates to the scenery was top tier.,2026-11-01
+Ooty,5,Outstanding highlight of Tamil Nadu! Doddabetta Peak Viewpoint in Ooty offers unbelievable views and a rich cultural experience.,2026-12-04
+Chettinad,1,Taking a bus to Chettinad Palace Mansion resulted in a 90-minute delay due to narrow road bottlenecks along mansion village street in Chettinad.,2026-01-26
+Chettinad,1,"Disappointing experience at Athangudi Tile Factory. We stood in a chaotic, unshaded line near Athangudi tile court in Chettinad for over an hour.",2026-02-02
+Chettinad,2,Extremely crowded near Chettinad palace corridor. We could barely get a decent photo of The Bangala Cuisine Restaurant without dozens of tourists in frame.,2026-03-05
+Chettinad,2,Extremely slow service near Karaikudi Antique Market. Finding a clean table near mansion village street in Chettinad was a struggle during peak lunch hours.,2026-04-08
+Chettinad,3,"Mixed feelings about Kandukathan Heritage Village Walk. The landscape near Athangudi tile court is beautiful, but the approach road from Chettinad town needs repairs.",2026-05-11
+Chettinad,3,Reasonable experience at Solai Andavar Temple Shrine. Parking near mansion village street in Chettinad was manageable during weekday morning hours.,2026-06-14
+Chettinad,3,Decent spot in Chettinad. Chettinad Palace Mansion is worth checking out near Chettinad palace corridor if you have extra time on your hands.,2026-07-17
+Chettinad,4,Athangudi Tile Factory is a must-see in Chettinad. Smooth entry process near Athangudi tile court and wonderful photo opportunities all around.,2026-08-20
+Chettinad,4,Great experience at The Bangala Cuisine Restaurant. Well-kept gardens near Chettinad palace corridor and clear signage made our visit to Chettinad very comfortable.,2026-09-23
+Chettinad,4,Thoroughly enjoyed our visit to Karaikudi Antique Market. Peaceful atmosphere near mansion village street and very welcoming local staff in Chettinad.,2026-10-26
+Chettinad,5,Magical visit to Chettinad Palace Mansion. The panoramic vista from Athangudi tile court in Chettinad is something we will cherish forever.,2026-11-02
+Chettinad,5,An absolute jewel in Chettinad! We spent hours admiring Athangudi Tile Factory and walking along Chettinad palace corridor. Simply incredible.,2026-12-05
+Madurai,1,Walking along Meenakshi Amman Temple Gopuram was a waste of effort as entry gates near temple tower street in Madurai were choked with unmanaged vehicles.,2026-01-27
+Madurai,1,"Poorly maintained facilities around Thirumalai Nayakkar Mahal Palace. The restrooms near Meenakshi temple gopuram line in Madurai were shut down, causing massive inconvenience.",2026-02-03
+Madurai,2,"Decent architectural features at Murugan Temple Thiruparankundram, but loud commercial stalls right next to Thirumalai palace pillars in Madurai spoil the charm.",2026-03-06
+Madurai,2,The environment around Murugan Idli Shop Restaurant was far too noisy. We ordered Murugan idli ghee roast in Madurai but couldn't eat peacefully due to crowds.,2026-04-09
+Madurai,3,"Standard sight visit to Vandiyur Mariamman Teppakulam Lake in Madurai. The area around Meenakshi temple gopuram line is clean, though seating is somewhat limited.",2026-05-12
+Madurai,3,"Pretty location at Gandhi Memorial Museum Madurai in Madurai. The walk along temple tower street was pleasant, though visitor amenities are basic.",2026-06-15
+Madurai,3,Quiet evening visit to Meenakshi Amman Temple Gopuram. Lighting around Thirumalai palace pillars in Madurai makes for a nice ambient stroll.,2026-07-18
+Madurai,4,Very positive experience visiting Thirumalai Nayakkar Mahal Palace. The historical grounds near Meenakshi temple gopuram line in Madurai are beautifully preserved.,2026-08-21
+Madurai,4,Splendid afternoon visit to Murugan Temple Thiruparankundram. Enjoyed fresh Murugan idli ghee roast at a nearby cafe after walking around Thirumalai palace pillars in Madurai.,2026-09-24
+Madurai,4,Wonderful morning walk at Murugan Idli Shop Restaurant. The views over Madurai from the main deck near temple tower street were top notch.,2026-10-27
+Madurai,5,Pure bliss at Meenakshi Amman Temple Gopuram! The morning light reflecting over Meenakshi temple gopuram line in Madurai created a postcard-perfect memory.,2026-11-03
+Madurai,5,Unmatched beauty at Thirumalai Nayakkar Mahal Palace. Seeing the sunrise over Thirumalai palace pillars in Madurai was the single best moment of our vacation.,2026-12-06
+Kanyakumari,1,Starting early for Vivekananda Rock Memorial left us stranded in midday heat as traffic near triveni sangam steps in Kanyakumari ground to a complete halt.,2026-01-01
+Kanyakumari,1,Horrible entry process at Thiruvalluvar Statue Pier. Staff near Vivekananda rock ferry dock in Kanyakumari were rude and unable to manage the weekend crowd.,2026-02-04
+Kanyakumari,2,Slightly underwhelming visit to Kanyakumari Sunset Point Beach. The area around Sunset point rocky beach in Kanyakumari was quite noisy and littered with flyers.,2026-03-07
+Kanyakumari,2,Underwhelming food stop near The Sea Shore Hotel Restaurant. The famous Fisherman fried fish in Kanyakumari did not live up to the hype and prices were inflated.,2026-04-10
+Kanyakumari,3,"Fair experience at Our Lady of Ransom Church. Good view of Vivekananda rock ferry dock from the upper deck in Kanyakumari, but expected more historical information.",2026-05-13
+Kanyakumari,3,Fine place to stop by on your way through Kanyakumari. Padmanabhapuram Wooden Palace is pleasant in the late afternoon.,2026-06-16
+Kanyakumari,3,Satisfactory stop at Vivekananda Rock Memorial. Enjoyed a quick cold drink near Sunset point rocky beach while taking in the Kanyakumari view.,2026-07-19
+Kanyakumari,4,Delightful morning spent at Thiruvalluvar Statue Pier. The cool air near Vivekananda rock ferry dock in Kanyakumari made the walk extremely refreshing.,2026-08-22
+Kanyakumari,4,High quality experience at Kanyakumari Sunset Point Beach. The sunset view over Sunset point rocky beach in Kanyakumari was absolutely stunning.,2026-09-25
+Kanyakumari,4,Highly rated stop for a reason! The Sea Shore Hotel Restaurant in Kanyakumari offers great vantage points and tasty Fisherman fried fish nearby.,2026-10-01
+Kanyakumari,5,Magnificent attraction! Vivekananda Rock Memorial in Kanyakumari represents the very best of Tamil Nadu heritage and natural beauty.,2026-11-04
+Kanyakumari,5,Spectacular visit to Thiruvalluvar Statue Pier! The serene atmosphere around Sunset point rocky beach in Kanyakumari made us want to stay all day.,2026-12-07
+Manali,1,Encountering heavy traffic at Hadimba Devi Temple Wood Architecture proved to be an unpleasant hassle due to aggressive hawkers and parking chaos along mall road slope in Manali.,2026-01-02
+Manali,1,"Avoid visiting Solang Valley Adventure Park with senior citizens. The queue near Hadimba temple cedar forest in Manali was crammed, hot, and lacked any seating.",2026-02-05
+Manali,2,"Mediocre experience at Jogini Waterfall Trek. The view toward Solang valley ropeway ride in Manali was nice, but pushy local guides kept interrupting us.",2026-03-08
+Manali,2,Long queues at the eateries near Chopsticks Restaurant Mall Road. We waited nearly an hour just to get a plate of Chopsticks momos in Manali.,2026-04-11
+Manali,3,"Average evening walk around Manali Mall Road Souvenir Market. The breeze near Hadimba temple cedar forest in Manali was pleasant, but crowd noise was high.",2026-05-14
+Manali,3,Relaxing 45 minutes spent around Vashisht Hot Water Springs. Nice view of Hadimba temple cedar forest in Manali if you visit around 5 PM.,2026-06-17
+Manali,3,Pleasant grounds at Hadimba Devi Temple Wood Architecture. The short walk from Solang valley ropeway ride in Manali was easy and breezy.,2026-07-20
+Manali,4,Impressed with the upkeep of Solang Valley Adventure Park. Walking through the gardens near Hadimba temple cedar forest in Manali was delightful.,2026-08-23
+Manali,4,Memorable cultural stop at Jogini Waterfall Trek. Local guide near Solang valley ropeway ride in Manali gave us fascinating historical facts.,2026-09-26
+Manali,4,Charming experience at Chopsticks Restaurant Mall Road. Walking down mall road slope towards the main view in Manali was super scenic.,2026-10-02
+Manali,5,Incredible experience from start to finish. Hadimba Devi Temple Wood Architecture in Manali offers breathtaking views near Hadimba temple cedar forest.,2026-11-05
+Manali,5,"World-class sight! Solang Valley Adventure Park in Manali is incredibly peaceful, spotless, and offers divine views near Solang valley ropeway ride.",2026-12-08
+Kasol,1,Our afternoon at Manikaran Sahib Gurudwara Hot Springs was overshadowed by filthy litter and lack of basic visitor management near Parvati river bank in Kasol.,2026-01-03
+Kasol,1,"Frustrating visit to Chalal Trekking Trail Parvati River. Online tickets were not honored at Chalal river trail bridge in Kasol, forcing everyone into a slow cash line.",2026-02-06
+Kasol,2,"Evergreen Cafe Israeli Restaurant is okay for a quick photo stop, but facilities around Manikaran hot spring bath in Kasol desperately need better upkeep.",2026-03-09
+Kasol,2,Mediocre food experience near Tosh Village Viewpoint Trek. The local Evergreen falafel plate in Kasol was disappointing given the high tourist price charged.,2026-04-12
+Kasol,3,Worth a brief 30-minute stop at Kheerganga Trek Hot Spring Top. The spot near Chalal river trail bridge in Kasol offers nice angles for casual photographs.,2026-05-15
+Kasol,3,Convenient roadside stop at Grahan Village Nature Trail in Kasol. Good spot to stretch your legs and try local snacks.,2026-06-18
+Kasol,3,Solid 3-star experience at Manikaran Sahib Gurudwara Hot Springs. Good photo point near Manikaran hot spring bath in Kasol without overwhelming crowds.,2026-07-21
+Kasol,4,Wonderful stop on our Himachal Pradesh itinerary! Chalal Trekking Trail Parvati River in Kasol offers great views and rich cultural insights.,2026-08-24
+Kasol,4,Very clean and organized attraction. Evergreen Cafe Israeli Restaurant in Kasol exceeded our expectations with great views of Manikaran hot spring bath.,2026-09-27
+Kasol,4,"Great photo spot in Kasol. Tosh Village Viewpoint Trek was clean, peaceful, and easily accessible along Parvati river bank.",2026-10-03
+Kasol,5,A masterclass in natural beauty! Manikaran Sahib Gurudwara Hot Springs in Kasol completely blew us away with its peaceful vibes.,2026-11-06
+Kasol,5,"Top recommendation for Himachal Pradesh! Chalal Trekking Trail Parvati River in Kasol is magical, serene, and easily our favorite place.",2026-12-09
+Spiti Valley,1,Visiting Key Monastery Cliff Architecture was a frustrating ordeal — heavy gridlock along high mountain pass road in Spiti Valley cost us two hours of precious time.,2026-01-04
+Spiti Valley,1,Unorganized visitor queues near Key monastery prayer hall completely ruined our time at Chandratal High Altitude Lake in Spiti Valley. Restroom facilities were in terrible shape.,2026-02-07
+Spiti Valley,2,"Although Dhankar Fort Monastery holds historic value, aggressive street hawkers near Chandratal lake camp path in Spiti Valley made it hard to enjoy a quiet walk.",2026-03-10
+Spiti Valley,2,Long waiting lines outside Kaza Market Cafe & Restaurant left us exhausted. The Kaza Tibetan thukpa served near high mountain pass road in Spiti Valley was overpriced and bland.,2026-04-13
+Spiti Valley,3,"Spent roughly 40 minutes around Langza Buddha Statue Fossil Village in Spiti Valley. The perspective towards Key monastery prayer hall was decent, though afternoon heat was oppressive.",2026-05-16
+Spiti Valley,3,Checking out Hikkim World Highest Post Office makes for a fine brief stop in Spiti Valley. Limited vehicle parking near high mountain pass road can be tricky during weekends.,2026-06-19
+Spiti Valley,3,A fair overall visit to Key Monastery Cliff Architecture. Surrounding views near Chandratal lake camp path in Spiti Valley are pleasant enough if you are staying nearby.,2026-07-22
+Spiti Valley,4,Thoroughly enjoyed our visit to Chandratal High Altitude Lake! The clean pathways around Key monastery prayer hall made our excursion in Spiti Valley very pleasant.,2026-08-25
+Spiti Valley,4,Tasted incredible Kaza Tibetan thukpa right beside Dhankar Fort Monastery. Pairing a good local meal with exploring Chandratal lake camp path was a high point in Spiti Valley.,2026-09-01
+Spiti Valley,4,Stunning panoramic lighting at Kaza Market Cafe & Restaurant around 8:15 AM before afternoon mist settled over Spiti Valley. Definitely arrive early.,2026-10-04
+Spiti Valley,5,"Absolute crown jewel of our journey in Himachal Pradesh! Key Monastery Cliff Architecture in Spiti Valley is remarkably serene, pristine, and full of character.",2026-11-07
+Spiti Valley,5,"Experiencing Chandratal High Altitude Lake in Spiti Valley at 7 AM was pure bliss — quiet morning air, glowing sunlight over Chandratal lake camp path, and zero crowds.",2026-12-10
+Dharamsala,1,Exploring Namgyal Monastery Dalai Lama Residence turned into a nightmare because parking was non-existent along McLeod Ganj square in Dharamsala.,2026-01-05
+Dharamsala,1,Filthy restroom facilities and zero drinking water booths near Bhagsunag Waterfall & Temple made our visit to Dharamsala extremely unpleasant for the family.,2026-02-08
+Dharamsala,2,"The view from HPCA International Cricket Stadium is decent, but persistent vendors along McLeod Ganj square in Dharamsala ruin the peaceful atmosphere.",2026-03-11
+Dharamsala,2,We waited over 45 minutes for a table near Tibet Kitchen Restaurant McLeod Ganj. Service was overwhelmed and the local Tibet kitchen momos in Dharamsala felt rushed.,2026-04-14
+Dharamsala,3,"Decent stop at Triund Hill Trek Base Camp in Dharamsala. The view towards Dalai Lama temple prayer wheels was nice, though foggy weather blocked peak visibility.",2026-05-17
+Dharamsala,3,Good atmosphere around Dalai Lama temple prayer wheels in Dharamsala. We stopped by St. John in the Wilderness Church before lunch and enjoyed a brief walk.,2026-06-20
+Dharamsala,3,"A standard visit to Namgyal Monastery Dalai Lama Residence. The nearby Tibet kitchen momos in Dharamsala was satisfying, and the location near Bhagsunag waterfall steps is easy to find.",2026-07-23
+Dharamsala,4,Really enjoyed our time at Bhagsunag Waterfall & Temple! The surroundings near Dalai Lama temple prayer wheels in Dharamsala were clean and very well maintained.,2026-08-26
+Dharamsala,4,Had a fantastic afternoon exploring HPCA International Cricket Stadium. The atmosphere near Bhagsunag waterfall steps in Dharamsala was energetic and lively.,2026-09-02
+Dharamsala,4,Impressive site! Tibet Kitchen Restaurant McLeod Ganj is definitely one of the top attractions in Dharamsala. Arrive early to beat the heat.,2026-10-05
+Dharamsala,5,Absolute perfection! Namgyal Monastery Dalai Lama Residence completely exceeded our expectations. The morning views over Dalai Lama temple prayer wheels in Dharamsala were breathtaking.,2026-11-08
+Dharamsala,5,Breathtaking scenery and incredible heritage! Bhagsunag Waterfall & Temple in Dharamsala is an absolute masterpiece. Must visit early morning.,2026-12-11
+Rishikesh,1,Checking out Laxman Jhula Suspension Bridge was ruined by chaotic traffic and greedy cab drivers demanding triple rates near river raft launch site in Rishikesh.,2026-01-06
+Rishikesh,1,Ticket counter queues at Parmarth Niketan Ganga Aarti Ghat moved at a crawl. We waited 75 minutes in the heat outside Laxman Jhula suspension walk in Rishikesh.,2026-02-09
+Rishikesh,2,"Visited Beatles Ashram Maharishi Mahesh Yogi around midday. While the structure is impressive, parking near Parmarth Ganga Aarti ghat in Rishikesh was disorganized.",2026-03-12
+Rishikesh,2,Food stalls near Shivpuri Rafting Point charge double the normal rate for basic meals. Local authorities in Rishikesh should monitor this.,2026-04-15
+Rishikesh,3,"Visited Chotiwala Vegetarian Restaurant in the afternoon. Pleasant breeze along river raft launch site, but commercial stalls near Laxman Jhula suspension walk in Rishikesh are growing.",2026-05-18
+Rishikesh,3,"Ram Jhula Suspension Bridge offers nice photo opportunities. It gets busy after 4 PM, so plan your visit to Rishikesh accordingly.",2026-06-21
+Rishikesh,3,Laxman Jhula Suspension Bridge is fine for a quick one-hour visit. Beautiful lighting in late afternoon around Parmarth Ganga Aarti ghat in Rishikesh.,2026-07-24
+Rishikesh,4,Great morning walk around Parmarth Niketan Ganga Aarti Ghat. We arrived at 8 AM and got fantastic clear views of Laxman Jhula suspension walk before crowds arrived in Rishikesh.,2026-08-27
+Rishikesh,4,Loved the architecture and scale of Beatles Ashram Maharishi Mahesh Yogi. A very memorable highlight of our travel through Uttarakhand and Rishikesh.,2026-09-03
+Rishikesh,4,We spent over two hours at Shivpuri Rafting Point and loved every minute. The view towards river raft launch site in Rishikesh is spectacular.,2026-10-06
+Rishikesh,5,"The highlight of our entire trip to Uttarakhand! Laxman Jhula Suspension Bridge in Rishikesh is pristine, quiet at sunrise, and deeply atmospheric.",2026-11-09
+Rishikesh,5,"Pure bliss at Parmarth Niketan Ganga Aarti Ghat! The morning mist hovering over Parmarth Ganga Aarti ghat in Rishikesh created a surreal, postcard-perfect scene.",2026-12-12
+Mussoorie,1,Stopping near Kempty Falls Cascades became stressful when vehicle queues backed up for three kilometers approaching mall road incline in Mussoorie.,2026-01-07
+Mussoorie,1,Terrible crowd management at Gun Hill Cable Car Viewpoint in Mussoorie. People were pushing near Gun Hill cable car station without any security or staff intervention.,2026-02-10
+Mussoorie,2,"Mussoorie Mall Road Arcade has local significance, but the surrounding area in Mussoorie is overcrowded and lacks proper seating facilities near Kempty falls splash pool.",2026-03-13
+Mussoorie,2,Disappointed by the food quality near Lovely Omelette Centre Restaurant. Our order of Lovely omelette roll in Mussoorie took forever and arrived lukewarm.,2026-04-16
+Mussoorie,3,Company Garden Botanical Park is a fair inclusion in a Mussoorie itinerary. Spent about 45 minutes here exploring the grounds near Gun Hill cable car station.,2026-05-19
+Mussoorie,3,Sampled Lovely omelette roll near Cloud's End Forest Trail which was quite tasty. The sight itself in Mussoorie is small but well-located.,2026-06-22
+Mussoorie,3,Walked around Kempty Falls Cascades after visiting Kempty falls splash pool. Good place for families traveling through Uttarakhand.,2026-07-25
+Mussoorie,4,Highly recommend visiting Gun Hill Cable Car Viewpoint when in Mussoorie. The guided walk around Gun Hill cable car station provided great local history of Uttarakhand.,2026-08-01
+Mussoorie,4,Tasted delicious authentic Lovely omelette roll near Mussoorie Mall Road Arcade. Combining lunch with visiting Kempty falls splash pool made for a perfect afternoon in Mussoorie.,2026-09-04
+Mussoorie,4,Excellent stop in Uttarakhand. The path leading to Lovely Omelette Centre Restaurant from mall road incline was lined with vibrant local shops selling Lovely omelette roll in Mussoorie.,2026-10-07
+Mussoorie,5,Unforgettable experience at Kempty Falls Cascades. Sitting near Gun Hill cable car station in Mussoorie with a warm cup of tea was pure magic.,2026-11-10
+Mussoorie,5,"Flawless trip to Gun Hill Cable Car Viewpoint. Friendly locals in Mussoorie, delicious Lovely omelette roll nearby, and pristine surroundings around Kempty falls splash pool.",2026-12-13
+Auli,1,Touring Auli Artificial Lake Ski Resort was completely disorganized with cars parked bumper-to-bumper all down ski slope lift in Auli.,2026-01-08
+Auli,1,Extremely unhygienic conditions near Gorson Bugyal Meadow Trek. Trash was overflowing around Gorson Bugyal meadow trail and public amenities in Auli were broken.,2026-02-11
+Auli,2,"Okay place if you are nearby, but don't make a long trip for Joshimath Ropeway Station. The food options near Joshimath cable car ropeway in Auli were average at best.",2026-03-14
+Auli,2,Overpriced dining options near Auli Alpine Heights Restaurant. We paid ₹600 for a simple plate of Alpine height soup in Auli that tasted very average.,2026-04-17
+Auli,3,Nice spot for a quick photo at Chenab Lake Alpine Meadow. Make sure to carry your own water as shops near Gorson Bugyal meadow trail in Auli are pricey.,2026-05-20
+Auli,3,"Spent a relaxed hour at Kwani Bugyal Trek Point. Nothing extraordinary, but a peaceful spot near Gorson Bugyal meadow trail away from main city noise in Auli.",2026-06-23
+Auli,3,Fairly pleasant surroundings at Auli Artificial Lake Ski Resort. The breeze from ski slope lift in Auli was refreshing on a warm day.,2026-07-26
+Auli,4,Beautiful spot! Loved the fresh Alpine height soup served at the small eatery right outside Gorson Bugyal Meadow Trek in Auli.,2026-08-02
+Auli,4,Very scenic surroundings at Joshimath Ropeway Station! Walking along ski slope lift as the sun set over Joshimath cable car ropeway in Auli was delightful.,2026-09-05
+Auli,4,Beautiful lighting for photography at Auli Alpine Heights Restaurant around 5 PM. A charming place in Auli that shouldn't be missed.,2026-10-08
+Auli,5,10/10 destination! Auli Artificial Lake Ski Resort in Auli is stunningly beautiful. Everything from the local Alpine height soup to the scenery was top tier.,2026-11-11
+Auli,5,Outstanding highlight of Uttarakhand! Gorson Bugyal Meadow Trek in Auli offers unbelievable views and a rich cultural experience.,2026-12-14
+Khajuraho,1,Driving past Kandariya Mahadeva Temple Carvings resulted in a 90-minute delay due to narrow road bottlenecks along temple garden path in Khajuraho.,2026-01-09
+Khajuraho,1,"Disappointing experience at Western Group Temples Complex. We stood in a chaotic, unshaded line near Kandariya Mahadeva carving deck in Khajuraho for over an hour.",2026-02-12
+Khajuraho,2,Extremely crowded near Raneh falls canyon rim. We could barely get a decent photo of Raneh Falls Canyon & Crater without dozens of tourists in frame.,2026-03-15
+Khajuraho,2,Extremely slow service near Raja Cafe Lakeview Restaurant. Finding a clean table near temple garden path in Khajuraho was a struggle during peak lunch hours.,2026-04-18
+Khajuraho,3,"Mixed feelings about Eastern Group Jain Temples. The landscape near Kandariya Mahadeva carving deck is beautiful, but the approach road from Khajuraho town needs repairs.",2026-05-21
+Khajuraho,3,Reasonable experience at Panna National Park Jungle Gate. Parking near temple garden path in Khajuraho was manageable during weekday morning hours.,2026-06-24
+Khajuraho,3,Decent spot in Khajuraho. Kandariya Mahadeva Temple Carvings is worth checking out near Raneh falls canyon rim if you have extra time on your hands.,2026-07-27
+Khajuraho,4,Western Group Temples Complex is a must-see in Khajuraho. Smooth entry process near Kandariya Mahadeva carving deck and wonderful photo opportunities all around.,2026-08-03
+Khajuraho,4,Great experience at Raneh Falls Canyon & Crater. Well-kept gardens near Raneh falls canyon rim and clear signage made our visit to Khajuraho very comfortable.,2026-09-06
+Khajuraho,4,Thoroughly enjoyed our visit to Raja Cafe Lakeview Restaurant. Peaceful atmosphere near temple garden path and very welcoming local staff in Khajuraho.,2026-10-09
+Khajuraho,5,Magical visit to Kandariya Mahadeva Temple Carvings. The panoramic vista from Kandariya Mahadeva carving deck in Khajuraho is something we will cherish forever.,2026-11-12
+Khajuraho,5,An absolute jewel in Khajuraho! We spent hours admiring Western Group Temples Complex and walking along Raneh falls canyon rim. Simply incredible.,2026-12-15
+Orchha,1,Walking past Orchha Fort Palace Complex was a waste of effort as entry gates near river cenotaph bridge in Orchha were choked with unmanaged vehicles.,2026-01-10
+Orchha,1,"Poorly maintained facilities around Raja Mahal & Jahangir Mahal. The restrooms near Jahangir Mahal courtyard in Orchha were shut down, causing massive inconvenience.",2026-02-13
+Orchha,2,"Decent architectural features at Ram Raja Temple, but loud commercial stalls right next to Ram Raja temple main square in Orchha spoil the charm.",2026-03-16
+Orchha,2,The environment around Open Air Betwa Tarang Restaurant was far too noisy. We ordered Betwa Tarang thali in Orchha but couldn't eat peacefully due to crowds.,2026-04-19
+Orchha,3,"Standard sight visit to Chatturtiya Cenotaphs Betwa Riverbank in Orchha. The area around Jahangir Mahal courtyard is clean, though seating is somewhat limited.",2026-05-22
+Orchha,3,"Pretty location at Laxmi Narayan Temple Murals in Orchha. The walk along river cenotaph bridge was pleasant, though visitor amenities are basic.",2026-06-25
+Orchha,3,Quiet evening visit to Orchha Fort Palace Complex. Lighting around Ram Raja temple main square in Orchha makes for a nice ambient stroll.,2026-07-01
+Orchha,4,Very positive experience visiting Raja Mahal & Jahangir Mahal. The historical grounds near Jahangir Mahal courtyard in Orchha are beautifully preserved.,2026-08-04
+Orchha,4,Splendid afternoon visit to Ram Raja Temple. Enjoyed fresh Betwa Tarang thali at a nearby cafe after walking around Ram Raja temple main square in Orchha.,2026-09-07
+Orchha,4,Wonderful morning walk at Open Air Betwa Tarang Restaurant. The views over Orchha from the main deck near river cenotaph bridge were top notch.,2026-10-10
+Orchha,5,Pure bliss at Orchha Fort Palace Complex! The morning light reflecting over Jahangir Mahal courtyard in Orchha created a postcard-perfect memory.,2026-11-13
+Orchha,5,Unmatched beauty at Raja Mahal & Jahangir Mahal. Seeing the sunrise over Ram Raja temple main square in Orchha was the single best moment of our vacation.,2026-12-16
+Pachmarhi,1,Spending an hour at Bee Falls Water Cascade left us stranded in midday heat as traffic near forest ravine path in Pachmarhi ground to a complete halt.,2026-01-11
+Pachmarhi,1,Horrible entry process at Dhupgarh Sunset Point Peak. Staff near Bee falls cascade steps in Pachmarhi were rude and unable to manage the weekend crowd.,2026-02-14
+Pachmarhi,2,Slightly underwhelming visit to Jatashankar Cave Temple. The area around Dhupgarh sunset peak point in Pachmarhi was quite noisy and littered with flyers.,2026-03-17
+Pachmarhi,2,Underwhelming food stop near Chinnar Hotel Local Restaurant. The famous Chinnar thali in Pachmarhi did not live up to the hype and prices were inflated.,2026-04-20
+Pachmarhi,3,"Fair experience at Apsara Vihar Fairy Pool Waterfall. Good view of Bee falls cascade steps from the upper deck in Pachmarhi, but expected more historical information.",2026-05-23
+Pachmarhi,3,Fine place to stop by on your way through Pachmarhi. Pandav Caves Archaeological Site is pleasant in the late afternoon.,2026-06-26
+Pachmarhi,3,Satisfactory stop at Bee Falls Water Cascade. Enjoyed a quick cold drink near Dhupgarh sunset peak point while taking in the Pachmarhi view.,2026-07-02
+Pachmarhi,4,Delightful morning spent at Dhupgarh Sunset Point Peak. The cool air near Bee falls cascade steps in Pachmarhi made the walk extremely refreshing.,2026-08-05
+Pachmarhi,4,High quality experience at Jatashankar Cave Temple. The sunset view over Dhupgarh sunset peak point in Pachmarhi was absolutely stunning.,2026-09-08
+Pachmarhi,4,Highly rated stop for a reason! Chinnar Hotel Local Restaurant in Pachmarhi offers great vantage points and tasty Chinnar thali nearby.,2026-10-11
+Pachmarhi,5,Magnificent attraction! Bee Falls Water Cascade in Pachmarhi represents the very best of Madhya Pradesh heritage and natural beauty.,2026-11-14
+Pachmarhi,5,Spectacular visit to Dhupgarh Sunset Point Peak! The serene atmosphere around Dhupgarh sunset peak point in Pachmarhi made us want to stay all day.,2026-12-17
+Rann of Kutch,1,Arriving early at White Rann Salt Desert Expanses proved to be an unpleasant hassle due to aggressive hawkers and parking chaos along tent city pathway in Rann of Kutch.,2026-01-12
+Rann of Kutch,1,"Avoid visiting Kala Dungar Black Hill Viewpoint with senior citizens. The queue near White Rann salt flat walk in Rann of Kutch was crammed, hot, and lacked any seating.",2026-02-15
+Rann of Kutch,2,"Mediocre experience at Kutch Craft Village Bhujodi. The view toward Kala Dungar hill peak view in Rann of Kutch was nice, but pushy local guides kept interrupting us.",2026-03-18
+Rann of Kutch,2,Long queues at the eateries near Rann Utsav Tent City Dining Hall. We waited nearly an hour just to get a plate of Kutchi dabeli in Rann of Kutch.,2026-04-21
+Rann of Kutch,3,"Average evening walk around Dholavira Harappan Excavation Site. The breeze near White Rann salt flat walk in Rann of Kutch was pleasant, but crowd noise was high.",2026-05-24
+Rann of Kutch,3,Relaxing 45 minutes spent around Mandvi Beach Windmills. Nice view of White Rann salt flat walk in Rann of Kutch if you visit around 5 PM.,2026-06-27
+Rann of Kutch,3,Pleasant grounds at White Rann Salt Desert Expanses. The short walk from Kala Dungar hill peak view in Rann of Kutch was easy and breezy.,2026-07-03
+Rann of Kutch,4,Impressed with the upkeep of Kala Dungar Black Hill Viewpoint. Walking through the gardens near White Rann salt flat walk in Rann of Kutch was delightful.,2026-08-06
+Rann of Kutch,4,Memorable cultural stop at Kutch Craft Village Bhujodi. Local guide near Kala Dungar hill peak view in Rann of Kutch gave us fascinating historical facts.,2026-09-09
+Rann of Kutch,4,Charming experience at Rann Utsav Tent City Dining Hall. Walking down tent city pathway towards the main view in Rann of Kutch was super scenic.,2026-10-12
+Rann of Kutch,5,Incredible experience from start to finish. White Rann Salt Desert Expanses in Rann of Kutch offers breathtaking views near White Rann salt flat walk.,2026-11-15
+Rann of Kutch,5,"World-class sight! Kala Dungar Black Hill Viewpoint in Rann of Kutch is incredibly peaceful, spotless, and offers divine views near Kala Dungar hill peak view.",2026-12-18
+Ahmedabad,1,Heading straight for Sabarmati Ashram Gandhi Memorial was overshadowed by filthy litter and lack of basic visitor management near old pol lane in Ahmedabad.,2026-01-13
+Ahmedabad,1,"Frustrating visit to Adalaj Stepwell Architecture. Online tickets were not honored at Sabarmati Ashram riverfront in Ahmedabad, forcing everyone into a slow cash line.",2026-02-16
+Ahmedabad,2,"Kankaria Lake Front Promenade is okay for a quick photo stop, but facilities around Adalaj stepwell carved shaft in Ahmedabad desperately need better upkeep.",2026-03-19
+Ahmedabad,2,Mediocre food experience near Agashiye Rooftop Gujarati Thali. The local Agashiye thali in Ahmedabad was disappointing given the high tourist price charged.,2026-04-22
+Ahmedabad,3,Worth a brief 30-minute stop at Manek Chowk Night Food Market. The spot near Sabarmati Ashram riverfront in Ahmedabad offers nice angles for casual photographs.,2026-05-25
+Ahmedabad,3,Convenient roadside stop at Hutheesing Jain Temple Carvings in Ahmedabad. Good spot to stretch your legs and try local snacks.,2026-06-01
+Ahmedabad,3,Solid 3-star experience at Sabarmati Ashram Gandhi Memorial. Good photo point near Adalaj stepwell carved shaft in Ahmedabad without overwhelming crowds.,2026-07-04
+Ahmedabad,4,Wonderful stop on our Gujarat itinerary! Adalaj Stepwell Architecture in Ahmedabad offers great views and rich cultural insights.,2026-08-07
+Ahmedabad,4,Very clean and organized attraction. Kankaria Lake Front Promenade in Ahmedabad exceeded our expectations with great views of Adalaj stepwell carved shaft.,2026-09-10
+Ahmedabad,4,"Great photo spot in Ahmedabad. Agashiye Rooftop Gujarati Thali was clean, peaceful, and easily accessible along old pol lane.",2026-10-13
+Ahmedabad,5,A masterclass in natural beauty! Sabarmati Ashram Gandhi Memorial in Ahmedabad completely blew us away with its peaceful vibes.,2026-11-16
+Ahmedabad,5,"Top recommendation for Gujarat! Adalaj Stepwell Architecture in Ahmedabad is magical, serene, and easily our favorite place.",2026-12-19
+Dwarka,1,Beginning our tour at Dwarkadhish Temple Jagat Mandir was a frustrating ordeal — heavy gridlock along gomti ghat stairs in Dwarka cost us two hours of precious time.,2026-01-14
+Dwarka,1,Unorganized visitor queues near Dwarkadhish temple main gate completely ruined our time at Bet Dwarka Island Boat Ghat in Dwarka. Restroom facilities were in terrible shape.,2026-02-17
+Dwarka,2,"Although Rukmini Devi Temple holds historic value, aggressive street hawkers near Bet Dwarka boat ferry dock in Dwarka made it hard to enjoy a quiet walk.",2026-03-20
+Dwarka,2,Long waiting lines outside Shrinath Dining Hall Kathiyawadi Thali left us exhausted. The Kathiyawadi thali served near gomti ghat stairs in Dwarka was overpriced and bland.,2026-04-23
+Dwarka,3,"Spent roughly 40 minutes around Nageshwar Jyotirlinga Temple Shiva Statue in Dwarka. The perspective towards Dwarkadhish temple main gate was decent, though afternoon heat was oppressive.",2026-05-26
+Dwarka,3,Checking out Bhadkeshwar Mahadev Temple Cliff makes for a fine brief stop in Dwarka. Limited vehicle parking near gomti ghat stairs can be tricky during weekends.,2026-06-02
+Dwarka,3,A fair overall visit to Dwarkadhish Temple Jagat Mandir. Surrounding views near Bet Dwarka boat ferry dock in Dwarka are pleasant enough if you are staying nearby.,2026-07-05
+Dwarka,4,Thoroughly enjoyed our visit to Bet Dwarka Island Boat Ghat! The clean pathways around Dwarkadhish temple main gate made our excursion in Dwarka very pleasant.,2026-08-08
+Dwarka,4,Tasted incredible Kathiyawadi thali right beside Rukmini Devi Temple. Pairing a good local meal with exploring Bet Dwarka boat ferry dock was a high point in Dwarka.,2026-09-11
+Dwarka,4,Stunning panoramic lighting at Shrinath Dining Hall Kathiyawadi Thali around 8:15 AM before afternoon mist settled over Dwarka. Definitely arrive early.,2026-10-14
+Dwarka,5,"Absolute crown jewel of our journey in Gujarat! Dwarkadhish Temple Jagat Mandir in Dwarka is remarkably serene, pristine, and full of character.",2026-11-17
+Dwarka,5,"Experiencing Bet Dwarka Island Boat Ghat in Dwarka at 7 AM was pure bliss — quiet morning air, glowing sunlight over Bet Dwarka boat ferry dock, and zero crowds.",2026-12-20
+Puri,1,Wrapping up at Shree Jagannath Temple Dham turned into a nightmare because parking was non-existent along grand road avenue in Puri.,2026-01-15
+Puri,1,Filthy restroom facilities and zero drinking water booths near Golden Puri Beach Sea Waves made our visit to Puri extremely unpleasant for the family.,2026-02-18
+Puri,2,"The view from Gundicha Temple Compound is decent, but persistent vendors along grand road avenue in Puri ruin the peaceful atmosphere.",2026-03-21
+Puri,2,We waited over 45 minutes for a table near Chung Wah Chinese & Seafood Restaurant. Service was overwhelmed and the local Chung Wah seafood in Puri felt rushed.,2026-04-24
+Puri,3,"Decent stop at Chilika Lake Satapada Dolphin Point in Puri. The view towards Jagannath temple lion gate was nice, though foggy weather blocked peak visibility.",2026-05-27
+Puri,3,Good atmosphere around Jagannath temple lion gate in Puri. We stopped by Swargadvar Beach Craft Stalls before lunch and enjoyed a brief walk.,2026-06-03
+Puri,3,"A standard visit to Shree Jagannath Temple Dham. The nearby Chung Wah seafood in Puri was satisfying, and the location near Golden Puri beach wave strip is easy to find.",2026-07-06
+Puri,4,Really enjoyed our time at Golden Puri Beach Sea Waves! The surroundings near Jagannath temple lion gate in Puri were clean and very well maintained.,2026-08-09
+Puri,4,Had a fantastic afternoon exploring Gundicha Temple Compound. The atmosphere near Golden Puri beach wave strip in Puri was energetic and lively.,2026-09-12
+Puri,4,Impressive site! Chung Wah Chinese & Seafood Restaurant is definitely one of the top attractions in Puri. Arrive early to beat the heat.,2026-10-15
+Puri,5,Absolute perfection! Shree Jagannath Temple Dham completely exceeded our expectations. The morning views over Jagannath temple lion gate in Puri were breathtaking.,2026-11-18
+Puri,5,Breathtaking scenery and incredible heritage! Golden Puri Beach Sea Waves in Puri is an absolute masterpiece. Must visit early morning.,2026-12-21
+Konark,1,Checking in near Konark Sun Temple Stone Chariot was ruined by chaotic traffic and greedy cab drivers demanding triple rates near temple lawn walkway in Konark.,2026-01-16
+Konark,1,Ticket counter queues at Chandrabhaga Beach Sunrise Point moved at a crawl. We waited 75 minutes in the heat outside Sun temple stone chariot deck in Konark.,2026-02-19
+Konark,2,"Visited ASI Archaeological Museum Konark around midday. While the structure is impressive, parking near Chandrabhaga beach sunrise point in Konark was disorganized.",2026-03-22
+Konark,2,Food stalls near Kamats Restaurant Konark Highway charge double the normal rate for basic meals. Local authorities in Konark should monitor this.,2026-04-25
+Konark,3,"Visited Ramachandi Temple Beach Estuary in the afternoon. Pleasant breeze along temple lawn walkway, but commercial stalls near Sun temple stone chariot deck in Konark are growing.",2026-05-01
+Konark,3,"Kuruma Buddhist Archaeological Site offers nice photo opportunities. It gets busy after 4 PM, so plan your visit to Konark accordingly.",2026-06-04
+Konark,3,Konark Sun Temple Stone Chariot is fine for a quick one-hour visit. Beautiful lighting in late afternoon around Chandrabhaga beach sunrise point in Konark.,2026-07-07
+Konark,4,Great morning walk around Chandrabhaga Beach Sunrise Point. We arrived at 8 AM and got fantastic clear views of Sun temple stone chariot deck before crowds arrived in Konark.,2026-08-10
+Konark,4,Loved the architecture and scale of ASI Archaeological Museum Konark. A very memorable highlight of our travel through Odisha and Konark.,2026-09-13
+Konark,4,We spent over two hours at Kamats Restaurant Konark Highway and loved every minute. The view towards temple lawn walkway in Konark is spectacular.,2026-10-16
+Konark,5,"The highlight of our entire trip to Odisha! Konark Sun Temple Stone Chariot in Konark is pristine, quiet at sunrise, and deeply atmospheric.",2026-11-19
+Konark,5,"Pure bliss at Chandrabhaga Beach Sunrise Point! The morning mist hovering over Chandrabhaga beach sunrise point in Konark created a surreal, postcard-perfect scene.",2026-12-22
+Raghurajpur,1,Experiencing Raghurajpur Pattachitra Artisan Village became stressful when vehicle queues backed up for three kilometers approaching craft village path in Raghurajpur.,2026-01-17
+Raghurajpur,1,Terrible crowd management at Gotipua Dance Academy Workshop in Raghurajpur. People were pushing near Pattachitra painter workshop without any security or staff intervention.,2026-02-20
+Raghurajpur,2,"Heritage Artisan Palm Leaf Studio has local significance, but the surrounding area in Raghurajpur is overcrowded and lacks proper seating facilities near Gotipua dance studio lawn.",2026-03-23
+Raghurajpur,2,Disappointed by the food quality near Village Craftsman Kitchen Restaurant. Our order of Artisan village thali in Raghurajpur took forever and arrived lukewarm.,2026-04-26
+Raghurajpur,3,Sirlo Heritage Village Palm Craft Studio is a fair inclusion in a Raghurajpur itinerary. Spent about 45 minutes here exploring the grounds near Pattachitra painter workshop.,2026-05-02
+Raghurajpur,3,Sampled Artisan village thali near Bhargavi Riverbank Artisan Path which was quite tasty. The sight itself in Raghurajpur is small but well-located.,2026-06-05
+Raghurajpur,3,Walked around Raghurajpur Pattachitra Artisan Village after visiting Gotipua dance studio lawn. Good place for families traveling through Odisha.,2026-07-08
+Raghurajpur,4,Highly recommend visiting Gotipua Dance Academy Workshop when in Raghurajpur. The guided walk around Pattachitra painter workshop provided great local history of Odisha.,2026-08-11
+Raghurajpur,4,Tasted delicious authentic Artisan village thali near Heritage Artisan Palm Leaf Studio. Combining lunch with visiting Gotipua dance studio lawn made for a perfect afternoon in Raghurajpur.,2026-09-14
+Raghurajpur,4,Excellent stop in Odisha. The path leading to Village Craftsman Kitchen Restaurant from craft village path was lined with vibrant local shops selling Artisan village thali in Raghurajpur.,2026-10-17
+Raghurajpur,5,Unforgettable experience at Raghurajpur Pattachitra Artisan Village. Sitting near Pattachitra painter workshop in Raghurajpur with a warm cup of tea was pure magic.,2026-11-20
+Raghurajpur,5,"Flawless trip to Gotipua Dance Academy Workshop. Friendly locals in Raghurajpur, delicious Artisan village thali nearby, and pristine surroundings around Gotipua dance studio lawn.",2026-12-23
+Gangtok,1,Sighting Rumtek Monastery Golden Stupa was completely disorganized with cars parked bumper-to-bumper all down ridge park walkway in Gangtok.,2026-01-18
+Gangtok,1,Extremely unhygienic conditions near Tsomgo Changu Lake Border. Trash was overflowing around Rumtek monastery golden stupa and public amenities in Gangtok were broken.,2026-02-21
+Gangtok,2,"Okay place if you are nearby, but don't make a long trip for Nathula Pass Indo China Border. The food options near Tsomgo lake yak ride point in Gangtok were average at best.",2026-03-24
+Gangtok,2,Overpriced dining options near The Square Restaurant MG Marg. We paid ₹600 for a simple plate of MG Marg momo plate in Gangtok that tasted very average.,2026-04-27
+Gangtok,3,Nice spot for a quick photo at Enchey Monastery Nyingma Order. Make sure to carry your own water as shops near Rumtek monastery golden stupa in Gangtok are pricey.,2026-05-03
+Gangtok,3,"Spent a relaxed hour at Namgyal Institute of Tibetology Museum. Nothing extraordinary, but a peaceful spot near Rumtek monastery golden stupa away from main city noise in Gangtok.",2026-06-06
+Gangtok,3,Fairly pleasant surroundings at Rumtek Monastery Golden Stupa. The breeze from ridge park walkway in Gangtok was refreshing on a warm day.,2026-07-09
+Gangtok,4,Beautiful spot! Loved the fresh MG Marg momo plate served at the small eatery right outside Tsomgo Changu Lake Border in Gangtok.,2026-08-12
+Gangtok,4,Very scenic surroundings at Nathula Pass Indo China Border! Walking along ridge park walkway as the sun set over Tsomgo lake yak ride point in Gangtok was delightful.,2026-09-15
+Gangtok,4,Beautiful lighting for photography at The Square Restaurant MG Marg around 5 PM. A charming place in Gangtok that shouldn't be missed.,2026-10-18
+Gangtok,5,10/10 destination! Rumtek Monastery Golden Stupa in Gangtok is stunningly beautiful. Everything from the local MG Marg momo plate to the scenery was top tier.,2026-11-21
+Gangtok,5,Outstanding highlight of Sikkim! Tsomgo Changu Lake Border in Gangtok offers unbelievable views and a rich cultural experience.,2026-12-24
+Lachung,1,Taking photos at Yumthang Valley of Flowers resulted in a 90-minute delay due to narrow road bottlenecks along valley river wooden bridge in Lachung.,2026-01-19
+Lachung,1,"Disappointing experience at Zero Point Yumesamdong Snow Peak. We stood in a chaotic, unshaded line near Yumthang valley flower trail in Lachung for over an hour.",2026-02-22
+Lachung,2,Extremely crowded near Zero point snow peak edge. We could barely get a decent photo of Lachung Monastery without dozens of tourists in frame.,2026-03-25
+Lachung,2,Extremely slow service near Homestay Traditional Sikkimese Kitchen Restaurant. Finding a clean table near valley river wooden bridge in Lachung was a struggle during peak lunch hours.,2026-04-01
+Lachung,3,"Mixed feelings about Katao Snow Peak Point. The landscape near Yumthang valley flower trail is beautiful, but the approach road from Lachung town needs repairs.",2026-05-04
+Lachung,3,Reasonable experience at Bhim Nala Waterfalls Cascade. Parking near valley river wooden bridge in Lachung was manageable during weekday morning hours.,2026-06-07
+Lachung,3,Decent spot in Lachung. Yumthang Valley of Flowers is worth checking out near Zero point snow peak edge if you have extra time on your hands.,2026-07-10
+Lachung,4,Zero Point Yumesamdong Snow Peak is a must-see in Lachung. Smooth entry process near Yumthang valley flower trail and wonderful photo opportunities all around.,2026-08-13
+Lachung,4,Great experience at Lachung Monastery. Well-kept gardens near Zero point snow peak edge and clear signage made our visit to Lachung very comfortable.,2026-09-16
+Lachung,4,Thoroughly enjoyed our visit to Homestay Traditional Sikkimese Kitchen Restaurant. Peaceful atmosphere near valley river wooden bridge and very welcoming local staff in Lachung.,2026-10-19
+Lachung,5,Magical visit to Yumthang Valley of Flowers. The panoramic vista from Yumthang valley flower trail in Lachung is something we will cherish forever.,2026-11-22
+Lachung,5,An absolute jewel in Lachung! We spent hours admiring Zero Point Yumesamdong Snow Peak and walking along Zero point snow peak edge. Simply incredible.,2026-12-25
+Kaziranga,1,Enjoying the view from Kaziranga Central Range Kohora Safari was a waste of effort as entry gates near safari jeep gate in Kaziranga were choked with unmanaged vehicles.,2026-01-20
+Kaziranga,1,"Poorly maintained facilities around Kaziranga National Orchid Park. The restrooms near Central range safari track in Kaziranga were shut down, causing massive inconvenience.",2026-02-23
+Kaziranga,2,"Decent architectural features at Western Range Bagori Rhino Zone, but loud commercial stalls right next to Orchid park exhibition hall in Kaziranga spoil the charm.",2026-03-26
+Kaziranga,2,The environment around Maihang Assamese Ethnic Thali Restaurant was far too noisy. We ordered Assamese fish thali in Kaziranga but couldn't eat peacefully due to crowds.,2026-04-02
+Kaziranga,3,"Standard sight visit to Eastern Range Agratoli Waterfowl Zone in Kaziranga. The area around Central range safari track is clean, though seating is somewhat limited.",2026-05-05
+Kaziranga,3,"Pretty location at Burapahar Range Trekking Trail in Kaziranga. The walk along safari jeep gate was pleasant, though visitor amenities are basic.",2026-06-08
+Kaziranga,3,Quiet evening visit to Kaziranga Central Range Kohora Safari. Lighting around Orchid park exhibition hall in Kaziranga makes for a nice ambient stroll.,2026-07-11
+Kaziranga,4,Very positive experience visiting Kaziranga National Orchid Park. The historical grounds near Central range safari track in Kaziranga are beautifully preserved.,2026-08-14
+Kaziranga,4,Splendid afternoon visit to Western Range Bagori Rhino Zone. Enjoyed fresh Assamese fish thali at a nearby cafe after walking around Orchid park exhibition hall in Kaziranga.,2026-09-17
+Kaziranga,4,Wonderful morning walk at Maihang Assamese Ethnic Thali Restaurant. The views over Kaziranga from the main deck near safari jeep gate were top notch.,2026-10-20
+Kaziranga,5,Pure bliss at Kaziranga Central Range Kohora Safari! The morning light reflecting over Central range safari track in Kaziranga created a postcard-perfect memory.,2026-11-23
+Kaziranga,5,Unmatched beauty at Kaziranga National Orchid Park. Seeing the sunrise over Orchid park exhibition hall in Kaziranga was the single best moment of our vacation.,2026-12-26
+Majuli,1,Walking down to Kamalabari Satra Vaishnavite Monastery left us stranded in midday heat as traffic near brahmaputra ferry bank in Majuli ground to a complete halt.,2026-01-21
+Majuli,1,Horrible entry process at Auniati Satra Museum Artifacts. Staff near Kamalabari satra prayer hall in Majuli were rude and unable to manage the weekend crowd.,2026-02-24
+Majuli,2,Slightly underwhelming visit to Samaguri Satra Mask Making Workshop. The area around Samaguri mask workshop yard in Majuli was quite noisy and littered with flyers.,2026-03-27
+Majuli,2,Underwhelming food stop near Majuli Tribal Kitchen Fish Thali Restaurant. The famous Tribal fish curry in Majuli did not live up to the hype and prices were inflated.,2026-04-03
+Majuli,3,"Fair experience at Bengenati Satra Historic Collection. Good view of Kamalabari satra prayer hall from the upper deck in Majuli, but expected more historical information.",2026-05-06
+Majuli,3,Fine place to stop by on your way through Majuli. Garmur Satra Vaishnavite Center is pleasant in the late afternoon.,2026-06-09
+Majuli,3,Satisfactory stop at Kamalabari Satra Vaishnavite Monastery. Enjoyed a quick cold drink near Samaguri mask workshop yard while taking in the Majuli view.,2026-07-12
+Majuli,4,Delightful morning spent at Auniati Satra Museum Artifacts. The cool air near Kamalabari satra prayer hall in Majuli made the walk extremely refreshing.,2026-08-15
+Majuli,4,High quality experience at Samaguri Satra Mask Making Workshop. The sunset view over Samaguri mask workshop yard in Majuli was absolutely stunning.,2026-09-18
+Majuli,4,Highly rated stop for a reason! Majuli Tribal Kitchen Fish Thali Restaurant in Majuli offers great vantage points and tasty Tribal fish curry nearby.,2026-10-21
+Majuli,5,Magnificent attraction! Kamalabari Satra Vaishnavite Monastery in Majuli represents the very best of Assam heritage and natural beauty.,2026-11-24
+Majuli,5,Spectacular visit to Auniati Satra Museum Artifacts! The serene atmosphere around Samaguri mask workshop yard in Majuli made us want to stay all day.,2026-12-27
+Tirthan Valley,1,Climbing up to Great Himalayan National Park Trek Entrance proved to be an unpleasant hassle due to aggressive hawkers and parking chaos along riverbank pebble path in Tirthan Valley.,2026-01-22
+Tirthan Valley,1,"Avoid visiting Choie Waterfall Hike with senior citizens. The queue near Himalayan park trek entrance in Tirthan Valley was crammed, hot, and lacked any seating.",2026-02-25
+Tirthan Valley,2,"Mediocre experience at Jibhi Waterfall & Wooden Bridge. The view toward Jibhi waterfall wooden bridge in Tirthan Valley was nice, but pushy local guides kept interrupting us.",2026-03-01
+Tirthan Valley,2,Long queues at the eateries near Trout House Grill Restaurant. We waited nearly an hour just to get a plate of Trout house grilled fish in Tirthan Valley.,2026-04-04
+Tirthan Valley,3,"Average evening walk around Chehni Kothi Ancient Timber Tower. The breeze near Himalayan park trek entrance in Tirthan Valley was pleasant, but crowd noise was high.",2026-05-07
+Tirthan Valley,3,Relaxing 45 minutes spent around Serolsar Lake Jalori Pass Hike. Nice view of Himalayan park trek entrance in Tirthan Valley if you visit around 5 PM.,2026-06-10
+Tirthan Valley,3,Pleasant grounds at Great Himalayan National Park Trek Entrance. The short walk from Jibhi waterfall wooden bridge in Tirthan Valley was easy and breezy.,2026-07-13
+Tirthan Valley,4,Impressed with the upkeep of Choie Waterfall Hike. Walking through the gardens near Himalayan park trek entrance in Tirthan Valley was delightful.,2026-08-16
+Tirthan Valley,4,Memorable cultural stop at Jibhi Waterfall & Wooden Bridge. Local guide near Jibhi waterfall wooden bridge in Tirthan Valley gave us fascinating historical facts.,2026-09-19
+Tirthan Valley,4,Charming experience at Trout House Grill Restaurant. Walking down riverbank pebble path towards the main view in Tirthan Valley was super scenic.,2026-10-22
+Tirthan Valley,5,Incredible experience from start to finish. Great Himalayan National Park Trek Entrance in Tirthan Valley offers breathtaking views near Himalayan park trek entrance.,2026-11-25
+Tirthan Valley,5,"World-class sight! Choie Waterfall Hike in Tirthan Valley is incredibly peaceful, spotless, and offers divine views near Jibhi waterfall wooden bridge.",2026-12-01
+Ziro,1,Renting a scooter for Apatani Tribal Village Hong Walk was overshadowed by filthy litter and lack of basic visitor management near pine grove walk in Ziro.,2026-01-23
+Ziro,1,"Frustrating visit to Tarin Fish Farm Paddy Field. Online tickets were not honored at Hong Apatani village trail in Ziro, forcing everyone into a slow cash line.",2026-02-26
+Ziro,2,"Kile Pakho Ridge Viewpoint is okay for a quick photo stop, but facilities around Kile Pakho ridge viewpoint in Ziro desperately need better upkeep.",2026-03-02
+Ziro,2,Mediocre food experience near Ziro Valley Local Kitchen Rice Wine & Food. The local Local rice wine dish in Ziro was disappointing given the high tourist price charged.,2026-04-05
+Ziro,3,Worth a brief 30-minute stop at Meghna Cave Temple Ancient Shrine. The spot near Hong Apatani village trail in Ziro offers nice angles for casual photographs.,2026-05-08
+Ziro,3,Convenient roadside stop at Talley Valley Wildlife Sanctuary Entrance in Ziro. Good spot to stretch your legs and try local snacks.,2026-06-11
+Ziro,3,Solid 3-star experience at Apatani Tribal Village Hong Walk. Good photo point near Kile Pakho ridge viewpoint in Ziro without overwhelming crowds.,2026-07-14
+Ziro,4,Wonderful stop on our Arunachal Pradesh itinerary! Tarin Fish Farm Paddy Field in Ziro offers great views and rich cultural insights.,2026-08-17
+Ziro,4,Very clean and organized attraction. Kile Pakho Ridge Viewpoint in Ziro exceeded our expectations with great views of Kile Pakho ridge viewpoint.,2026-09-20
+Ziro,4,"Great photo spot in Ziro. Ziro Valley Local Kitchen Rice Wine & Food was clean, peaceful, and easily accessible along pine grove walk.",2026-10-23
+Ziro,5,A masterclass in natural beauty! Apatani Tribal Village Hong Walk in Ziro completely blew us away with its peaceful vibes.,2026-11-26
+Ziro,5,"Top recommendation for Arunachal Pradesh! Tarin Fish Farm Paddy Field in Ziro is magical, serene, and easily our favorite place.",2026-12-02
+Hamirpur,1,Taking a auto to Tauni Devi Temple Shrine was a frustrating ordeal — heavy gridlock along hill station road in Hamirpur cost us two hours of precious time.,2026-01-24
+Hamirpur,1,Unorganized visitor queues near Tauni Devi temple shrine path completely ruined our time at Sujanpur Tira Fort Ruins in Hamirpur. Restroom facilities were in terrible shape.,2026-02-27
+Hamirpur,2,"Although Gasota Mahadev Temple Pond holds historic value, aggressive street hawkers near Sujanpur Tira fort ramparts in Hamirpur made it hard to enjoy a quiet walk.",2026-03-03
+Hamirpur,2,Long waiting lines outside Himachal Rasoi Restaurant Hamirpur left us exhausted. The Himachali dham thali served near hill station road in Hamirpur was overpriced and bland.,2026-04-06
+Hamirpur,3,"Spent roughly 40 minutes around Awah Devi Temple Hill Peak in Hamirpur. The perspective towards Tauni Devi temple shrine path was decent, though afternoon heat was oppressive.",2026-05-09
+Hamirpur,3,Checking out Deotsidh Baba Balak Nath Cave Temple makes for a fine brief stop in Hamirpur. Limited vehicle parking near hill station road can be tricky during weekends.,2026-06-12
+Hamirpur,3,A fair overall visit to Tauni Devi Temple Shrine. Surrounding views near Sujanpur Tira fort ramparts in Hamirpur are pleasant enough if you are staying nearby.,2026-07-15
+Hamirpur,4,Thoroughly enjoyed our visit to Sujanpur Tira Fort Ruins! The clean pathways around Tauni Devi temple shrine path made our excursion in Hamirpur very pleasant.,2026-08-18
+Hamirpur,4,Tasted incredible Himachali dham thali right beside Gasota Mahadev Temple Pond. Pairing a good local meal with exploring Sujanpur Tira fort ramparts was a high point in Hamirpur.,2026-09-21
+Hamirpur,4,Stunning panoramic lighting at Himachal Rasoi Restaurant Hamirpur around 8:15 AM before afternoon mist settled over Hamirpur. Definitely arrive early.,2026-10-24
+Hamirpur,5,"Absolute crown jewel of our journey in Himachal Pradesh! Tauni Devi Temple Shrine in Hamirpur is remarkably serene, pristine, and full of character.",2026-11-27
+Hamirpur,5,"Experiencing Sujanpur Tira Fort Ruins in Hamirpur at 7 AM was pure bliss — quiet morning air, glowing sunlight over Sujanpur Tira fort ramparts, and zero crowds.",2026-12-03
+Matheran,1,Boarding the ferry for Panorama Point Sunset Edge turned into a nightmare because parking was non-existent along red dirt trail in Matheran.,2026-01-25
+Matheran,1,Filthy restroom facilities and zero drinking water booths near Echo Point Valley Sound Echo made our visit to Matheran extremely unpleasant for the family.,2026-02-01
+Matheran,2,"The view from Charlotte Lake Dam is decent, but persistent vendors along red dirt trail in Matheran ruin the peaceful atmosphere.",2026-03-04
+Matheran,2,We waited over 45 minutes for a table near Shabbir's Biryani House Restaurant. Service was overwhelmed and the local Biryani house thali in Matheran felt rushed.,2026-04-07
+Matheran,3,"Decent stop at Louisa Point Precipice in Matheran. The view towards Panorama point sunset ledge was nice, though foggy weather blocked peak visibility.",2026-05-10
+Matheran,3,Good atmosphere around Panorama point sunset ledge in Matheran. We stopped by One Tree Hill Point Ridge before lunch and enjoyed a brief walk.,2026-06-13
+Matheran,3,"A standard visit to Panorama Point Sunset Edge. The nearby Biryani house thali in Matheran was satisfying, and the location near Charlotte lake dam walkway is easy to find.",2026-07-16
+Matheran,4,Really enjoyed our time at Echo Point Valley Sound Echo! The surroundings near Panorama point sunset ledge in Matheran were clean and very well maintained.,2026-08-19
+Matheran,4,Had a fantastic afternoon exploring Charlotte Lake Dam. The atmosphere near Charlotte lake dam walkway in Matheran was energetic and lively.,2026-09-22
+Matheran,4,Impressive site! Shabbir's Biryani House Restaurant is definitely one of the top attractions in Matheran. Arrive early to beat the heat.,2026-10-25
+Matheran,5,Absolute perfection! Panorama Point Sunset Edge completely exceeded our expectations. The morning views over Panorama point sunset ledge in Matheran were breathtaking.,2026-11-01
+Matheran,5,Breathtaking scenery and incredible heritage! Echo Point Valley Sound Echo in Matheran is an absolute masterpiece. Must visit early morning.,2026-12-04
+Mount Abu,1,Queuing up at Dilwara Jain Temples Marble Carvings was ruined by chaotic traffic and greedy cab drivers demanding triple rates near sunset point path in Mount Abu.,2026-01-26
+Mount Abu,1,Ticket counter queues at Nakki Lake Boating Promenades moved at a crawl. We waited 75 minutes in the heat outside Dilwara temple marble hall in Mount Abu.,2026-02-02
+Mount Abu,2,"Visited Guru Shikhar Peak Summit around midday. While the structure is impressive, parking near Nakki lake pedal boat dock in Mount Abu was disorganized.",2026-03-05
+Mount Abu,2,Food stalls near Mulberry Tree Restaurant Mount Abu charge double the normal rate for basic meals. Local authorities in Mount Abu should monitor this.,2026-04-08
+Mount Abu,3,"Visited Achalgarh Fort & Shiv Temple in the afternoon. Pleasant breeze along sunset point path, but commercial stalls near Dilwara temple marble hall in Mount Abu are growing.",2026-05-11
+Mount Abu,3,"Peace Park Brahma Kumaris Garden offers nice photo opportunities. It gets busy after 4 PM, so plan your visit to Mount Abu accordingly.",2026-06-14
+Mount Abu,3,Dilwara Jain Temples Marble Carvings is fine for a quick one-hour visit. Beautiful lighting in late afternoon around Nakki lake pedal boat dock in Mount Abu.,2026-07-17
+Mount Abu,4,Great morning walk around Nakki Lake Boating Promenades. We arrived at 8 AM and got fantastic clear views of Dilwara temple marble hall before crowds arrived in Mount Abu.,2026-08-20
+Mount Abu,4,Loved the architecture and scale of Guru Shikhar Peak Summit. A very memorable highlight of our travel through Rajasthan and Mount Abu.,2026-09-23
+Mount Abu,4,We spent over two hours at Mulberry Tree Restaurant Mount Abu and loved every minute. The view towards sunset point path in Mount Abu is spectacular.,2026-10-26
+Mount Abu,5,"The highlight of our entire trip to Rajasthan! Dilwara Jain Temples Marble Carvings in Mount Abu is pristine, quiet at sunrise, and deeply atmospheric.",2026-11-02
+Mount Abu,5,"Pure bliss at Nakki Lake Boating Promenades! The morning mist hovering over Nakki lake pedal boat dock in Mount Abu created a surreal, postcard-perfect scene.",2026-12-05
+Thekkady,1,Sitting near Periyar Wildlife Sanctuary Lake Boating became stressful when vehicle queues backed up for three kilometers approaching spice plantation walk in Thekkady.,2026-01-27
+Thekkady,1,Terrible crowd management at Kadathanadan Kalari Centre Martial Arts in Thekkady. People were pushing near Periyar lake boat landing without any security or staff intervention.,2026-02-03
+Thekkady,2,"Elephant Junction Plantation has local significance, but the surrounding area in Thekkady is overcrowded and lacks proper seating facilities near Kadathanadan Kalari show stage.",2026-03-06
+Thekkady,2,Disappointed by the food quality near Grandma's Cafe & Restaurant Thekkady. Our order of Grandma cafe spice tea in Thekkady took forever and arrived lukewarm.,2026-04-09
+Thekkady,3,Pandikuzhi Viewpoint Waterfall is a fair inclusion in a Thekkady itinerary. Spent about 45 minutes here exploring the grounds near Periyar lake boat landing.,2026-05-12
+Thekkady,3,Sampled Grandma cafe spice tea near Chellarkovil Eco Tourism Viewpoint which was quite tasty. The sight itself in Thekkady is small but well-located.,2026-06-15
+Thekkady,3,Walked around Periyar Wildlife Sanctuary Lake Boating after visiting Kadathanadan Kalari show stage. Good place for families traveling through Kerala.,2026-07-18
+Thekkady,4,Highly recommend visiting Kadathanadan Kalari Centre Martial Arts when in Thekkady. The guided walk around Periyar lake boat landing provided great local history of Kerala.,2026-08-21
+Thekkady,4,Tasted delicious authentic Grandma cafe spice tea near Elephant Junction Plantation. Combining lunch with visiting Kadathanadan Kalari show stage made for a perfect afternoon in Thekkady.,2026-09-24
+Thekkady,4,Excellent stop in Kerala. The path leading to Grandma's Cafe & Restaurant Thekkady from spice plantation walk was lined with vibrant local shops selling Grandma cafe spice tea in Thekkady.,2026-10-27
+Thekkady,5,Unforgettable experience at Periyar Wildlife Sanctuary Lake Boating. Sitting near Periyar lake boat landing in Thekkady with a warm cup of tea was pure magic.,2026-11-03
+Thekkady,5,"Flawless trip to Kadathanadan Kalari Centre Martial Arts. Friendly locals in Thekkady, delicious Grandma cafe spice tea nearby, and pristine surroundings around Kadathanadan Kalari show stage.",2026-12-06
+Shimla,1,Relaxing by Shimla Ridge & Christ Church was completely disorganized with cars parked bumper-to-bumper all down heritage mall road in Shimla.,2026-01-01
+Shimla,1,Extremely unhygienic conditions near Jakhoo Temple Hanuman Statue. Trash was overflowing around Shimla Ridge Christ Church plaza and public amenities in Shimla were broken.,2026-02-04
+Shimla,2,"Okay place if you are nearby, but don't make a long trip for Viceregal Lodge Indian Institute of Advanced Study. The food options near Jakhoo temple Hanuman stairs in Shimla were average at best.",2026-03-07
+Shimla,2,Overpriced dining options near The Devicos Restaurant & Bar. We paid ₹600 for a simple plate of Devicos coffee in Shimla that tasted very average.,2026-04-10
+Shimla,3,Nice spot for a quick photo at Kufri Adventure Park Snow Point. Make sure to carry your own water as shops near Shimla Ridge Christ Church plaza in Shimla are pricey.,2026-05-13
+Shimla,3,"Spent a relaxed hour at Tara Devi Temple Hilltop. Nothing extraordinary, but a peaceful spot near Shimla Ridge Christ Church plaza away from main city noise in Shimla.",2026-06-16
+Shimla,3,Fairly pleasant surroundings at Shimla Ridge & Christ Church. The breeze from heritage mall road in Shimla was refreshing on a warm day.,2026-07-19
+Shimla,4,Beautiful spot! Loved the fresh Devicos coffee served at the small eatery right outside Jakhoo Temple Hanuman Statue in Shimla.,2026-08-22
+Shimla,4,Very scenic surroundings at Viceregal Lodge Indian Institute of Advanced Study! Walking along heritage mall road as the sun set over Jakhoo temple Hanuman stairs in Shimla was delightful.,2026-09-25
+Shimla,4,Beautiful lighting for photography at The Devicos Restaurant & Bar around 5 PM. A charming place in Shimla that shouldn't be missed.,2026-10-01
+Shimla,5,10/10 destination! Shimla Ridge & Christ Church in Shimla is stunningly beautiful. Everything from the local Devicos coffee to the scenery was top tier.,2026-11-04
+Shimla,5,Outstanding highlight of Himachal Pradesh! Jakhoo Temple Hanuman Statue in Shimla offers unbelievable views and a rich cultural experience.,2026-12-07
+Nainital,1,Hanging out around Naini Lake Boating Club resulted in a 90-minute delay due to narrow road bottlenecks along mallital lakeside walkway in Nainital.,2026-01-02
+Nainital,1,"Disappointing experience at Naina Devi Temple Complex. We stood in a chaotic, unshaded line near Naini lake pedalo pier in Nainital for over an hour.",2026-02-05
+Nainital,2,Extremely crowded near Snow view cable car top. We could barely get a decent photo of Snow View Point Cable Car without dozens of tourists in frame.,2026-03-08
+Nainital,2,Extremely slow service near Machan Restaurant Mall Road Nainital. Finding a clean table near mallital lakeside walkway in Nainital was a struggle during peak lunch hours.,2026-04-11
+Nainital,3,"Mixed feelings about Tiffin Top Dorothy's Seat Hike. The landscape near Naini lake pedalo pier is beautiful, but the approach road from Nainital town needs repairs.",2026-05-14
+Nainital,3,Reasonable experience at Bhimtal Lake Butterfly Conservatory. Parking near mallital lakeside walkway in Nainital was manageable during weekday morning hours.,2026-06-17
+Nainital,3,Decent spot in Nainital. Naini Lake Boating Club is worth checking out near Snow view cable car top if you have extra time on your hands.,2026-07-20
+Nainital,4,Naina Devi Temple Complex is a must-see in Nainital. Smooth entry process near Naini lake pedalo pier and wonderful photo opportunities all around.,2026-08-23
+Nainital,4,Great experience at Snow View Point Cable Car. Well-kept gardens near Snow view cable car top and clear signage made our visit to Nainital very comfortable.,2026-09-26
+Nainital,4,Thoroughly enjoyed our visit to Machan Restaurant Mall Road Nainital. Peaceful atmosphere near mallital lakeside walkway and very welcoming local staff in Nainital.,2026-10-02
+Nainital,5,Magical visit to Naini Lake Boating Club. The panoramic vista from Naini lake pedalo pier in Nainital is something we will cherish forever.,2026-11-05
+Nainital,5,An absolute jewel in Nainital! We spent hours admiring Naina Devi Temple Complex and walking along Snow view cable car top. Simply incredible.,2026-12-08
+Kodaikanal,1,Watching sunset at Kodai Lake Pedalo Boating was a waste of effort as entry gates near pine forest trail in Kodaikanal were choked with unmanaged vehicles.,2026-01-03
+Kodaikanal,1,"Poorly maintained facilities around Coaker's Walk Valley Trail. The restrooms near Kodai lake boat jetty in Kodaikanal were shut down, causing massive inconvenience.",2026-02-06
+Kodaikanal,2,"Decent architectural features at Pillar Rocks Viewpoint Clifftop, but loud commercial stalls right next to Coaker's walk valley cliff in Kodaikanal spoil the charm.",2026-03-09
+Kodaikanal,2,The environment around Altaf's Cafe Middle Eastern Restaurant was far too noisy. We ordered Altaf's pita bread in Kodaikanal but couldn't eat peacefully due to crowds.,2026-04-12
+Kodaikanal,3,"Standard sight visit to Bryant Park Botanical Display in Kodaikanal. The area around Kodai lake boat jetty is clean, though seating is somewhat limited.",2026-05-15
+Kodaikanal,3,"Pretty location at Silver Cascade Falls Lookout in Kodaikanal. The walk along pine forest trail was pleasant, though visitor amenities are basic.",2026-06-18
+Kodaikanal,3,Quiet evening visit to Kodai Lake Pedalo Boating. Lighting around Coaker's walk valley cliff in Kodaikanal makes for a nice ambient stroll.,2026-07-21
+Kodaikanal,4,Very positive experience visiting Coaker's Walk Valley Trail. The historical grounds near Kodai lake boat jetty in Kodaikanal are beautifully preserved.,2026-08-24
+Kodaikanal,4,Splendid afternoon visit to Pillar Rocks Viewpoint Clifftop. Enjoyed fresh Altaf's pita bread at a nearby cafe after walking around Coaker's walk valley cliff in Kodaikanal.,2026-09-27
+Kodaikanal,4,Wonderful morning walk at Altaf's Cafe Middle Eastern Restaurant. The views over Kodaikanal from the main deck near pine forest trail were top notch.,2026-10-03
+Kodaikanal,5,Pure bliss at Kodai Lake Pedalo Boating! The morning light reflecting over Kodai lake boat jetty in Kodaikanal created a postcard-perfect memory.,2026-11-06
+Kodaikanal,5,Unmatched beauty at Coaker's Walk Valley Trail. Seeing the sunrise over Coaker's walk valley cliff in Kodaikanal was the single best moment of our vacation.,2026-12-09
+Chikmagalur,1,Catching sunrise near Mullayanagiri Peak Summit Hike left us stranded in midday heat as traffic near estate coffee track in Chikmagalur ground to a complete halt.,2026-01-04
+Chikmagalur,1,Horrible entry process at Baba Budangiri Shrine Range. Staff near Mullayanagiri peak summit trek in Chikmagalur were rude and unable to manage the weekend crowd.,2026-02-07
+Chikmagalur,2,Slightly underwhelming visit to Hebbe Falls Jeep Trek. The area around Hebbe falls jeep trail in Chikmagalur was quite noisy and littered with flyers.,2026-03-10
+Chikmagalur,2,Underwhelming food stop near Town Canteen Masala Dosa Restaurant. The famous Town canteen dosa in Chikmagalur did not live up to the hype and prices were inflated.,2026-04-13
+Chikmagalur,3,"Fair experience at Jhari Waterfalls Dhab Dhabe. Good view of Mullayanagiri peak summit trek from the upper deck in Chikmagalur, but expected more historical information.",2026-05-16
+Chikmagalur,3,Fine place to stop by on your way through Chikmagalur. Bhadra Wildlife Sanctuary Safari Gate is pleasant in the late afternoon.,2026-06-19
+Chikmagalur,3,Satisfactory stop at Mullayanagiri Peak Summit Hike. Enjoyed a quick cold drink near Hebbe falls jeep trail while taking in the Chikmagalur view.,2026-07-22
+Chikmagalur,4,Delightful morning spent at Baba Budangiri Shrine Range. The cool air near Mullayanagiri peak summit trek in Chikmagalur made the walk extremely refreshing.,2026-08-25
+Chikmagalur,4,High quality experience at Hebbe Falls Jeep Trek. The sunset view over Hebbe falls jeep trail in Chikmagalur was absolutely stunning.,2026-09-01
+Chikmagalur,4,Highly rated stop for a reason! Town Canteen Masala Dosa Restaurant in Chikmagalur offers great vantage points and tasty Town canteen dosa nearby.,2026-10-04
+Chikmagalur,5,Magnificent attraction! Mullayanagiri Peak Summit Hike in Chikmagalur represents the very best of Karnataka heritage and natural beauty.,2026-11-07
+Chikmagalur,5,Spectacular visit to Baba Budangiri Shrine Range! The serene atmosphere around Hebbe falls jeep trail in Chikmagalur made us want to stay all day.,2026-12-10
+Gokarna,1,Walking through Om Beach Sunset Cove proved to be an unpleasant hassle due to aggressive hawkers and parking chaos along kudle cliff path in Gokarna.,2026-01-05
+Gokarna,1,"Avoid visiting Mahabaleshwar Temple Shiva Linga with senior citizens. The queue near Om beach sunset rocks in Gokarna was crammed, hot, and lacked any seating.",2026-02-08
+Gokarna,2,"Mediocre experience at Kudle Beach Shacks. The view toward Mahabaleshwar temple queue hall in Gokarna was nice, but pushy local guides kept interrupting us.",2026-03-11
+Gokarna,2,Long queues at the eateries near Namaste Cafe Beach Restaurant. We waited nearly an hour just to get a plate of Namaste cafe pizza in Gokarna.,2026-04-14
+Gokarna,3,"Average evening walk around Half Moon Beach Secluded Cove. The breeze near Om beach sunset rocks in Gokarna was pleasant, but crowd noise was high.",2026-05-17
+Gokarna,3,Relaxing 45 minutes spent around Paradise Beach Rocky Shore. Nice view of Om beach sunset rocks in Gokarna if you visit around 5 PM.,2026-06-20
+Gokarna,3,Pleasant grounds at Om Beach Sunset Cove. The short walk from Mahabaleshwar temple queue hall in Gokarna was easy and breezy.,2026-07-23
+Gokarna,4,Impressed with the upkeep of Mahabaleshwar Temple Shiva Linga. Walking through the gardens near Om beach sunset rocks in Gokarna was delightful.,2026-08-26
+Gokarna,4,Memorable cultural stop at Kudle Beach Shacks. Local guide near Mahabaleshwar temple queue hall in Gokarna gave us fascinating historical facts.,2026-09-02
+Gokarna,4,Charming experience at Namaste Cafe Beach Restaurant. Walking down kudle cliff path towards the main view in Gokarna was super scenic.,2026-10-05
+Gokarna,5,Incredible experience from start to finish. Om Beach Sunset Cove in Gokarna offers breathtaking views near Om beach sunset rocks.,2026-11-08
+Gokarna,5,"World-class sight! Mahabaleshwar Temple Shiva Linga in Gokarna is incredibly peaceful, spotless, and offers divine views near Mahabaleshwar temple queue hall.",2026-12-11
+Jim Corbett,1,Hiking up to Dhikala Zone Forest Safari Entrance was overshadowed by filthy litter and lack of basic visitor management near kosi river bank in Jim Corbett.,2026-01-06
+Jim Corbett,1,"Frustrating visit to Corbett Waterfalls Ramnagar. Online tickets were not honored at Dhikala safari jungle gate in Jim Corbett, forcing everyone into a slow cash line.",2026-02-09
+Jim Corbett,2,"Garjiya Devi Temple Riverbed is okay for a quick photo stop, but facilities around Garjiya temple riverbed steps in Jim Corbett desperately need better upkeep.",2026-03-12
+Jim Corbett,2,Mediocre food experience near Corbett Grill Kumaoni Thali Restaurant. The local Corbett grill meal in Jim Corbett was disappointing given the high tourist price charged.,2026-04-15
+Jim Corbett,3,Worth a brief 30-minute stop at Bijrani Safari Gate Ramnagar. The spot near Dhikala safari jungle gate in Jim Corbett offers nice angles for casual photographs.,2026-05-18
+Jim Corbett,3,Convenient roadside stop at Sitabani Temple Forest Reserve in Jim Corbett. Good spot to stretch your legs and try local snacks.,2026-06-21
+Jim Corbett,3,Solid 3-star experience at Dhikala Zone Forest Safari Entrance. Good photo point near Garjiya temple riverbed steps in Jim Corbett without overwhelming crowds.,2026-07-24
+Jim Corbett,4,Wonderful stop on our Uttarakhand itinerary! Corbett Waterfalls Ramnagar in Jim Corbett offers great views and rich cultural insights.,2026-08-27
+Jim Corbett,4,Very clean and organized attraction. Garjiya Devi Temple Riverbed in Jim Corbett exceeded our expectations with great views of Garjiya temple riverbed steps.,2026-09-03
+Jim Corbett,4,"Great photo spot in Jim Corbett. Corbett Grill Kumaoni Thali Restaurant was clean, peaceful, and easily accessible along kosi river bank.",2026-10-06
+Jim Corbett,5,A masterclass in natural beauty! Dhikala Zone Forest Safari Entrance in Jim Corbett completely blew us away with its peaceful vibes.,2026-11-09
+Jim Corbett,5,"Top recommendation for Uttarakhand! Corbett Waterfalls Ramnagar in Jim Corbett is magical, serene, and easily our favorite place.",2026-12-12
+Varkala,1,Trekking towards Varkala Cliff Beach & Sunset View was a frustrating ordeal — heavy gridlock along cliff staircase in Varkala cost us two hours of precious time.,2026-01-07
+Varkala,1,Unorganized visitor queues near Varkala cliff sunset boardwalk completely ruined our time at Janardhanaswamy Ancient Temple in Varkala. Restroom facilities were in terrible shape.,2026-02-10
+Varkala,2,"Although Kapil Beach Backwaters Estuary holds historic value, aggressive street hawkers near Janardhanaswamy temple tank in Varkala made it hard to enjoy a quiet walk.",2026-03-13
+Varkala,2,Long waiting lines outside Darjeeling Cafe Cliffside Restaurant left us exhausted. The Darjeeling cafe smoothie served near cliff staircase in Varkala was overpriced and bland.,2026-04-16
+Varkala,3,"Spent roughly 40 minutes around Black Beach Odayam Cove in Varkala. The perspective towards Varkala cliff sunset boardwalk was decent, though afternoon heat was oppressive.",2026-05-19
+Varkala,3,Checking out Anjengo Fort & Lighthouse makes for a fine brief stop in Varkala. Limited vehicle parking near cliff staircase can be tricky during weekends.,2026-06-22
+Varkala,3,A fair overall visit to Varkala Cliff Beach & Sunset View. Surrounding views near Janardhanaswamy temple tank in Varkala are pleasant enough if you are staying nearby.,2026-07-25
+Varkala,4,Thoroughly enjoyed our visit to Janardhanaswamy Ancient Temple! The clean pathways around Varkala cliff sunset boardwalk made our excursion in Varkala very pleasant.,2026-08-01
+Varkala,4,Tasted incredible Darjeeling cafe smoothie right beside Kapil Beach Backwaters Estuary. Pairing a good local meal with exploring Janardhanaswamy temple tank was a high point in Varkala.,2026-09-04
+Varkala,4,Stunning panoramic lighting at Darjeeling Cafe Cliffside Restaurant around 8:15 AM before afternoon mist settled over Varkala. Definitely arrive early.,2026-10-07
+Varkala,5,"Absolute crown jewel of our journey in Kerala! Varkala Cliff Beach & Sunset View in Varkala is remarkably serene, pristine, and full of character.",2026-11-10
+Varkala,5,"Experiencing Janardhanaswamy Ancient Temple in Varkala at 7 AM was pure bliss — quiet morning air, glowing sunlight over Janardhanaswamy temple tank, and zero crowds.",2026-12-13
+Kochi,1,Discovering Chinese Fishing Nets Fort Kochi turned into a nightmare because parking was non-existent along fort kochi street in Kochi.,2026-01-08
+Kochi,1,Filthy restroom facilities and zero drinking water booths near Mattancherry Dutch Palace Museum made our visit to Kochi extremely unpleasant for the family.,2026-02-11
+Kochi,2,"The view from Paradesi Synagogue Jew Town is decent, but persistent vendors along fort kochi street in Kochi ruin the peaceful atmosphere.",2026-03-14
+Kochi,2,We waited over 45 minutes for a table near Kashi Art Cafe & Restaurant. Service was overwhelmed and the local Kashi art cafe cake in Kochi felt rushed.,2026-04-17
+Kochi,3,"Decent stop at Hill Palace Museum Tripunithura in Kochi. The view towards Chinese fishing nets waterfront was nice, though foggy weather blocked peak visibility.",2026-05-20
+Kochi,3,Good atmosphere around Chinese fishing nets waterfront in Kochi. We stopped by Cherai Beach Vypeen Island before lunch and enjoyed a brief walk.,2026-06-23
+Kochi,3,"A standard visit to Chinese Fishing Nets Fort Kochi. The nearby Kashi art cafe cake in Kochi was satisfying, and the location near Dutch palace mural gallery is easy to find.",2026-07-26
+Kochi,4,Really enjoyed our time at Mattancherry Dutch Palace Museum! The surroundings near Chinese fishing nets waterfront in Kochi were clean and very well maintained.,2026-08-02
+Kochi,4,Had a fantastic afternoon exploring Paradesi Synagogue Jew Town. The atmosphere near Dutch palace mural gallery in Kochi was energetic and lively.,2026-09-05
+Kochi,4,Impressive site! Kashi Art Cafe & Restaurant is definitely one of the top attractions in Kochi. Arrive early to beat the heat.,2026-10-08
+Kochi,5,Absolute perfection! Chinese Fishing Nets Fort Kochi completely exceeded our expectations. The morning views over Chinese fishing nets waterfront in Kochi were breathtaking.,2026-11-11
+Kochi,5,Breathtaking scenery and incredible heritage! Mattancherry Dutch Palace Museum in Kochi is an absolute masterpiece. Must visit early morning.,2026-12-14
+Rameshwaram,1,Admiring Ramanathaswamy Temple Corridor was ruined by chaotic traffic and greedy cab drivers demanding triple rates near dhanushkodi road edge in Rameshwaram.,2026-01-09
+Rameshwaram,1,Ticket counter queues at Pamban Sea Bridge Viewpoint moved at a crawl. We waited 75 minutes in the heat outside Ramanathaswamy temple corridor in Rameshwaram.,2026-02-12
+Rameshwaram,2,"Visited Dhanushkodi Ghost Town Ruins around midday. While the structure is impressive, parking near Pamban bridge sea view in Rameshwaram was disorganized.",2026-03-15
+Rameshwaram,2,Food stalls near Sri Saravana South Indian Restaurant charge double the normal rate for basic meals. Local authorities in Rameshwaram should monitor this.,2026-04-18
+Rameshwaram,3,"Visited Jatayu Tirtham Sacred Tank in the afternoon. Pleasant breeze along dhanushkodi road edge, but commercial stalls near Ramanathaswamy temple corridor in Rameshwaram are growing.",2026-05-21
+Rameshwaram,3,"Kothandaramaswamy Temple Dhanushkodi Road offers nice photo opportunities. It gets busy after 4 PM, so plan your visit to Rameshwaram accordingly.",2026-06-24
+Rameshwaram,3,Ramanathaswamy Temple Corridor is fine for a quick one-hour visit. Beautiful lighting in late afternoon around Pamban bridge sea view in Rameshwaram.,2026-07-27
+Rameshwaram,4,Great morning walk around Pamban Sea Bridge Viewpoint. We arrived at 8 AM and got fantastic clear views of Ramanathaswamy temple corridor before crowds arrived in Rameshwaram.,2026-08-03
+Rameshwaram,4,Loved the architecture and scale of Dhanushkodi Ghost Town Ruins. A very memorable highlight of our travel through Tamil Nadu and Rameshwaram.,2026-09-06
+Rameshwaram,4,We spent over two hours at Sri Saravana South Indian Restaurant and loved every minute. The view towards dhanushkodi road edge in Rameshwaram is spectacular.,2026-10-09
+Rameshwaram,5,"The highlight of our entire trip to Tamil Nadu! Ramanathaswamy Temple Corridor in Rameshwaram is pristine, quiet at sunrise, and deeply atmospheric.",2026-11-12
+Rameshwaram,5,"Pure bliss at Pamban Sea Bridge Viewpoint! The morning mist hovering over Pamban bridge sea view in Rameshwaram created a surreal, postcard-perfect scene.",2026-12-15
+Nashik,1,Photography session at Sula Vineyards Winery & Tasting became stressful when vehicle queues backed up for three kilometers approaching godavari river ghat in Nashik.,2026-01-10
+Nashik,1,Terrible crowd management at Trimbakeshwar Shiva Jyotirlinga Temple in Nashik. People were pushing near Sula vineyard tasting room without any security or staff intervention.,2026-02-13
+Nashik,2,"Pandavleni Caves Rock Cut Art has local significance, but the surrounding area in Nashik is overcrowded and lacks proper seating facilities near Trimbakeshwar temple main gate.",2026-03-16
+Nashik,2,Disappointed by the food quality near Sadhana Chulivarchi Misal Restaurant. Our order of Misal pav plate in Nashik took forever and arrived lukewarm.,2026-04-19
+Nashik,3,Someshwar Waterfall & Temple is a fair inclusion in a Nashik itinerary. Spent about 45 minutes here exploring the grounds near Sula vineyard tasting room.,2026-05-22
+Nashik,3,Sampled Misal pav plate near Kalaram Temple Panchavati which was quite tasty. The sight itself in Nashik is small but well-located.,2026-06-25
+Nashik,3,Walked around Sula Vineyards Winery & Tasting after visiting Trimbakeshwar temple main gate. Good place for families traveling through Maharashtra.,2026-07-01
+Nashik,4,Highly recommend visiting Trimbakeshwar Shiva Jyotirlinga Temple when in Nashik. The guided walk around Sula vineyard tasting room provided great local history of Maharashtra.,2026-08-04
+Nashik,4,Tasted delicious authentic Misal pav plate near Pandavleni Caves Rock Cut Art. Combining lunch with visiting Trimbakeshwar temple main gate made for a perfect afternoon in Nashik.,2026-09-07
+Nashik,4,Excellent stop in Maharashtra. The path leading to Sadhana Chulivarchi Misal Restaurant from godavari river ghat was lined with vibrant local shops selling Misal pav plate in Nashik.,2026-10-10
+Nashik,5,Unforgettable experience at Sula Vineyards Winery & Tasting. Sitting near Sula vineyard tasting room in Nashik with a warm cup of tea was pure magic.,2026-11-13
+Nashik,5,"Flawless trip to Trimbakeshwar Shiva Jyotirlinga Temple. Friendly locals in Nashik, delicious Misal pav plate nearby, and pristine surroundings around Trimbakeshwar temple main gate.",2026-12-16
+Tawang,1,Final stop at Tawang Monastery Gaden Namgyal Lhatse was completely disorganized with cars parked bumper-to-bumper all down high altitude pass road in Tawang.,2026-01-11
+Tawang,1,Extremely unhygienic conditions near Sela Pass High Altitude Lake. Trash was overflowing around Tawang monastery prayer hall and public amenities in Tawang were broken.,2026-02-14
+Tawang,2,"Okay place if you are nearby, but don't make a long trip for Tawang War Memorial. The food options near Sela pass high lake rim in Tawang were average at best.",2026-03-17
+Tawang,2,Overpriced dining options near Dragon Restaurant Traditional Monpa Food. We paid ₹600 for a simple plate of Dragon cafe Monpa soup in Tawang that tasted very average.,2026-04-20
+Tawang,3,Nice spot for a quick photo at Nuranang Waterfalls Jang Falls. Make sure to carry your own water as shops near Tawang monastery prayer hall in Tawang are pricey.,2026-05-23
+Tawang,3,"Spent a relaxed hour at Pangang Teng Tso P.T. Tso Lake. Nothing extraordinary, but a peaceful spot near Tawang monastery prayer hall away from main city noise in Tawang.",2026-06-26
+Tawang,3,Fairly pleasant surroundings at Tawang Monastery Gaden Namgyal Lhatse. The breeze from high altitude pass road in Tawang was refreshing on a warm day.,2026-07-02
+Tawang,4,Beautiful spot! Loved the fresh Dragon cafe Monpa soup served at the small eatery right outside Sela Pass High Altitude Lake in Tawang.,2026-08-05
+Tawang,4,Very scenic surroundings at Tawang War Memorial! Walking along high altitude pass road as the sun set over Sela pass high lake rim in Tawang was delightful.,2026-09-08
+Tawang,4,Beautiful lighting for photography at Dragon Restaurant Traditional Monpa Food around 5 PM. A charming place in Tawang that shouldn't be missed.,2026-10-11
+Tawang,5,10/10 destination! Tawang Monastery Gaden Namgyal Lhatse in Tawang is stunningly beautiful. Everything from the local Dragon cafe Monpa soup to the scenery was top tier.,2026-11-14
+Tawang,5,Outstanding highlight of Arunachal Pradesh! Sela Pass High Altitude Lake in Tawang offers unbelievable views and a rich cultural experience.,2026-12-17
+Leh Ladakh,1,Unforgettable visit to Pangong Tso High Altitude Lake resulted in a 90-minute delay due to narrow road bottlenecks along khardung la pass bend in Leh Ladakh.,2026-01-12
+Leh Ladakh,1,"Disappointing experience at Thiksey Monastery. We stood in a chaotic, unshaded line near Pangong lake shore line in Leh Ladakh for over an hour.",2026-02-15
+Leh Ladakh,2,Extremely crowded near Thiksey monastery courtyard. We could barely get a decent photo of Nubra Valley Hunder Sand Dunes without dozens of tourists in frame.,2026-03-18
+Leh Ladakh,2,Extremely slow service near Shanti Stupa Leh. Finding a clean table near khardung la pass bend in Leh Ladakh was a struggle during peak lunch hours.,2026-04-21
+Leh Ladakh,3,"Mixed feelings about Leh Palace Ruins. The landscape near Pangong lake shore line is beautiful, but the approach road from Leh Ladakh town needs repairs.",2026-05-24
+Leh Ladakh,3,Reasonable experience at The Tibetan Kitchen Restaurant. Parking near khardung la pass bend in Leh Ladakh was manageable during weekday morning hours.,2026-06-27
+Leh Ladakh,3,Decent spot in Leh Ladakh. Pangong Tso High Altitude Lake is worth checking out near Thiksey monastery courtyard if you have extra time on your hands.,2026-07-03
+Leh Ladakh,4,Thiksey Monastery is a must-see in Leh Ladakh. Smooth entry process near Pangong lake shore line and wonderful photo opportunities all around.,2026-08-06
+Leh Ladakh,4,Great experience at Nubra Valley Hunder Sand Dunes. Well-kept gardens near Thiksey monastery courtyard and clear signage made our visit to Leh Ladakh very comfortable.,2026-09-09
+Leh Ladakh,4,Thoroughly enjoyed our visit to Shanti Stupa Leh. Peaceful atmosphere near khardung la pass bend and very welcoming local staff in Leh Ladakh.,2026-10-12
+Leh Ladakh,5,Magical visit to Pangong Tso High Altitude Lake. The panoramic vista from Pangong lake shore line in Leh Ladakh is something we will cherish forever.,2026-11-15
+Leh Ladakh,5,An absolute jewel in Leh Ladakh! We spent hours admiring Thiksey Monastery and walking along Thiksey monastery courtyard. Simply incredible.,2026-12-18
+Shillong,1,A journey to Elephant Falls Cascade was a waste of effort as entry gates near police bazar street in Shillong were choked with unmanaged vehicles.,2026-01-13
+Shillong,1,"Poorly maintained facilities around Shillong Peak Viewpoint. The restrooms near Elephant falls cascade steps in Shillong were shut down, causing massive inconvenience.",2026-02-16
+Shillong,2,"Decent architectural features at Don Bosco Museum of Indigenous Cultures, but loud commercial stalls right next to Don Bosco museum gallery floor in Shillong spoil the charm.",2026-03-19
+Shillong,2,The environment around City Hut Family Dhaba Khasi Restaurant was far too noisy. We ordered City hut Khasi thali in Shillong but couldn't eat peacefully due to crowds.,2026-04-22
+Shillong,3,"Standard sight visit to Umiam Barapani Lake Boating Deck in Shillong. The area around Elephant falls cascade steps is clean, though seating is somewhat limited.",2026-05-25
+Shillong,3,"Pretty location at Ward's Lake Wooden Bridge in Shillong. The walk along police bazar street was pleasant, though visitor amenities are basic.",2026-06-01
+Shillong,3,Quiet evening visit to Elephant Falls Cascade. Lighting around Don Bosco museum gallery floor in Shillong makes for a nice ambient stroll.,2026-07-04
+Shillong,4,Very positive experience visiting Shillong Peak Viewpoint. The historical grounds near Elephant falls cascade steps in Shillong are beautifully preserved.,2026-08-07
+Shillong,4,Splendid afternoon visit to Don Bosco Museum of Indigenous Cultures. Enjoyed fresh City hut Khasi thali at a nearby cafe after walking around Don Bosco museum gallery floor in Shillong.,2026-09-10
+Shillong,4,Wonderful morning walk at City Hut Family Dhaba Khasi Restaurant. The views over Shillong from the main deck near police bazar street were top notch.,2026-10-13
+Shillong,5,Pure bliss at Elephant Falls Cascade! The morning light reflecting over Elephant falls cascade steps in Shillong created a postcard-perfect memory.,2026-11-16
+Shillong,5,Unmatched beauty at Shillong Peak Viewpoint. Seeing the sunrise over Don Bosco museum gallery floor in Shillong was the single best moment of our vacation.,2026-12-19

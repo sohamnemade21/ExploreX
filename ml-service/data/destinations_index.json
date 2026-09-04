@@ -1,0 +1,752 @@
+{
+  "schema_version": "1.0",
+  "description": "Canonical 67-destination index. Common lookup for all Wander-AI models.",
+  "total_destinations": 67,
+  "fields": [
+    "destination_name",
+    "state",
+    "lat",
+    "lng",
+    "popularity_tier",
+    "hotel_tier_range"
+  ],
+  "destinations": [
+    {
+      "destination_name": "Tarkarli",
+      "state": "Maharashtra",
+      "lat": 16.035,
+      "lng": 73.49,
+      "popularity_tier": "gem",
+      "hotel_tier_range": {
+        "min": 1,
+        "max": 5
+      }
+    },
+    {
+      "destination_name": "Sindhudurg",
+      "state": "Maharashtra",
+      "lat": 16.042,
+      "lng": 73.463,
+      "popularity_tier": "emerging",
+      "hotel_tier_range": {
+        "min": 1,
+        "max": 5
+      }
+    },
+    {
+      "destination_name": "Kolhapur",
+      "state": "Maharashtra",
+      "lat": 16.705,
+      "lng": 74.2433,
+      "popularity_tier": "popular",
+      "hotel_tier_range": {
+        "min": 1,
+        "max": 5
+      }
+    },
+    {
+      "destination_name": "Solapur",
+      "state": "Maharashtra",
+      "lat": 17.6599,
+      "lng": 75.9064,
+      "popularity_tier": "emerging",
+      "hotel_tier_range": {
+        "min": 1,
+        "max": 5
+      }
+    },
+    {
+      "destination_name": "Aurangabad",
+      "state": "Maharashtra",
+      "lat": 19.8762,
+      "lng": 75.3433,
+      "popularity_tier": "popular",
+      "hotel_tier_range": {
+        "min": 1,
+        "max": 5
+      }
+    },
+    {
+      "destination_name": "Ratnagiri",
+      "state": "Maharashtra",
+      "lat": 16.9902,
+      "lng": 73.312,
+      "popularity_tier": "emerging",
+      "hotel_tier_range": {
+        "min": 1,
+        "max": 5
+      }
+    },
+    {
+      "destination_name": "Lonavala",
+      "state": "Maharashtra",
+      "lat": 18.7557,
+      "lng": 73.4091,
+      "popularity_tier": "popular",
+      "hotel_tier_range": {
+        "min": 1,
+        "max": 5
+      }
+    },
+    {
+      "destination_name": "Pune",
+      "state": "Maharashtra",
+      "lat": 18.5204,
+      "lng": 73.8567,
+      "popularity_tier": "popular",
+      "hotel_tier_range": {
+        "min": 1,
+        "max": 5
+      }
+    },
+    {
+      "destination_name": "Mahabaleshwar",
+      "state": "Maharashtra",
+      "lat": 17.9237,
+      "lng": 73.6586,
+      "popularity_tier": "popular",
+      "hotel_tier_range": {
+        "min": 1,
+        "max": 5
+      }
+    },
+    {
+      "destination_name": "Alibaug",
+      "state": "Maharashtra",
+      "lat": 18.6414,
+      "lng": 72.8722,
+      "popularity_tier": "popular",
+      "hotel_tier_range": {
+        "min": 1,
+        "max": 5
+      }
+    },
+    {
+      "destination_name": "North Goa",
+      "state": "Goa",
+      "lat": 15.5553,
+      "lng": 73.7517,
+      "popularity_tier": "popular",
+      "hotel_tier_range": {
+        "min": 1,
+        "max": 5
+      }
+    },
+    {
+      "destination_name": "South Goa",
+      "state": "Goa",
+      "lat": 15.2832,
+      "lng": 73.9862,
+      "popularity_tier": "popular",
+      "hotel_tier_range": {
+        "min": 1,
+        "max": 5
+      }
+    },
+    {
+      "destination_name": "Panjim",
+      "state": "Goa",
+      "lat": 15.4909,
+      "lng": 73.8278,
+      "popularity_tier": "popular",
+      "hotel_tier_range": {
+        "min": 1,
+        "max": 5
+      }
+    },
+    {
+      "destination_name": "Jaipur",
+      "state": "Rajasthan",
+      "lat": 26.9124,
+      "lng": 75.7873,
+      "popularity_tier": "popular",
+      "hotel_tier_range": {
+        "min": 1,
+        "max": 5
+      }
+    },
+    {
+      "destination_name": "Udaipur",
+      "state": "Rajasthan",
+      "lat": 24.5854,
+      "lng": 73.7125,
+      "popularity_tier": "popular",
+      "hotel_tier_range": {
+        "min": 1,
+        "max": 5
+      }
+    },
+    {
+      "destination_name": "Jodhpur",
+      "state": "Rajasthan",
+      "lat": 26.2389,
+      "lng": 73.0243,
+      "popularity_tier": "popular",
+      "hotel_tier_range": {
+        "min": 1,
+        "max": 5
+      }
+    },
+    {
+      "destination_name": "Jaisalmer",
+      "state": "Rajasthan",
+      "lat": 26.9157,
+      "lng": 70.9083,
+      "popularity_tier": "popular",
+      "hotel_tier_range": {
+        "min": 1,
+        "max": 5
+      }
+    },
+    {
+      "destination_name": "Pushkar",
+      "state": "Rajasthan",
+      "lat": 26.4897,
+      "lng": 74.5511,
+      "popularity_tier": "popular",
+      "hotel_tier_range": {
+        "min": 1,
+        "max": 5
+      }
+    },
+    {
+      "destination_name": "Munnar",
+      "state": "Kerala",
+      "lat": 10.0889,
+      "lng": 77.0595,
+      "popularity_tier": "popular",
+      "hotel_tier_range": {
+        "min": 1,
+        "max": 5
+      }
+    },
+    {
+      "destination_name": "Alleppey",
+      "state": "Kerala",
+      "lat": 9.4981,
+      "lng": 76.3388,
+      "popularity_tier": "popular",
+      "hotel_tier_range": {
+        "min": 1,
+        "max": 5
+      }
+    },
+    {
+      "destination_name": "Wayanad",
+      "state": "Kerala",
+      "lat": 11.6854,
+      "lng": 76.132,
+      "popularity_tier": "popular",
+      "hotel_tier_range": {
+        "min": 1,
+        "max": 5
+      }
+    },
+    {
+      "destination_name": "Coorg",
+      "state": "Karnataka",
+      "lat": 12.3375,
+      "lng": 75.8069,
+      "popularity_tier": "popular",
+      "hotel_tier_range": {
+        "min": 1,
+        "max": 5
+      }
+    },
+    {
+      "destination_name": "Hampi",
+      "state": "Karnataka",
+      "lat": 15.335,
+      "lng": 76.46,
+      "popularity_tier": "popular",
+      "hotel_tier_range": {
+        "min": 1,
+        "max": 5
+      }
+    },
+    {
+      "destination_name": "Mysuru",
+      "state": "Karnataka",
+      "lat": 12.2958,
+      "lng": 76.6394,
+      "popularity_tier": "popular",
+      "hotel_tier_range": {
+        "min": 1,
+        "max": 5
+      }
+    },
+    {
+      "destination_name": "Ooty",
+      "state": "Tamil Nadu",
+      "lat": 11.4102,
+      "lng": 76.695,
+      "popularity_tier": "popular",
+      "hotel_tier_range": {
+        "min": 1,
+        "max": 5
+      }
+    },
+    {
+      "destination_name": "Chettinad",
+      "state": "Tamil Nadu",
+      "lat": 10.1747,
+      "lng": 78.7844,
+      "popularity_tier": "gem",
+      "hotel_tier_range": {
+        "min": 1,
+        "max": 5
+      }
+    },
+    {
+      "destination_name": "Madurai",
+      "state": "Tamil Nadu",
+      "lat": 9.9252,
+      "lng": 78.1198,
+      "popularity_tier": "popular",
+      "hotel_tier_range": {
+        "min": 1,
+        "max": 5
+      }
+    },
+    {
+      "destination_name": "Kanyakumari",
+      "state": "Tamil Nadu",
+      "lat": 8.0883,
+      "lng": 77.5385,
+      "popularity_tier": "popular",
+      "hotel_tier_range": {
+        "min": 1,
+        "max": 5
+      }
+    },
+    {
+      "destination_name": "Manali",
+      "state": "Himachal Pradesh",
+      "lat": 32.2432,
+      "lng": 77.1892,
+      "popularity_tier": "popular",
+      "hotel_tier_range": {
+        "min": 1,
+        "max": 5
+      }
+    },
+    {
+      "destination_name": "Kasol",
+      "state": "Himachal Pradesh",
+      "lat": 32.01,
+      "lng": 77.315,
+      "popularity_tier": "popular",
+      "hotel_tier_range": {
+        "min": 1,
+        "max": 5
+      }
+    },
+    {
+      "destination_name": "Spiti Valley",
+      "state": "Himachal Pradesh",
+      "lat": 32.2461,
+      "lng": 78.0349,
+      "popularity_tier": "gem",
+      "hotel_tier_range": {
+        "min": 1,
+        "max": 5
+      }
+    },
+    {
+      "destination_name": "Dharamsala",
+      "state": "Himachal Pradesh",
+      "lat": 32.219,
+      "lng": 76.3234,
+      "popularity_tier": "popular",
+      "hotel_tier_range": {
+        "min": 1,
+        "max": 5
+      }
+    },
+    {
+      "destination_name": "Rishikesh",
+      "state": "Uttarakhand",
+      "lat": 30.0869,
+      "lng": 78.2676,
+      "popularity_tier": "popular",
+      "hotel_tier_range": {
+        "min": 1,
+        "max": 5
+      }
+    },
+    {
+      "destination_name": "Mussoorie",
+      "state": "Uttarakhand",
+      "lat": 30.4598,
+      "lng": 78.0644,
+      "popularity_tier": "popular",
+      "hotel_tier_range": {
+        "min": 1,
+        "max": 5
+      }
+    },
+    {
+      "destination_name": "Auli",
+      "state": "Uttarakhand",
+      "lat": 30.528,
+      "lng": 79.5682,
+      "popularity_tier": "emerging",
+      "hotel_tier_range": {
+        "min": 1,
+        "max": 5
+      }
+    },
+    {
+      "destination_name": "Khajuraho",
+      "state": "Madhya Pradesh",
+      "lat": 24.8318,
+      "lng": 79.9199,
+      "popularity_tier": "popular",
+      "hotel_tier_range": {
+        "min": 1,
+        "max": 5
+      }
+    },
+    {
+      "destination_name": "Orchha",
+      "state": "Madhya Pradesh",
+      "lat": 24.9878,
+      "lng": 78.6398,
+      "popularity_tier": "gem",
+      "hotel_tier_range": {
+        "min": 1,
+        "max": 5
+      }
+    },
+    {
+      "destination_name": "Pachmarhi",
+      "state": "Madhya Pradesh",
+      "lat": 22.4674,
+      "lng": 78.4344,
+      "popularity_tier": "emerging",
+      "hotel_tier_range": {
+        "min": 1,
+        "max": 5
+      }
+    },
+    {
+      "destination_name": "Rann of Kutch",
+      "state": "Gujarat",
+      "lat": 23.7842,
+      "lng": 69.8597,
+      "popularity_tier": "popular",
+      "hotel_tier_range": {
+        "min": 1,
+        "max": 5
+      }
+    },
+    {
+      "destination_name": "Ahmedabad",
+      "state": "Gujarat",
+      "lat": 23.0225,
+      "lng": 72.5714,
+      "popularity_tier": "popular",
+      "hotel_tier_range": {
+        "min": 1,
+        "max": 5
+      }
+    },
+    {
+      "destination_name": "Dwarka",
+      "state": "Gujarat",
+      "lat": 22.2442,
+      "lng": 68.9685,
+      "popularity_tier": "popular",
+      "hotel_tier_range": {
+        "min": 1,
+        "max": 5
+      }
+    },
+    {
+      "destination_name": "Puri",
+      "state": "Odisha",
+      "lat": 19.8135,
+      "lng": 85.8312,
+      "popularity_tier": "popular",
+      "hotel_tier_range": {
+        "min": 1,
+        "max": 5
+      }
+    },
+    {
+      "destination_name": "Konark",
+      "state": "Odisha",
+      "lat": 19.8876,
+      "lng": 86.0945,
+      "popularity_tier": "popular",
+      "hotel_tier_range": {
+        "min": 1,
+        "max": 5
+      }
+    },
+    {
+      "destination_name": "Raghurajpur",
+      "state": "Odisha",
+      "lat": 19.8667,
+      "lng": 85.8167,
+      "popularity_tier": "gem",
+      "hotel_tier_range": {
+        "min": 1,
+        "max": 5
+      }
+    },
+    {
+      "destination_name": "Gangtok",
+      "state": "Sikkim",
+      "lat": 27.3389,
+      "lng": 88.6065,
+      "popularity_tier": "popular",
+      "hotel_tier_range": {
+        "min": 1,
+        "max": 5
+      }
+    },
+    {
+      "destination_name": "Lachung",
+      "state": "Sikkim",
+      "lat": 27.6891,
+      "lng": 88.743,
+      "popularity_tier": "emerging",
+      "hotel_tier_range": {
+        "min": 1,
+        "max": 5
+      }
+    },
+    {
+      "destination_name": "Kaziranga",
+      "state": "Assam",
+      "lat": 26.5775,
+      "lng": 93.1711,
+      "popularity_tier": "popular",
+      "hotel_tier_range": {
+        "min": 1,
+        "max": 5
+      }
+    },
+    {
+      "destination_name": "Majuli",
+      "state": "Assam",
+      "lat": 26.95,
+      "lng": 94.16,
+      "popularity_tier": "gem",
+      "hotel_tier_range": {
+        "min": 1,
+        "max": 5
+      }
+    },
+    {
+      "destination_name": "Tirthan Valley",
+      "state": "Himachal Pradesh",
+      "lat": 31.641,
+      "lng": 77.348,
+      "popularity_tier": "gem",
+      "hotel_tier_range": {
+        "min": 1,
+        "max": 5
+      }
+    },
+    {
+      "destination_name": "Ziro",
+      "state": "Arunachal Pradesh",
+      "lat": 27.5946,
+      "lng": 93.8385,
+      "popularity_tier": "gem",
+      "hotel_tier_range": {
+        "min": 1,
+        "max": 5
+      }
+    },
+    {
+      "destination_name": "Hamirpur",
+      "state": "Himachal Pradesh",
+      "lat": 31.6862,
+      "lng": 76.5213,
+      "popularity_tier": "emerging",
+      "hotel_tier_range": {
+        "min": 1,
+        "max": 5
+      }
+    },
+    {
+      "destination_name": "Matheran",
+      "state": "Maharashtra",
+      "lat": 18.9865,
+      "lng": 73.2679,
+      "popularity_tier": "popular",
+      "hotel_tier_range": {
+        "min": 1,
+        "max": 5
+      }
+    },
+    {
+      "destination_name": "Mount Abu",
+      "state": "Rajasthan",
+      "lat": 24.5926,
+      "lng": 72.7156,
+      "popularity_tier": "popular",
+      "hotel_tier_range": {
+        "min": 1,
+        "max": 5
+      }
+    },
+    {
+      "destination_name": "Thekkady",
+      "state": "Kerala",
+      "lat": 9.6031,
+      "lng": 77.1615,
+      "popularity_tier": "popular",
+      "hotel_tier_range": {
+        "min": 1,
+        "max": 5
+      }
+    },
+    {
+      "destination_name": "Shimla",
+      "state": "Himachal Pradesh",
+      "lat": 31.1048,
+      "lng": 77.1734,
+      "popularity_tier": "popular",
+      "hotel_tier_range": {
+        "min": 1,
+        "max": 5
+      }
+    },
+    {
+      "destination_name": "Nainital",
+      "state": "Uttarakhand",
+      "lat": 29.3803,
+      "lng": 79.4636,
+      "popularity_tier": "popular",
+      "hotel_tier_range": {
+        "min": 1,
+        "max": 5
+      }
+    },
+    {
+      "destination_name": "Kodaikanal",
+      "state": "Tamil Nadu",
+      "lat": 10.2381,
+      "lng": 77.4892,
+      "popularity_tier": "popular",
+      "hotel_tier_range": {
+        "min": 1,
+        "max": 5
+      }
+    },
+    {
+      "destination_name": "Chikmagalur",
+      "state": "Karnataka",
+      "lat": 13.3153,
+      "lng": 75.7754,
+      "popularity_tier": "popular",
+      "hotel_tier_range": {
+        "min": 1,
+        "max": 5
+      }
+    },
+    {
+      "destination_name": "Gokarna",
+      "state": "Karnataka",
+      "lat": 14.5479,
+      "lng": 74.3188,
+      "popularity_tier": "popular",
+      "hotel_tier_range": {
+        "min": 1,
+        "max": 5
+      }
+    },
+    {
+      "destination_name": "Jim Corbett",
+      "state": "Uttarakhand",
+      "lat": 29.53,
+      "lng": 78.7747,
+      "popularity_tier": "popular",
+      "hotel_tier_range": {
+        "min": 1,
+        "max": 5
+      }
+    },
+    {
+      "destination_name": "Varkala",
+      "state": "Kerala",
+      "lat": 8.7379,
+      "lng": 76.7163,
+      "popularity_tier": "popular",
+      "hotel_tier_range": {
+        "min": 1,
+        "max": 5
+      }
+    },
+    {
+      "destination_name": "Kochi",
+      "state": "Kerala",
+      "lat": 9.9312,
+      "lng": 76.2673,
+      "popularity_tier": "popular",
+      "hotel_tier_range": {
+        "min": 1,
+        "max": 5
+      }
+    },
+    {
+      "destination_name": "Rameshwaram",
+      "state": "Tamil Nadu",
+      "lat": 9.2876,
+      "lng": 79.3129,
+      "popularity_tier": "popular",
+      "hotel_tier_range": {
+        "min": 1,
+        "max": 5
+      }
+    },
+    {
+      "destination_name": "Nashik",
+      "state": "Maharashtra",
+      "lat": 19.9975,
+      "lng": 73.7898,
+      "popularity_tier": "popular",
+      "hotel_tier_range": {
+        "min": 1,
+        "max": 5
+      }
+    },
+    {
+      "destination_name": "Tawang",
+      "state": "Arunachal Pradesh",
+      "lat": 27.5861,
+      "lng": 91.8594,
+      "popularity_tier": "gem",
+      "hotel_tier_range": {
+        "min": 1,
+        "max": 5
+      }
+    },
+    {
+      "destination_name": "Leh Ladakh",
+      "state": "Ladakh",
+      "lat": 34.1526,
+      "lng": 77.5771,
+      "popularity_tier": "popular",
+      "hotel_tier_range": {
+        "min": 1,
+        "max": 5
+      }
+    },
+    {
+      "destination_name": "Shillong",
+      "state": "Meghalaya",
+      "lat": 25.5788,
+      "lng": 91.8933,
+      "popularity_tier": "popular",
+      "hotel_tier_range": {
+        "min": 1,
+        "max": 5
+      }
+    }
+  ]
+}

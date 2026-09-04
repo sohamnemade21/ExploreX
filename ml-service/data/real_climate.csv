@@ -1,0 +1,1609 @@
+destination,month,avg_temp_c,avg_rainfall_mm,is_monsoon,activity_type,fit_label
+Tarkarli,January,26.2,20.0,False,outdoor,99
+Tarkarli,January,26.2,20.0,False,indoor,95
+Tarkarli,February,28.2,19.0,False,outdoor,98
+Tarkarli,February,28.2,19.0,False,indoor,95
+Tarkarli,March,29.9,21.0,False,outdoor,92
+Tarkarli,March,29.9,21.0,False,indoor,95
+Tarkarli,April,33.4,33.0,False,outdoor,78
+Tarkarli,April,33.4,33.0,False,indoor,94
+Tarkarli,May,33.9,113.0,False,outdoor,71
+Tarkarli,May,33.9,113.0,False,indoor,93
+Tarkarli,June,30.4,798.0,True,outdoor,28
+Tarkarli,June,30.4,798.0,True,indoor,83
+Tarkarli,July,29.9,938.0,True,outdoor,23
+Tarkarli,July,29.9,938.0,True,indoor,81
+Tarkarli,August,29.4,498.0,True,outdoor,52
+Tarkarli,August,29.4,498.0,True,indoor,87
+Tarkarli,September,29.6,278.0,True,outdoor,66
+Tarkarli,September,29.6,278.0,True,indoor,91
+Tarkarli,October,29.4,128.0,False,outdoor,86
+Tarkarli,October,29.4,128.0,False,indoor,93
+Tarkarli,November,26.9,43.0,False,outdoor,97
+Tarkarli,November,26.9,43.0,False,indoor,94
+Tarkarli,December,26.7,23.0,False,outdoor,98
+Tarkarli,December,26.7,23.0,False,indoor,95
+Sindhudurg,January,26.9,14.6,False,outdoor,99
+Sindhudurg,January,26.9,14.6,False,indoor,95
+Sindhudurg,February,28.9,13.6,False,outdoor,96
+Sindhudurg,February,28.9,13.6,False,indoor,95
+Sindhudurg,March,30.6,15.6,False,outdoor,90
+Sindhudurg,March,30.6,15.6,False,indoor,95
+Sindhudurg,April,34.1,27.6,False,outdoor,76
+Sindhudurg,April,34.1,27.6,False,indoor,94
+Sindhudurg,May,34.6,107.6,False,outdoor,69
+Sindhudurg,May,34.6,107.6,False,indoor,93
+Sindhudurg,June,31.1,792.6,True,outdoor,26
+Sindhudurg,June,31.1,792.6,True,indoor,83
+Sindhudurg,July,30.6,932.6,True,outdoor,21
+Sindhudurg,July,30.6,932.6,True,indoor,81
+Sindhudurg,August,30.1,492.6,True,outdoor,50
+Sindhudurg,August,30.1,492.6,True,indoor,87
+Sindhudurg,September,30.3,272.6,True,outdoor,64
+Sindhudurg,September,30.3,272.6,True,indoor,91
+Sindhudurg,October,30.1,122.6,False,outdoor,84
+Sindhudurg,October,30.1,122.6,False,indoor,93
+Sindhudurg,November,27.6,37.6,False,outdoor,97
+Sindhudurg,November,27.6,37.6,False,indoor,94
+Sindhudurg,December,27.4,17.6,False,outdoor,99
+Sindhudurg,December,27.4,17.6,False,indoor,95
+Kolhapur,January,21.7,3.2,False,outdoor,100
+Kolhapur,January,21.7,3.2,False,indoor,95
+Kolhapur,February,23.7,2.2,False,outdoor,100
+Kolhapur,February,23.7,2.2,False,indoor,95
+Kolhapur,March,25.7,6.2,False,outdoor,100
+Kolhapur,March,25.7,6.2,False,indoor,95
+Kolhapur,April,29.2,18.2,False,outdoor,94
+Kolhapur,April,29.2,18.2,False,indoor,95
+Kolhapur,May,30.1,38.2,False,outdoor,90
+Kolhapur,May,30.1,38.2,False,indoor,94
+Kolhapur,June,26.6,158.2,True,outdoor,79
+Kolhapur,June,26.6,158.2,True,indoor,93
+Kolhapur,July,25.7,238.2,True,outdoor,74
+Kolhapur,July,25.7,238.2,True,indoor,91
+Kolhapur,August,25.2,208.2,True,outdoor,76
+Kolhapur,August,25.2,208.2,True,indoor,92
+Kolhapur,September,25.4,168.2,True,outdoor,79
+Kolhapur,September,25.4,168.2,True,indoor,92
+Kolhapur,October,25.2,78.2,False,outdoor,95
+Kolhapur,October,25.2,78.2,False,indoor,94
+Kolhapur,November,22.7,18.2,False,outdoor,99
+Kolhapur,November,22.7,18.2,False,indoor,95
+Kolhapur,December,22.2,3.2,False,outdoor,100
+Kolhapur,December,22.2,3.2,False,indoor,95
+Solapur,January,22.3,0.0,False,outdoor,100
+Solapur,January,22.3,0.0,False,indoor,95
+Solapur,February,24.3,0.0,False,outdoor,100
+Solapur,February,24.3,0.0,False,indoor,95
+Solapur,March,26.7,0.0,False,outdoor,100
+Solapur,March,26.7,0.0,False,indoor,95
+Solapur,April,30.2,11.0,False,outdoor,91
+Solapur,April,30.2,11.0,False,indoor,95
+Solapur,May,31.6,31.0,False,outdoor,85
+Solapur,May,31.6,31.0,False,indoor,95
+Solapur,June,28.1,151.0,True,outdoor,80
+Solapur,June,28.1,151.0,True,indoor,93
+Solapur,July,26.7,231.0,True,outdoor,75
+Solapur,July,26.7,231.0,True,indoor,91
+Solapur,August,26.2,201.0,True,outdoor,77
+Solapur,August,26.2,201.0,True,indoor,92
+Solapur,September,26.4,161.0,True,outdoor,79
+Solapur,September,26.4,161.0,True,indoor,93
+Solapur,October,26.2,71.0,False,outdoor,95
+Solapur,October,26.2,71.0,False,indoor,94
+Solapur,November,23.7,11.0,False,outdoor,99
+Solapur,November,23.7,11.0,False,indoor,95
+Solapur,December,22.8,0.0,False,outdoor,100
+Solapur,December,22.8,0.0,False,indoor,95
+Aurangabad,January,20.1,1.4,False,outdoor,100
+Aurangabad,January,20.1,1.4,False,indoor,95
+Aurangabad,February,22.1,0.4,False,outdoor,100
+Aurangabad,February,22.1,0.4,False,indoor,95
+Aurangabad,March,25.5,4.4,False,outdoor,100
+Aurangabad,March,25.5,4.4,False,indoor,95
+Aurangabad,April,29.0,16.4,False,outdoor,95
+Aurangabad,April,29.0,16.4,False,indoor,95
+Aurangabad,May,31.4,36.4,False,outdoor,85
+Aurangabad,May,31.4,36.4,False,indoor,94
+Aurangabad,June,27.9,156.4,True,outdoor,80
+Aurangabad,June,27.9,156.4,True,indoor,93
+Aurangabad,July,25.5,236.4,True,outdoor,74
+Aurangabad,July,25.5,236.4,True,indoor,91
+Aurangabad,August,25.0,206.4,True,outdoor,76
+Aurangabad,August,25.0,206.4,True,indoor,92
+Aurangabad,September,25.2,166.4,True,outdoor,79
+Aurangabad,September,25.2,166.4,True,indoor,92
+Aurangabad,October,25.0,76.4,False,outdoor,95
+Aurangabad,October,25.0,76.4,False,indoor,94
+Aurangabad,November,22.5,16.4,False,outdoor,99
+Aurangabad,November,22.5,16.4,False,indoor,95
+Aurangabad,December,20.6,1.4,False,outdoor,100
+Aurangabad,December,20.6,1.4,False,indoor,95
+Ratnagiri,January,25.5,0.0,False,outdoor,100
+Ratnagiri,January,25.5,0.0,False,indoor,95
+Ratnagiri,February,27.5,0.0,False,outdoor,100
+Ratnagiri,February,27.5,0.0,False,indoor,95
+Ratnagiri,March,29.7,0.0,False,outdoor,94
+Ratnagiri,March,29.7,0.0,False,indoor,95
+Ratnagiri,April,33.2,11.4,False,outdoor,81
+Ratnagiri,April,33.2,11.4,False,indoor,95
+Ratnagiri,May,34.2,91.4,False,outdoor,72
+Ratnagiri,May,34.2,91.4,False,indoor,93
+Ratnagiri,June,30.7,776.4,True,outdoor,29
+Ratnagiri,June,30.7,776.4,True,indoor,83
+Ratnagiri,July,29.7,916.4,True,outdoor,24
+Ratnagiri,July,29.7,916.4,True,indoor,81
+Ratnagiri,August,29.2,476.4,True,outdoor,54
+Ratnagiri,August,29.2,476.4,True,indoor,88
+Ratnagiri,September,29.4,256.4,True,outdoor,68
+Ratnagiri,September,29.4,256.4,True,indoor,91
+Ratnagiri,October,29.2,106.4,False,outdoor,89
+Ratnagiri,October,29.2,106.4,False,indoor,93
+Ratnagiri,November,26.7,21.4,False,outdoor,99
+Ratnagiri,November,26.7,21.4,False,indoor,95
+Ratnagiri,December,26.0,1.4,False,outdoor,100
+Ratnagiri,December,26.0,1.4,False,indoor,95
+Lonavala,January,20.9,1.4,False,outdoor,100
+Lonavala,January,20.9,1.4,False,indoor,95
+Lonavala,February,22.9,0.4,False,outdoor,100
+Lonavala,February,22.9,0.4,False,indoor,95
+Lonavala,March,25.9,4.4,False,outdoor,100
+Lonavala,March,25.9,4.4,False,indoor,95
+Lonavala,April,29.4,16.4,False,outdoor,94
+Lonavala,April,29.4,16.4,False,indoor,95
+Lonavala,May,31.2,36.4,False,outdoor,86
+Lonavala,May,31.2,36.4,False,indoor,94
+Lonavala,June,27.7,156.4,True,outdoor,80
+Lonavala,June,27.7,156.4,True,indoor,93
+Lonavala,July,25.9,236.4,True,outdoor,74
+Lonavala,July,25.9,236.4,True,indoor,91
+Lonavala,August,25.4,206.4,True,outdoor,76
+Lonavala,August,25.4,206.4,True,indoor,92
+Lonavala,September,25.6,166.4,True,outdoor,79
+Lonavala,September,25.6,166.4,True,indoor,92
+Lonavala,October,25.4,76.4,False,outdoor,95
+Lonavala,October,25.4,76.4,False,indoor,94
+Lonavala,November,22.9,16.4,False,outdoor,99
+Lonavala,November,22.9,16.4,False,indoor,95
+Lonavala,December,21.4,1.4,False,outdoor,100
+Lonavala,December,21.4,1.4,False,indoor,95
+Pune,January,19.7,15.8,False,outdoor,99
+Pune,January,19.7,15.8,False,indoor,95
+Pune,February,21.7,14.8,False,outdoor,99
+Pune,February,21.7,14.8,False,indoor,95
+Pune,March,24.5,18.8,False,outdoor,99
+Pune,March,24.5,18.8,False,indoor,95
+Pune,April,28.0,30.8,False,outdoor,98
+Pune,April,28.0,30.8,False,indoor,95
+Pune,May,29.8,50.8,False,outdoor,90
+Pune,May,29.8,50.8,False,indoor,94
+Pune,June,26.3,170.8,True,outdoor,79
+Pune,June,26.3,170.8,True,indoor,92
+Pune,July,24.5,250.8,True,outdoor,73
+Pune,July,24.5,250.8,True,indoor,91
+Pune,August,24.0,220.8,True,outdoor,75
+Pune,August,24.0,220.8,True,indoor,92
+Pune,September,24.2,180.8,True,outdoor,78
+Pune,September,24.2,180.8,True,indoor,92
+Pune,October,24.0,90.8,False,outdoor,94
+Pune,October,24.0,90.8,False,indoor,94
+Pune,November,21.5,30.8,False,outdoor,98
+Pune,November,21.5,30.8,False,indoor,95
+Pune,December,20.2,15.8,False,outdoor,99
+Pune,December,20.2,15.8,False,indoor,95
+Mahabaleshwar,January,15.4,55.8,False,outdoor,88
+Mahabaleshwar,January,15.4,55.8,False,indoor,94
+Mahabaleshwar,February,17.4,60.8,False,outdoor,94
+Mahabaleshwar,February,17.4,60.8,False,indoor,94
+Mahabaleshwar,March,20.0,70.8,False,outdoor,95
+Mahabaleshwar,March,20.0,70.8,False,indoor,94
+Mahabaleshwar,April,23.5,60.8,False,outdoor,96
+Mahabaleshwar,April,23.5,60.8,False,indoor,94
+Mahabaleshwar,May,25.0,85.8,False,outdoor,94
+Mahabaleshwar,May,25.0,85.8,False,indoor,94
+Mahabaleshwar,June,21.5,170.8,True,outdoor,79
+Mahabaleshwar,June,21.5,170.8,True,indoor,92
+Mahabaleshwar,July,20.0,390.8,True,outdoor,64
+Mahabaleshwar,July,20.0,390.8,True,indoor,89
+Mahabaleshwar,August,19.5,370.8,True,outdoor,65
+Mahabaleshwar,August,19.5,370.8,True,indoor,89
+Mahabaleshwar,September,19.7,190.8,True,outdoor,77
+Mahabaleshwar,September,19.7,190.8,True,indoor,92
+Mahabaleshwar,October,19.5,55.8,False,outdoor,96
+Mahabaleshwar,October,19.5,55.8,False,indoor,94
+Mahabaleshwar,November,17.0,25.8,False,outdoor,95
+Mahabaleshwar,November,17.0,25.8,False,indoor,95
+Mahabaleshwar,December,15.9,35.8,False,outdoor,91
+Mahabaleshwar,December,15.9,35.8,False,indoor,94
+Alibaug,January,24.6,0.0,False,outdoor,100
+Alibaug,January,24.6,0.0,False,indoor,95
+Alibaug,February,26.6,0.0,False,outdoor,100
+Alibaug,February,26.6,0.0,False,indoor,95
+Alibaug,March,29.5,0.0,False,outdoor,95
+Alibaug,March,29.5,0.0,False,indoor,95
+Alibaug,April,33.0,0.6,False,outdoor,82
+Alibaug,April,33.0,0.6,False,indoor,95
+Alibaug,May,34.8,80.6,False,outdoor,70
+Alibaug,May,34.8,80.6,False,indoor,93
+Alibaug,June,31.3,765.6,True,outdoor,27
+Alibaug,June,31.3,765.6,True,indoor,83
+Alibaug,July,29.5,905.6,True,outdoor,25
+Alibaug,July,29.5,905.6,True,indoor,81
+Alibaug,August,29.0,465.6,True,outdoor,55
+Alibaug,August,29.0,465.6,True,indoor,88
+Alibaug,September,29.2,245.6,True,outdoor,69
+Alibaug,September,29.2,245.6,True,indoor,91
+Alibaug,October,29.0,95.6,False,outdoor,90
+Alibaug,October,29.0,95.6,False,indoor,94
+Alibaug,November,26.5,10.6,False,outdoor,99
+Alibaug,November,26.5,10.6,False,indoor,95
+Alibaug,December,25.1,0.0,False,outdoor,100
+Alibaug,December,25.1,0.0,False,indoor,95
+North Goa,January,25.4,0.0,False,outdoor,100
+North Goa,January,25.4,0.0,False,indoor,95
+North Goa,February,27.4,0.0,False,outdoor,100
+North Goa,February,27.4,0.0,False,indoor,95
+North Goa,March,28.9,0.0,False,outdoor,97
+North Goa,March,28.9,0.0,False,indoor,95
+North Goa,April,32.4,6.0,False,outdoor,84
+North Goa,April,32.4,6.0,False,indoor,95
+North Goa,May,32.7,86.0,False,outdoor,77
+North Goa,May,32.7,86.0,False,indoor,94
+North Goa,June,29.2,771.0,True,outdoor,34
+North Goa,June,29.2,771.0,True,indoor,83
+North Goa,July,28.9,911.0,True,outdoor,27
+North Goa,July,28.9,911.0,True,indoor,81
+North Goa,August,28.4,471.0,True,outdoor,57
+North Goa,August,28.4,471.0,True,indoor,88
+North Goa,September,28.6,251.0,True,outdoor,71
+North Goa,September,28.6,251.0,True,indoor,91
+North Goa,October,28.4,101.0,False,outdoor,92
+North Goa,October,28.4,101.0,False,indoor,93
+North Goa,November,25.9,16.0,False,outdoor,99
+North Goa,November,25.9,16.0,False,indoor,95
+North Goa,December,25.9,0.0,False,outdoor,100
+North Goa,December,25.9,0.0,False,indoor,95
+South Goa,January,26.6,7.4,False,outdoor,100
+South Goa,January,26.6,7.4,False,indoor,95
+South Goa,February,28.6,6.4,False,outdoor,97
+South Goa,February,28.6,6.4,False,indoor,95
+South Goa,March,30.0,8.4,False,outdoor,92
+South Goa,March,30.0,8.4,False,indoor,95
+South Goa,April,33.5,20.4,False,outdoor,79
+South Goa,April,33.5,20.4,False,indoor,95
+South Goa,May,33.6,100.4,False,outdoor,73
+South Goa,May,33.6,100.4,False,indoor,93
+South Goa,June,30.1,785.4,True,outdoor,30
+South Goa,June,30.1,785.4,True,indoor,83
+South Goa,July,30.0,925.4,True,outdoor,23
+South Goa,July,30.0,925.4,True,indoor,81
+South Goa,August,29.5,485.4,True,outdoor,52
+South Goa,August,29.5,485.4,True,indoor,88
+South Goa,September,29.7,265.4,True,outdoor,66
+South Goa,September,29.7,265.4,True,indoor,91
+South Goa,October,29.5,115.4,False,outdoor,87
+South Goa,October,29.5,115.4,False,indoor,93
+South Goa,November,27.0,30.4,False,outdoor,98
+South Goa,November,27.0,30.4,False,indoor,95
+South Goa,December,27.1,10.4,False,outdoor,99
+South Goa,December,27.1,10.4,False,indoor,95
+Panjim,January,26.8,0.0,False,outdoor,100
+Panjim,January,26.8,0.0,False,indoor,95
+Panjim,February,28.8,0.0,False,outdoor,97
+Panjim,February,28.8,0.0,False,indoor,95
+Panjim,March,30.3,0.0,False,outdoor,92
+Panjim,March,30.3,0.0,False,indoor,95
+Panjim,April,33.8,11.4,False,outdoor,78
+Panjim,April,33.8,11.4,False,indoor,95
+Panjim,May,34.0,91.4,False,outdoor,72
+Panjim,May,34.0,91.4,False,indoor,94
+Panjim,June,30.5,776.4,True,outdoor,29
+Panjim,June,30.5,776.4,True,indoor,83
+Panjim,July,30.3,916.4,True,outdoor,22
+Panjim,July,30.3,916.4,True,indoor,81
+Panjim,August,29.8,476.4,True,outdoor,52
+Panjim,August,29.8,476.4,True,indoor,88
+Panjim,September,30.0,256.4,True,outdoor,66
+Panjim,September,30.0,256.4,True,indoor,91
+Panjim,October,29.8,106.4,False,outdoor,86
+Panjim,October,29.8,106.4,False,indoor,93
+Panjim,November,27.3,21.4,False,outdoor,99
+Panjim,November,27.3,21.4,False,indoor,95
+Panjim,December,27.3,1.4,False,outdoor,100
+Panjim,December,27.3,1.4,False,indoor,95
+Jaipur,January,15.0,22.0,False,outdoor,89
+Jaipur,January,15.0,22.0,False,indoor,95
+Jaipur,February,17.0,23.0,False,outdoor,95
+Jaipur,February,17.0,23.0,False,indoor,95
+Jaipur,March,23.6,22.0,False,outdoor,99
+Jaipur,March,23.6,22.0,False,indoor,95
+Jaipur,April,27.1,21.0,False,outdoor,99
+Jaipur,April,27.1,21.0,False,indoor,95
+Jaipur,May,33.1,28.0,False,outdoor,80
+Jaipur,May,33.1,28.0,False,indoor,95
+Jaipur,June,29.6,53.0,False,outdoor,91
+Jaipur,June,29.6,53.0,False,indoor,94
+Jaipur,July,23.6,198.0,True,outdoor,77
+Jaipur,July,23.6,198.0,True,indoor,92
+Jaipur,August,23.1,178.0,True,outdoor,78
+Jaipur,August,23.1,178.0,True,indoor,92
+Jaipur,September,23.3,78.0,False,outdoor,95
+Jaipur,September,23.3,78.0,False,indoor,94
+Jaipur,October,23.1,28.0,False,outdoor,98
+Jaipur,October,23.1,28.0,False,indoor,95
+Jaipur,November,20.6,20.0,False,outdoor,99
+Jaipur,November,20.6,20.0,False,indoor,95
+Jaipur,December,15.5,20.0,False,outdoor,91
+Jaipur,December,15.5,20.0,False,indoor,95
+Udaipur,January,16.8,14.8,False,outdoor,95
+Udaipur,January,16.8,14.8,False,indoor,95
+Udaipur,February,18.8,15.8,False,outdoor,99
+Udaipur,February,18.8,15.8,False,indoor,95
+Udaipur,March,24.4,14.8,False,outdoor,99
+Udaipur,March,24.4,14.8,False,indoor,95
+Udaipur,April,27.9,13.8,False,outdoor,99
+Udaipur,April,27.9,13.8,False,indoor,95
+Udaipur,May,32.7,20.8,False,outdoor,82
+Udaipur,May,32.7,20.8,False,indoor,95
+Udaipur,June,29.2,45.8,False,outdoor,93
+Udaipur,June,29.2,45.8,False,indoor,94
+Udaipur,July,24.4,190.8,True,outdoor,77
+Udaipur,July,24.4,190.8,True,indoor,92
+Udaipur,August,23.9,170.8,True,outdoor,79
+Udaipur,August,23.9,170.8,True,indoor,92
+Udaipur,September,24.1,70.8,False,outdoor,95
+Udaipur,September,24.1,70.8,False,indoor,94
+Udaipur,October,23.9,20.8,False,outdoor,99
+Udaipur,October,23.9,20.8,False,indoor,95
+Udaipur,November,21.4,12.8,False,outdoor,99
+Udaipur,November,21.4,12.8,False,indoor,95
+Udaipur,December,17.3,12.8,False,outdoor,97
+Udaipur,December,17.3,12.8,False,indoor,95
+Jodhpur,January,16.0,18.4,False,outdoor,92
+Jodhpur,January,16.0,18.4,False,indoor,95
+Jodhpur,February,18.0,19.4,False,outdoor,99
+Jodhpur,February,18.0,19.4,False,indoor,95
+Jodhpur,March,24.4,18.4,False,outdoor,99
+Jodhpur,March,24.4,18.4,False,indoor,95
+Jodhpur,April,27.9,17.4,False,outdoor,99
+Jodhpur,April,27.9,17.4,False,indoor,95
+Jodhpur,May,33.5,24.4,False,outdoor,79
+Jodhpur,May,33.5,24.4,False,indoor,95
+Jodhpur,June,30.0,49.4,False,outdoor,90
+Jodhpur,June,30.0,49.4,False,indoor,94
+Jodhpur,July,24.4,194.4,True,outdoor,77
+Jodhpur,July,24.4,194.4,True,indoor,92
+Jodhpur,August,23.9,174.4,True,outdoor,78
+Jodhpur,August,23.9,174.4,True,indoor,92
+Jodhpur,September,24.1,74.4,False,outdoor,95
+Jodhpur,September,24.1,74.4,False,indoor,94
+Jodhpur,October,23.9,24.4,False,outdoor,98
+Jodhpur,October,23.9,24.4,False,indoor,95
+Jodhpur,November,21.4,16.4,False,outdoor,99
+Jodhpur,November,21.4,16.4,False,indoor,95
+Jodhpur,December,16.5,16.4,False,outdoor,94
+Jodhpur,December,16.5,16.4,False,indoor,95
+Jaisalmer,January,15.7,0.0,False,outdoor,93
+Jaisalmer,January,15.7,0.0,False,indoor,95
+Jaisalmer,February,17.7,0.0,False,outdoor,99
+Jaisalmer,February,17.7,0.0,False,indoor,95
+Jaisalmer,March,24.3,0.0,False,outdoor,100
+Jaisalmer,March,24.3,0.0,False,indoor,95
+Jaisalmer,April,27.8,0.0,False,outdoor,100
+Jaisalmer,April,27.8,0.0,False,indoor,95
+Jaisalmer,May,33.8,0.0,False,outdoor,79
+Jaisalmer,May,33.8,0.0,False,indoor,95
+Jaisalmer,June,30.3,15.2,False,outdoor,91
+Jaisalmer,June,30.3,15.2,False,indoor,95
+Jaisalmer,July,24.3,160.2,True,outdoor,79
+Jaisalmer,July,24.3,160.2,True,indoor,93
+Jaisalmer,August,23.8,140.2,True,outdoor,81
+Jaisalmer,August,23.8,140.2,True,indoor,93
+Jaisalmer,September,24.0,40.2,False,outdoor,97
+Jaisalmer,September,24.0,40.2,False,indoor,94
+Jaisalmer,October,23.8,0.0,False,outdoor,100
+Jaisalmer,October,23.8,0.0,False,indoor,95
+Jaisalmer,November,21.3,0.0,False,outdoor,100
+Jaisalmer,November,21.3,0.0,False,indoor,95
+Jaisalmer,December,16.2,0.0,False,outdoor,94
+Jaisalmer,December,16.2,0.0,False,indoor,95
+Pushkar,January,14.4,22.0,False,outdoor,87
+Pushkar,January,14.4,22.0,False,indoor,95
+Pushkar,February,16.4,23.0,False,outdoor,93
+Pushkar,February,16.4,23.0,False,indoor,95
+Pushkar,March,22.8,22.0,False,outdoor,99
+Pushkar,March,22.8,22.0,False,indoor,95
+Pushkar,April,26.3,21.0,False,outdoor,99
+Pushkar,April,26.3,21.0,False,indoor,95
+Pushkar,May,32.0,28.0,False,outdoor,84
+Pushkar,May,32.0,28.0,False,indoor,95
+Pushkar,June,28.5,53.0,False,outdoor,95
+Pushkar,June,28.5,53.0,False,indoor,94
+Pushkar,July,22.8,198.0,True,outdoor,77
+Pushkar,July,22.8,198.0,True,indoor,92
+Pushkar,August,22.3,178.0,True,outdoor,78
+Pushkar,August,22.3,178.0,True,indoor,92
+Pushkar,September,22.5,78.0,False,outdoor,95
+Pushkar,September,22.5,78.0,False,indoor,94
+Pushkar,October,22.3,28.0,False,outdoor,98
+Pushkar,October,22.3,28.0,False,indoor,95
+Pushkar,November,19.8,20.0,False,outdoor,99
+Pushkar,November,19.8,20.0,False,indoor,95
+Pushkar,December,14.9,20.0,False,outdoor,89
+Pushkar,December,14.9,20.0,False,indoor,95
+Munnar,January,21.5,32.4,False,outdoor,98
+Munnar,January,21.5,32.4,False,indoor,95
+Munnar,February,23.5,37.4,False,outdoor,98
+Munnar,February,23.5,37.4,False,indoor,94
+Munnar,March,22.6,47.4,False,outdoor,97
+Munnar,March,22.6,47.4,False,indoor,94
+Munnar,April,26.1,37.4,False,outdoor,98
+Munnar,April,26.1,37.4,False,indoor,94
+Munnar,May,23.6,62.4,False,outdoor,96
+Munnar,May,23.6,62.4,False,indoor,94
+Munnar,June,20.1,147.4,True,outdoor,80
+Munnar,June,20.1,147.4,True,indoor,93
+Munnar,July,22.6,367.4,True,outdoor,66
+Munnar,July,22.6,367.4,True,indoor,89
+Munnar,August,22.1,347.4,True,outdoor,67
+Munnar,August,22.1,347.4,True,indoor,90
+Munnar,September,22.3,167.4,True,outdoor,79
+Munnar,September,22.3,167.4,True,indoor,92
+Munnar,October,22.1,32.4,False,outdoor,98
+Munnar,October,22.1,32.4,False,indoor,95
+Munnar,November,19.6,2.4,False,outdoor,100
+Munnar,November,19.6,2.4,False,indoor,95
+Munnar,December,22.0,12.4,False,outdoor,99
+Munnar,December,22.0,12.4,False,indoor,95
+Alleppey,January,31.4,0.0,False,outdoor,88
+Alleppey,January,31.4,0.0,False,indoor,95
+Alleppey,February,33.4,0.0,False,outdoor,81
+Alleppey,February,33.4,0.0,False,indoor,95
+Alleppey,March,32.1,0.0,False,outdoor,85
+Alleppey,March,32.1,0.0,False,indoor,95
+Alleppey,April,35.6,0.0,False,outdoor,73
+Alleppey,April,35.6,0.0,False,indoor,93
+Alleppey,May,32.9,75.2,False,outdoor,77
+Alleppey,May,32.9,75.2,False,indoor,94
+Alleppey,June,29.4,760.2,True,outdoor,34
+Alleppey,June,29.4,760.2,True,indoor,83
+Alleppey,July,32.1,900.2,True,outdoor,15
+Alleppey,July,32.1,900.2,True,indoor,81
+Alleppey,August,31.6,460.2,True,outdoor,46
+Alleppey,August,31.6,460.2,True,indoor,88
+Alleppey,September,31.8,240.2,True,outdoor,60
+Alleppey,September,31.8,240.2,True,indoor,91
+Alleppey,October,31.6,260.2,True,outdoor,60
+Alleppey,October,31.6,260.2,True,indoor,91
+Alleppey,November,29.1,290.2,True,outdoor,67
+Alleppey,November,29.1,290.2,True,indoor,91
+Alleppey,December,31.9,120.2,True,outdoor,68
+Alleppey,December,31.9,120.2,True,indoor,93
+Wayanad,January,25.4,19.4,False,outdoor,99
+Wayanad,January,25.4,19.4,False,indoor,95
+Wayanad,February,27.4,18.4,False,outdoor,99
+Wayanad,February,27.4,18.4,False,indoor,95
+Wayanad,March,27.1,22.4,False,outdoor,99
+Wayanad,March,27.1,22.4,False,indoor,95
+Wayanad,April,30.6,34.4,False,outdoor,88
+Wayanad,April,30.6,34.4,False,indoor,94
+Wayanad,May,29.0,54.4,False,outdoor,93
+Wayanad,May,29.0,54.4,False,indoor,94
+Wayanad,June,25.5,174.4,True,outdoor,78
+Wayanad,June,25.5,174.4,True,indoor,92
+Wayanad,July,27.1,254.4,True,outdoor,73
+Wayanad,July,27.1,254.4,True,indoor,91
+Wayanad,August,26.6,224.4,True,outdoor,75
+Wayanad,August,26.6,224.4,True,indoor,92
+Wayanad,September,26.8,184.4,True,outdoor,78
+Wayanad,September,26.8,184.4,True,indoor,92
+Wayanad,October,26.6,94.4,False,outdoor,94
+Wayanad,October,26.6,94.4,False,indoor,94
+Wayanad,November,24.1,34.4,False,outdoor,98
+Wayanad,November,24.1,34.4,False,indoor,94
+Wayanad,December,25.9,19.4,False,outdoor,99
+Wayanad,December,25.9,19.4,False,indoor,95
+Coorg,January,22.8,25.2,False,outdoor,98
+Coorg,January,22.8,25.2,False,indoor,95
+Coorg,February,24.8,30.2,False,outdoor,98
+Coorg,February,24.8,30.2,False,indoor,95
+Coorg,March,24.8,40.2,False,outdoor,97
+Coorg,March,24.8,40.2,False,indoor,94
+Coorg,April,28.3,30.2,False,outdoor,97
+Coorg,April,28.3,30.2,False,indoor,95
+Coorg,May,27.0,55.2,False,outdoor,96
+Coorg,May,27.0,55.2,False,indoor,94
+Coorg,June,23.5,140.2,True,outdoor,81
+Coorg,June,23.5,140.2,True,indoor,93
+Coorg,July,24.8,360.2,True,outdoor,66
+Coorg,July,24.8,360.2,True,indoor,89
+Coorg,August,24.3,340.2,True,outdoor,67
+Coorg,August,24.3,340.2,True,indoor,90
+Coorg,September,24.5,160.2,True,outdoor,79
+Coorg,September,24.5,160.2,True,indoor,93
+Coorg,October,24.3,25.2,False,outdoor,98
+Coorg,October,24.3,25.2,False,indoor,95
+Coorg,November,21.8,0.0,False,outdoor,100
+Coorg,November,21.8,0.0,False,indoor,95
+Coorg,December,23.3,5.2,False,outdoor,100
+Coorg,December,23.3,5.2,False,indoor,95
+Hampi,January,22.9,6.8,False,outdoor,100
+Hampi,January,22.9,6.8,False,indoor,95
+Hampi,February,24.9,5.8,False,outdoor,100
+Hampi,February,24.9,5.8,False,indoor,95
+Hampi,March,26.3,9.8,False,outdoor,99
+Hampi,March,26.3,9.8,False,indoor,95
+Hampi,April,29.8,21.8,False,outdoor,92
+Hampi,April,29.8,21.8,False,indoor,95
+Hampi,May,30.0,41.8,False,outdoor,90
+Hampi,May,30.0,41.8,False,indoor,94
+Hampi,June,26.5,161.8,True,outdoor,79
+Hampi,June,26.5,161.8,True,indoor,93
+Hampi,July,26.3,241.8,True,outdoor,74
+Hampi,July,26.3,241.8,True,indoor,91
+Hampi,August,25.8,211.8,True,outdoor,76
+Hampi,August,25.8,211.8,True,indoor,92
+Hampi,September,26.0,171.8,True,outdoor,79
+Hampi,September,26.0,171.8,True,indoor,92
+Hampi,October,25.8,81.8,False,outdoor,95
+Hampi,October,25.8,81.8,False,indoor,94
+Hampi,November,23.3,21.8,False,outdoor,99
+Hampi,November,23.3,21.8,False,indoor,95
+Hampi,December,23.4,6.8,False,outdoor,100
+Hampi,December,23.4,6.8,False,indoor,95
+Mysuru,January,24.9,15.8,False,outdoor,99
+Mysuru,January,24.9,15.8,False,indoor,95
+Mysuru,February,26.9,14.8,False,outdoor,99
+Mysuru,February,26.9,14.8,False,indoor,95
+Mysuru,March,26.9,18.8,False,outdoor,99
+Mysuru,March,26.9,18.8,False,indoor,95
+Mysuru,April,30.4,30.8,False,outdoor,89
+Mysuru,April,30.4,30.8,False,indoor,95
+Mysuru,May,29.1,50.8,False,outdoor,93
+Mysuru,May,29.1,50.8,False,indoor,94
+Mysuru,June,25.6,170.8,True,outdoor,79
+Mysuru,June,25.6,170.8,True,indoor,92
+Mysuru,July,26.9,250.8,True,outdoor,73
+Mysuru,July,26.9,250.8,True,indoor,91
+Mysuru,August,26.4,220.8,True,outdoor,75
+Mysuru,August,26.4,220.8,True,indoor,92
+Mysuru,September,26.6,180.8,True,outdoor,78
+Mysuru,September,26.6,180.8,True,indoor,92
+Mysuru,October,26.4,90.8,False,outdoor,94
+Mysuru,October,26.4,90.8,False,indoor,94
+Mysuru,November,23.9,30.8,False,outdoor,98
+Mysuru,November,23.9,30.8,False,indoor,95
+Mysuru,December,25.4,15.8,False,outdoor,99
+Mysuru,December,25.4,15.8,False,indoor,95
+Ooty,January,14.8,68.6,False,outdoor,85
+Ooty,January,14.8,68.6,False,indoor,94
+Ooty,February,16.8,73.6,False,outdoor,91
+Ooty,February,16.8,73.6,False,indoor,94
+Ooty,March,16.5,88.6,False,outdoor,89
+Ooty,March,16.5,88.6,False,indoor,94
+Ooty,April,20.0,58.6,False,outdoor,96
+Ooty,April,20.0,58.6,False,indoor,94
+Ooty,May,18.2,63.6,False,outdoor,96
+Ooty,May,18.2,63.6,False,indoor,94
+Ooty,June,14.7,143.6,False,outdoor,80
+Ooty,June,14.7,143.6,False,indoor,93
+Ooty,July,16.5,343.6,True,outdoor,62
+Ooty,July,16.5,343.6,True,indoor,90
+Ooty,August,16.0,313.6,True,outdoor,63
+Ooty,August,16.0,313.6,True,indoor,90
+Ooty,September,16.2,133.6,False,outdoor,85
+Ooty,September,16.2,133.6,False,indoor,93
+Ooty,October,16.0,33.6,False,outdoor,91
+Ooty,October,16.0,33.6,False,indoor,94
+Ooty,November,13.5,18.6,False,outdoor,84
+Ooty,November,13.5,18.6,False,indoor,95
+Ooty,December,15.3,43.6,False,outdoor,88
+Ooty,December,15.3,43.6,False,indoor,94
+Chettinad,January,30.7,19.4,False,outdoor,89
+Chettinad,January,30.7,19.4,False,indoor,95
+Chettinad,February,32.7,18.4,False,outdoor,82
+Chettinad,February,32.7,18.4,False,indoor,95
+Chettinad,March,31.8,22.4,False,outdoor,85
+Chettinad,March,31.8,22.4,False,indoor,95
+Chettinad,April,35.3,34.4,False,outdoor,71
+Chettinad,April,35.3,34.4,False,indoor,93
+Chettinad,May,32.8,54.4,False,outdoor,79
+Chettinad,May,32.8,54.4,False,indoor,94
+Chettinad,June,29.3,174.4,True,outdoor,74
+Chettinad,June,29.3,174.4,True,indoor,92
+Chettinad,July,31.8,254.4,True,outdoor,59
+Chettinad,July,31.8,254.4,True,indoor,91
+Chettinad,August,31.3,224.4,True,outdoor,63
+Chettinad,August,31.3,224.4,True,indoor,92
+Chettinad,September,31.5,184.4,True,outdoor,65
+Chettinad,September,31.5,184.4,True,indoor,92
+Chettinad,October,31.3,94.4,False,outdoor,82
+Chettinad,October,31.3,94.4,False,indoor,94
+Chettinad,November,28.8,34.4,False,outdoor,95
+Chettinad,November,28.8,34.4,False,indoor,94
+Chettinad,December,31.2,19.4,False,outdoor,87
+Chettinad,December,31.2,19.4,False,indoor,95
+Madurai,January,30.2,15.8,False,outdoor,91
+Madurai,January,30.2,15.8,False,indoor,95
+Madurai,February,32.2,14.8,False,outdoor,84
+Madurai,February,32.2,14.8,False,indoor,95
+Madurai,March,31.1,18.8,False,outdoor,88
+Madurai,March,31.1,18.8,False,indoor,95
+Madurai,April,34.6,30.8,False,outdoor,74
+Madurai,April,34.6,30.8,False,indoor,94
+Madurai,May,32.1,50.8,False,outdoor,82
+Madurai,May,32.1,50.8,False,indoor,94
+Madurai,June,28.6,170.8,True,outdoor,76
+Madurai,June,28.6,170.8,True,indoor,92
+Madurai,July,31.1,250.8,True,outdoor,62
+Madurai,July,31.1,250.8,True,indoor,91
+Madurai,August,30.6,220.8,True,outdoor,66
+Madurai,August,30.6,220.8,True,indoor,92
+Madurai,September,30.8,180.8,True,outdoor,68
+Madurai,September,30.8,180.8,True,indoor,92
+Madurai,October,30.6,90.8,False,outdoor,85
+Madurai,October,30.6,90.8,False,indoor,94
+Madurai,November,28.1,30.8,False,outdoor,98
+Madurai,November,28.1,30.8,False,indoor,95
+Madurai,December,30.7,15.8,False,outdoor,89
+Madurai,December,30.7,15.8,False,indoor,95
+Kanyakumari,January,32.0,21.8,False,outdoor,84
+Kanyakumari,January,32.0,21.8,False,indoor,95
+Kanyakumari,February,34.0,20.8,False,outdoor,77
+Kanyakumari,February,34.0,20.8,False,indoor,95
+Kanyakumari,March,32.1,22.8,False,outdoor,84
+Kanyakumari,March,32.1,22.8,False,indoor,95
+Kanyakumari,April,35.6,34.8,False,outdoor,70
+Kanyakumari,April,35.6,34.8,False,indoor,93
+Kanyakumari,May,32.2,114.8,False,outdoor,77
+Kanyakumari,May,32.2,114.8,False,indoor,93
+Kanyakumari,June,28.7,799.8,True,outdoor,34
+Kanyakumari,June,28.7,799.8,True,indoor,83
+Kanyakumari,July,32.1,939.8,True,outdoor,15
+Kanyakumari,July,32.1,939.8,True,indoor,81
+Kanyakumari,August,31.6,499.8,True,outdoor,44
+Kanyakumari,August,31.6,499.8,True,indoor,87
+Kanyakumari,September,31.8,279.8,True,outdoor,58
+Kanyakumari,September,31.8,279.8,True,indoor,91
+Kanyakumari,October,31.6,299.8,True,outdoor,57
+Kanyakumari,October,31.6,299.8,True,indoor,90
+Kanyakumari,November,29.1,329.8,True,outdoor,64
+Kanyakumari,November,29.1,329.8,True,indoor,90
+Kanyakumari,December,32.5,159.8,True,outdoor,63
+Kanyakumari,December,32.5,159.8,True,indoor,93
+Manali,January,2.1,79.4,False,outdoor,44
+Manali,January,2.1,79.4,False,indoor,82
+Manali,February,4.1,84.4,False,outdoor,50
+Manali,February,4.1,84.4,False,indoor,85
+Manali,March,13.1,99.4,False,outdoor,78
+Manali,March,13.1,99.4,False,indoor,93
+Manali,April,16.6,69.4,False,outdoor,91
+Manali,April,16.6,69.4,False,indoor,94
+Manali,May,25.2,74.4,False,outdoor,95
+Manali,May,25.2,74.4,False,indoor,94
+Manali,June,21.7,154.4,False,outdoor,90
+Manali,June,21.7,154.4,False,indoor,93
+Manali,July,13.1,354.4,True,outdoor,51
+Manali,July,13.1,354.4,True,indoor,90
+Manali,August,12.6,324.4,True,outdoor,51
+Manali,August,12.6,324.4,True,indoor,90
+Manali,September,12.8,144.4,False,outdoor,74
+Manali,September,12.8,144.4,False,indoor,93
+Manali,October,12.6,44.4,False,outdoor,80
+Manali,October,12.6,44.4,False,indoor,94
+Manali,November,10.1,29.4,False,outdoor,73
+Manali,November,10.1,29.4,False,indoor,95
+Manali,December,2.6,54.4,False,outdoor,47
+Manali,December,2.6,54.4,False,indoor,83
+Kasol,January,4.8,25.2,False,outdoor,56
+Kasol,January,4.8,25.2,False,indoor,87
+Kasol,February,6.8,30.2,False,outdoor,62
+Kasol,February,6.8,30.2,False,indoor,90
+Kasol,March,15.7,40.2,False,outdoor,90
+Kasol,March,15.7,40.2,False,indoor,94
+Kasol,April,19.2,30.2,False,outdoor,98
+Kasol,April,19.2,30.2,False,indoor,95
+Kasol,May,27.7,55.2,False,outdoor,96
+Kasol,May,27.7,55.2,False,indoor,94
+Kasol,June,24.2,140.2,True,outdoor,81
+Kasol,June,24.2,140.2,True,indoor,93
+Kasol,July,15.7,360.2,True,outdoor,59
+Kasol,July,15.7,360.2,True,indoor,89
+Kasol,August,15.2,340.2,True,outdoor,58
+Kasol,August,15.2,340.2,True,indoor,90
+Kasol,September,15.4,160.2,True,outdoor,71
+Kasol,September,15.4,160.2,True,indoor,93
+Kasol,October,15.2,25.2,False,outdoor,89
+Kasol,October,15.2,25.2,False,indoor,95
+Kasol,November,12.7,0.0,False,outdoor,83
+Kasol,November,12.7,0.0,False,indoor,95
+Kasol,December,5.3,5.2,False,outdoor,59
+Kasol,December,5.3,5.2,False,indoor,88
+Spiti Valley,January,-10.6,0.0,False,outdoor,10
+Spiti Valley,January,-10.6,0.0,False,indoor,64
+Spiti Valley,February,-8.6,0.0,False,outdoor,15
+Spiti Valley,February,-8.6,0.0,False,indoor,67
+Spiti Valley,March,0.4,0.0,False,outdoor,44
+Spiti Valley,March,0.4,0.0,False,indoor,81
+Spiti Valley,April,3.9,0.0,False,outdoor,55
+Spiti Valley,April,3.9,0.0,False,indoor,86
+Spiti Valley,May,12.5,0.0,False,outdoor,82
+Spiti Valley,May,12.5,0.0,False,indoor,95
+Spiti Valley,June,9.0,0.0,False,outdoor,71
+Spiti Valley,June,9.0,0.0,False,indoor,94
+Spiti Valley,July,0.4,10.0,False,outdoor,43
+Spiti Valley,July,0.4,10.0,False,indoor,80
+Spiti Valley,August,-0.1,14.0,False,outdoor,41
+Spiti Valley,August,-0.1,14.0,False,indoor,80
+Spiti Valley,September,0.1,0.0,False,outdoor,43
+Spiti Valley,September,0.1,0.0,False,indoor,80
+Spiti Valley,October,-0.1,0.0,False,outdoor,42
+Spiti Valley,October,-0.1,0.0,False,indoor,80
+Spiti Valley,November,-2.6,0.0,False,outdoor,34
+Spiti Valley,November,-2.6,0.0,False,indoor,76
+Spiti Valley,December,-10.1,0.0,False,outdoor,10
+Spiti Valley,December,-10.1,0.0,False,indoor,65
+Dharamsala,January,4.2,55.8,False,outdoor,52
+Dharamsala,January,4.2,55.8,False,indoor,85
+Dharamsala,February,6.2,60.8,False,outdoor,58
+Dharamsala,February,6.2,60.8,False,indoor,88
+Dharamsala,March,15.2,70.8,False,outdoor,86
+Dharamsala,March,15.2,70.8,False,indoor,94
+Dharamsala,April,18.7,60.8,False,outdoor,96
+Dharamsala,April,18.7,60.8,False,indoor,94
+Dharamsala,May,27.3,85.8,False,outdoor,94
+Dharamsala,May,27.3,85.8,False,indoor,94
+Dharamsala,June,23.8,170.8,True,outdoor,79
+Dharamsala,June,23.8,170.8,True,indoor,92
+Dharamsala,July,15.2,390.8,True,outdoor,55
+Dharamsala,July,15.2,390.8,True,indoor,89
+Dharamsala,August,14.7,370.8,True,outdoor,55
+Dharamsala,August,14.7,370.8,True,indoor,89
+Dharamsala,September,14.9,190.8,True,outdoor,67
+Dharamsala,September,14.9,190.8,True,indoor,92
+Dharamsala,October,14.7,55.8,False,outdoor,86
+Dharamsala,October,14.7,55.8,False,indoor,94
+Dharamsala,November,12.2,25.8,False,outdoor,80
+Dharamsala,November,12.2,25.8,False,indoor,95
+Dharamsala,December,4.7,35.8,False,outdoor,55
+Dharamsala,December,4.7,35.8,False,indoor,86
+Rishikesh,January,12.7,17.6,False,outdoor,82
+Rishikesh,January,12.7,17.6,False,indoor,95
+Rishikesh,February,14.7,16.6,False,outdoor,88
+Rishikesh,February,14.7,16.6,False,indoor,95
+Rishikesh,March,22.8,20.6,False,outdoor,99
+Rishikesh,March,22.8,20.6,False,indoor,95
+Rishikesh,April,26.3,32.6,False,outdoor,98
+Rishikesh,April,26.3,32.6,False,indoor,94
+Rishikesh,May,33.8,52.6,False,outdoor,76
+Rishikesh,May,33.8,52.6,False,indoor,94
+Rishikesh,June,30.3,172.6,True,outdoor,70
+Rishikesh,June,30.3,172.6,True,indoor,92
+Rishikesh,July,22.8,252.6,True,outdoor,73
+Rishikesh,July,22.8,252.6,True,indoor,91
+Rishikesh,August,22.3,222.6,True,outdoor,75
+Rishikesh,August,22.3,222.6,True,indoor,92
+Rishikesh,September,22.5,182.6,True,outdoor,78
+Rishikesh,September,22.5,182.6,True,indoor,92
+Rishikesh,October,22.3,92.6,False,outdoor,94
+Rishikesh,October,22.3,92.6,False,indoor,94
+Rishikesh,November,19.8,32.6,False,outdoor,98
+Rishikesh,November,19.8,32.6,False,indoor,94
+Rishikesh,December,13.2,17.6,False,outdoor,83
+Rishikesh,December,13.2,17.6,False,indoor,95
+Mussoorie,January,3.4,45.2,False,outdoor,50
+Mussoorie,January,3.4,45.2,False,indoor,84
+Mussoorie,February,5.4,50.2,False,outdoor,56
+Mussoorie,February,5.4,50.2,False,indoor,87
+Mussoorie,March,13.7,65.2,False,outdoor,82
+Mussoorie,March,13.7,65.2,False,indoor,94
+Mussoorie,April,17.2,35.2,False,outdoor,95
+Mussoorie,April,17.2,35.2,False,indoor,94
+Mussoorie,May,24.9,40.2,False,outdoor,97
+Mussoorie,May,24.9,40.2,False,indoor,94
+Mussoorie,June,21.4,120.2,False,outdoor,92
+Mussoorie,June,21.4,120.2,False,indoor,93
+Mussoorie,July,13.7,320.2,True,outdoor,55
+Mussoorie,July,13.7,320.2,True,indoor,90
+Mussoorie,August,13.2,290.2,True,outdoor,55
+Mussoorie,August,13.2,290.2,True,indoor,91
+Mussoorie,September,13.4,110.2,False,outdoor,78
+Mussoorie,September,13.4,110.2,False,indoor,93
+Mussoorie,October,13.2,10.2,False,outdoor,84
+Mussoorie,October,13.2,10.2,False,indoor,95
+Mussoorie,November,10.7,0.0,False,outdoor,77
+Mussoorie,November,10.7,0.0,False,indoor,95
+Mussoorie,December,3.9,20.2,False,outdoor,54
+Mussoorie,December,3.9,20.2,False,indoor,86
+Auli,January,-2.7,52.4,False,outdoor,30
+Auli,January,-2.7,52.4,False,indoor,75
+Auli,February,-0.7,57.4,False,outdoor,36
+Auli,February,-0.7,57.4,False,indoor,78
+Auli,March,7.5,72.4,False,outdoor,62
+Auli,March,7.5,72.4,False,indoor,90
+Auli,April,11.0,42.4,False,outdoor,75
+Auli,April,11.0,42.4,False,indoor,94
+Auli,May,18.8,47.4,False,outdoor,97
+Auli,May,18.8,47.4,False,indoor,94
+Auli,June,15.3,127.4,False,outdoor,83
+Auli,June,15.3,127.4,False,indoor,93
+Auli,July,7.5,327.4,True,outdoor,35
+Auli,July,7.5,327.4,True,indoor,86
+Auli,August,7.0,297.4,True,outdoor,35
+Auli,August,7.0,297.4,True,indoor,86
+Auli,September,7.2,117.4,False,outdoor,58
+Auli,September,7.2,117.4,False,indoor,89
+Auli,October,7.0,17.4,False,outdoor,64
+Auli,October,7.0,17.4,False,indoor,90
+Auli,November,4.5,2.4,False,outdoor,57
+Auli,November,4.5,2.4,False,indoor,87
+Auli,December,-2.2,27.4,False,outdoor,34
+Auli,December,-2.2,27.4,False,indoor,76
+Khajuraho,January,17.5,0.0,False,outdoor,98
+Khajuraho,January,17.5,0.0,False,indoor,95
+Khajuraho,February,19.5,0.0,False,outdoor,100
+Khajuraho,February,19.5,0.0,False,indoor,95
+Khajuraho,March,25.2,0.0,False,outdoor,100
+Khajuraho,March,25.2,0.0,False,indoor,95
+Khajuraho,April,28.7,9.2,False,outdoor,97
+Khajuraho,April,28.7,9.2,False,indoor,95
+Khajuraho,May,33.6,29.2,False,outdoor,78
+Khajuraho,May,33.6,29.2,False,indoor,95
+Khajuraho,June,30.1,149.2,True,outdoor,72
+Khajuraho,June,30.1,149.2,True,indoor,93
+Khajuraho,July,25.2,229.2,True,outdoor,75
+Khajuraho,July,25.2,229.2,True,indoor,91
+Khajuraho,August,24.7,199.2,True,outdoor,77
+Khajuraho,August,24.7,199.2,True,indoor,92
+Khajuraho,September,24.9,159.2,True,outdoor,79
+Khajuraho,September,24.9,159.2,True,indoor,93
+Khajuraho,October,24.7,69.2,False,outdoor,95
+Khajuraho,October,24.7,69.2,False,indoor,94
+Khajuraho,November,22.2,9.2,False,outdoor,99
+Khajuraho,November,22.2,9.2,False,indoor,95
+Khajuraho,December,18.0,0.0,False,outdoor,100
+Khajuraho,December,18.0,0.0,False,indoor,95
+Orchha,January,17.2,24.8,False,outdoor,96
+Orchha,January,17.2,24.8,False,indoor,95
+Orchha,February,19.2,23.8,False,outdoor,98
+Orchha,February,19.2,23.8,False,indoor,95
+Orchha,March,24.9,27.8,False,outdoor,98
+Orchha,March,24.9,27.8,False,indoor,95
+Orchha,April,28.4,39.8,False,outdoor,96
+Orchha,April,28.4,39.8,False,indoor,94
+Orchha,May,33.4,59.8,False,outdoor,77
+Orchha,May,33.4,59.8,False,indoor,94
+Orchha,June,29.9,179.8,True,outdoor,71
+Orchha,June,29.9,179.8,True,indoor,92
+Orchha,July,24.9,259.8,True,outdoor,73
+Orchha,July,24.9,259.8,True,indoor,91
+Orchha,August,24.4,229.8,True,outdoor,75
+Orchha,August,24.4,229.8,True,indoor,91
+Orchha,September,24.6,189.8,True,outdoor,77
+Orchha,September,24.6,189.8,True,indoor,92
+Orchha,October,24.4,99.8,False,outdoor,93
+Orchha,October,24.4,99.8,False,indoor,93
+Orchha,November,21.9,39.8,False,outdoor,97
+Orchha,November,21.9,39.8,False,indoor,94
+Orchha,December,17.7,24.8,False,outdoor,97
+Orchha,December,17.7,24.8,False,indoor,95
+Pachmarhi,January,14.5,46.8,False,outdoor,86
+Pachmarhi,January,14.5,46.8,False,indoor,94
+Pachmarhi,February,16.5,51.8,False,outdoor,92
+Pachmarhi,February,16.5,51.8,False,indoor,94
+Pachmarhi,March,21.1,61.8,False,outdoor,96
+Pachmarhi,March,21.1,61.8,False,indoor,94
+Pachmarhi,April,24.6,51.8,False,outdoor,97
+Pachmarhi,April,24.6,51.8,False,indoor,94
+Pachmarhi,May,28.4,76.8,False,outdoor,93
+Pachmarhi,May,28.4,76.8,False,indoor,94
+Pachmarhi,June,24.9,161.8,True,outdoor,79
+Pachmarhi,June,24.9,161.8,True,indoor,93
+Pachmarhi,July,21.1,381.8,True,outdoor,65
+Pachmarhi,July,21.1,381.8,True,indoor,89
+Pachmarhi,August,20.6,361.8,True,outdoor,66
+Pachmarhi,August,20.6,361.8,True,indoor,89
+Pachmarhi,September,20.8,181.8,True,outdoor,78
+Pachmarhi,September,20.8,181.8,True,indoor,92
+Pachmarhi,October,20.6,46.8,False,outdoor,97
+Pachmarhi,October,20.6,46.8,False,indoor,94
+Pachmarhi,November,18.1,16.8,False,outdoor,99
+Pachmarhi,November,18.1,16.8,False,indoor,95
+Pachmarhi,December,15.0,26.8,False,outdoor,89
+Pachmarhi,December,15.0,26.8,False,indoor,95
+Rann of Kutch,January,20.8,9.4,False,outdoor,99
+Rann of Kutch,January,20.8,9.4,False,indoor,95
+Rann of Kutch,February,22.8,10.4,False,outdoor,99
+Rann of Kutch,February,22.8,10.4,False,indoor,95
+Rann of Kutch,March,28.0,9.4,False,outdoor,99
+Rann of Kutch,March,28.0,9.4,False,indoor,95
+Rann of Kutch,April,31.5,8.4,False,outdoor,87
+Rann of Kutch,April,31.5,8.4,False,indoor,95
+Rann of Kutch,May,35.9,15.4,False,outdoor,71
+Rann of Kutch,May,35.9,15.4,False,indoor,92
+Rann of Kutch,June,32.4,40.4,False,outdoor,81
+Rann of Kutch,June,32.4,40.4,False,indoor,94
+Rann of Kutch,July,28.0,185.4,True,outdoor,78
+Rann of Kutch,July,28.0,185.4,True,indoor,92
+Rann of Kutch,August,27.5,165.4,True,outdoor,79
+Rann of Kutch,August,27.5,165.4,True,indoor,92
+Rann of Kutch,September,27.7,65.4,False,outdoor,96
+Rann of Kutch,September,27.7,65.4,False,indoor,94
+Rann of Kutch,October,27.5,15.4,False,outdoor,99
+Rann of Kutch,October,27.5,15.4,False,indoor,95
+Rann of Kutch,November,25.0,7.4,False,outdoor,100
+Rann of Kutch,November,25.0,7.4,False,indoor,95
+Rann of Kutch,December,21.3,7.4,False,outdoor,100
+Rann of Kutch,December,21.3,7.4,False,indoor,95
+Ahmedabad,January,19.9,21.2,False,outdoor,99
+Ahmedabad,January,19.9,21.2,False,indoor,95
+Ahmedabad,February,21.9,20.2,False,outdoor,99
+Ahmedabad,February,21.9,20.2,False,indoor,95
+Ahmedabad,March,26.8,24.2,False,outdoor,98
+Ahmedabad,March,26.8,24.2,False,indoor,95
+Ahmedabad,April,30.3,36.2,False,outdoor,89
+Ahmedabad,April,30.3,36.2,False,indoor,94
+Ahmedabad,May,34.3,56.2,False,outdoor,74
+Ahmedabad,May,34.3,56.2,False,indoor,94
+Ahmedabad,June,30.8,176.2,True,outdoor,68
+Ahmedabad,June,30.8,176.2,True,indoor,92
+Ahmedabad,July,26.8,256.2,True,outdoor,73
+Ahmedabad,July,26.8,256.2,True,indoor,91
+Ahmedabad,August,26.3,226.2,True,outdoor,75
+Ahmedabad,August,26.3,226.2,True,indoor,92
+Ahmedabad,September,26.5,186.2,True,outdoor,78
+Ahmedabad,September,26.5,186.2,True,indoor,92
+Ahmedabad,October,26.3,96.2,False,outdoor,94
+Ahmedabad,October,26.3,96.2,False,indoor,94
+Ahmedabad,November,23.8,36.2,False,outdoor,98
+Ahmedabad,November,23.8,36.2,False,indoor,94
+Ahmedabad,December,20.4,21.2,False,outdoor,99
+Ahmedabad,December,20.4,21.2,False,indoor,95
+Dwarka,January,21.2,0.0,False,outdoor,100
+Dwarka,January,21.2,0.0,False,indoor,95
+Dwarka,February,23.2,0.0,False,outdoor,100
+Dwarka,February,23.2,0.0,False,indoor,95
+Dwarka,March,27.7,0.0,False,outdoor,100
+Dwarka,March,27.7,0.0,False,indoor,95
+Dwarka,April,31.2,2.4,False,outdoor,88
+Dwarka,April,31.2,2.4,False,indoor,95
+Dwarka,May,34.8,82.4,False,outdoor,70
+Dwarka,May,34.8,82.4,False,indoor,93
+Dwarka,June,31.3,767.4,True,outdoor,27
+Dwarka,June,31.3,767.4,True,indoor,83
+Dwarka,July,27.7,907.4,True,outdoor,30
+Dwarka,July,27.7,907.4,True,indoor,81
+Dwarka,August,27.2,467.4,True,outdoor,59
+Dwarka,August,27.2,467.4,True,indoor,88
+Dwarka,September,27.4,247.4,True,outdoor,74
+Dwarka,September,27.4,247.4,True,indoor,91
+Dwarka,October,27.2,97.4,False,outdoor,94
+Dwarka,October,27.2,97.4,False,indoor,94
+Dwarka,November,24.7,12.4,False,outdoor,99
+Dwarka,November,24.7,12.4,False,indoor,95
+Dwarka,December,21.7,0.0,False,outdoor,100
+Dwarka,December,21.7,0.0,False,indoor,95
+Puri,January,23.1,0.0,False,outdoor,100
+Puri,January,23.1,0.0,False,indoor,95
+Puri,February,25.1,0.0,False,outdoor,100
+Puri,February,25.1,0.0,False,indoor,95
+Puri,March,28.5,0.0,False,outdoor,98
+Puri,March,28.5,0.0,False,indoor,95
+Puri,April,32.0,0.0,False,outdoor,86
+Puri,April,32.0,0.0,False,indoor,95
+Puri,May,34.4,78.8,False,outdoor,72
+Puri,May,34.4,78.8,False,indoor,93
+Puri,June,30.9,763.8,True,outdoor,29
+Puri,June,30.9,763.8,True,indoor,83
+Puri,July,28.5,903.8,True,outdoor,28
+Puri,July,28.5,903.8,True,indoor,81
+Puri,August,28.0,463.8,True,outdoor,59
+Puri,August,28.0,463.8,True,indoor,88
+Puri,September,28.2,243.8,True,outdoor,73
+Puri,September,28.2,243.8,True,indoor,91
+Puri,October,28.0,93.8,False,outdoor,94
+Puri,October,28.0,93.8,False,indoor,94
+Puri,November,25.5,8.8,False,outdoor,99
+Puri,November,25.5,8.8,False,indoor,95
+Puri,December,23.6,0.0,False,outdoor,100
+Puri,December,23.6,0.0,False,indoor,95
+Konark,January,22.3,11.0,False,outdoor,99
+Konark,January,22.3,11.0,False,indoor,95
+Konark,February,24.3,10.0,False,outdoor,99
+Konark,February,24.3,10.0,False,indoor,95
+Konark,March,27.8,12.0,False,outdoor,99
+Konark,March,27.8,12.0,False,indoor,95
+Konark,April,31.3,24.0,False,outdoor,87
+Konark,April,31.3,24.0,False,indoor,95
+Konark,May,33.7,104.0,False,outdoor,73
+Konark,May,33.7,104.0,False,indoor,93
+Konark,June,30.2,789.0,True,outdoor,29
+Konark,June,30.2,789.0,True,indoor,83
+Konark,July,27.8,929.0,True,outdoor,30
+Konark,July,27.8,929.0,True,indoor,81
+Konark,August,27.3,489.0,True,outdoor,57
+Konark,August,27.3,489.0,True,indoor,87
+Konark,September,27.5,269.0,True,outdoor,72
+Konark,September,27.5,269.0,True,indoor,91
+Konark,October,27.3,119.0,False,outdoor,92
+Konark,October,27.3,119.0,False,indoor,93
+Konark,November,24.8,34.0,False,outdoor,98
+Konark,November,24.8,34.0,False,indoor,94
+Konark,December,22.8,14.0,False,outdoor,99
+Konark,December,22.8,14.0,False,indoor,95
+Raghurajpur,January,22.9,8.6,False,outdoor,99
+Raghurajpur,January,22.9,8.6,False,indoor,95
+Raghurajpur,February,24.9,7.6,False,outdoor,99
+Raghurajpur,February,24.9,7.6,False,indoor,95
+Raghurajpur,March,28.3,11.6,False,outdoor,98
+Raghurajpur,March,28.3,11.6,False,indoor,95
+Raghurajpur,April,31.8,23.6,False,outdoor,85
+Raghurajpur,April,31.8,23.6,False,indoor,95
+Raghurajpur,May,34.3,43.6,False,outdoor,74
+Raghurajpur,May,34.3,43.6,False,indoor,94
+Raghurajpur,June,30.8,163.6,True,outdoor,69
+Raghurajpur,June,30.8,163.6,True,indoor,92
+Raghurajpur,July,28.3,243.6,True,outdoor,73
+Raghurajpur,July,28.3,243.6,True,indoor,91
+Raghurajpur,August,27.8,213.6,True,outdoor,76
+Raghurajpur,August,27.8,213.6,True,indoor,92
+Raghurajpur,September,28.0,173.6,True,outdoor,78
+Raghurajpur,September,28.0,173.6,True,indoor,92
+Raghurajpur,October,27.8,83.6,False,outdoor,94
+Raghurajpur,October,27.8,83.6,False,indoor,94
+Raghurajpur,November,25.3,23.6,False,outdoor,98
+Raghurajpur,November,25.3,23.6,False,indoor,95
+Raghurajpur,December,23.4,8.6,False,outdoor,99
+Raghurajpur,December,23.4,8.6,False,indoor,95
+Gangtok,January,6.4,28.8,False,outdoor,61
+Gangtok,January,6.4,28.8,False,indoor,89
+Gangtok,February,8.4,33.8,False,outdoor,67
+Gangtok,February,8.4,33.8,False,indoor,92
+Gangtok,March,15.2,43.8,False,outdoor,88
+Gangtok,March,15.2,43.8,False,indoor,94
+Gangtok,April,18.7,33.8,False,outdoor,98
+Gangtok,April,18.7,33.8,False,indoor,94
+Gangtok,May,24.9,58.8,False,outdoor,96
+Gangtok,May,24.9,58.8,False,indoor,94
+Gangtok,June,21.4,143.8,True,outdoor,80
+Gangtok,June,21.4,143.8,True,indoor,93
+Gangtok,July,15.2,363.8,True,outdoor,57
+Gangtok,July,15.2,363.8,True,indoor,89
+Gangtok,August,14.7,343.8,True,outdoor,57
+Gangtok,August,14.7,343.8,True,indoor,90
+Gangtok,September,14.9,163.8,True,outdoor,69
+Gangtok,September,14.9,163.8,True,indoor,92
+Gangtok,October,14.7,28.8,False,outdoor,88
+Gangtok,October,14.7,28.8,False,indoor,95
+Gangtok,November,12.2,0.0,False,outdoor,81
+Gangtok,November,12.2,0.0,False,indoor,95
+Gangtok,December,6.9,8.8,False,outdoor,64
+Gangtok,December,6.9,8.8,False,indoor,90
+Lachung,January,0.6,74.0,False,outdoor,39
+Lachung,January,0.6,74.0,False,indoor,80
+Lachung,February,2.6,79.0,False,outdoor,45
+Lachung,February,2.6,79.0,False,indoor,83
+Lachung,March,9.6,94.0,False,outdoor,67
+Lachung,March,9.6,94.0,False,indoor,93
+Lachung,April,13.1,64.0,False,outdoor,80
+Lachung,April,13.1,64.0,False,indoor,94
+Lachung,May,19.4,69.0,False,outdoor,95
+Lachung,May,19.4,69.0,False,indoor,94
+Lachung,June,15.9,149.0,False,outdoor,83
+Lachung,June,15.9,149.0,False,indoor,93
+Lachung,July,9.6,349.0,True,outdoor,40
+Lachung,July,9.6,349.0,True,indoor,89
+Lachung,August,9.1,319.0,True,outdoor,40
+Lachung,August,9.1,319.0,True,indoor,89
+Lachung,September,9.3,139.0,False,outdoor,63
+Lachung,September,9.3,139.0,False,indoor,92
+Lachung,October,9.1,39.0,False,outdoor,69
+Lachung,October,9.1,39.0,False,indoor,93
+Lachung,November,6.6,24.0,False,outdoor,62
+Lachung,November,6.6,24.0,False,indoor,90
+Lachung,December,1.1,49.0,False,outdoor,43
+Lachung,December,1.1,49.0,False,indoor,81
+Kaziranga,January,16.9,0.0,False,outdoor,96
+Kaziranga,January,16.9,0.0,False,indoor,95
+Kaziranga,February,18.9,0.2,False,outdoor,100
+Kaziranga,February,18.9,0.2,False,indoor,95
+Kaziranga,March,25.4,15.2,False,outdoor,99
+Kaziranga,March,25.4,15.2,False,indoor,95
+Kaziranga,April,28.9,70.2,False,outdoor,92
+Kaziranga,April,28.9,70.2,False,indoor,94
+Kaziranga,May,34.7,190.2,False,outdoor,63
+Kaziranga,May,34.7,190.2,False,indoor,91
+Kaziranga,June,31.2,460.2,True,outdoor,48
+Kaziranga,June,31.2,460.2,True,indoor,88
+Kaziranga,July,25.4,540.2,True,outdoor,54
+Kaziranga,July,25.4,540.2,True,indoor,87
+Kaziranga,August,24.9,390.2,True,outdoor,64
+Kaziranga,August,24.9,390.2,True,indoor,89
+Kaziranga,September,25.1,270.2,True,outdoor,72
+Kaziranga,September,25.1,270.2,True,indoor,91
+Kaziranga,October,24.9,120.2,False,outdoor,92
+Kaziranga,October,24.9,120.2,False,indoor,93
+Kaziranga,November,22.4,10.2,False,outdoor,99
+Kaziranga,November,22.4,10.2,False,indoor,95
+Kaziranga,December,17.4,0.0,False,outdoor,98
+Kaziranga,December,17.4,0.0,False,indoor,95
+Majuli,January,18.1,6.8,False,outdoor,100
+Majuli,January,18.1,6.8,False,indoor,95
+Majuli,February,20.1,5.8,False,outdoor,100
+Majuli,February,20.1,5.8,False,indoor,95
+Majuli,March,26.7,9.8,False,outdoor,99
+Majuli,March,26.7,9.8,False,indoor,95
+Majuli,April,30.2,21.8,False,outdoor,91
+Majuli,April,30.2,21.8,False,indoor,95
+Majuli,May,36.2,41.8,False,outdoor,68
+Majuli,May,36.2,41.8,False,indoor,92
+Majuli,June,32.7,161.8,True,outdoor,62
+Majuli,June,32.7,161.8,True,indoor,93
+Majuli,July,26.7,241.8,True,outdoor,74
+Majuli,July,26.7,241.8,True,indoor,91
+Majuli,August,26.2,211.8,True,outdoor,76
+Majuli,August,26.2,211.8,True,indoor,92
+Majuli,September,26.4,171.8,True,outdoor,79
+Majuli,September,26.4,171.8,True,indoor,92
+Majuli,October,26.2,81.8,False,outdoor,95
+Majuli,October,26.2,81.8,False,indoor,94
+Majuli,November,23.7,21.8,False,outdoor,99
+Majuli,November,23.7,21.8,False,indoor,95
+Majuli,December,18.6,6.8,False,outdoor,100
+Majuli,December,18.6,6.8,False,indoor,95
+Tirthan Valley,January,4.1,30.6,False,outdoor,53
+Tirthan Valley,January,4.1,30.6,False,indoor,86
+Tirthan Valley,February,6.1,35.6,False,outdoor,60
+Tirthan Valley,February,6.1,35.6,False,indoor,89
+Tirthan Valley,March,14.8,45.6,False,outdoor,87
+Tirthan Valley,March,14.8,45.6,False,indoor,94
+Tirthan Valley,April,18.3,35.6,False,outdoor,98
+Tirthan Valley,April,18.3,35.6,False,indoor,94
+Tirthan Valley,May,26.7,60.6,False,outdoor,96
+Tirthan Valley,May,26.7,60.6,False,indoor,94
+Tirthan Valley,June,23.2,145.6,True,outdoor,80
+Tirthan Valley,June,23.2,145.6,True,indoor,93
+Tirthan Valley,July,14.8,365.6,True,outdoor,55
+Tirthan Valley,July,14.8,365.6,True,indoor,89
+Tirthan Valley,August,14.3,345.6,True,outdoor,55
+Tirthan Valley,August,14.3,345.6,True,indoor,90
+Tirthan Valley,September,14.5,165.6,True,outdoor,68
+Tirthan Valley,September,14.5,165.6,True,indoor,92
+Tirthan Valley,October,14.3,30.6,False,outdoor,86
+Tirthan Valley,October,14.3,30.6,False,indoor,95
+Tirthan Valley,November,11.8,0.6,False,outdoor,80
+Tirthan Valley,November,11.8,0.6,False,indoor,95
+Tirthan Valley,December,4.6,10.6,False,outdoor,56
+Tirthan Valley,December,4.6,10.6,False,indoor,87
+Ziro,January,8.5,36.0,False,outdoor,67
+Ziro,January,8.5,36.0,False,indoor,92
+Ziro,February,10.5,41.0,False,outdoor,73
+Ziro,February,10.5,41.0,False,indoor,94
+Ziro,March,17.4,51.0,False,outdoor,95
+Ziro,March,17.4,51.0,False,indoor,94
+Ziro,April,20.9,41.0,False,outdoor,97
+Ziro,April,20.9,41.0,False,indoor,94
+Ziro,May,27.2,66.0,False,outdoor,96
+Ziro,May,27.2,66.0,False,indoor,94
+Ziro,June,23.7,151.0,True,outdoor,80
+Ziro,June,23.7,151.0,True,indoor,93
+Ziro,July,17.4,371.0,True,outdoor,63
+Ziro,July,17.4,371.0,True,indoor,89
+Ziro,August,16.9,351.0,True,outdoor,63
+Ziro,August,16.9,351.0,True,indoor,90
+Ziro,September,17.1,171.0,True,outdoor,76
+Ziro,September,17.1,171.0,True,indoor,92
+Ziro,October,16.9,36.0,False,outdoor,94
+Ziro,October,16.9,36.0,False,indoor,94
+Ziro,November,14.4,6.0,False,outdoor,88
+Ziro,November,14.4,6.0,False,indoor,95
+Ziro,December,9.0,16.0,False,outdoor,70
+Ziro,December,9.0,16.0,False,indoor,93
+Hamirpur,January,9.3,6.8,False,outdoor,72
+Hamirpur,January,9.3,6.8,False,indoor,94
+Hamirpur,February,11.3,5.8,False,outdoor,78
+Hamirpur,February,11.3,5.8,False,indoor,95
+Hamirpur,March,20.0,9.8,False,outdoor,99
+Hamirpur,March,20.0,9.8,False,indoor,95
+Hamirpur,April,23.5,21.8,False,outdoor,99
+Hamirpur,April,23.5,21.8,False,indoor,95
+Hamirpur,May,31.9,41.8,False,outdoor,83
+Hamirpur,May,31.9,41.8,False,indoor,94
+Hamirpur,June,28.4,161.8,True,outdoor,78
+Hamirpur,June,28.4,161.8,True,indoor,93
+Hamirpur,July,20.0,241.8,True,outdoor,74
+Hamirpur,July,20.0,241.8,True,indoor,91
+Hamirpur,August,19.5,211.8,True,outdoor,76
+Hamirpur,August,19.5,211.8,True,indoor,92
+Hamirpur,September,19.7,171.8,True,outdoor,79
+Hamirpur,September,19.7,171.8,True,indoor,92
+Hamirpur,October,19.5,81.8,False,outdoor,95
+Hamirpur,October,19.5,81.8,False,indoor,94
+Hamirpur,November,17.0,21.8,False,outdoor,95
+Hamirpur,November,17.0,21.8,False,indoor,95
+Hamirpur,December,9.8,6.8,False,outdoor,73
+Hamirpur,December,9.8,6.8,False,indoor,95
+Matheran,January,17.8,45.0,False,outdoor,96
+Matheran,January,17.8,45.0,False,indoor,94
+Matheran,February,19.8,50.0,False,outdoor,97
+Matheran,February,19.8,50.0,False,indoor,94
+Matheran,March,22.9,60.0,False,outdoor,96
+Matheran,March,22.9,60.0,False,indoor,94
+Matheran,April,26.4,50.0,False,outdoor,97
+Matheran,April,26.4,50.0,False,indoor,94
+Matheran,May,28.4,75.0,False,outdoor,94
+Matheran,May,28.4,75.0,False,indoor,94
+Matheran,June,24.9,160.0,True,outdoor,79
+Matheran,June,24.9,160.0,True,indoor,93
+Matheran,July,22.9,380.0,True,outdoor,65
+Matheran,July,22.9,380.0,True,indoor,89
+Matheran,August,22.4,360.0,True,outdoor,66
+Matheran,August,22.4,360.0,True,indoor,89
+Matheran,September,22.6,180.0,True,outdoor,78
+Matheran,September,22.6,180.0,True,indoor,92
+Matheran,October,22.4,45.0,False,outdoor,97
+Matheran,October,22.4,45.0,False,indoor,94
+Matheran,November,19.9,15.0,False,outdoor,99
+Matheran,November,19.9,15.0,False,indoor,95
+Matheran,December,18.3,25.0,False,outdoor,98
+Matheran,December,18.3,25.0,False,indoor,95
+Mount Abu,January,12.2,52.2,False,outdoor,78
+Mount Abu,January,12.2,52.2,False,indoor,94
+Mount Abu,February,14.2,57.2,False,outdoor,84
+Mount Abu,February,14.2,57.2,False,indoor,94
+Mount Abu,March,19.8,67.2,False,outdoor,96
+Mount Abu,March,19.8,67.2,False,indoor,94
+Mount Abu,April,23.3,57.2,False,outdoor,96
+Mount Abu,April,23.3,57.2,False,indoor,94
+Mount Abu,May,28.1,82.2,False,outdoor,94
+Mount Abu,May,28.1,82.2,False,indoor,94
+Mount Abu,June,24.6,167.2,True,outdoor,79
+Mount Abu,June,24.6,167.2,True,indoor,92
+Mount Abu,July,19.8,387.2,True,outdoor,64
+Mount Abu,July,19.8,387.2,True,indoor,89
+Mount Abu,August,19.3,367.2,True,outdoor,66
+Mount Abu,August,19.3,367.2,True,indoor,89
+Mount Abu,September,19.5,187.2,True,outdoor,78
+Mount Abu,September,19.5,187.2,True,indoor,92
+Mount Abu,October,19.3,52.2,False,outdoor,97
+Mount Abu,October,19.3,52.2,False,indoor,94
+Mount Abu,November,16.8,22.2,False,outdoor,95
+Mount Abu,November,16.8,22.2,False,indoor,95
+Mount Abu,December,12.7,32.2,False,outdoor,81
+Mount Abu,December,12.7,32.2,False,indoor,95
+Thekkady,January,24.9,21.0,False,outdoor,99
+Thekkady,January,24.9,21.0,False,indoor,95
+Thekkady,February,26.9,29.0,False,outdoor,98
+Thekkady,February,26.9,29.0,False,indoor,95
+Thekkady,March,25.7,44.0,False,outdoor,97
+Thekkady,March,25.7,44.0,False,indoor,94
+Thekkady,April,29.2,99.0,False,outdoor,89
+Thekkady,April,29.2,99.0,False,indoor,93
+Thekkady,May,26.5,219.0,False,outdoor,85
+Thekkady,May,26.5,219.0,False,indoor,92
+Thekkady,June,23.0,489.0,True,outdoor,57
+Thekkady,June,23.0,489.0,True,indoor,87
+Thekkady,July,25.7,569.0,True,outdoor,52
+Thekkady,July,25.7,569.0,True,indoor,86
+Thekkady,August,25.2,419.0,True,outdoor,62
+Thekkady,August,25.2,419.0,True,indoor,89
+Thekkady,September,25.4,299.0,True,outdoor,70
+Thekkady,September,25.4,299.0,True,indoor,90
+Thekkady,October,25.2,149.0,False,outdoor,90
+Thekkady,October,25.2,149.0,False,indoor,93
+Thekkady,November,22.7,39.0,False,outdoor,97
+Thekkady,November,22.7,39.0,False,indoor,94
+Thekkady,December,25.4,19.0,False,outdoor,99
+Thekkady,December,25.4,19.0,False,indoor,95
+Shimla,January,0.9,59.6,False,outdoor,41
+Shimla,January,0.9,59.6,False,indoor,80
+Shimla,February,2.9,64.6,False,outdoor,47
+Shimla,February,2.9,64.6,False,indoor,83
+Shimla,March,11.4,79.6,False,outdoor,74
+Shimla,March,11.4,79.6,False,indoor,94
+Shimla,April,14.9,49.6,False,outdoor,87
+Shimla,April,14.9,49.6,False,indoor,94
+Shimla,May,23.0,54.6,False,outdoor,96
+Shimla,May,23.0,54.6,False,indoor,94
+Shimla,June,19.5,134.6,False,outdoor,91
+Shimla,June,19.5,134.6,False,indoor,93
+Shimla,July,11.4,334.6,True,outdoor,47
+Shimla,July,11.4,334.6,True,indoor,90
+Shimla,August,10.9,304.6,True,outdoor,47
+Shimla,August,10.9,304.6,True,indoor,90
+Shimla,September,11.1,124.6,False,outdoor,70
+Shimla,September,11.1,124.6,False,indoor,93
+Shimla,October,10.9,24.6,False,outdoor,76
+Shimla,October,10.9,24.6,False,indoor,95
+Shimla,November,8.4,9.6,False,outdoor,69
+Shimla,November,8.4,9.6,False,indoor,92
+Shimla,December,1.4,34.6,False,outdoor,45
+Shimla,December,1.4,34.6,False,indoor,82
+Nainital,January,2.1,65.0,False,outdoor,45
+Nainital,January,2.1,65.0,False,indoor,82
+Nainital,February,4.1,70.0,False,outdoor,51
+Nainital,February,4.1,70.0,False,indoor,85
+Nainital,March,11.8,85.0,False,outdoor,74
+Nainital,March,11.8,85.0,False,indoor,94
+Nainital,April,15.3,55.0,False,outdoor,88
+Nainital,April,15.3,55.0,False,indoor,94
+Nainital,May,22.5,60.0,False,outdoor,96
+Nainital,May,22.5,60.0,False,indoor,94
+Nainital,June,19.0,140.0,False,outdoor,91
+Nainital,June,19.0,140.0,False,indoor,93
+Nainital,July,11.8,340.0,True,outdoor,47
+Nainital,July,11.8,340.0,True,indoor,90
+Nainital,August,11.3,310.0,True,outdoor,48
+Nainital,August,11.3,310.0,True,indoor,90
+Nainital,September,11.5,130.0,False,outdoor,71
+Nainital,September,11.5,130.0,False,indoor,93
+Nainital,October,11.3,30.0,False,outdoor,77
+Nainital,October,11.3,30.0,False,indoor,95
+Nainital,November,8.8,15.0,False,outdoor,70
+Nainital,November,8.8,15.0,False,indoor,93
+Nainital,December,2.6,40.0,False,outdoor,48
+Nainital,December,2.6,40.0,False,indoor,83
+Kodaikanal,January,16.6,77.6,False,outdoor,90
+Kodaikanal,January,16.6,77.6,False,indoor,94
+Kodaikanal,February,18.6,82.6,False,outdoor,94
+Kodaikanal,February,18.6,82.6,False,indoor,94
+Kodaikanal,March,17.7,97.6,False,outdoor,93
+Kodaikanal,March,17.7,97.6,False,indoor,93
+Kodaikanal,April,21.2,67.6,False,outdoor,95
+Kodaikanal,April,21.2,67.6,False,indoor,94
+Kodaikanal,May,18.8,72.6,False,outdoor,95
+Kodaikanal,May,18.8,72.6,False,indoor,94
+Kodaikanal,June,15.3,152.6,False,outdoor,81
+Kodaikanal,June,15.3,152.6,False,indoor,93
+Kodaikanal,July,17.7,352.6,True,outdoor,66
+Kodaikanal,July,17.7,352.6,True,indoor,90
+Kodaikanal,August,17.2,322.6,True,outdoor,66
+Kodaikanal,August,17.2,322.6,True,indoor,90
+Kodaikanal,September,17.4,142.6,False,outdoor,89
+Kodaikanal,September,17.4,142.6,False,indoor,93
+Kodaikanal,October,17.2,42.6,False,outdoor,95
+Kodaikanal,October,17.2,42.6,False,indoor,94
+Kodaikanal,November,14.7,27.6,False,outdoor,88
+Kodaikanal,November,14.7,27.6,False,indoor,95
+Kodaikanal,December,17.1,52.6,False,outdoor,94
+Kodaikanal,December,17.1,52.6,False,indoor,94
+Chikmagalur,January,21.0,27.0,False,outdoor,98
+Chikmagalur,January,21.0,27.0,False,indoor,95
+Chikmagalur,February,23.0,32.0,False,outdoor,98
+Chikmagalur,February,23.0,32.0,False,indoor,95
+Chikmagalur,March,23.5,42.0,False,outdoor,97
+Chikmagalur,March,23.5,42.0,False,indoor,94
+Chikmagalur,April,27.0,32.0,False,outdoor,98
+Chikmagalur,April,27.0,32.0,False,indoor,95
+Chikmagalur,May,26.2,57.0,False,outdoor,96
+Chikmagalur,May,26.2,57.0,False,indoor,94
+Chikmagalur,June,22.7,142.0,True,outdoor,81
+Chikmagalur,June,22.7,142.0,True,indoor,93
+Chikmagalur,July,23.5,362.0,True,outdoor,66
+Chikmagalur,July,23.5,362.0,True,indoor,89
+Chikmagalur,August,23.0,342.0,True,outdoor,67
+Chikmagalur,August,23.0,342.0,True,indoor,90
+Chikmagalur,September,23.2,162.0,True,outdoor,79
+Chikmagalur,September,23.2,162.0,True,indoor,93
+Chikmagalur,October,23.0,27.0,False,outdoor,98
+Chikmagalur,October,23.0,27.0,False,indoor,95
+Chikmagalur,November,20.5,0.0,False,outdoor,100
+Chikmagalur,November,20.5,0.0,False,indoor,95
+Chikmagalur,December,21.5,7.0,False,outdoor,100
+Chikmagalur,December,21.5,7.0,False,indoor,95
+Gokarna,January,27.2,12.8,False,outdoor,99
+Gokarna,January,27.2,12.8,False,indoor,95
+Gokarna,February,29.2,11.8,False,outdoor,95
+Gokarna,February,29.2,11.8,False,indoor,95
+Gokarna,March,30.3,13.8,False,outdoor,91
+Gokarna,March,30.3,13.8,False,indoor,95
+Gokarna,April,33.8,25.8,False,outdoor,77
+Gokarna,April,33.8,25.8,False,indoor,95
+Gokarna,May,33.6,105.8,False,outdoor,73
+Gokarna,May,33.6,105.8,False,indoor,93
+Gokarna,June,30.1,790.8,True,outdoor,30
+Gokarna,June,30.1,790.8,True,indoor,83
+Gokarna,July,30.3,930.8,True,outdoor,22
+Gokarna,July,30.3,930.8,True,indoor,81
+Gokarna,August,29.8,490.8,True,outdoor,51
+Gokarna,August,29.8,490.8,True,indoor,87
+Gokarna,September,30.0,270.8,True,outdoor,65
+Gokarna,September,30.0,270.8,True,indoor,91
+Gokarna,October,29.8,120.8,False,outdoor,85
+Gokarna,October,29.8,120.8,False,indoor,93
+Gokarna,November,27.3,35.8,False,outdoor,98
+Gokarna,November,27.3,35.8,False,indoor,94
+Gokarna,December,27.7,15.8,False,outdoor,99
+Gokarna,December,27.7,15.8,False,indoor,95
+Jim Corbett,January,13.1,6.6,False,outdoor,84
+Jim Corbett,January,13.1,6.6,False,indoor,95
+Jim Corbett,February,15.1,14.6,False,outdoor,90
+Jim Corbett,February,15.1,14.6,False,indoor,95
+Jim Corbett,March,22.9,29.6,False,outdoor,98
+Jim Corbett,March,22.9,29.6,False,indoor,95
+Jim Corbett,April,26.4,84.6,False,outdoor,94
+Jim Corbett,April,26.4,84.6,False,indoor,94
+Jim Corbett,May,33.7,204.6,False,outdoor,66
+Jim Corbett,May,33.7,204.6,False,indoor,92
+Jim Corbett,June,30.2,474.6,True,outdoor,50
+Jim Corbett,June,30.2,474.6,True,indoor,88
+Jim Corbett,July,22.9,554.6,True,outdoor,53
+Jim Corbett,July,22.9,554.6,True,indoor,86
+Jim Corbett,August,22.4,404.6,True,outdoor,63
+Jim Corbett,August,22.4,404.6,True,indoor,89
+Jim Corbett,September,22.6,284.6,True,outdoor,71
+Jim Corbett,September,22.6,284.6,True,indoor,91
+Jim Corbett,October,22.4,134.6,False,outdoor,91
+Jim Corbett,October,22.4,134.6,False,indoor,93
+Jim Corbett,November,19.9,24.6,False,outdoor,98
+Jim Corbett,November,19.9,24.6,False,indoor,95
+Jim Corbett,December,13.6,4.6,False,outdoor,86
+Jim Corbett,December,13.6,4.6,False,indoor,95
+Varkala,January,31.5,11.0,False,outdoor,87
+Varkala,January,31.5,11.0,False,indoor,95
+Varkala,February,33.5,10.0,False,outdoor,80
+Varkala,February,33.5,10.0,False,indoor,95
+Varkala,March,31.9,12.0,False,outdoor,85
+Varkala,March,31.9,12.0,False,indoor,95
+Varkala,April,35.4,24.0,False,outdoor,72
+Varkala,April,35.4,24.0,False,indoor,93
+Varkala,May,32.3,104.0,False,outdoor,78
+Varkala,May,32.3,104.0,False,indoor,93
+Varkala,June,28.8,789.0,True,outdoor,35
+Varkala,June,28.8,789.0,True,indoor,83
+Varkala,July,31.9,929.0,True,outdoor,16
+Varkala,July,31.9,929.0,True,indoor,81
+Varkala,August,31.4,489.0,True,outdoor,45
+Varkala,August,31.4,489.0,True,indoor,87
+Varkala,September,31.6,269.0,True,outdoor,59
+Varkala,September,31.6,269.0,True,indoor,91
+Varkala,October,31.4,289.0,True,outdoor,58
+Varkala,October,31.4,289.0,True,indoor,91
+Varkala,November,28.9,319.0,True,outdoor,65
+Varkala,November,28.9,319.0,True,indoor,90
+Varkala,December,32.0,149.0,True,outdoor,66
+Varkala,December,32.0,149.0,True,indoor,93
+Kochi,January,29.7,2.0,False,outdoor,94
+Kochi,January,29.7,2.0,False,indoor,95
+Kochi,February,31.7,1.0,False,outdoor,87
+Kochi,February,31.7,1.0,False,indoor,95
+Kochi,March,30.7,3.0,False,outdoor,90
+Kochi,March,30.7,3.0,False,indoor,95
+Kochi,April,34.2,15.0,False,outdoor,77
+Kochi,April,34.2,15.0,False,indoor,95
+Kochi,May,31.6,95.0,False,outdoor,81
+Kochi,May,31.6,95.0,False,indoor,94
+Kochi,June,28.1,780.0,True,outdoor,38
+Kochi,June,28.1,780.0,True,indoor,83
+Kochi,July,30.7,920.0,True,outdoor,20
+Kochi,July,30.7,920.0,True,indoor,81
+Kochi,August,30.2,480.0,True,outdoor,50
+Kochi,August,30.2,480.0,True,indoor,88
+Kochi,September,30.4,260.0,True,outdoor,64
+Kochi,September,30.4,260.0,True,indoor,91
+Kochi,October,30.2,280.0,True,outdoor,63
+Kochi,October,30.2,280.0,True,indoor,91
+Kochi,November,27.7,310.0,True,outdoor,69
+Kochi,November,27.7,310.0,True,indoor,90
+Kochi,December,30.2,140.0,True,outdoor,73
+Kochi,December,30.2,140.0,True,indoor,93
+Rameshwaram,January,30.6,12.8,False,outdoor,90
+Rameshwaram,January,30.6,12.8,False,indoor,95
+Rameshwaram,February,32.6,11.8,False,outdoor,83
+Rameshwaram,February,32.6,11.8,False,indoor,95
+Rameshwaram,March,31.3,13.8,False,outdoor,87
+Rameshwaram,March,31.3,13.8,False,indoor,95
+Rameshwaram,April,34.8,25.8,False,outdoor,74
+Rameshwaram,April,34.8,25.8,False,indoor,94
+Rameshwaram,May,31.9,105.8,False,outdoor,79
+Rameshwaram,May,31.9,105.8,False,indoor,93
+Rameshwaram,June,28.4,790.8,True,outdoor,36
+Rameshwaram,June,28.4,790.8,True,indoor,83
+Rameshwaram,July,31.3,930.8,True,outdoor,18
+Rameshwaram,July,31.3,930.8,True,indoor,81
+Rameshwaram,August,30.8,490.8,True,outdoor,47
+Rameshwaram,August,30.8,490.8,True,indoor,87
+Rameshwaram,September,31.0,270.8,True,outdoor,61
+Rameshwaram,September,31.0,270.8,True,indoor,91
+Rameshwaram,October,30.8,290.8,True,outdoor,61
+Rameshwaram,October,30.8,290.8,True,indoor,91
+Rameshwaram,November,28.3,320.8,True,outdoor,68
+Rameshwaram,November,28.3,320.8,True,indoor,90
+Rameshwaram,December,31.1,150.8,True,outdoor,69
+Rameshwaram,December,31.1,150.8,True,indoor,93
+Nashik,January,19.6,0.0,False,outdoor,100
+Nashik,January,19.6,0.0,False,indoor,95
+Nashik,February,21.6,0.0,False,outdoor,100
+Nashik,February,21.6,0.0,False,indoor,95
+Nashik,March,25.1,2.6,False,outdoor,100
+Nashik,March,25.1,2.6,False,indoor,95
+Nashik,April,28.6,14.6,False,outdoor,97
+Nashik,April,28.6,14.6,False,indoor,95
+Nashik,May,31.1,34.6,False,outdoor,87
+Nashik,May,31.1,34.6,False,indoor,94
+Nashik,June,27.6,154.6,True,outdoor,80
+Nashik,June,27.6,154.6,True,indoor,93
+Nashik,July,25.1,234.6,True,outdoor,74
+Nashik,July,25.1,234.6,True,indoor,91
+Nashik,August,24.6,204.6,True,outdoor,76
+Nashik,August,24.6,204.6,True,indoor,92
+Nashik,September,24.8,164.6,True,outdoor,79
+Nashik,September,24.8,164.6,True,indoor,92
+Nashik,October,24.6,74.6,False,outdoor,95
+Nashik,October,24.6,74.6,False,indoor,94
+Nashik,November,22.1,14.6,False,outdoor,99
+Nashik,November,22.1,14.6,False,indoor,95
+Nashik,December,20.1,0.0,False,outdoor,100
+Nashik,December,20.1,0.0,False,indoor,95
+Tawang,January,-0.7,9.8,False,outdoor,40
+Tawang,January,-0.7,9.8,False,indoor,79
+Tawang,February,1.3,10.8,False,outdoor,46
+Tawang,February,1.3,10.8,False,indoor,82
+Tawang,March,8.2,13.8,False,outdoor,68
+Tawang,March,8.2,13.8,False,indoor,92
+Tawang,April,11.7,11.8,False,outdoor,79
+Tawang,April,11.7,11.8,False,indoor,95
+Tawang,May,18.0,15.8,False,outdoor,99
+Tawang,May,18.0,15.8,False,indoor,95
+Tawang,June,14.5,12.8,False,outdoor,88
+Tawang,June,14.5,12.8,False,indoor,95
+Tawang,July,8.2,29.8,False,outdoor,67
+Tawang,July,8.2,29.8,False,indoor,92
+Tawang,August,7.7,33.8,False,outdoor,65
+Tawang,August,7.7,33.8,False,indoor,91
+Tawang,September,7.9,16.8,False,outdoor,67
+Tawang,September,7.9,16.8,False,indoor,92
+Tawang,October,7.7,9.8,False,outdoor,66
+Tawang,October,7.7,9.8,False,indoor,91
+Tawang,November,5.2,6.8,False,outdoor,59
+Tawang,November,5.2,6.8,False,indoor,88
+Tawang,December,-0.2,7.8,False,outdoor,41
+Tawang,December,-0.2,7.8,False,indoor,80
+Leh Ladakh,January,-9.1,24.2,False,outdoor,12
+Leh Ladakh,January,-9.1,24.2,False,indoor,66
+Leh Ladakh,February,-7.1,25.2,False,outdoor,18
+Leh Ladakh,February,-7.1,25.2,False,indoor,69
+Leh Ladakh,March,2.8,28.2,False,outdoor,49
+Leh Ladakh,March,2.8,28.2,False,indoor,84
+Leh Ladakh,April,6.3,26.2,False,outdoor,61
+Leh Ladakh,April,6.3,26.2,False,indoor,89
+Leh Ladakh,May,15.9,30.2,False,outdoor,91
+Leh Ladakh,May,15.9,30.2,False,indoor,95
+Leh Ladakh,June,12.4,27.2,False,outdoor,80
+Leh Ladakh,June,12.4,27.2,False,indoor,95
+Leh Ladakh,July,2.8,44.2,False,outdoor,48
+Leh Ladakh,July,2.8,44.2,False,indoor,84
+Leh Ladakh,August,2.3,48.2,False,outdoor,47
+Leh Ladakh,August,2.3,48.2,False,indoor,83
+Leh Ladakh,September,2.5,31.2,False,outdoor,48
+Leh Ladakh,September,2.5,31.2,False,indoor,83
+Leh Ladakh,October,2.3,24.2,False,outdoor,48
+Leh Ladakh,October,2.3,24.2,False,indoor,83
+Leh Ladakh,November,-0.2,21.2,False,outdoor,40
+Leh Ladakh,November,-0.2,21.2,False,indoor,79
+Leh Ladakh,December,-8.6,22.2,False,outdoor,13
+Leh Ladakh,December,-8.6,22.2,False,indoor,67
+Shillong,January,10.3,32.4,False,outdoor,73
+Shillong,January,10.3,32.4,False,indoor,95
+Shillong,February,12.3,37.4,False,outdoor,79
+Shillong,February,12.3,37.4,False,indoor,94
+Shillong,March,18.3,47.4,False,outdoor,97
+Shillong,March,18.3,47.4,False,indoor,94
+Shillong,April,21.8,37.4,False,outdoor,98
+Shillong,April,21.8,37.4,False,indoor,94
+Shillong,May,27.1,62.4,False,outdoor,96
+Shillong,May,27.1,62.4,False,indoor,94
+Shillong,June,23.6,147.4,True,outdoor,80
+Shillong,June,23.6,147.4,True,indoor,93
+Shillong,July,18.3,367.4,True,outdoor,66
+Shillong,July,18.3,367.4,True,indoor,89
+Shillong,August,17.8,347.4,True,outdoor,66
+Shillong,August,17.8,347.4,True,indoor,90
+Shillong,September,18.0,167.4,True,outdoor,79
+Shillong,September,18.0,167.4,True,indoor,92
+Shillong,October,17.8,32.4,False,outdoor,97
+Shillong,October,17.8,32.4,False,indoor,95
+Shillong,November,15.3,2.4,False,outdoor,91
+Shillong,November,15.3,2.4,False,indoor,95
+Shillong,December,10.8,12.4,False,outdoor,76
+Shillong,December,10.8,12.4,False,indoor,95

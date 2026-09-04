@@ -1,0 +1,3973 @@
+destination,date,price,is_holiday,occupancy_pct,tier,hotel_tier
+Tarkarli,2026-01-26,1060,True,64,gem,1
+Tarkarli,2026-01-26,2070,True,68,gem,2
+Tarkarli,2026-01-26,4100,True,80,gem,3
+Tarkarli,2026-01-26,7060,True,63,gem,4
+Tarkarli,2026-01-26,16710,True,81,gem,5
+Tarkarli,2026-02-05,850,False,63,gem,1
+Tarkarli,2026-02-05,1710,False,47,gem,2
+Tarkarli,2026-02-05,3380,False,59,gem,3
+Tarkarli,2026-02-05,6000,False,56,gem,4
+Tarkarli,2026-02-05,14720,False,57,gem,5
+Tarkarli,2026-03-10,890,False,50,gem,1
+Tarkarli,2026-03-10,1690,False,56,gem,2
+Tarkarli,2026-03-10,3370,False,51,gem,3
+Tarkarli,2026-03-10,6090,False,63,gem,4
+Tarkarli,2026-03-10,14160,False,58,gem,5
+Tarkarli,2026-04-15,820,False,56,gem,1
+Tarkarli,2026-04-15,1850,False,38,gem,2
+Tarkarli,2026-04-15,3220,False,38,gem,3
+Tarkarli,2026-04-15,5960,False,41,gem,4
+Tarkarli,2026-04-15,14250,False,48,gem,5
+Tarkarli,2026-05-20,890,False,63,gem,1
+Tarkarli,2026-05-20,1900,False,42,gem,2
+Tarkarli,2026-05-20,3190,False,39,gem,3
+Tarkarli,2026-05-20,5820,False,60,gem,4
+Tarkarli,2026-05-20,14670,False,61,gem,5
+Tarkarli,2026-06-25,800,False,48,gem,1
+Tarkarli,2026-06-25,1830,False,54,gem,2
+Tarkarli,2026-06-25,3180,False,53,gem,3
+Tarkarli,2026-06-25,5950,False,44,gem,4
+Tarkarli,2026-06-25,13880,False,55,gem,5
+Tarkarli,2026-07-04,830,False,44,gem,1
+Tarkarli,2026-07-04,1730,False,47,gem,2
+Tarkarli,2026-07-04,3300,False,57,gem,3
+Tarkarli,2026-07-04,5990,False,63,gem,4
+Tarkarli,2026-07-04,14590,False,50,gem,5
+Tarkarli,2026-08-09,810,False,39,gem,1
+Tarkarli,2026-08-09,1800,False,52,gem,2
+Tarkarli,2026-08-09,3190,False,41,gem,3
+Tarkarli,2026-08-09,5650,False,63,gem,4
+Tarkarli,2026-08-09,13530,False,39,gem,5
+Tarkarli,2026-09-14,870,False,49,gem,1
+Tarkarli,2026-09-14,1880,False,40,gem,2
+Tarkarli,2026-09-14,3360,False,51,gem,3
+Tarkarli,2026-09-14,5490,False,41,gem,4
+Tarkarli,2026-09-14,14220,False,47,gem,5
+Tarkarli,2026-10-19,800,False,48,gem,1
+Tarkarli,2026-10-19,1880,False,42,gem,2
+Tarkarli,2026-10-19,3100,False,62,gem,3
+Tarkarli,2026-10-19,5990,False,55,gem,4
+Tarkarli,2026-10-19,14390,False,42,gem,5
+Tarkarli,2026-11-24,820,False,63,gem,1
+Tarkarli,2026-11-24,1780,False,49,gem,2
+Tarkarli,2026-11-24,3090,False,54,gem,3
+Tarkarli,2026-11-24,5640,False,38,gem,4
+Tarkarli,2026-11-24,13580,False,43,gem,5
+Tarkarli,2026-12-03,820,False,56,gem,1
+Tarkarli,2026-12-03,1890,False,60,gem,2
+Tarkarli,2026-12-03,3360,False,49,gem,3
+Tarkarli,2026-12-03,5800,False,50,gem,4
+Tarkarli,2026-12-03,13840,False,54,gem,5
+Sindhudurg,2026-01-19,870,False,47,emerging,1
+Sindhudurg,2026-01-19,1770,False,38,emerging,2
+Sindhudurg,2026-01-19,3280,False,41,emerging,3
+Sindhudurg,2026-01-19,5520,False,44,emerging,4
+Sindhudurg,2026-01-19,14450,False,44,emerging,5
+Sindhudurg,2026-02-24,820,False,50,emerging,1
+Sindhudurg,2026-02-24,1750,False,61,emerging,2
+Sindhudurg,2026-02-24,3360,False,45,emerging,3
+Sindhudurg,2026-02-24,6050,False,57,emerging,4
+Sindhudurg,2026-02-24,14820,False,49,emerging,5
+Sindhudurg,2026-03-03,860,False,41,emerging,1
+Sindhudurg,2026-03-03,1690,False,48,emerging,2
+Sindhudurg,2026-03-03,3270,False,49,emerging,3
+Sindhudurg,2026-03-03,5510,False,51,emerging,4
+Sindhudurg,2026-03-03,14030,False,49,emerging,5
+Sindhudurg,2026-04-08,820,False,43,emerging,1
+Sindhudurg,2026-04-08,1890,False,52,emerging,2
+Sindhudurg,2026-04-08,3290,False,42,emerging,3
+Sindhudurg,2026-04-08,5460,False,54,emerging,4
+Sindhudurg,2026-04-08,14420,False,42,emerging,5
+Sindhudurg,2026-05-13,830,False,56,emerging,1
+Sindhudurg,2026-05-13,1760,False,49,emerging,2
+Sindhudurg,2026-05-13,3210,False,61,emerging,3
+Sindhudurg,2026-05-13,6020,False,53,emerging,4
+Sindhudurg,2026-05-13,14160,False,63,emerging,5
+Sindhudurg,2026-06-18,810,False,44,emerging,1
+Sindhudurg,2026-06-18,1900,False,52,emerging,2
+Sindhudurg,2026-06-18,3390,False,45,emerging,3
+Sindhudurg,2026-06-18,5620,False,59,emerging,4
+Sindhudurg,2026-06-18,13310,False,38,emerging,5
+Sindhudurg,2026-07-23,890,False,47,emerging,1
+Sindhudurg,2026-07-23,1720,False,62,emerging,2
+Sindhudurg,2026-07-23,3360,False,50,emerging,3
+Sindhudurg,2026-07-23,6030,False,48,emerging,4
+Sindhudurg,2026-07-23,13570,False,47,emerging,5
+Sindhudurg,2026-08-02,840,False,56,emerging,1
+Sindhudurg,2026-08-02,1840,False,38,emerging,2
+Sindhudurg,2026-08-02,3350,False,57,emerging,3
+Sindhudurg,2026-08-02,5680,False,48,emerging,4
+Sindhudurg,2026-08-02,14330,False,58,emerging,5
+Sindhudurg,2026-09-07,820,False,62,emerging,1
+Sindhudurg,2026-09-07,1840,False,54,emerging,2
+Sindhudurg,2026-09-07,3180,False,58,emerging,3
+Sindhudurg,2026-09-07,5580,False,63,emerging,4
+Sindhudurg,2026-09-07,13750,False,50,emerging,5
+Sindhudurg,2026-10-12,840,False,45,emerging,1
+Sindhudurg,2026-10-12,1780,False,39,emerging,2
+Sindhudurg,2026-10-12,3010,False,49,emerging,3
+Sindhudurg,2026-10-12,5960,False,56,emerging,4
+Sindhudurg,2026-10-12,14040,False,46,emerging,5
+Sindhudurg,2026-11-17,850,False,39,emerging,1
+Sindhudurg,2026-11-17,1740,False,54,emerging,2
+Sindhudurg,2026-11-17,3170,False,62,emerging,3
+Sindhudurg,2026-11-17,5620,False,40,emerging,4
+Sindhudurg,2026-11-17,14120,False,59,emerging,5
+Sindhudurg,2026-12-22,870,False,57,emerging,1
+Sindhudurg,2026-12-22,1820,False,50,emerging,2
+Sindhudurg,2026-12-22,3370,False,58,emerging,3
+Sindhudurg,2026-12-22,5520,False,50,emerging,4
+Sindhudurg,2026-12-22,13300,False,54,emerging,5
+Kolhapur,2026-01-12,870,False,57,popular,1
+Kolhapur,2026-01-12,1850,False,42,popular,2
+Kolhapur,2026-01-12,3360,False,46,popular,3
+Kolhapur,2026-01-12,5600,False,48,popular,4
+Kolhapur,2026-01-12,14090,False,50,popular,5
+Kolhapur,2026-02-17,800,False,53,popular,1
+Kolhapur,2026-02-17,1750,False,56,popular,2
+Kolhapur,2026-02-17,3230,False,40,popular,3
+Kolhapur,2026-02-17,5490,False,46,popular,4
+Kolhapur,2026-02-17,14140,False,51,popular,5
+Kolhapur,2026-03-22,850,False,45,popular,1
+Kolhapur,2026-03-22,1840,False,44,popular,2
+Kolhapur,2026-03-22,3280,False,49,popular,3
+Kolhapur,2026-03-22,5960,False,44,popular,4
+Kolhapur,2026-03-22,14270,False,42,popular,5
+Kolhapur,2026-04-01,830,False,40,popular,1
+Kolhapur,2026-04-01,1760,False,55,popular,2
+Kolhapur,2026-04-01,3340,False,46,popular,3
+Kolhapur,2026-04-01,5620,False,41,popular,4
+Kolhapur,2026-04-01,14560,False,45,popular,5
+Kolhapur,2026-05-06,860,False,58,popular,1
+Kolhapur,2026-05-06,1840,False,50,popular,2
+Kolhapur,2026-05-06,3150,False,40,popular,3
+Kolhapur,2026-05-06,6000,False,48,popular,4
+Kolhapur,2026-05-06,14040,False,38,popular,5
+Kolhapur,2026-06-11,840,False,59,popular,1
+Kolhapur,2026-06-11,1780,False,63,popular,2
+Kolhapur,2026-06-11,3100,False,60,popular,3
+Kolhapur,2026-06-11,5810,False,47,popular,4
+Kolhapur,2026-06-11,14120,False,50,popular,5
+Kolhapur,2026-07-16,810,False,55,popular,1
+Kolhapur,2026-07-16,1750,False,59,popular,2
+Kolhapur,2026-07-16,3150,False,52,popular,3
+Kolhapur,2026-07-16,6070,False,59,popular,4
+Kolhapur,2026-07-16,14720,False,52,popular,5
+Kolhapur,2026-08-21,820,False,45,popular,1
+Kolhapur,2026-08-21,1770,False,45,popular,2
+Kolhapur,2026-08-21,3200,False,55,popular,3
+Kolhapur,2026-08-21,5530,False,42,popular,4
+Kolhapur,2026-08-21,14670,False,62,popular,5
+Kolhapur,2026-09-26,870,False,47,popular,1
+Kolhapur,2026-09-26,1820,False,39,popular,2
+Kolhapur,2026-09-26,3020,False,62,popular,3
+Kolhapur,2026-09-26,6080,False,49,popular,4
+Kolhapur,2026-09-26,13260,False,41,popular,5
+Kolhapur,2026-10-05,900,False,47,popular,1
+Kolhapur,2026-10-05,1750,False,58,popular,2
+Kolhapur,2026-10-05,3380,False,45,popular,3
+Kolhapur,2026-10-05,6070,False,54,popular,4
+Kolhapur,2026-10-05,13470,False,63,popular,5
+Kolhapur,2026-11-10,890,False,49,popular,1
+Kolhapur,2026-11-10,1770,False,55,popular,2
+Kolhapur,2026-11-10,3010,False,61,popular,3
+Kolhapur,2026-11-10,5680,False,48,popular,4
+Kolhapur,2026-11-10,14220,False,57,popular,5
+Kolhapur,2026-12-15,1110,True,85,popular,1
+Kolhapur,2026-12-15,2080,True,85,popular,2
+Kolhapur,2026-12-15,3720,True,67,popular,3
+Kolhapur,2026-12-15,7280,True,75,popular,4
+Kolhapur,2026-12-15,16510,True,68,popular,5
+Solapur,2026-01-20,850,False,51,emerging,1
+Solapur,2026-01-20,1810,False,59,emerging,2
+Solapur,2026-01-20,3280,False,46,emerging,3
+Solapur,2026-01-20,5580,False,48,emerging,4
+Solapur,2026-01-20,13990,False,58,emerging,5
+Solapur,2026-02-25,800,False,53,emerging,1
+Solapur,2026-02-25,1710,False,50,emerging,2
+Solapur,2026-02-25,3130,False,38,emerging,3
+Solapur,2026-02-25,5510,False,41,emerging,4
+Solapur,2026-02-25,14270,False,55,emerging,5
+Solapur,2026-03-04,850,False,40,emerging,1
+Solapur,2026-03-04,1730,False,54,emerging,2
+Solapur,2026-03-04,3070,False,63,emerging,3
+Solapur,2026-03-04,5890,False,55,emerging,4
+Solapur,2026-03-04,14020,False,59,emerging,5
+Solapur,2026-04-09,810,False,57,emerging,1
+Solapur,2026-04-09,1800,False,41,emerging,2
+Solapur,2026-04-09,3180,False,53,emerging,3
+Solapur,2026-04-09,5460,False,40,emerging,4
+Solapur,2026-04-09,14270,False,39,emerging,5
+Solapur,2026-05-14,800,False,44,emerging,1
+Solapur,2026-05-14,1790,False,63,emerging,2
+Solapur,2026-05-14,3160,False,62,emerging,3
+Solapur,2026-05-14,6150,False,58,emerging,4
+Solapur,2026-05-14,14680,False,51,emerging,5
+Solapur,2026-06-19,840,False,56,emerging,1
+Solapur,2026-06-19,1780,False,44,emerging,2
+Solapur,2026-06-19,3360,False,51,emerging,3
+Solapur,2026-06-19,5890,False,59,emerging,4
+Solapur,2026-06-19,13910,False,44,emerging,5
+Solapur,2026-07-24,880,False,44,emerging,1
+Solapur,2026-07-24,1700,False,62,emerging,2
+Solapur,2026-07-24,3360,False,53,emerging,3
+Solapur,2026-07-24,5760,False,41,emerging,4
+Solapur,2026-07-24,13240,False,58,emerging,5
+Solapur,2026-08-03,880,False,47,emerging,1
+Solapur,2026-08-03,1740,False,45,emerging,2
+Solapur,2026-08-03,3160,False,53,emerging,3
+Solapur,2026-08-03,5990,False,41,emerging,4
+Solapur,2026-08-03,14180,False,45,emerging,5
+Solapur,2026-09-08,850,False,43,emerging,1
+Solapur,2026-09-08,1720,False,52,emerging,2
+Solapur,2026-09-08,3070,False,59,emerging,3
+Solapur,2026-09-08,5780,False,43,emerging,4
+Solapur,2026-09-08,14770,False,52,emerging,5
+Solapur,2026-10-13,880,False,51,emerging,1
+Solapur,2026-10-13,1860,False,46,emerging,2
+Solapur,2026-10-13,3090,False,55,emerging,3
+Solapur,2026-10-13,5500,False,47,emerging,4
+Solapur,2026-10-13,14110,False,42,emerging,5
+Solapur,2026-11-18,820,False,44,emerging,1
+Solapur,2026-11-18,1790,False,48,emerging,2
+Solapur,2026-11-18,3220,False,39,emerging,3
+Solapur,2026-11-18,5520,False,53,emerging,4
+Solapur,2026-11-18,13380,False,38,emerging,5
+Solapur,2026-12-23,830,False,53,emerging,1
+Solapur,2026-12-23,1880,False,46,emerging,2
+Solapur,2026-12-23,3220,False,57,emerging,3
+Solapur,2026-12-23,5930,False,60,emerging,4
+Solapur,2026-12-23,14830,False,47,emerging,5
+Aurangabad,2026-01-16,900,False,55,popular,1
+Aurangabad,2026-01-16,1720,False,46,popular,2
+Aurangabad,2026-01-16,3140,False,43,popular,3
+Aurangabad,2026-01-16,5500,False,39,popular,4
+Aurangabad,2026-01-16,13940,False,42,popular,5
+Aurangabad,2026-02-21,900,False,48,popular,1
+Aurangabad,2026-02-21,1850,False,61,popular,2
+Aurangabad,2026-02-21,3340,False,46,popular,3
+Aurangabad,2026-02-21,5580,False,53,popular,4
+Aurangabad,2026-02-21,13270,False,53,popular,5
+Aurangabad,2026-03-26,870,False,59,popular,1
+Aurangabad,2026-03-26,1760,False,55,popular,2
+Aurangabad,2026-03-26,3360,False,39,popular,3
+Aurangabad,2026-03-26,5480,False,41,popular,4
+Aurangabad,2026-03-26,14670,False,52,popular,5
+Aurangabad,2026-04-05,810,False,60,popular,1
+Aurangabad,2026-04-05,1790,False,58,popular,2
+Aurangabad,2026-04-05,3090,False,52,popular,3
+Aurangabad,2026-04-05,5970,False,43,popular,4
+Aurangabad,2026-04-05,14560,False,57,popular,5
+Aurangabad,2026-05-10,810,False,52,popular,1
+Aurangabad,2026-05-10,1880,False,57,popular,2
+Aurangabad,2026-05-10,3210,False,50,popular,3
+Aurangabad,2026-05-10,5530,False,46,popular,4
+Aurangabad,2026-05-10,14710,False,57,popular,5
+Aurangabad,2026-06-15,880,False,63,popular,1
+Aurangabad,2026-06-15,1890,False,58,popular,2
+Aurangabad,2026-06-15,3220,False,45,popular,3
+Aurangabad,2026-06-15,6130,False,43,popular,4
+Aurangabad,2026-06-15,13680,False,63,popular,5
+Aurangabad,2026-07-20,810,False,58,popular,1
+Aurangabad,2026-07-20,1780,False,39,popular,2
+Aurangabad,2026-07-20,3050,False,50,popular,3
+Aurangabad,2026-07-20,5470,False,46,popular,4
+Aurangabad,2026-07-20,14270,False,63,popular,5
+Aurangabad,2026-08-25,1060,True,83,popular,1
+Aurangabad,2026-08-25,2230,True,80,popular,2
+Aurangabad,2026-08-25,4090,True,73,popular,3
+Aurangabad,2026-08-25,7200,True,63,popular,4
+Aurangabad,2026-08-25,18090,True,69,popular,5
+Aurangabad,2026-09-04,880,False,49,popular,1
+Aurangabad,2026-09-04,1870,False,46,popular,2
+Aurangabad,2026-09-04,3080,False,55,popular,3
+Aurangabad,2026-09-04,5540,False,53,popular,4
+Aurangabad,2026-09-04,14720,False,41,popular,5
+Aurangabad,2026-10-09,890,False,41,popular,1
+Aurangabad,2026-10-09,1840,False,43,popular,2
+Aurangabad,2026-10-09,3340,False,42,popular,3
+Aurangabad,2026-10-09,5610,False,40,popular,4
+Aurangabad,2026-10-09,13910,False,61,popular,5
+Aurangabad,2026-11-14,1140,True,67,popular,1
+Aurangabad,2026-11-14,2370,True,68,popular,2
+Aurangabad,2026-11-14,3900,True,75,popular,3
+Aurangabad,2026-11-14,7650,True,87,popular,4
+Aurangabad,2026-11-14,17540,True,87,popular,5
+Aurangabad,2026-12-19,860,False,57,popular,1
+Aurangabad,2026-12-19,1720,False,59,popular,2
+Aurangabad,2026-12-19,3030,False,54,popular,3
+Aurangabad,2026-12-19,5990,False,56,popular,4
+Aurangabad,2026-12-19,13430,False,41,popular,5
+Ratnagiri,2026-01-25,1010,True,76,emerging,1
+Ratnagiri,2026-01-25,2250,True,71,emerging,2
+Ratnagiri,2026-01-25,4290,True,87,emerging,3
+Ratnagiri,2026-01-25,7510,True,79,emerging,4
+Ratnagiri,2026-01-25,16980,True,81,emerging,5
+Ratnagiri,2026-02-04,890,False,55,emerging,1
+Ratnagiri,2026-02-04,1880,False,47,emerging,2
+Ratnagiri,2026-02-04,3050,False,40,emerging,3
+Ratnagiri,2026-02-04,5750,False,56,emerging,4
+Ratnagiri,2026-02-04,13780,False,58,emerging,5
+Ratnagiri,2026-03-09,870,False,57,emerging,1
+Ratnagiri,2026-03-09,1770,False,53,emerging,2
+Ratnagiri,2026-03-09,3110,False,45,emerging,3
+Ratnagiri,2026-03-09,5470,False,45,emerging,4
+Ratnagiri,2026-03-09,13480,False,45,emerging,5
+Ratnagiri,2026-04-14,870,False,45,emerging,1
+Ratnagiri,2026-04-14,1740,False,44,emerging,2
+Ratnagiri,2026-04-14,3050,False,41,emerging,3
+Ratnagiri,2026-04-14,6030,False,40,emerging,4
+Ratnagiri,2026-04-14,14250,False,43,emerging,5
+Ratnagiri,2026-05-19,840,False,38,emerging,1
+Ratnagiri,2026-05-19,1900,False,58,emerging,2
+Ratnagiri,2026-05-19,3060,False,43,emerging,3
+Ratnagiri,2026-05-19,6050,False,39,emerging,4
+Ratnagiri,2026-05-19,14210,False,42,emerging,5
+Ratnagiri,2026-06-24,820,False,47,emerging,1
+Ratnagiri,2026-06-24,1770,False,39,emerging,2
+Ratnagiri,2026-06-24,3390,False,40,emerging,3
+Ratnagiri,2026-06-24,6050,False,60,emerging,4
+Ratnagiri,2026-06-24,14040,False,60,emerging,5
+Ratnagiri,2026-07-03,830,False,40,emerging,1
+Ratnagiri,2026-07-03,1700,False,54,emerging,2
+Ratnagiri,2026-07-03,3310,False,60,emerging,3
+Ratnagiri,2026-07-03,5870,False,47,emerging,4
+Ratnagiri,2026-07-03,13290,False,61,emerging,5
+Ratnagiri,2026-08-08,830,False,60,emerging,1
+Ratnagiri,2026-08-08,1850,False,43,emerging,2
+Ratnagiri,2026-08-08,3070,False,49,emerging,3
+Ratnagiri,2026-08-08,5650,False,62,emerging,4
+Ratnagiri,2026-08-08,13770,False,58,emerging,5
+Ratnagiri,2026-09-13,810,False,63,emerging,1
+Ratnagiri,2026-09-13,1780,False,46,emerging,2
+Ratnagiri,2026-09-13,3060,False,47,emerging,3
+Ratnagiri,2026-09-13,5620,False,39,emerging,4
+Ratnagiri,2026-09-13,14700,False,60,emerging,5
+Ratnagiri,2026-10-18,850,False,44,emerging,1
+Ratnagiri,2026-10-18,1750,False,44,emerging,2
+Ratnagiri,2026-10-18,3320,False,45,emerging,3
+Ratnagiri,2026-10-18,6090,False,42,emerging,4
+Ratnagiri,2026-10-18,14260,False,41,emerging,5
+Ratnagiri,2026-11-23,840,False,53,emerging,1
+Ratnagiri,2026-11-23,1740,False,38,emerging,2
+Ratnagiri,2026-11-23,3310,False,41,emerging,3
+Ratnagiri,2026-11-23,5970,False,47,emerging,4
+Ratnagiri,2026-11-23,13980,False,56,emerging,5
+Ratnagiri,2026-12-02,850,False,52,emerging,1
+Ratnagiri,2026-12-02,1880,False,40,emerging,2
+Ratnagiri,2026-12-02,3390,False,46,emerging,3
+Ratnagiri,2026-12-02,5830,False,55,emerging,4
+Ratnagiri,2026-12-02,14280,False,58,emerging,5
+Lonavala,2026-01-14,1030,True,85,popular,1
+Lonavala,2026-01-14,2130,True,87,popular,2
+Lonavala,2026-01-14,4030,True,62,popular,3
+Lonavala,2026-01-14,7000,True,67,popular,4
+Lonavala,2026-01-14,19140,True,67,popular,5
+Lonavala,2026-02-19,810,False,46,popular,1
+Lonavala,2026-02-19,1770,False,56,popular,2
+Lonavala,2026-02-19,3110,False,53,popular,3
+Lonavala,2026-02-19,6010,False,45,popular,4
+Lonavala,2026-02-19,14510,False,52,popular,5
+Lonavala,2026-03-24,830,False,42,popular,1
+Lonavala,2026-03-24,1740,False,48,popular,2
+Lonavala,2026-03-24,3010,False,57,popular,3
+Lonavala,2026-03-24,5970,False,63,popular,4
+Lonavala,2026-03-24,14470,False,47,popular,5
+Lonavala,2026-04-03,840,False,44,popular,1
+Lonavala,2026-04-03,1820,False,55,popular,2
+Lonavala,2026-04-03,3070,False,42,popular,3
+Lonavala,2026-04-03,6150,False,61,popular,4
+Lonavala,2026-04-03,13260,False,42,popular,5
+Lonavala,2026-05-08,860,False,40,popular,1
+Lonavala,2026-05-08,1830,False,38,popular,2
+Lonavala,2026-05-08,3340,False,63,popular,3
+Lonavala,2026-05-08,5640,False,48,popular,4
+Lonavala,2026-05-08,13450,False,61,popular,5
+Lonavala,2026-06-13,810,False,56,popular,1
+Lonavala,2026-06-13,1740,False,58,popular,2
+Lonavala,2026-06-13,3360,False,54,popular,3
+Lonavala,2026-06-13,5690,False,56,popular,4
+Lonavala,2026-06-13,13270,False,60,popular,5
+Lonavala,2026-07-18,870,False,46,popular,1
+Lonavala,2026-07-18,1820,False,48,popular,2
+Lonavala,2026-07-18,3360,False,52,popular,3
+Lonavala,2026-07-18,5670,False,62,popular,4
+Lonavala,2026-07-18,14270,False,55,popular,5
+Lonavala,2026-08-23,860,False,45,popular,1
+Lonavala,2026-08-23,1810,False,57,popular,2
+Lonavala,2026-08-23,3210,False,41,popular,3
+Lonavala,2026-08-23,6000,False,45,popular,4
+Lonavala,2026-08-23,14320,False,47,popular,5
+Lonavala,2026-09-02,820,False,60,popular,1
+Lonavala,2026-09-02,1780,False,50,popular,2
+Lonavala,2026-09-02,3050,False,49,popular,3
+Lonavala,2026-09-02,5660,False,62,popular,4
+Lonavala,2026-09-02,14820,False,58,popular,5
+Lonavala,2026-10-07,870,False,62,popular,1
+Lonavala,2026-10-07,1890,False,43,popular,2
+Lonavala,2026-10-07,3350,False,46,popular,3
+Lonavala,2026-10-07,5700,False,42,popular,4
+Lonavala,2026-10-07,14030,False,57,popular,5
+Lonavala,2026-11-12,860,False,51,popular,1
+Lonavala,2026-11-12,1730,False,57,popular,2
+Lonavala,2026-11-12,3190,False,44,popular,3
+Lonavala,2026-11-12,5780,False,58,popular,4
+Lonavala,2026-11-12,13990,False,61,popular,5
+Lonavala,2026-12-17,810,False,56,popular,1
+Lonavala,2026-12-17,1830,False,46,popular,2
+Lonavala,2026-12-17,3290,False,53,popular,3
+Lonavala,2026-12-17,6030,False,53,popular,4
+Lonavala,2026-12-17,14030,False,59,popular,5
+Pune,2026-01-24,860,False,55,popular,1
+Pune,2026-01-24,1790,False,50,popular,2
+Pune,2026-01-24,3110,False,61,popular,3
+Pune,2026-01-24,5740,False,52,popular,4
+Pune,2026-01-24,13350,False,58,popular,5
+Pune,2026-02-03,900,False,47,popular,1
+Pune,2026-02-03,1750,False,47,popular,2
+Pune,2026-02-03,3270,False,60,popular,3
+Pune,2026-02-03,5460,False,46,popular,4
+Pune,2026-02-03,14540,False,61,popular,5
+Pune,2026-03-08,830,False,46,popular,1
+Pune,2026-03-08,1870,False,61,popular,2
+Pune,2026-03-08,3180,False,45,popular,3
+Pune,2026-03-08,5470,False,38,popular,4
+Pune,2026-03-08,13200,False,44,popular,5
+Pune,2026-04-13,880,False,51,popular,1
+Pune,2026-04-13,1790,False,61,popular,2
+Pune,2026-04-13,3090,False,48,popular,3
+Pune,2026-04-13,5680,False,58,popular,4
+Pune,2026-04-13,14740,False,55,popular,5
+Pune,2026-05-18,870,False,59,popular,1
+Pune,2026-05-18,1860,False,51,popular,2
+Pune,2026-05-18,3040,False,54,popular,3
+Pune,2026-05-18,5660,False,41,popular,4
+Pune,2026-05-18,14310,False,61,popular,5
+Pune,2026-06-23,800,False,58,popular,1
+Pune,2026-06-23,1900,False,48,popular,2
+Pune,2026-06-23,3240,False,43,popular,3
+Pune,2026-06-23,6090,False,61,popular,4
+Pune,2026-06-23,13480,False,40,popular,5
+Pune,2026-07-02,830,False,57,popular,1
+Pune,2026-07-02,1900,False,43,popular,2
+Pune,2026-07-02,3080,False,44,popular,3
+Pune,2026-07-02,6110,False,44,popular,4
+Pune,2026-07-02,14130,False,49,popular,5
+Pune,2026-08-07,850,False,54,popular,1
+Pune,2026-08-07,1860,False,56,popular,2
+Pune,2026-08-07,3260,False,38,popular,3
+Pune,2026-08-07,5950,False,61,popular,4
+Pune,2026-08-07,13690,False,46,popular,5
+Pune,2026-09-12,880,False,47,popular,1
+Pune,2026-09-12,1750,False,40,popular,2
+Pune,2026-09-12,3200,False,53,popular,3
+Pune,2026-09-12,6050,False,48,popular,4
+Pune,2026-09-12,13880,False,57,popular,5
+Pune,2026-10-17,840,False,61,popular,1
+Pune,2026-10-17,1740,False,57,popular,2
+Pune,2026-10-17,3380,False,51,popular,3
+Pune,2026-10-17,5510,False,46,popular,4
+Pune,2026-10-17,14070,False,41,popular,5
+Pune,2026-11-22,860,False,45,popular,1
+Pune,2026-11-22,1770,False,43,popular,2
+Pune,2026-11-22,3320,False,48,popular,3
+Pune,2026-11-22,5520,False,63,popular,4
+Pune,2026-11-22,14520,False,45,popular,5
+Pune,2026-12-01,890,False,58,popular,1
+Pune,2026-12-01,1890,False,51,popular,2
+Pune,2026-12-01,3200,False,60,popular,3
+Pune,2026-12-01,5920,False,59,popular,4
+Pune,2026-12-01,14560,False,49,popular,5
+Mahabaleshwar,2026-01-08,800,False,39,popular,1
+Mahabaleshwar,2026-01-08,1740,False,58,popular,2
+Mahabaleshwar,2026-01-08,3270,False,40,popular,3
+Mahabaleshwar,2026-01-08,5690,False,59,popular,4
+Mahabaleshwar,2026-01-08,14510,False,59,popular,5
+Mahabaleshwar,2026-02-13,890,False,58,popular,1
+Mahabaleshwar,2026-02-13,1890,False,49,popular,2
+Mahabaleshwar,2026-02-13,3030,False,51,popular,3
+Mahabaleshwar,2026-02-13,5780,False,38,popular,4
+Mahabaleshwar,2026-02-13,13420,False,50,popular,5
+Mahabaleshwar,2026-03-18,850,False,39,popular,1
+Mahabaleshwar,2026-03-18,1820,False,54,popular,2
+Mahabaleshwar,2026-03-18,3070,False,47,popular,3
+Mahabaleshwar,2026-03-18,5460,False,62,popular,4
+Mahabaleshwar,2026-03-18,13770,False,58,popular,5
+Mahabaleshwar,2026-04-23,810,False,46,popular,1
+Mahabaleshwar,2026-04-23,1720,False,42,popular,2
+Mahabaleshwar,2026-04-23,3290,False,48,popular,3
+Mahabaleshwar,2026-04-23,5690,False,44,popular,4
+Mahabaleshwar,2026-04-23,13200,False,61,popular,5
+Mahabaleshwar,2026-05-02,800,False,56,popular,1
+Mahabaleshwar,2026-05-02,1770,False,58,popular,2
+Mahabaleshwar,2026-05-02,3050,False,47,popular,3
+Mahabaleshwar,2026-05-02,5820,False,59,popular,4
+Mahabaleshwar,2026-05-02,14580,False,48,popular,5
+Mahabaleshwar,2026-06-07,860,False,45,popular,1
+Mahabaleshwar,2026-06-07,1860,False,39,popular,2
+Mahabaleshwar,2026-06-07,3210,False,56,popular,3
+Mahabaleshwar,2026-06-07,5860,False,56,popular,4
+Mahabaleshwar,2026-06-07,14420,False,55,popular,5
+Mahabaleshwar,2026-07-12,810,False,42,popular,1
+Mahabaleshwar,2026-07-12,1770,False,46,popular,2
+Mahabaleshwar,2026-07-12,3350,False,55,popular,3
+Mahabaleshwar,2026-07-12,5870,False,42,popular,4
+Mahabaleshwar,2026-07-12,13850,False,59,popular,5
+Mahabaleshwar,2026-08-17,880,False,63,popular,1
+Mahabaleshwar,2026-08-17,1720,False,60,popular,2
+Mahabaleshwar,2026-08-17,3090,False,43,popular,3
+Mahabaleshwar,2026-08-17,5990,False,43,popular,4
+Mahabaleshwar,2026-08-17,14700,False,49,popular,5
+Mahabaleshwar,2026-09-22,890,False,51,popular,1
+Mahabaleshwar,2026-09-22,1860,False,45,popular,2
+Mahabaleshwar,2026-09-22,3170,False,42,popular,3
+Mahabaleshwar,2026-09-22,5530,False,38,popular,4
+Mahabaleshwar,2026-09-22,14180,False,41,popular,5
+Mahabaleshwar,2026-10-01,820,False,45,popular,1
+Mahabaleshwar,2026-10-01,1850,False,50,popular,2
+Mahabaleshwar,2026-10-01,3050,False,38,popular,3
+Mahabaleshwar,2026-10-01,5990,False,52,popular,4
+Mahabaleshwar,2026-10-01,13480,False,47,popular,5
+Mahabaleshwar,2026-11-06,830,False,60,popular,1
+Mahabaleshwar,2026-11-06,1840,False,39,popular,2
+Mahabaleshwar,2026-11-06,3360,False,47,popular,3
+Mahabaleshwar,2026-11-06,6070,False,62,popular,4
+Mahabaleshwar,2026-11-06,14160,False,63,popular,5
+Mahabaleshwar,2026-12-11,870,False,40,popular,1
+Mahabaleshwar,2026-12-11,1800,False,42,popular,2
+Mahabaleshwar,2026-12-11,3200,False,62,popular,3
+Mahabaleshwar,2026-12-11,5510,False,61,popular,4
+Mahabaleshwar,2026-12-11,13320,False,43,popular,5
+Alibaug,2026-01-23,830,False,42,popular,1
+Alibaug,2026-01-23,1750,False,50,popular,2
+Alibaug,2026-01-23,3270,False,44,popular,3
+Alibaug,2026-01-23,5750,False,60,popular,4
+Alibaug,2026-01-23,14630,False,53,popular,5
+Alibaug,2026-02-02,830,False,62,popular,1
+Alibaug,2026-02-02,1710,False,44,popular,2
+Alibaug,2026-02-02,3170,False,49,popular,3
+Alibaug,2026-02-02,5940,False,46,popular,4
+Alibaug,2026-02-02,14470,False,53,popular,5
+Alibaug,2026-03-07,840,False,62,popular,1
+Alibaug,2026-03-07,1770,False,61,popular,2
+Alibaug,2026-03-07,3280,False,53,popular,3
+Alibaug,2026-03-07,5560,False,61,popular,4
+Alibaug,2026-03-07,14500,False,55,popular,5
+Alibaug,2026-04-12,810,False,59,popular,1
+Alibaug,2026-04-12,1810,False,54,popular,2
+Alibaug,2026-04-12,3150,False,57,popular,3
+Alibaug,2026-04-12,5640,False,59,popular,4
+Alibaug,2026-04-12,13490,False,63,popular,5
+Alibaug,2026-05-17,850,False,50,popular,1
+Alibaug,2026-05-17,1710,False,61,popular,2
+Alibaug,2026-05-17,3370,False,44,popular,3
+Alibaug,2026-05-17,6130,False,52,popular,4
+Alibaug,2026-05-17,13530,False,48,popular,5
+Alibaug,2026-06-22,810,False,46,popular,1
+Alibaug,2026-06-22,1760,False,55,popular,2
+Alibaug,2026-06-22,3100,False,53,popular,3
+Alibaug,2026-06-22,5780,False,58,popular,4
+Alibaug,2026-06-22,13610,False,40,popular,5
+Alibaug,2026-07-01,830,False,52,popular,1
+Alibaug,2026-07-01,1900,False,47,popular,2
+Alibaug,2026-07-01,3390,False,54,popular,3
+Alibaug,2026-07-01,5930,False,58,popular,4
+Alibaug,2026-07-01,13600,False,44,popular,5
+Alibaug,2026-08-06,840,False,62,popular,1
+Alibaug,2026-08-06,1710,False,42,popular,2
+Alibaug,2026-08-06,3060,False,39,popular,3
+Alibaug,2026-08-06,5760,False,44,popular,4
+Alibaug,2026-08-06,13560,False,48,popular,5
+Alibaug,2026-09-11,890,False,50,popular,1
+Alibaug,2026-09-11,1890,False,40,popular,2
+Alibaug,2026-09-11,3100,False,61,popular,3
+Alibaug,2026-09-11,5960,False,42,popular,4
+Alibaug,2026-09-11,14640,False,55,popular,5
+Alibaug,2026-10-16,800,False,49,popular,1
+Alibaug,2026-10-16,1810,False,61,popular,2
+Alibaug,2026-10-16,3180,False,57,popular,3
+Alibaug,2026-10-16,5960,False,38,popular,4
+Alibaug,2026-10-16,13790,False,52,popular,5
+Alibaug,2026-11-21,830,False,57,popular,1
+Alibaug,2026-11-21,1870,False,49,popular,2
+Alibaug,2026-11-21,3200,False,47,popular,3
+Alibaug,2026-11-21,5840,False,51,popular,4
+Alibaug,2026-11-21,14360,False,48,popular,5
+Alibaug,2026-12-26,1070,True,85,popular,1
+Alibaug,2026-12-26,2320,True,72,popular,2
+Alibaug,2026-12-26,3970,True,81,popular,3
+Alibaug,2026-12-26,6960,True,63,popular,4
+Alibaug,2026-12-26,15960,True,78,popular,5
+North Goa,2026-01-08,1370,False,39,popular,1
+North Goa,2026-01-08,2660,False,63,popular,2
+North Goa,2026-01-08,4630,False,52,popular,3
+North Goa,2026-01-08,8940,False,49,popular,4
+North Goa,2026-01-08,21650,False,56,popular,5
+North Goa,2026-02-13,1440,False,48,popular,1
+North Goa,2026-02-13,2870,False,58,popular,2
+North Goa,2026-02-13,5040,False,56,popular,3
+North Goa,2026-02-13,8720,False,48,popular,4
+North Goa,2026-02-13,20990,False,50,popular,5
+North Goa,2026-03-18,1390,False,42,popular,1
+North Goa,2026-03-18,2690,False,45,popular,2
+North Goa,2026-03-18,4600,False,62,popular,3
+North Goa,2026-03-18,8860,False,62,popular,4
+North Goa,2026-03-18,22610,False,38,popular,5
+North Goa,2026-04-23,1400,False,45,popular,1
+North Goa,2026-04-23,2750,False,59,popular,2
+North Goa,2026-04-23,5040,False,59,popular,3
+North Goa,2026-04-23,8450,False,59,popular,4
+North Goa,2026-04-23,21250,False,41,popular,5
+North Goa,2026-05-02,1400,False,52,popular,1
+North Goa,2026-05-02,2690,False,54,popular,2
+North Goa,2026-05-02,4720,False,62,popular,3
+North Goa,2026-05-02,8690,False,58,popular,4
+North Goa,2026-05-02,20940,False,62,popular,5
+North Goa,2026-06-07,1390,False,60,popular,1
+North Goa,2026-06-07,2880,False,42,popular,2
+North Goa,2026-06-07,4730,False,47,popular,3
+North Goa,2026-06-07,8220,False,58,popular,4
+North Goa,2026-06-07,20710,False,56,popular,5
+North Goa,2026-07-12,1380,False,54,popular,1
+North Goa,2026-07-12,2950,False,40,popular,2
+North Goa,2026-07-12,4980,False,51,popular,3
+North Goa,2026-07-12,8580,False,63,popular,4
+North Goa,2026-07-12,23200,False,41,popular,5
+North Goa,2026-08-17,1390,False,44,popular,1
+North Goa,2026-08-17,2710,False,43,popular,2
+North Goa,2026-08-17,4680,False,60,popular,3
+North Goa,2026-08-17,8350,False,60,popular,4
+North Goa,2026-08-17,20820,False,40,popular,5
+North Goa,2026-09-22,1460,False,50,popular,1
+North Goa,2026-09-22,2930,False,41,popular,2
+North Goa,2026-09-22,5000,False,58,popular,3
+North Goa,2026-09-22,8280,False,38,popular,4
+North Goa,2026-09-22,21110,False,51,popular,5
+North Goa,2026-10-01,1390,False,48,popular,1
+North Goa,2026-10-01,2740,False,54,popular,2
+North Goa,2026-10-01,4730,False,46,popular,3
+North Goa,2026-10-01,8320,False,58,popular,4
+North Goa,2026-10-01,21740,False,59,popular,5
+North Goa,2026-11-06,1430,False,51,popular,1
+North Goa,2026-11-06,2780,False,54,popular,2
+North Goa,2026-11-06,4870,False,59,popular,3
+North Goa,2026-11-06,8630,False,62,popular,4
+North Goa,2026-11-06,22140,False,59,popular,5
+North Goa,2026-12-11,1420,False,47,popular,1
+North Goa,2026-12-11,2670,False,39,popular,2
+North Goa,2026-12-11,4690,False,62,popular,3
+North Goa,2026-12-11,8470,False,59,popular,4
+North Goa,2026-12-11,21300,False,51,popular,5
+South Goa,2026-01-16,1460,False,50,popular,1
+South Goa,2026-01-16,2990,False,53,popular,2
+South Goa,2026-01-16,5030,False,48,popular,3
+South Goa,2026-01-16,9940,False,45,popular,4
+South Goa,2026-01-16,27430,False,60,popular,5
+South Goa,2026-02-21,1520,False,61,popular,1
+South Goa,2026-02-21,2860,False,61,popular,2
+South Goa,2026-02-21,4890,False,55,popular,3
+South Goa,2026-02-21,9070,False,39,popular,4
+South Goa,2026-02-21,25110,False,40,popular,5
+South Goa,2026-03-26,1580,False,61,popular,1
+South Goa,2026-03-26,3130,False,42,popular,2
+South Goa,2026-03-26,5040,False,50,popular,3
+South Goa,2026-03-26,9290,False,51,popular,4
+South Goa,2026-03-26,25850,False,61,popular,5
+South Goa,2026-04-05,1420,False,39,popular,1
+South Goa,2026-04-05,3010,False,43,popular,2
+South Goa,2026-04-05,5260,False,57,popular,3
+South Goa,2026-04-05,9590,False,61,popular,4
+South Goa,2026-04-05,24970,False,59,popular,5
+South Goa,2026-05-10,1560,False,61,popular,1
+South Goa,2026-05-10,3100,False,57,popular,2
+South Goa,2026-05-10,5040,False,51,popular,3
+South Goa,2026-05-10,9070,False,39,popular,4
+South Goa,2026-05-10,27200,False,38,popular,5
+South Goa,2026-06-15,1540,False,46,popular,1
+South Goa,2026-06-15,3030,False,44,popular,2
+South Goa,2026-06-15,5280,False,58,popular,3
+South Goa,2026-06-15,9940,False,51,popular,4
+South Goa,2026-06-15,25690,False,56,popular,5
+South Goa,2026-07-20,1500,False,58,popular,1
+South Goa,2026-07-20,2860,False,44,popular,2
+South Goa,2026-07-20,5000,False,40,popular,3
+South Goa,2026-07-20,9010,False,61,popular,4
+South Goa,2026-07-20,26060,False,42,popular,5
+South Goa,2026-08-25,1910,True,84,popular,1
+South Goa,2026-08-25,3810,True,71,popular,2
+South Goa,2026-08-25,6200,True,75,popular,3
+South Goa,2026-08-25,11440,True,80,popular,4
+South Goa,2026-08-25,32410,True,83,popular,5
+South Goa,2026-09-04,1420,False,46,popular,1
+South Goa,2026-09-04,3000,False,46,popular,2
+South Goa,2026-09-04,5210,False,60,popular,3
+South Goa,2026-09-04,9470,False,41,popular,4
+South Goa,2026-09-04,26200,False,60,popular,5
+South Goa,2026-10-09,1520,False,59,popular,1
+South Goa,2026-10-09,3060,False,44,popular,2
+South Goa,2026-10-09,5480,False,62,popular,3
+South Goa,2026-10-09,9660,False,53,popular,4
+South Goa,2026-10-09,25690,False,41,popular,5
+South Goa,2026-11-14,1960,True,69,popular,1
+South Goa,2026-11-14,3770,True,77,popular,2
+South Goa,2026-11-14,7070,True,66,popular,3
+South Goa,2026-11-14,11840,True,76,popular,4
+South Goa,2026-11-14,32230,True,87,popular,5
+South Goa,2026-12-19,1410,False,58,popular,1
+South Goa,2026-12-19,2940,False,39,popular,2
+South Goa,2026-12-19,5070,False,58,popular,3
+South Goa,2026-12-19,9090,False,41,popular,4
+South Goa,2026-12-19,27550,False,60,popular,5
+Panjim,2026-01-15,1460,True,73,popular,1
+Panjim,2026-01-15,3070,True,87,popular,2
+Panjim,2026-01-15,5020,True,67,popular,3
+Panjim,2026-01-15,9790,True,69,popular,4
+Panjim,2026-01-15,21470,True,68,popular,5
+Panjim,2026-02-20,1240,False,45,popular,1
+Panjim,2026-02-20,2650,False,61,popular,2
+Panjim,2026-02-20,4170,False,40,popular,3
+Panjim,2026-02-20,7800,False,55,popular,4
+Panjim,2026-02-20,15340,False,53,popular,5
+Panjim,2026-03-25,1150,False,63,popular,1
+Panjim,2026-03-25,2620,False,50,popular,2
+Panjim,2026-03-25,4250,False,41,popular,3
+Panjim,2026-03-25,7450,False,52,popular,4
+Panjim,2026-03-25,16640,False,48,popular,5
+Panjim,2026-04-04,1260,False,63,popular,1
+Panjim,2026-04-04,2550,False,50,popular,2
+Panjim,2026-04-04,4040,False,61,popular,3
+Panjim,2026-04-04,7680,False,46,popular,4
+Panjim,2026-04-04,16790,False,44,popular,5
+Panjim,2026-05-09,1150,False,56,popular,1
+Panjim,2026-05-09,2460,False,61,popular,2
+Panjim,2026-05-09,4020,False,54,popular,3
+Panjim,2026-05-09,7870,False,42,popular,4
+Panjim,2026-05-09,15920,False,55,popular,5
+Panjim,2026-06-14,1190,False,61,popular,1
+Panjim,2026-06-14,2430,False,52,popular,2
+Panjim,2026-06-14,4130,False,58,popular,3
+Panjim,2026-06-14,7480,False,55,popular,4
+Panjim,2026-06-14,16950,False,54,popular,5
+Panjim,2026-07-19,1220,False,63,popular,1
+Panjim,2026-07-19,2420,False,61,popular,2
+Panjim,2026-07-19,4210,False,53,popular,3
+Panjim,2026-07-19,7700,False,49,popular,4
+Panjim,2026-07-19,16570,False,59,popular,5
+Panjim,2026-08-24,1140,False,49,popular,1
+Panjim,2026-08-24,2450,False,49,popular,2
+Panjim,2026-08-24,4100,False,59,popular,3
+Panjim,2026-08-24,7600,False,41,popular,4
+Panjim,2026-08-24,15620,False,61,popular,5
+Panjim,2026-09-03,1180,False,47,popular,1
+Panjim,2026-09-03,2480,False,56,popular,2
+Panjim,2026-09-03,4370,False,60,popular,3
+Panjim,2026-09-03,7250,False,58,popular,4
+Panjim,2026-09-03,16130,False,41,popular,5
+Panjim,2026-10-08,1150,False,40,popular,1
+Panjim,2026-10-08,2460,False,54,popular,2
+Panjim,2026-10-08,4120,False,54,popular,3
+Panjim,2026-10-08,7370,False,62,popular,4
+Panjim,2026-10-08,15350,False,39,popular,5
+Panjim,2026-11-13,1250,False,58,popular,1
+Panjim,2026-11-13,2610,False,57,popular,2
+Panjim,2026-11-13,4160,False,49,popular,3
+Panjim,2026-11-13,7210,False,48,popular,4
+Panjim,2026-11-13,16290,False,53,popular,5
+Panjim,2026-12-18,1200,False,41,popular,1
+Panjim,2026-12-18,2370,False,62,popular,2
+Panjim,2026-12-18,4280,False,40,popular,3
+Panjim,2026-12-18,7430,False,39,popular,4
+Panjim,2026-12-18,16000,False,55,popular,5
+Jaipur,2026-01-01,1090,False,55,popular,1
+Jaipur,2026-01-01,2090,False,50,popular,2
+Jaipur,2026-01-01,3970,False,43,popular,3
+Jaipur,2026-01-01,7420,False,45,popular,4
+Jaipur,2026-01-01,23470,False,52,popular,5
+Jaipur,2026-02-06,1070,False,50,popular,1
+Jaipur,2026-02-06,2170,False,63,popular,2
+Jaipur,2026-02-06,4180,False,42,popular,3
+Jaipur,2026-02-06,7630,False,48,popular,4
+Jaipur,2026-02-06,24570,False,50,popular,5
+Jaipur,2026-03-11,1150,False,46,popular,1
+Jaipur,2026-03-11,2280,False,45,popular,2
+Jaipur,2026-03-11,4180,False,38,popular,3
+Jaipur,2026-03-11,7760,False,50,popular,4
+Jaipur,2026-03-11,23250,False,50,popular,5
+Jaipur,2026-04-16,1140,False,60,popular,1
+Jaipur,2026-04-16,2260,False,54,popular,2
+Jaipur,2026-04-16,3940,False,39,popular,3
+Jaipur,2026-04-16,7350,False,57,popular,4
+Jaipur,2026-04-16,23370,False,54,popular,5
+Jaipur,2026-05-21,1110,False,51,popular,1
+Jaipur,2026-05-21,2100,False,59,popular,2
+Jaipur,2026-05-21,3800,False,46,popular,3
+Jaipur,2026-05-21,7470,False,58,popular,4
+Jaipur,2026-05-21,24170,False,63,popular,5
+Jaipur,2026-06-26,1040,False,63,popular,1
+Jaipur,2026-06-26,2260,False,45,popular,2
+Jaipur,2026-06-26,3950,False,47,popular,3
+Jaipur,2026-06-26,7730,False,54,popular,4
+Jaipur,2026-06-26,22730,False,38,popular,5
+Jaipur,2026-07-05,1100,False,39,popular,1
+Jaipur,2026-07-05,2300,False,40,popular,2
+Jaipur,2026-07-05,3890,False,52,popular,3
+Jaipur,2026-07-05,7990,False,41,popular,4
+Jaipur,2026-07-05,25390,False,60,popular,5
+Jaipur,2026-08-10,1080,False,53,popular,1
+Jaipur,2026-08-10,2230,False,62,popular,2
+Jaipur,2026-08-10,3870,False,53,popular,3
+Jaipur,2026-08-10,7590,False,55,popular,4
+Jaipur,2026-08-10,24560,False,50,popular,5
+Jaipur,2026-09-15,1080,False,56,popular,1
+Jaipur,2026-09-15,2310,False,51,popular,2
+Jaipur,2026-09-15,3980,False,49,popular,3
+Jaipur,2026-09-15,8200,False,60,popular,4
+Jaipur,2026-09-15,22580,False,62,popular,5
+Jaipur,2026-10-20,1080,False,61,popular,1
+Jaipur,2026-10-20,2330,False,46,popular,2
+Jaipur,2026-10-20,3970,False,42,popular,3
+Jaipur,2026-10-20,7870,False,62,popular,4
+Jaipur,2026-10-20,22770,False,53,popular,5
+Jaipur,2026-11-25,1370,True,85,popular,1
+Jaipur,2026-11-25,2970,True,78,popular,2
+Jaipur,2026-11-25,4900,True,67,popular,3
+Jaipur,2026-11-25,9920,True,81,popular,4
+Jaipur,2026-11-25,30880,True,62,popular,5
+Jaipur,2026-12-04,1100,False,42,popular,1
+Jaipur,2026-12-04,2080,False,45,popular,2
+Jaipur,2026-12-04,4140,False,48,popular,3
+Jaipur,2026-12-04,7900,False,59,popular,4
+Jaipur,2026-12-04,22750,False,46,popular,5
+Udaipur,2026-01-08,1330,False,53,popular,1
+Udaipur,2026-01-08,2590,False,59,popular,2
+Udaipur,2026-01-08,5030,False,50,popular,3
+Udaipur,2026-01-08,9040,False,46,popular,4
+Udaipur,2026-01-08,31530,False,41,popular,5
+Udaipur,2026-02-13,1360,False,57,popular,1
+Udaipur,2026-02-13,2470,False,63,popular,2
+Udaipur,2026-02-13,4610,False,63,popular,3
+Udaipur,2026-02-13,8690,False,52,popular,4
+Udaipur,2026-02-13,31110,False,63,popular,5
+Udaipur,2026-03-18,1250,False,62,popular,1
+Udaipur,2026-03-18,2660,False,40,popular,2
+Udaipur,2026-03-18,4980,False,38,popular,3
+Udaipur,2026-03-18,8710,False,46,popular,4
+Udaipur,2026-03-18,33840,False,53,popular,5
+Udaipur,2026-04-23,1280,False,55,popular,1
+Udaipur,2026-04-23,2510,False,46,popular,2
+Udaipur,2026-04-23,4800,False,39,popular,3
+Udaipur,2026-04-23,8790,False,48,popular,4
+Udaipur,2026-04-23,32470,False,54,popular,5
+Udaipur,2026-05-02,1360,False,55,popular,1
+Udaipur,2026-05-02,2560,False,46,popular,2
+Udaipur,2026-05-02,4800,False,45,popular,3
+Udaipur,2026-05-02,9560,False,63,popular,4
+Udaipur,2026-05-02,31150,False,38,popular,5
+Udaipur,2026-06-07,1320,False,61,popular,1
+Udaipur,2026-06-07,2530,False,54,popular,2
+Udaipur,2026-06-07,4810,False,51,popular,3
+Udaipur,2026-06-07,9200,False,63,popular,4
+Udaipur,2026-06-07,33270,False,54,popular,5
+Udaipur,2026-07-12,1250,False,46,popular,1
+Udaipur,2026-07-12,2470,False,54,popular,2
+Udaipur,2026-07-12,4750,False,59,popular,3
+Udaipur,2026-07-12,9670,False,40,popular,4
+Udaipur,2026-07-12,32120,False,57,popular,5
+Udaipur,2026-08-17,1340,False,52,popular,1
+Udaipur,2026-08-17,2470,False,43,popular,2
+Udaipur,2026-08-17,4660,False,54,popular,3
+Udaipur,2026-08-17,9590,False,45,popular,4
+Udaipur,2026-08-17,32140,False,59,popular,5
+Udaipur,2026-09-22,1270,False,57,popular,1
+Udaipur,2026-09-22,2450,False,59,popular,2
+Udaipur,2026-09-22,5060,False,53,popular,3
+Udaipur,2026-09-22,9710,False,61,popular,4
+Udaipur,2026-09-22,32510,False,61,popular,5
+Udaipur,2026-10-01,1230,False,56,popular,1
+Udaipur,2026-10-01,2460,False,48,popular,2
+Udaipur,2026-10-01,4670,False,50,popular,3
+Udaipur,2026-10-01,8760,False,39,popular,4
+Udaipur,2026-10-01,31540,False,54,popular,5
+Udaipur,2026-11-06,1340,False,40,popular,1
+Udaipur,2026-11-06,2620,False,42,popular,2
+Udaipur,2026-11-06,4630,False,47,popular,3
+Udaipur,2026-11-06,8980,False,40,popular,4
+Udaipur,2026-11-06,31140,False,55,popular,5
+Udaipur,2026-12-11,1280,False,58,popular,1
+Udaipur,2026-12-11,2630,False,48,popular,2
+Udaipur,2026-12-11,5160,False,61,popular,3
+Udaipur,2026-12-11,9360,False,63,popular,4
+Udaipur,2026-12-11,31200,False,50,popular,5
+Jodhpur,2026-01-10,980,False,46,popular,1
+Jodhpur,2026-01-10,2110,False,49,popular,2
+Jodhpur,2026-01-10,3760,False,40,popular,3
+Jodhpur,2026-01-10,6860,False,55,popular,4
+Jodhpur,2026-01-10,19090,False,46,popular,5
+Jodhpur,2026-02-15,1000,False,52,popular,1
+Jodhpur,2026-02-15,2220,False,59,popular,2
+Jodhpur,2026-02-15,3940,False,44,popular,3
+Jodhpur,2026-02-15,7540,False,55,popular,4
+Jodhpur,2026-02-15,20090,False,43,popular,5
+Jodhpur,2026-03-20,960,False,50,popular,1
+Jodhpur,2026-03-20,2090,False,49,popular,2
+Jodhpur,2026-03-20,3800,False,46,popular,3
+Jodhpur,2026-03-20,7320,False,49,popular,4
+Jodhpur,2026-03-20,19670,False,57,popular,5
+Jodhpur,2026-04-25,940,False,45,popular,1
+Jodhpur,2026-04-25,2150,False,53,popular,2
+Jodhpur,2026-04-25,3960,False,58,popular,3
+Jodhpur,2026-04-25,7410,False,41,popular,4
+Jodhpur,2026-04-25,18600,False,46,popular,5
+Jodhpur,2026-05-04,1010,False,63,popular,1
+Jodhpur,2026-05-04,2030,False,43,popular,2
+Jodhpur,2026-05-04,3790,False,55,popular,3
+Jodhpur,2026-05-04,7300,False,46,popular,4
+Jodhpur,2026-05-04,19050,False,60,popular,5
+Jodhpur,2026-06-09,1010,False,57,popular,1
+Jodhpur,2026-06-09,2040,False,51,popular,2
+Jodhpur,2026-06-09,3720,False,47,popular,3
+Jodhpur,2026-06-09,7060,False,52,popular,4
+Jodhpur,2026-06-09,19970,False,63,popular,5
+Jodhpur,2026-07-14,950,False,52,popular,1
+Jodhpur,2026-07-14,1990,False,43,popular,2
+Jodhpur,2026-07-14,3650,False,50,popular,3
+Jodhpur,2026-07-14,7190,False,61,popular,4
+Jodhpur,2026-07-14,19450,False,48,popular,5
+Jodhpur,2026-08-19,970,False,57,popular,1
+Jodhpur,2026-08-19,2210,False,46,popular,2
+Jodhpur,2026-08-19,3620,False,55,popular,3
+Jodhpur,2026-08-19,7320,False,47,popular,4
+Jodhpur,2026-08-19,18960,False,61,popular,5
+Jodhpur,2026-09-24,1050,False,52,popular,1
+Jodhpur,2026-09-24,2210,False,61,popular,2
+Jodhpur,2026-09-24,3990,False,50,popular,3
+Jodhpur,2026-09-24,7530,False,43,popular,4
+Jodhpur,2026-09-24,19020,False,49,popular,5
+Jodhpur,2026-10-03,990,False,43,popular,1
+Jodhpur,2026-10-03,2160,False,54,popular,2
+Jodhpur,2026-10-03,3710,False,45,popular,3
+Jodhpur,2026-10-03,7610,False,51,popular,4
+Jodhpur,2026-10-03,19870,False,60,popular,5
+Jodhpur,2026-11-08,1040,False,59,popular,1
+Jodhpur,2026-11-08,2130,False,45,popular,2
+Jodhpur,2026-11-08,3600,False,58,popular,3
+Jodhpur,2026-11-08,7570,False,40,popular,4
+Jodhpur,2026-11-08,19390,False,60,popular,5
+Jodhpur,2026-12-13,1020,False,61,popular,1
+Jodhpur,2026-12-13,2160,False,47,popular,2
+Jodhpur,2026-12-13,3840,False,50,popular,3
+Jodhpur,2026-12-13,7130,False,51,popular,4
+Jodhpur,2026-12-13,18700,False,62,popular,5
+Jaisalmer,2026-01-16,910,False,39,popular,1
+Jaisalmer,2026-01-16,1840,False,48,popular,2
+Jaisalmer,2026-01-16,3230,False,56,popular,3
+Jaisalmer,2026-01-16,6690,False,51,popular,4
+Jaisalmer,2026-01-16,17480,False,47,popular,5
+Jaisalmer,2026-02-21,890,False,60,popular,1
+Jaisalmer,2026-02-21,1720,False,46,popular,2
+Jaisalmer,2026-02-21,3310,False,39,popular,3
+Jaisalmer,2026-02-21,6770,False,39,popular,4
+Jaisalmer,2026-02-21,17730,False,58,popular,5
+Jaisalmer,2026-03-26,900,False,50,popular,1
+Jaisalmer,2026-03-26,1910,False,57,popular,2
+Jaisalmer,2026-03-26,3250,False,46,popular,3
+Jaisalmer,2026-03-26,6690,False,41,popular,4
+Jaisalmer,2026-03-26,18130,False,51,popular,5
+Jaisalmer,2026-04-05,940,False,63,popular,1
+Jaisalmer,2026-04-05,1810,False,47,popular,2
+Jaisalmer,2026-04-05,3460,False,45,popular,3
+Jaisalmer,2026-04-05,6710,False,55,popular,4
+Jaisalmer,2026-04-05,17030,False,38,popular,5
+Jaisalmer,2026-05-10,860,False,52,popular,1
+Jaisalmer,2026-05-10,1750,False,41,popular,2
+Jaisalmer,2026-05-10,3470,False,45,popular,3
+Jaisalmer,2026-05-10,6820,False,57,popular,4
+Jaisalmer,2026-05-10,19070,False,53,popular,5
+Jaisalmer,2026-06-15,940,False,50,popular,1
+Jaisalmer,2026-06-15,1730,False,62,popular,2
+Jaisalmer,2026-06-15,3320,False,51,popular,3
+Jaisalmer,2026-06-15,6920,False,45,popular,4
+Jaisalmer,2026-06-15,17410,False,61,popular,5
+Jaisalmer,2026-07-20,910,False,61,popular,1
+Jaisalmer,2026-07-20,1720,False,63,popular,2
+Jaisalmer,2026-07-20,3250,False,43,popular,3
+Jaisalmer,2026-07-20,6640,False,44,popular,4
+Jaisalmer,2026-07-20,18970,False,62,popular,5
+Jaisalmer,2026-08-25,1100,True,75,popular,1
+Jaisalmer,2026-08-25,2280,True,76,popular,2
+Jaisalmer,2026-08-25,4190,True,79,popular,3
+Jaisalmer,2026-08-25,8780,True,86,popular,4
+Jaisalmer,2026-08-25,20100,True,69,popular,5
+Jaisalmer,2026-09-04,920,False,47,popular,1
+Jaisalmer,2026-09-04,1800,False,40,popular,2
+Jaisalmer,2026-09-04,3490,False,54,popular,3
+Jaisalmer,2026-09-04,6650,False,50,popular,4
+Jaisalmer,2026-09-04,17440,False,55,popular,5
+Jaisalmer,2026-10-09,860,False,59,popular,1
+Jaisalmer,2026-10-09,1840,False,45,popular,2
+Jaisalmer,2026-10-09,3320,False,51,popular,3
+Jaisalmer,2026-10-09,7110,False,44,popular,4
+Jaisalmer,2026-10-09,18610,False,53,popular,5
+Jaisalmer,2026-11-14,1130,True,84,popular,1
+Jaisalmer,2026-11-14,2210,True,87,popular,2
+Jaisalmer,2026-11-14,4600,True,79,popular,3
+Jaisalmer,2026-11-14,9110,True,81,popular,4
+Jaisalmer,2026-11-14,22830,True,79,popular,5
+Jaisalmer,2026-12-19,900,False,45,popular,1
+Jaisalmer,2026-12-19,1760,False,46,popular,2
+Jaisalmer,2026-12-19,3380,False,44,popular,3
+Jaisalmer,2026-12-19,6480,False,46,popular,4
+Jaisalmer,2026-12-19,19020,False,58,popular,5
+Pushkar,2026-01-12,830,False,39,popular,1
+Pushkar,2026-01-12,1780,False,52,popular,2
+Pushkar,2026-01-12,3240,False,52,popular,3
+Pushkar,2026-01-12,5530,False,46,popular,4
+Pushkar,2026-01-12,13450,False,50,popular,5
+Pushkar,2026-02-17,870,False,61,popular,1
+Pushkar,2026-02-17,1730,False,57,popular,2
+Pushkar,2026-02-17,3260,False,46,popular,3
+Pushkar,2026-02-17,5580,False,41,popular,4
+Pushkar,2026-02-17,13510,False,44,popular,5
+Pushkar,2026-03-22,870,False,50,popular,1
+Pushkar,2026-03-22,1730,False,38,popular,2
+Pushkar,2026-03-22,3200,False,50,popular,3
+Pushkar,2026-03-22,5460,False,46,popular,4
+Pushkar,2026-03-22,13930,False,50,popular,5
+Pushkar,2026-04-01,870,False,38,popular,1
+Pushkar,2026-04-01,1840,False,42,popular,2
+Pushkar,2026-04-01,3130,False,59,popular,3
+Pushkar,2026-04-01,5850,False,44,popular,4
+Pushkar,2026-04-01,14330,False,56,popular,5
+Pushkar,2026-05-06,830,False,47,popular,1
+Pushkar,2026-05-06,1830,False,49,popular,2
+Pushkar,2026-05-06,3330,False,57,popular,3
+Pushkar,2026-05-06,5650,False,59,popular,4
+Pushkar,2026-05-06,14010,False,44,popular,5
+Pushkar,2026-06-11,890,False,59,popular,1
+Pushkar,2026-06-11,1880,False,53,popular,2
+Pushkar,2026-06-11,3370,False,53,popular,3
+Pushkar,2026-06-11,5520,False,55,popular,4
+Pushkar,2026-06-11,13480,False,46,popular,5
+Pushkar,2026-07-16,820,False,56,popular,1
+Pushkar,2026-07-16,1740,False,62,popular,2
+Pushkar,2026-07-16,3380,False,53,popular,3
+Pushkar,2026-07-16,5640,False,40,popular,4
+Pushkar,2026-07-16,13550,False,39,popular,5
+Pushkar,2026-08-21,850,False,61,popular,1
+Pushkar,2026-08-21,1840,False,49,popular,2
+Pushkar,2026-08-21,3080,False,61,popular,3
+Pushkar,2026-08-21,6060,False,63,popular,4
+Pushkar,2026-08-21,13370,False,38,popular,5
+Pushkar,2026-09-26,890,False,62,popular,1
+Pushkar,2026-09-26,1850,False,40,popular,2
+Pushkar,2026-09-26,3200,False,45,popular,3
+Pushkar,2026-09-26,5670,False,42,popular,4
+Pushkar,2026-09-26,13810,False,58,popular,5
+Pushkar,2026-10-05,810,False,54,popular,1
+Pushkar,2026-10-05,1890,False,47,popular,2
+Pushkar,2026-10-05,3360,False,52,popular,3
+Pushkar,2026-10-05,5520,False,50,popular,4
+Pushkar,2026-10-05,13770,False,38,popular,5
+Pushkar,2026-11-10,890,False,50,popular,1
+Pushkar,2026-11-10,1890,False,55,popular,2
+Pushkar,2026-11-10,3340,False,51,popular,3
+Pushkar,2026-11-10,5920,False,51,popular,4
+Pushkar,2026-11-10,14580,False,57,popular,5
+Pushkar,2026-12-15,1090,True,74,popular,1
+Pushkar,2026-12-15,2180,True,80,popular,2
+Pushkar,2026-12-15,3830,True,77,popular,3
+Pushkar,2026-12-15,6750,True,77,popular,4
+Pushkar,2026-12-15,16560,True,69,popular,5
+Munnar,2026-01-07,850,False,53,popular,1
+Munnar,2026-01-07,1870,False,41,popular,2
+Munnar,2026-01-07,3210,False,39,popular,3
+Munnar,2026-01-07,5590,False,47,popular,4
+Munnar,2026-01-07,13920,False,39,popular,5
+Munnar,2026-02-12,860,False,57,popular,1
+Munnar,2026-02-12,1760,False,57,popular,2
+Munnar,2026-02-12,3280,False,49,popular,3
+Munnar,2026-02-12,5800,False,41,popular,4
+Munnar,2026-02-12,13530,False,52,popular,5
+Munnar,2026-03-17,800,False,49,popular,1
+Munnar,2026-03-17,1740,False,43,popular,2
+Munnar,2026-03-17,3110,False,60,popular,3
+Munnar,2026-03-17,5780,False,49,popular,4
+Munnar,2026-03-17,13740,False,62,popular,5
+Munnar,2026-04-22,870,False,57,popular,1
+Munnar,2026-04-22,1840,False,46,popular,2
+Munnar,2026-04-22,3090,False,48,popular,3
+Munnar,2026-04-22,5710,False,41,popular,4
+Munnar,2026-04-22,13700,False,40,popular,5
+Munnar,2026-05-01,860,False,55,popular,1
+Munnar,2026-05-01,1870,False,45,popular,2
+Munnar,2026-05-01,3120,False,63,popular,3
+Munnar,2026-05-01,6050,False,50,popular,4
+Munnar,2026-05-01,13800,False,51,popular,5
+Munnar,2026-06-06,880,False,57,popular,1
+Munnar,2026-06-06,1820,False,41,popular,2
+Munnar,2026-06-06,3370,False,50,popular,3
+Munnar,2026-06-06,5710,False,51,popular,4
+Munnar,2026-06-06,13630,False,42,popular,5
+Munnar,2026-07-11,860,False,48,popular,1
+Munnar,2026-07-11,1830,False,46,popular,2
+Munnar,2026-07-11,3210,False,54,popular,3
+Munnar,2026-07-11,6010,False,56,popular,4
+Munnar,2026-07-11,13480,False,58,popular,5
+Munnar,2026-08-16,800,False,56,popular,1
+Munnar,2026-08-16,1900,False,60,popular,2
+Munnar,2026-08-16,3090,False,55,popular,3
+Munnar,2026-08-16,5730,False,39,popular,4
+Munnar,2026-08-16,13770,False,38,popular,5
+Munnar,2026-09-21,890,False,52,popular,1
+Munnar,2026-09-21,1880,False,47,popular,2
+Munnar,2026-09-21,3110,False,49,popular,3
+Munnar,2026-09-21,5690,False,43,popular,4
+Munnar,2026-09-21,14220,False,61,popular,5
+Munnar,2026-10-26,1110,True,81,popular,1
+Munnar,2026-10-26,2180,True,72,popular,2
+Munnar,2026-10-26,4190,True,68,popular,3
+Munnar,2026-10-26,7310,True,73,popular,4
+Munnar,2026-10-26,16530,True,67,popular,5
+Munnar,2026-11-05,820,False,61,popular,1
+Munnar,2026-11-05,1890,False,40,popular,2
+Munnar,2026-11-05,3360,False,63,popular,3
+Munnar,2026-11-05,6110,False,40,popular,4
+Munnar,2026-11-05,14120,False,55,popular,5
+Munnar,2026-12-10,850,False,61,popular,1
+Munnar,2026-12-10,1760,False,59,popular,2
+Munnar,2026-12-10,3190,False,60,popular,3
+Munnar,2026-12-10,5770,False,42,popular,4
+Munnar,2026-12-10,13700,False,61,popular,5
+Alleppey,2026-01-02,840,False,60,popular,1
+Alleppey,2026-01-02,1830,False,50,popular,2
+Alleppey,2026-01-02,3260,False,63,popular,3
+Alleppey,2026-01-02,5830,False,61,popular,4
+Alleppey,2026-01-02,13680,False,56,popular,5
+Alleppey,2026-02-07,880,False,45,popular,1
+Alleppey,2026-02-07,1770,False,54,popular,2
+Alleppey,2026-02-07,3010,False,60,popular,3
+Alleppey,2026-02-07,6140,False,44,popular,4
+Alleppey,2026-02-07,14300,False,39,popular,5
+Alleppey,2026-03-12,880,False,51,popular,1
+Alleppey,2026-03-12,1740,False,46,popular,2
+Alleppey,2026-03-12,3010,False,39,popular,3
+Alleppey,2026-03-12,5610,False,41,popular,4
+Alleppey,2026-03-12,13580,False,57,popular,5
+Alleppey,2026-04-17,860,False,55,popular,1
+Alleppey,2026-04-17,1690,False,61,popular,2
+Alleppey,2026-04-17,3230,False,55,popular,3
+Alleppey,2026-04-17,5640,False,39,popular,4
+Alleppey,2026-04-17,14190,False,45,popular,5
+Alleppey,2026-05-22,800,False,59,popular,1
+Alleppey,2026-05-22,1790,False,61,popular,2
+Alleppey,2026-05-22,3350,False,42,popular,3
+Alleppey,2026-05-22,5650,False,59,popular,4
+Alleppey,2026-05-22,13510,False,54,popular,5
+Alleppey,2026-06-01,890,False,63,popular,1
+Alleppey,2026-06-01,1730,False,60,popular,2
+Alleppey,2026-06-01,3010,False,39,popular,3
+Alleppey,2026-06-01,5610,False,40,popular,4
+Alleppey,2026-06-01,13500,False,43,popular,5
+Alleppey,2026-07-06,830,False,47,popular,1
+Alleppey,2026-07-06,1760,False,43,popular,2
+Alleppey,2026-07-06,3080,False,38,popular,3
+Alleppey,2026-07-06,5880,False,61,popular,4
+Alleppey,2026-07-06,14470,False,40,popular,5
+Alleppey,2026-08-11,850,False,49,popular,1
+Alleppey,2026-08-11,1750,False,48,popular,2
+Alleppey,2026-08-11,3200,False,62,popular,3
+Alleppey,2026-08-11,5530,False,47,popular,4
+Alleppey,2026-08-11,14360,False,43,popular,5
+Alleppey,2026-09-16,820,False,49,popular,1
+Alleppey,2026-09-16,1710,False,46,popular,2
+Alleppey,2026-09-16,3080,False,40,popular,3
+Alleppey,2026-09-16,5490,False,39,popular,4
+Alleppey,2026-09-16,13240,False,39,popular,5
+Alleppey,2026-10-21,810,False,61,popular,1
+Alleppey,2026-10-21,1880,False,51,popular,2
+Alleppey,2026-10-21,3020,False,53,popular,3
+Alleppey,2026-10-21,5890,False,44,popular,4
+Alleppey,2026-10-21,14110,False,59,popular,5
+Alleppey,2026-11-26,1000,True,80,popular,1
+Alleppey,2026-11-26,2320,True,72,popular,2
+Alleppey,2026-11-26,4010,True,85,popular,3
+Alleppey,2026-11-26,7350,True,72,popular,4
+Alleppey,2026-11-26,17590,True,80,popular,5
+Alleppey,2026-12-05,830,False,39,popular,1
+Alleppey,2026-12-05,1880,False,56,popular,2
+Alleppey,2026-12-05,3080,False,63,popular,3
+Alleppey,2026-12-05,5490,False,42,popular,4
+Alleppey,2026-12-05,13840,False,57,popular,5
+Wayanad,2026-01-13,860,False,43,popular,1
+Wayanad,2026-01-13,1890,False,38,popular,2
+Wayanad,2026-01-13,3140,False,57,popular,3
+Wayanad,2026-01-13,6090,False,59,popular,4
+Wayanad,2026-01-13,13370,False,56,popular,5
+Wayanad,2026-02-18,900,False,59,popular,1
+Wayanad,2026-02-18,1850,False,49,popular,2
+Wayanad,2026-02-18,3210,False,47,popular,3
+Wayanad,2026-02-18,5690,False,45,popular,4
+Wayanad,2026-02-18,13620,False,63,popular,5
+Wayanad,2026-03-23,860,False,45,popular,1
+Wayanad,2026-03-23,1780,False,49,popular,2
+Wayanad,2026-03-23,3230,False,54,popular,3
+Wayanad,2026-03-23,5520,False,52,popular,4
+Wayanad,2026-03-23,14500,False,49,popular,5
+Wayanad,2026-04-02,860,False,63,popular,1
+Wayanad,2026-04-02,1900,False,42,popular,2
+Wayanad,2026-04-02,3370,False,50,popular,3
+Wayanad,2026-04-02,6010,False,54,popular,4
+Wayanad,2026-04-02,13630,False,48,popular,5
+Wayanad,2026-05-07,860,False,38,popular,1
+Wayanad,2026-05-07,1820,False,62,popular,2
+Wayanad,2026-05-07,3380,False,50,popular,3
+Wayanad,2026-05-07,5460,False,56,popular,4
+Wayanad,2026-05-07,14730,False,49,popular,5
+Wayanad,2026-06-12,810,False,58,popular,1
+Wayanad,2026-06-12,1740,False,53,popular,2
+Wayanad,2026-06-12,3150,False,38,popular,3
+Wayanad,2026-06-12,5730,False,51,popular,4
+Wayanad,2026-06-12,13370,False,42,popular,5
+Wayanad,2026-07-17,850,False,55,popular,1
+Wayanad,2026-07-17,1880,False,50,popular,2
+Wayanad,2026-07-17,3200,False,43,popular,3
+Wayanad,2026-07-17,5530,False,48,popular,4
+Wayanad,2026-07-17,14650,False,62,popular,5
+Wayanad,2026-08-22,880,False,46,popular,1
+Wayanad,2026-08-22,1820,False,57,popular,2
+Wayanad,2026-08-22,3040,False,59,popular,3
+Wayanad,2026-08-22,5960,False,46,popular,4
+Wayanad,2026-08-22,14800,False,46,popular,5
+Wayanad,2026-09-01,820,False,42,popular,1
+Wayanad,2026-09-01,1710,False,40,popular,2
+Wayanad,2026-09-01,3130,False,46,popular,3
+Wayanad,2026-09-01,5850,False,44,popular,4
+Wayanad,2026-09-01,13480,False,39,popular,5
+Wayanad,2026-10-06,830,False,60,popular,1
+Wayanad,2026-10-06,1810,False,55,popular,2
+Wayanad,2026-10-06,3320,False,47,popular,3
+Wayanad,2026-10-06,5510,False,61,popular,4
+Wayanad,2026-10-06,13780,False,61,popular,5
+Wayanad,2026-11-11,820,False,53,popular,1
+Wayanad,2026-11-11,1720,False,56,popular,2
+Wayanad,2026-11-11,3120,False,38,popular,3
+Wayanad,2026-11-11,5670,False,44,popular,4
+Wayanad,2026-11-11,14080,False,47,popular,5
+Wayanad,2026-12-16,830,False,58,popular,1
+Wayanad,2026-12-16,1710,False,46,popular,2
+Wayanad,2026-12-16,3260,False,44,popular,3
+Wayanad,2026-12-16,5610,False,49,popular,4
+Wayanad,2026-12-16,14090,False,59,popular,5
+Coorg,2026-01-18,820,False,38,popular,1
+Coorg,2026-01-18,1870,False,57,popular,2
+Coorg,2026-01-18,3240,False,63,popular,3
+Coorg,2026-01-18,5700,False,62,popular,4
+Coorg,2026-01-18,13240,False,45,popular,5
+Coorg,2026-02-23,860,False,56,popular,1
+Coorg,2026-02-23,1830,False,49,popular,2
+Coorg,2026-02-23,3280,False,44,popular,3
+Coorg,2026-02-23,5870,False,52,popular,4
+Coorg,2026-02-23,13170,False,51,popular,5
+Coorg,2026-03-02,810,False,61,popular,1
+Coorg,2026-03-02,1820,False,39,popular,2
+Coorg,2026-03-02,3200,False,44,popular,3
+Coorg,2026-03-02,5600,False,58,popular,4
+Coorg,2026-03-02,14610,False,54,popular,5
+Coorg,2026-04-07,870,False,40,popular,1
+Coorg,2026-04-07,1830,False,49,popular,2
+Coorg,2026-04-07,3060,False,39,popular,3
+Coorg,2026-04-07,6100,False,43,popular,4
+Coorg,2026-04-07,14710,False,46,popular,5
+Coorg,2026-05-12,880,False,60,popular,1
+Coorg,2026-05-12,1770,False,47,popular,2
+Coorg,2026-05-12,3010,False,57,popular,3
+Coorg,2026-05-12,5980,False,47,popular,4
+Coorg,2026-05-12,14080,False,49,popular,5
+Coorg,2026-06-17,890,False,59,popular,1
+Coorg,2026-06-17,1900,False,51,popular,2
+Coorg,2026-06-17,3300,False,39,popular,3
+Coorg,2026-06-17,5890,False,50,popular,4
+Coorg,2026-06-17,14490,False,53,popular,5
+Coorg,2026-07-22,900,False,51,popular,1
+Coorg,2026-07-22,1800,False,45,popular,2
+Coorg,2026-07-22,3320,False,43,popular,3
+Coorg,2026-07-22,5660,False,53,popular,4
+Coorg,2026-07-22,13860,False,38,popular,5
+Coorg,2026-08-01,830,False,42,popular,1
+Coorg,2026-08-01,1730,False,43,popular,2
+Coorg,2026-08-01,3170,False,60,popular,3
+Coorg,2026-08-01,5710,False,43,popular,4
+Coorg,2026-08-01,14060,False,62,popular,5
+Coorg,2026-09-06,850,False,53,popular,1
+Coorg,2026-09-06,1890,False,43,popular,2
+Coorg,2026-09-06,3270,False,41,popular,3
+Coorg,2026-09-06,5460,False,47,popular,4
+Coorg,2026-09-06,13600,False,41,popular,5
+Coorg,2026-10-11,830,False,55,popular,1
+Coorg,2026-10-11,1890,False,52,popular,2
+Coorg,2026-10-11,3360,False,45,popular,3
+Coorg,2026-10-11,5620,False,43,popular,4
+Coorg,2026-10-11,13620,False,47,popular,5
+Coorg,2026-11-16,890,False,52,popular,1
+Coorg,2026-11-16,1890,False,49,popular,2
+Coorg,2026-11-16,3220,False,48,popular,3
+Coorg,2026-11-16,5710,False,63,popular,4
+Coorg,2026-11-16,14620,False,38,popular,5
+Coorg,2026-12-21,810,False,38,popular,1
+Coorg,2026-12-21,1860,False,55,popular,2
+Coorg,2026-12-21,3310,False,58,popular,3
+Coorg,2026-12-21,6060,False,61,popular,4
+Coorg,2026-12-21,13370,False,45,popular,5
+Hampi,2026-01-07,890,False,55,popular,1
+Hampi,2026-01-07,1720,False,43,popular,2
+Hampi,2026-01-07,3200,False,63,popular,3
+Hampi,2026-01-07,5560,False,51,popular,4
+Hampi,2026-01-07,14670,False,39,popular,5
+Hampi,2026-02-12,830,False,46,popular,1
+Hampi,2026-02-12,1700,False,46,popular,2
+Hampi,2026-02-12,3220,False,50,popular,3
+Hampi,2026-02-12,5580,False,42,popular,4
+Hampi,2026-02-12,13750,False,50,popular,5
+Hampi,2026-03-17,860,False,56,popular,1
+Hampi,2026-03-17,1790,False,56,popular,2
+Hampi,2026-03-17,3310,False,57,popular,3
+Hampi,2026-03-17,5590,False,44,popular,4
+Hampi,2026-03-17,13340,False,39,popular,5
+Hampi,2026-04-22,870,False,44,popular,1
+Hampi,2026-04-22,1760,False,53,popular,2
+Hampi,2026-04-22,3310,False,44,popular,3
+Hampi,2026-04-22,5780,False,46,popular,4
+Hampi,2026-04-22,13720,False,53,popular,5
+Hampi,2026-05-01,890,False,47,popular,1
+Hampi,2026-05-01,1730,False,58,popular,2
+Hampi,2026-05-01,3030,False,54,popular,3
+Hampi,2026-05-01,5820,False,47,popular,4
+Hampi,2026-05-01,14350,False,38,popular,5
+Hampi,2026-06-06,860,False,59,popular,1
+Hampi,2026-06-06,1810,False,45,popular,2
+Hampi,2026-06-06,3300,False,62,popular,3
+Hampi,2026-06-06,5870,False,44,popular,4
+Hampi,2026-06-06,13610,False,61,popular,5
+Hampi,2026-07-11,890,False,55,popular,1
+Hampi,2026-07-11,1750,False,55,popular,2
+Hampi,2026-07-11,3180,False,48,popular,3
+Hampi,2026-07-11,5840,False,60,popular,4
+Hampi,2026-07-11,13570,False,52,popular,5
+Hampi,2026-08-16,830,False,44,popular,1
+Hampi,2026-08-16,1880,False,63,popular,2
+Hampi,2026-08-16,3270,False,58,popular,3
+Hampi,2026-08-16,5570,False,58,popular,4
+Hampi,2026-08-16,13260,False,58,popular,5
+Hampi,2026-09-21,840,False,50,popular,1
+Hampi,2026-09-21,1840,False,39,popular,2
+Hampi,2026-09-21,3390,False,61,popular,3
+Hampi,2026-09-21,5660,False,54,popular,4
+Hampi,2026-09-21,14150,False,49,popular,5
+Hampi,2026-10-26,1070,True,72,popular,1
+Hampi,2026-10-26,2400,True,81,popular,2
+Hampi,2026-10-26,3740,True,78,popular,3
+Hampi,2026-10-26,7230,True,85,popular,4
+Hampi,2026-10-26,17330,True,62,popular,5
+Hampi,2026-11-05,870,False,53,popular,1
+Hampi,2026-11-05,1840,False,63,popular,2
+Hampi,2026-11-05,3390,False,47,popular,3
+Hampi,2026-11-05,5990,False,60,popular,4
+Hampi,2026-11-05,13290,False,41,popular,5
+Hampi,2026-12-10,880,False,42,popular,1
+Hampi,2026-12-10,1840,False,41,popular,2
+Hampi,2026-12-10,3290,False,53,popular,3
+Hampi,2026-12-10,6100,False,47,popular,4
+Hampi,2026-12-10,13320,False,42,popular,5
+Mysuru,2026-01-17,870,False,52,popular,1
+Mysuru,2026-01-17,1890,False,44,popular,2
+Mysuru,2026-01-17,3230,False,54,popular,3
+Mysuru,2026-01-17,6120,False,61,popular,4
+Mysuru,2026-01-17,13730,False,62,popular,5
+Mysuru,2026-02-22,840,False,50,popular,1
+Mysuru,2026-02-22,1840,False,44,popular,2
+Mysuru,2026-02-22,3090,False,49,popular,3
+Mysuru,2026-02-22,6070,False,56,popular,4
+Mysuru,2026-02-22,14730,False,41,popular,5
+Mysuru,2026-03-01,880,False,43,popular,1
+Mysuru,2026-03-01,1750,False,53,popular,2
+Mysuru,2026-03-01,3360,False,38,popular,3
+Mysuru,2026-03-01,5810,False,42,popular,4
+Mysuru,2026-03-01,14270,False,43,popular,5
+Mysuru,2026-04-06,810,False,52,popular,1
+Mysuru,2026-04-06,1860,False,41,popular,2
+Mysuru,2026-04-06,3110,False,50,popular,3
+Mysuru,2026-04-06,6130,False,39,popular,4
+Mysuru,2026-04-06,13460,False,59,popular,5
+Mysuru,2026-05-11,810,False,39,popular,1
+Mysuru,2026-05-11,1900,False,51,popular,2
+Mysuru,2026-05-11,3040,False,52,popular,3
+Mysuru,2026-05-11,6150,False,40,popular,4
+Mysuru,2026-05-11,13480,False,51,popular,5
+Mysuru,2026-06-16,890,False,55,popular,1
+Mysuru,2026-06-16,1790,False,38,popular,2
+Mysuru,2026-06-16,3060,False,51,popular,3
+Mysuru,2026-06-16,6100,False,61,popular,4
+Mysuru,2026-06-16,13890,False,52,popular,5
+Mysuru,2026-07-21,820,False,55,popular,1
+Mysuru,2026-07-21,1810,False,40,popular,2
+Mysuru,2026-07-21,3190,False,54,popular,3
+Mysuru,2026-07-21,6120,False,54,popular,4
+Mysuru,2026-07-21,14290,False,50,popular,5
+Mysuru,2026-08-26,1000,True,62,popular,1
+Mysuru,2026-08-26,2280,True,85,popular,2
+Mysuru,2026-08-26,4270,True,81,popular,3
+Mysuru,2026-08-26,6790,True,80,popular,4
+Mysuru,2026-08-26,18190,True,72,popular,5
+Mysuru,2026-09-05,890,False,48,popular,1
+Mysuru,2026-09-05,1820,False,50,popular,2
+Mysuru,2026-09-05,3100,False,52,popular,3
+Mysuru,2026-09-05,5960,False,60,popular,4
+Mysuru,2026-09-05,13570,False,61,popular,5
+Mysuru,2026-10-10,890,False,58,popular,1
+Mysuru,2026-10-10,1760,False,60,popular,2
+Mysuru,2026-10-10,3200,False,51,popular,3
+Mysuru,2026-10-10,5940,False,39,popular,4
+Mysuru,2026-10-10,14240,False,49,popular,5
+Mysuru,2026-11-15,1090,True,63,popular,1
+Mysuru,2026-11-15,2200,True,62,popular,2
+Mysuru,2026-11-15,4210,True,80,popular,3
+Mysuru,2026-11-15,7470,True,75,popular,4
+Mysuru,2026-11-15,18070,True,62,popular,5
+Mysuru,2026-12-20,880,False,43,popular,1
+Mysuru,2026-12-20,1840,False,55,popular,2
+Mysuru,2026-12-20,3300,False,61,popular,3
+Mysuru,2026-12-20,5570,False,56,popular,4
+Mysuru,2026-12-20,14140,False,46,popular,5
+Ooty,2026-01-17,890,False,52,popular,1
+Ooty,2026-01-17,1740,False,55,popular,2
+Ooty,2026-01-17,3370,False,55,popular,3
+Ooty,2026-01-17,5790,False,47,popular,4
+Ooty,2026-01-17,13910,False,52,popular,5
+Ooty,2026-02-22,810,False,51,popular,1
+Ooty,2026-02-22,1820,False,50,popular,2
+Ooty,2026-02-22,3120,False,61,popular,3
+Ooty,2026-02-22,5920,False,56,popular,4
+Ooty,2026-02-22,14610,False,40,popular,5
+Ooty,2026-03-01,820,False,51,popular,1
+Ooty,2026-03-01,1720,False,40,popular,2
+Ooty,2026-03-01,3310,False,58,popular,3
+Ooty,2026-03-01,6120,False,61,popular,4
+Ooty,2026-03-01,13210,False,40,popular,5
+Ooty,2026-04-06,810,False,54,popular,1
+Ooty,2026-04-06,1870,False,63,popular,2
+Ooty,2026-04-06,3260,False,62,popular,3
+Ooty,2026-04-06,5600,False,60,popular,4
+Ooty,2026-04-06,14500,False,58,popular,5
+Ooty,2026-05-11,810,False,57,popular,1
+Ooty,2026-05-11,1780,False,61,popular,2
+Ooty,2026-05-11,3350,False,59,popular,3
+Ooty,2026-05-11,5780,False,53,popular,4
+Ooty,2026-05-11,13600,False,56,popular,5
+Ooty,2026-06-16,830,False,43,popular,1
+Ooty,2026-06-16,1850,False,61,popular,2
+Ooty,2026-06-16,3020,False,45,popular,3
+Ooty,2026-06-16,5560,False,41,popular,4
+Ooty,2026-06-16,14180,False,53,popular,5
+Ooty,2026-07-21,860,False,58,popular,1
+Ooty,2026-07-21,1780,False,60,popular,2
+Ooty,2026-07-21,3010,False,43,popular,3
+Ooty,2026-07-21,5990,False,59,popular,4
+Ooty,2026-07-21,13810,False,47,popular,5
+Ooty,2026-08-26,1040,True,64,popular,1
+Ooty,2026-08-26,2360,True,70,popular,2
+Ooty,2026-08-26,3960,True,75,popular,3
+Ooty,2026-08-26,7690,True,65,popular,4
+Ooty,2026-08-26,18630,True,81,popular,5
+Ooty,2026-09-05,860,False,38,popular,1
+Ooty,2026-09-05,1690,False,50,popular,2
+Ooty,2026-09-05,3390,False,55,popular,3
+Ooty,2026-09-05,5870,False,43,popular,4
+Ooty,2026-09-05,13750,False,63,popular,5
+Ooty,2026-10-10,840,False,52,popular,1
+Ooty,2026-10-10,1710,False,57,popular,2
+Ooty,2026-10-10,3320,False,52,popular,3
+Ooty,2026-10-10,6080,False,60,popular,4
+Ooty,2026-10-10,13240,False,59,popular,5
+Ooty,2026-11-15,1080,True,69,popular,1
+Ooty,2026-11-15,2320,True,72,popular,2
+Ooty,2026-11-15,4090,True,69,popular,3
+Ooty,2026-11-15,7520,True,87,popular,4
+Ooty,2026-11-15,17260,True,64,popular,5
+Ooty,2026-12-20,880,False,59,popular,1
+Ooty,2026-12-20,1840,False,48,popular,2
+Ooty,2026-12-20,3380,False,48,popular,3
+Ooty,2026-12-20,5940,False,39,popular,4
+Ooty,2026-12-20,13540,False,63,popular,5
+Chettinad,2026-01-12,840,False,42,gem,1
+Chettinad,2026-01-12,1800,False,59,gem,2
+Chettinad,2026-01-12,3250,False,48,gem,3
+Chettinad,2026-01-12,5760,False,55,gem,4
+Chettinad,2026-01-12,13600,False,50,gem,5
+Chettinad,2026-02-17,880,False,47,gem,1
+Chettinad,2026-02-17,1830,False,47,gem,2
+Chettinad,2026-02-17,3190,False,61,gem,3
+Chettinad,2026-02-17,5830,False,43,gem,4
+Chettinad,2026-02-17,14160,False,59,gem,5
+Chettinad,2026-03-22,890,False,52,gem,1
+Chettinad,2026-03-22,1750,False,52,gem,2
+Chettinad,2026-03-22,3300,False,54,gem,3
+Chettinad,2026-03-22,6010,False,51,gem,4
+Chettinad,2026-03-22,14740,False,50,gem,5
+Chettinad,2026-04-01,890,False,40,gem,1
+Chettinad,2026-04-01,1900,False,39,gem,2
+Chettinad,2026-04-01,3080,False,43,gem,3
+Chettinad,2026-04-01,6010,False,62,gem,4
+Chettinad,2026-04-01,13680,False,50,gem,5
+Chettinad,2026-05-06,890,False,53,gem,1
+Chettinad,2026-05-06,1690,False,56,gem,2
+Chettinad,2026-05-06,3290,False,42,gem,3
+Chettinad,2026-05-06,5800,False,46,gem,4
+Chettinad,2026-05-06,14490,False,39,gem,5
+Chettinad,2026-06-11,840,False,47,gem,1
+Chettinad,2026-06-11,1710,False,38,gem,2
+Chettinad,2026-06-11,3300,False,60,gem,3
+Chettinad,2026-06-11,5940,False,41,gem,4
+Chettinad,2026-06-11,14120,False,63,gem,5
+Chettinad,2026-07-16,880,False,41,gem,1
+Chettinad,2026-07-16,1890,False,52,gem,2
+Chettinad,2026-07-16,3150,False,38,gem,3
+Chettinad,2026-07-16,5530,False,56,gem,4
+Chettinad,2026-07-16,14410,False,57,gem,5
+Chettinad,2026-08-21,820,False,56,gem,1
+Chettinad,2026-08-21,1780,False,41,gem,2
+Chettinad,2026-08-21,3150,False,49,gem,3
+Chettinad,2026-08-21,5950,False,38,gem,4
+Chettinad,2026-08-21,14380,False,41,gem,5
+Chettinad,2026-09-26,850,False,54,gem,1
+Chettinad,2026-09-26,1710,False,57,gem,2
+Chettinad,2026-09-26,3220,False,43,gem,3
+Chettinad,2026-09-26,5510,False,60,gem,4
+Chettinad,2026-09-26,13860,False,58,gem,5
+Chettinad,2026-10-05,900,False,49,gem,1
+Chettinad,2026-10-05,1880,False,48,gem,2
+Chettinad,2026-10-05,3220,False,49,gem,3
+Chettinad,2026-10-05,5550,False,62,gem,4
+Chettinad,2026-10-05,14710,False,52,gem,5
+Chettinad,2026-11-10,880,False,55,gem,1
+Chettinad,2026-11-10,1820,False,40,gem,2
+Chettinad,2026-11-10,3250,False,61,gem,3
+Chettinad,2026-11-10,5570,False,45,gem,4
+Chettinad,2026-11-10,13970,False,45,gem,5
+Chettinad,2026-12-15,980,True,72,gem,1
+Chettinad,2026-12-15,2040,True,81,gem,2
+Chettinad,2026-12-15,4190,True,81,gem,3
+Chettinad,2026-12-15,7090,True,62,gem,4
+Chettinad,2026-12-15,17950,True,86,gem,5
+Madurai,2026-01-11,870,False,42,popular,1
+Madurai,2026-01-11,1790,False,43,popular,2
+Madurai,2026-01-11,3290,False,39,popular,3
+Madurai,2026-01-11,5510,False,50,popular,4
+Madurai,2026-01-11,14030,False,61,popular,5
+Madurai,2026-02-16,840,False,39,popular,1
+Madurai,2026-02-16,1830,False,39,popular,2
+Madurai,2026-02-16,3170,False,51,popular,3
+Madurai,2026-02-16,5500,False,60,popular,4
+Madurai,2026-02-16,13650,False,41,popular,5
+Madurai,2026-03-21,850,False,52,popular,1
+Madurai,2026-03-21,1780,False,61,popular,2
+Madurai,2026-03-21,3040,False,61,popular,3
+Madurai,2026-03-21,6060,False,54,popular,4
+Madurai,2026-03-21,13500,False,57,popular,5
+Madurai,2026-04-26,860,False,43,popular,1
+Madurai,2026-04-26,1900,False,45,popular,2
+Madurai,2026-04-26,3120,False,58,popular,3
+Madurai,2026-04-26,5640,False,46,popular,4
+Madurai,2026-04-26,13430,False,50,popular,5
+Madurai,2026-05-05,810,False,58,popular,1
+Madurai,2026-05-05,1900,False,60,popular,2
+Madurai,2026-05-05,3070,False,63,popular,3
+Madurai,2026-05-05,5930,False,49,popular,4
+Madurai,2026-05-05,13730,False,43,popular,5
+Madurai,2026-06-10,820,False,39,popular,1
+Madurai,2026-06-10,1860,False,52,popular,2
+Madurai,2026-06-10,3300,False,46,popular,3
+Madurai,2026-06-10,6050,False,49,popular,4
+Madurai,2026-06-10,14370,False,43,popular,5
+Madurai,2026-07-15,900,False,41,popular,1
+Madurai,2026-07-15,1890,False,45,popular,2
+Madurai,2026-07-15,3060,False,42,popular,3
+Madurai,2026-07-15,5780,False,61,popular,4
+Madurai,2026-07-15,13270,False,57,popular,5
+Madurai,2026-08-20,850,False,61,popular,1
+Madurai,2026-08-20,1740,False,46,popular,2
+Madurai,2026-08-20,3110,False,51,popular,3
+Madurai,2026-08-20,5740,False,44,popular,4
+Madurai,2026-08-20,14120,False,41,popular,5
+Madurai,2026-09-25,840,False,38,popular,1
+Madurai,2026-09-25,1690,False,39,popular,2
+Madurai,2026-09-25,3170,False,62,popular,3
+Madurai,2026-09-25,5700,False,45,popular,4
+Madurai,2026-09-25,14030,False,59,popular,5
+Madurai,2026-10-04,880,False,53,popular,1
+Madurai,2026-10-04,1780,False,62,popular,2
+Madurai,2026-10-04,3140,False,61,popular,3
+Madurai,2026-10-04,5960,False,63,popular,4
+Madurai,2026-10-04,13800,False,39,popular,5
+Madurai,2026-11-09,820,False,59,popular,1
+Madurai,2026-11-09,1820,False,44,popular,2
+Madurai,2026-11-09,3280,False,59,popular,3
+Madurai,2026-11-09,5860,False,41,popular,4
+Madurai,2026-11-09,14620,False,53,popular,5
+Madurai,2026-12-14,970,True,73,popular,1
+Madurai,2026-12-14,2280,True,62,popular,2
+Madurai,2026-12-14,3920,True,64,popular,3
+Madurai,2026-12-14,7270,True,87,popular,4
+Madurai,2026-12-14,16940,True,62,popular,5
+Kanyakumari,2026-01-11,860,False,57,popular,1
+Kanyakumari,2026-01-11,1820,False,44,popular,2
+Kanyakumari,2026-01-11,3020,False,41,popular,3
+Kanyakumari,2026-01-11,5650,False,63,popular,4
+Kanyakumari,2026-01-11,13980,False,45,popular,5
+Kanyakumari,2026-02-16,810,False,54,popular,1
+Kanyakumari,2026-02-16,1770,False,49,popular,2
+Kanyakumari,2026-02-16,3210,False,47,popular,3
+Kanyakumari,2026-02-16,5910,False,60,popular,4
+Kanyakumari,2026-02-16,14470,False,43,popular,5
+Kanyakumari,2026-03-21,840,False,41,popular,1
+Kanyakumari,2026-03-21,1750,False,47,popular,2
+Kanyakumari,2026-03-21,3300,False,52,popular,3
+Kanyakumari,2026-03-21,5550,False,47,popular,4
+Kanyakumari,2026-03-21,13300,False,53,popular,5
+Kanyakumari,2026-04-26,800,False,63,popular,1
+Kanyakumari,2026-04-26,1770,False,52,popular,2
+Kanyakumari,2026-04-26,3060,False,38,popular,3
+Kanyakumari,2026-04-26,5530,False,63,popular,4
+Kanyakumari,2026-04-26,13620,False,43,popular,5
+Kanyakumari,2026-05-05,840,False,57,popular,1
+Kanyakumari,2026-05-05,1890,False,60,popular,2
+Kanyakumari,2026-05-05,3150,False,61,popular,3
+Kanyakumari,2026-05-05,6110,False,59,popular,4
+Kanyakumari,2026-05-05,13800,False,58,popular,5
+Kanyakumari,2026-06-10,840,False,54,popular,1
+Kanyakumari,2026-06-10,1780,False,55,popular,2
+Kanyakumari,2026-06-10,3360,False,41,popular,3
+Kanyakumari,2026-06-10,5620,False,47,popular,4
+Kanyakumari,2026-06-10,14390,False,61,popular,5
+Kanyakumari,2026-07-15,880,False,51,popular,1
+Kanyakumari,2026-07-15,1770,False,43,popular,2
+Kanyakumari,2026-07-15,3200,False,52,popular,3
+Kanyakumari,2026-07-15,5780,False,52,popular,4
+Kanyakumari,2026-07-15,14360,False,49,popular,5
+Kanyakumari,2026-08-20,880,False,40,popular,1
+Kanyakumari,2026-08-20,1900,False,39,popular,2
+Kanyakumari,2026-08-20,3310,False,58,popular,3
+Kanyakumari,2026-08-20,6010,False,57,popular,4
+Kanyakumari,2026-08-20,14370,False,60,popular,5
+Kanyakumari,2026-09-25,900,False,53,popular,1
+Kanyakumari,2026-09-25,1720,False,41,popular,2
+Kanyakumari,2026-09-25,3030,False,47,popular,3
+Kanyakumari,2026-09-25,6020,False,61,popular,4
+Kanyakumari,2026-09-25,13880,False,44,popular,5
+Kanyakumari,2026-10-04,890,False,39,popular,1
+Kanyakumari,2026-10-04,1870,False,40,popular,2
+Kanyakumari,2026-10-04,3220,False,60,popular,3
+Kanyakumari,2026-10-04,6100,False,43,popular,4
+Kanyakumari,2026-10-04,14680,False,42,popular,5
+Kanyakumari,2026-11-09,860,False,41,popular,1
+Kanyakumari,2026-11-09,1710,False,54,popular,2
+Kanyakumari,2026-11-09,3310,False,49,popular,3
+Kanyakumari,2026-11-09,6110,False,50,popular,4
+Kanyakumari,2026-11-09,13250,False,60,popular,5
+Kanyakumari,2026-12-14,1040,True,65,popular,1
+Kanyakumari,2026-12-14,2310,True,76,popular,2
+Kanyakumari,2026-12-14,3960,True,67,popular,3
+Kanyakumari,2026-12-14,7160,True,67,popular,4
+Kanyakumari,2026-12-14,17220,True,78,popular,5
+Manali,2026-01-02,1010,False,63,popular,1
+Manali,2026-01-02,2180,False,41,popular,2
+Manali,2026-01-02,3670,False,55,popular,3
+Manali,2026-01-02,6950,False,39,popular,4
+Manali,2026-01-02,18130,False,45,popular,5
+Manali,2026-02-07,990,False,43,popular,1
+Manali,2026-02-07,2140,False,53,popular,2
+Manali,2026-02-07,3990,False,46,popular,3
+Manali,2026-02-07,6780,False,45,popular,4
+Manali,2026-02-07,17110,False,58,popular,5
+Manali,2026-03-12,1030,False,57,popular,1
+Manali,2026-03-12,2190,False,55,popular,2
+Manali,2026-03-12,3890,False,61,popular,3
+Manali,2026-03-12,7360,False,57,popular,4
+Manali,2026-03-12,17460,False,61,popular,5
+Manali,2026-04-17,1030,False,51,popular,1
+Manali,2026-04-17,2190,False,56,popular,2
+Manali,2026-04-17,3640,False,55,popular,3
+Manali,2026-04-17,7610,False,60,popular,4
+Manali,2026-04-17,19060,False,55,popular,5
+Manali,2026-05-22,1020,False,53,popular,1
+Manali,2026-05-22,2000,False,51,popular,2
+Manali,2026-05-22,3730,False,50,popular,3
+Manali,2026-05-22,6930,False,57,popular,4
+Manali,2026-05-22,17130,False,61,popular,5
+Manali,2026-06-01,1040,False,61,popular,1
+Manali,2026-06-01,2050,False,47,popular,2
+Manali,2026-06-01,3710,False,39,popular,3
+Manali,2026-06-01,7070,False,49,popular,4
+Manali,2026-06-01,18280,False,45,popular,5
+Manali,2026-07-06,980,False,50,popular,1
+Manali,2026-07-06,2030,False,51,popular,2
+Manali,2026-07-06,3660,False,52,popular,3
+Manali,2026-07-06,7020,False,52,popular,4
+Manali,2026-07-06,18560,False,49,popular,5
+Manali,2026-08-11,950,False,43,popular,1
+Manali,2026-08-11,2150,False,43,popular,2
+Manali,2026-08-11,3670,False,47,popular,3
+Manali,2026-08-11,6920,False,48,popular,4
+Manali,2026-08-11,18730,False,61,popular,5
+Manali,2026-09-16,1010,False,56,popular,1
+Manali,2026-09-16,1980,False,55,popular,2
+Manali,2026-09-16,3730,False,55,popular,3
+Manali,2026-09-16,7610,False,54,popular,4
+Manali,2026-09-16,19060,False,59,popular,5
+Manali,2026-10-21,980,False,38,popular,1
+Manali,2026-10-21,2080,False,63,popular,2
+Manali,2026-10-21,3600,False,58,popular,3
+Manali,2026-10-21,7210,False,41,popular,4
+Manali,2026-10-21,17950,False,50,popular,5
+Manali,2026-11-26,1250,True,72,popular,1
+Manali,2026-11-26,2580,True,72,popular,2
+Manali,2026-11-26,4810,True,69,popular,3
+Manali,2026-11-26,8670,True,66,popular,4
+Manali,2026-11-26,22500,True,69,popular,5
+Manali,2026-12-05,1060,False,61,popular,1
+Manali,2026-12-05,2070,False,61,popular,2
+Manali,2026-12-05,3620,False,50,popular,3
+Manali,2026-12-05,7270,False,38,popular,4
+Manali,2026-12-05,18360,False,55,popular,5
+Kasol,2026-01-18,900,False,50,popular,1
+Kasol,2026-01-18,1910,False,48,popular,2
+Kasol,2026-01-18,3100,False,39,popular,3
+Kasol,2026-01-18,5860,False,48,popular,4
+Kasol,2026-01-18,13940,False,56,popular,5
+Kasol,2026-02-23,900,False,62,popular,1
+Kasol,2026-02-23,1750,False,50,popular,2
+Kasol,2026-02-23,3110,False,39,popular,3
+Kasol,2026-02-23,6120,False,38,popular,4
+Kasol,2026-02-23,14160,False,62,popular,5
+Kasol,2026-03-02,830,False,56,popular,1
+Kasol,2026-03-02,1780,False,63,popular,2
+Kasol,2026-03-02,3070,False,56,popular,3
+Kasol,2026-03-02,6100,False,50,popular,4
+Kasol,2026-03-02,14090,False,58,popular,5
+Kasol,2026-04-07,900,False,60,popular,1
+Kasol,2026-04-07,1850,False,42,popular,2
+Kasol,2026-04-07,3120,False,62,popular,3
+Kasol,2026-04-07,5580,False,56,popular,4
+Kasol,2026-04-07,13570,False,49,popular,5
+Kasol,2026-05-12,890,False,61,popular,1
+Kasol,2026-05-12,1730,False,59,popular,2
+Kasol,2026-05-12,3190,False,39,popular,3
+Kasol,2026-05-12,5630,False,39,popular,4
+Kasol,2026-05-12,13630,False,52,popular,5
+Kasol,2026-06-17,820,False,38,popular,1
+Kasol,2026-06-17,1820,False,58,popular,2
+Kasol,2026-06-17,3310,False,50,popular,3
+Kasol,2026-06-17,6130,False,49,popular,4
+Kasol,2026-06-17,13670,False,51,popular,5
+Kasol,2026-07-22,820,False,46,popular,1
+Kasol,2026-07-22,1850,False,57,popular,2
+Kasol,2026-07-22,3360,False,41,popular,3
+Kasol,2026-07-22,5580,False,61,popular,4
+Kasol,2026-07-22,14490,False,51,popular,5
+Kasol,2026-08-01,820,False,61,popular,1
+Kasol,2026-08-01,1900,False,47,popular,2
+Kasol,2026-08-01,3240,False,60,popular,3
+Kasol,2026-08-01,6120,False,63,popular,4
+Kasol,2026-08-01,13460,False,50,popular,5
+Kasol,2026-09-06,900,False,58,popular,1
+Kasol,2026-09-06,1890,False,61,popular,2
+Kasol,2026-09-06,3230,False,39,popular,3
+Kasol,2026-09-06,5750,False,47,popular,4
+Kasol,2026-09-06,14680,False,49,popular,5
+Kasol,2026-10-11,830,False,51,popular,1
+Kasol,2026-10-11,1750,False,58,popular,2
+Kasol,2026-10-11,3050,False,54,popular,3
+Kasol,2026-10-11,5620,False,57,popular,4
+Kasol,2026-10-11,14040,False,54,popular,5
+Kasol,2026-11-16,860,False,52,popular,1
+Kasol,2026-11-16,1880,False,63,popular,2
+Kasol,2026-11-16,3290,False,41,popular,3
+Kasol,2026-11-16,5550,False,60,popular,4
+Kasol,2026-11-16,13550,False,46,popular,5
+Kasol,2026-12-21,840,False,39,popular,1
+Kasol,2026-12-21,1830,False,47,popular,2
+Kasol,2026-12-21,3230,False,38,popular,3
+Kasol,2026-12-21,5880,False,53,popular,4
+Kasol,2026-12-21,13170,False,48,popular,5
+Spiti Valley,2026-01-10,890,False,42,gem,1
+Spiti Valley,2026-01-10,1790,False,57,gem,2
+Spiti Valley,2026-01-10,3250,False,61,gem,3
+Spiti Valley,2026-01-10,5720,False,55,gem,4
+Spiti Valley,2026-02-15,800,False,40,gem,1
+Spiti Valley,2026-02-15,1730,False,50,gem,2
+Spiti Valley,2026-02-15,3160,False,48,gem,3
+Spiti Valley,2026-02-15,6060,False,42,gem,4
+Spiti Valley,2026-03-20,830,False,41,gem,1
+Spiti Valley,2026-03-20,1840,False,41,gem,2
+Spiti Valley,2026-03-20,3120,False,58,gem,3
+Spiti Valley,2026-03-20,5860,False,57,gem,4
+Spiti Valley,2026-04-25,830,False,51,gem,1
+Spiti Valley,2026-04-25,1820,False,58,gem,2
+Spiti Valley,2026-04-25,3210,False,45,gem,3
+Spiti Valley,2026-04-25,5780,False,47,gem,4
+Spiti Valley,2026-05-04,900,False,54,gem,1
+Spiti Valley,2026-05-04,1900,False,42,gem,2
+Spiti Valley,2026-05-04,3140,False,41,gem,3
+Spiti Valley,2026-05-04,5630,False,41,gem,4
+Spiti Valley,2026-06-09,870,False,39,gem,1
+Spiti Valley,2026-06-09,1840,False,48,gem,2
+Spiti Valley,2026-06-09,3190,False,53,gem,3
+Spiti Valley,2026-06-09,5520,False,47,gem,4
+Spiti Valley,2026-07-14,840,False,56,gem,1
+Spiti Valley,2026-07-14,1710,False,58,gem,2
+Spiti Valley,2026-07-14,3100,False,52,gem,3
+Spiti Valley,2026-07-14,6060,False,62,gem,4
+Spiti Valley,2026-08-19,810,False,63,gem,1
+Spiti Valley,2026-08-19,1710,False,63,gem,2
+Spiti Valley,2026-08-19,3170,False,55,gem,3
+Spiti Valley,2026-08-19,5810,False,46,gem,4
+Spiti Valley,2026-09-24,900,False,44,gem,1
+Spiti Valley,2026-09-24,1740,False,49,gem,2
+Spiti Valley,2026-09-24,3180,False,45,gem,3
+Spiti Valley,2026-09-24,5870,False,54,gem,4
+Spiti Valley,2026-10-03,900,False,60,gem,1
+Spiti Valley,2026-10-03,1760,False,38,gem,2
+Spiti Valley,2026-10-03,3270,False,61,gem,3
+Spiti Valley,2026-10-03,5790,False,45,gem,4
+Spiti Valley,2026-11-08,830,False,38,gem,1
+Spiti Valley,2026-11-08,1720,False,50,gem,2
+Spiti Valley,2026-11-08,3030,False,41,gem,3
+Spiti Valley,2026-11-08,6110,False,51,gem,4
+Spiti Valley,2026-12-13,870,False,49,gem,1
+Spiti Valley,2026-12-13,1750,False,42,gem,2
+Spiti Valley,2026-12-13,3040,False,61,gem,3
+Spiti Valley,2026-12-13,5550,False,44,gem,4
+Dharamsala,2026-01-24,850,False,41,popular,1
+Dharamsala,2026-01-24,1860,False,43,popular,2
+Dharamsala,2026-01-24,3250,False,39,popular,3
+Dharamsala,2026-01-24,5480,False,39,popular,4
+Dharamsala,2026-01-24,14690,False,60,popular,5
+Dharamsala,2026-02-03,860,False,49,popular,1
+Dharamsala,2026-02-03,1770,False,50,popular,2
+Dharamsala,2026-02-03,3080,False,56,popular,3
+Dharamsala,2026-02-03,5830,False,46,popular,4
+Dharamsala,2026-02-03,13640,False,52,popular,5
+Dharamsala,2026-03-08,890,False,52,popular,1
+Dharamsala,2026-03-08,1870,False,51,popular,2
+Dharamsala,2026-03-08,3090,False,44,popular,3
+Dharamsala,2026-03-08,5680,False,51,popular,4
+Dharamsala,2026-03-08,14080,False,47,popular,5
+Dharamsala,2026-04-13,850,False,48,popular,1
+Dharamsala,2026-04-13,1750,False,50,popular,2
+Dharamsala,2026-04-13,3200,False,44,popular,3
+Dharamsala,2026-04-13,5900,False,59,popular,4
+Dharamsala,2026-04-13,14740,False,62,popular,5
+Dharamsala,2026-05-18,830,False,57,popular,1
+Dharamsala,2026-05-18,1860,False,56,popular,2
+Dharamsala,2026-05-18,3270,False,50,popular,3
+Dharamsala,2026-05-18,6030,False,55,popular,4
+Dharamsala,2026-05-18,14480,False,59,popular,5
+Dharamsala,2026-06-23,830,False,62,popular,1
+Dharamsala,2026-06-23,1900,False,59,popular,2
+Dharamsala,2026-06-23,3080,False,53,popular,3
+Dharamsala,2026-06-23,6020,False,45,popular,4
+Dharamsala,2026-06-23,13420,False,43,popular,5
+Dharamsala,2026-07-02,820,False,62,popular,1
+Dharamsala,2026-07-02,1870,False,59,popular,2
+Dharamsala,2026-07-02,3100,False,40,popular,3
+Dharamsala,2026-07-02,5910,False,39,popular,4
+Dharamsala,2026-07-02,13760,False,42,popular,5
+Dharamsala,2026-08-07,860,False,63,popular,1
+Dharamsala,2026-08-07,1870,False,52,popular,2
+Dharamsala,2026-08-07,3230,False,41,popular,3
+Dharamsala,2026-08-07,6090,False,62,popular,4
+Dharamsala,2026-08-07,14220,False,42,popular,5
+Dharamsala,2026-09-12,820,False,44,popular,1
+Dharamsala,2026-09-12,1820,False,45,popular,2
+Dharamsala,2026-09-12,3080,False,55,popular,3
+Dharamsala,2026-09-12,5670,False,40,popular,4
+Dharamsala,2026-09-12,14110,False,43,popular,5
+Dharamsala,2026-10-17,810,False,39,popular,1
+Dharamsala,2026-10-17,1820,False,52,popular,2
+Dharamsala,2026-10-17,3240,False,54,popular,3
+Dharamsala,2026-10-17,5660,False,48,popular,4
+Dharamsala,2026-10-17,14730,False,50,popular,5
+Dharamsala,2026-11-22,870,False,56,popular,1
+Dharamsala,2026-11-22,1870,False,59,popular,2
+Dharamsala,2026-11-22,3120,False,62,popular,3
+Dharamsala,2026-11-22,5720,False,47,popular,4
+Dharamsala,2026-11-22,14590,False,41,popular,5
+Dharamsala,2026-12-01,850,False,51,popular,1
+Dharamsala,2026-12-01,1890,False,57,popular,2
+Dharamsala,2026-12-01,3210,False,63,popular,3
+Dharamsala,2026-12-01,5820,False,45,popular,4
+Dharamsala,2026-12-01,14050,False,54,popular,5
+Rishikesh,2026-01-08,780,False,50,popular,1
+Rishikesh,2026-01-08,1760,False,45,popular,2
+Rishikesh,2026-01-08,3420,False,55,popular,3
+Rishikesh,2026-01-08,6580,False,51,popular,4
+Rishikesh,2026-01-08,18800,False,56,popular,5
+Rishikesh,2026-02-13,780,False,62,popular,1
+Rishikesh,2026-02-13,1860,False,44,popular,2
+Rishikesh,2026-02-13,3190,False,46,popular,3
+Rishikesh,2026-02-13,6720,False,45,popular,4
+Rishikesh,2026-02-13,19060,False,52,popular,5
+Rishikesh,2026-03-18,780,False,46,popular,1
+Rishikesh,2026-03-18,1840,False,40,popular,2
+Rishikesh,2026-03-18,3360,False,62,popular,3
+Rishikesh,2026-03-18,6310,False,54,popular,4
+Rishikesh,2026-03-18,17870,False,40,popular,5
+Rishikesh,2026-04-23,800,False,44,popular,1
+Rishikesh,2026-04-23,1690,False,53,popular,2
+Rishikesh,2026-04-23,3110,False,40,popular,3
+Rishikesh,2026-04-23,6770,False,60,popular,4
+Rishikesh,2026-04-23,19850,False,56,popular,5
+Rishikesh,2026-05-02,770,False,51,popular,1
+Rishikesh,2026-05-02,1760,False,43,popular,2
+Rishikesh,2026-05-02,3240,False,39,popular,3
+Rishikesh,2026-05-02,6590,False,52,popular,4
+Rishikesh,2026-05-02,19680,False,44,popular,5
+Rishikesh,2026-06-07,790,False,53,popular,1
+Rishikesh,2026-06-07,1710,False,61,popular,2
+Rishikesh,2026-06-07,3400,False,52,popular,3
+Rishikesh,2026-06-07,6200,False,41,popular,4
+Rishikesh,2026-06-07,19330,False,44,popular,5
+Rishikesh,2026-07-12,830,False,55,popular,1
+Rishikesh,2026-07-12,1710,False,42,popular,2
+Rishikesh,2026-07-12,3200,False,58,popular,3
+Rishikesh,2026-07-12,6300,False,58,popular,4
+Rishikesh,2026-07-12,19970,False,58,popular,5
+Rishikesh,2026-08-17,780,False,62,popular,1
+Rishikesh,2026-08-17,1770,False,63,popular,2
+Rishikesh,2026-08-17,3420,False,40,popular,3
+Rishikesh,2026-08-17,6320,False,59,popular,4
+Rishikesh,2026-08-17,20100,False,60,popular,5
+Rishikesh,2026-09-22,810,False,56,popular,1
+Rishikesh,2026-09-22,1890,False,53,popular,2
+Rishikesh,2026-09-22,3330,False,48,popular,3
+Rishikesh,2026-09-22,6860,False,62,popular,4
+Rishikesh,2026-09-22,18780,False,54,popular,5
+Rishikesh,2026-10-01,760,False,43,popular,1
+Rishikesh,2026-10-01,1750,False,41,popular,2
+Rishikesh,2026-10-01,3150,False,40,popular,3
+Rishikesh,2026-10-01,6650,False,58,popular,4
+Rishikesh,2026-10-01,18720,False,39,popular,5
+Rishikesh,2026-11-06,830,False,52,popular,1
+Rishikesh,2026-11-06,1850,False,48,popular,2
+Rishikesh,2026-11-06,3190,False,51,popular,3
+Rishikesh,2026-11-06,6800,False,63,popular,4
+Rishikesh,2026-11-06,18660,False,55,popular,5
+Rishikesh,2026-12-11,820,False,57,popular,1
+Rishikesh,2026-12-11,1770,False,41,popular,2
+Rishikesh,2026-12-11,3440,False,47,popular,3
+Rishikesh,2026-12-11,6190,False,55,popular,4
+Rishikesh,2026-12-11,19420,False,61,popular,5
+Mussoorie,2026-01-10,800,False,62,popular,1
+Mussoorie,2026-01-10,1720,False,42,popular,2
+Mussoorie,2026-01-10,3340,False,47,popular,3
+Mussoorie,2026-01-10,5730,False,44,popular,4
+Mussoorie,2026-01-10,14100,False,50,popular,5
+Mussoorie,2026-02-15,880,False,43,popular,1
+Mussoorie,2026-02-15,1850,False,43,popular,2
+Mussoorie,2026-02-15,3340,False,44,popular,3
+Mussoorie,2026-02-15,6130,False,53,popular,4
+Mussoorie,2026-02-15,14110,False,44,popular,5
+Mussoorie,2026-03-20,890,False,58,popular,1
+Mussoorie,2026-03-20,1810,False,38,popular,2
+Mussoorie,2026-03-20,3140,False,60,popular,3
+Mussoorie,2026-03-20,5770,False,41,popular,4
+Mussoorie,2026-03-20,14640,False,56,popular,5
+Mussoorie,2026-04-25,810,False,47,popular,1
+Mussoorie,2026-04-25,1840,False,54,popular,2
+Mussoorie,2026-04-25,3040,False,49,popular,3
+Mussoorie,2026-04-25,5860,False,46,popular,4
+Mussoorie,2026-04-25,13950,False,44,popular,5
+Mussoorie,2026-05-04,820,False,59,popular,1
+Mussoorie,2026-05-04,1710,False,54,popular,2
+Mussoorie,2026-05-04,3220,False,47,popular,3
+Mussoorie,2026-05-04,5750,False,53,popular,4
+Mussoorie,2026-05-04,14720,False,52,popular,5
+Mussoorie,2026-06-09,850,False,38,popular,1
+Mussoorie,2026-06-09,1780,False,46,popular,2
+Mussoorie,2026-06-09,3090,False,57,popular,3
+Mussoorie,2026-06-09,6050,False,47,popular,4
+Mussoorie,2026-06-09,14370,False,38,popular,5
+Mussoorie,2026-07-14,880,False,46,popular,1
+Mussoorie,2026-07-14,1730,False,44,popular,2
+Mussoorie,2026-07-14,3130,False,47,popular,3
+Mussoorie,2026-07-14,5480,False,61,popular,4
+Mussoorie,2026-07-14,14770,False,41,popular,5
+Mussoorie,2026-08-19,870,False,59,popular,1
+Mussoorie,2026-08-19,1860,False,51,popular,2
+Mussoorie,2026-08-19,3180,False,42,popular,3
+Mussoorie,2026-08-19,5560,False,38,popular,4
+Mussoorie,2026-08-19,14250,False,57,popular,5
+Mussoorie,2026-09-24,840,False,56,popular,1
+Mussoorie,2026-09-24,1840,False,50,popular,2
+Mussoorie,2026-09-24,3250,False,39,popular,3
+Mussoorie,2026-09-24,6130,False,52,popular,4
+Mussoorie,2026-09-24,14040,False,41,popular,5
+Mussoorie,2026-10-03,830,False,47,popular,1
+Mussoorie,2026-10-03,1720,False,43,popular,2
+Mussoorie,2026-10-03,3370,False,55,popular,3
+Mussoorie,2026-10-03,5940,False,43,popular,4
+Mussoorie,2026-10-03,14220,False,61,popular,5
+Mussoorie,2026-11-08,840,False,46,popular,1
+Mussoorie,2026-11-08,1750,False,39,popular,2
+Mussoorie,2026-11-08,3390,False,44,popular,3
+Mussoorie,2026-11-08,6090,False,40,popular,4
+Mussoorie,2026-11-08,13500,False,38,popular,5
+Mussoorie,2026-12-13,900,False,52,popular,1
+Mussoorie,2026-12-13,1890,False,58,popular,2
+Mussoorie,2026-12-13,3240,False,46,popular,3
+Mussoorie,2026-12-13,5920,False,42,popular,4
+Mussoorie,2026-12-13,13360,False,48,popular,5
+Auli,2026-01-11,870,False,55,emerging,1
+Auli,2026-01-11,1860,False,42,emerging,2
+Auli,2026-01-11,3120,False,40,emerging,3
+Auli,2026-01-11,5480,False,50,emerging,4
+Auli,2026-02-16,870,False,39,emerging,1
+Auli,2026-02-16,1840,False,43,emerging,2
+Auli,2026-02-16,3110,False,63,emerging,3
+Auli,2026-02-16,6140,False,41,emerging,4
+Auli,2026-03-21,810,False,38,emerging,1
+Auli,2026-03-21,1860,False,47,emerging,2
+Auli,2026-03-21,3200,False,39,emerging,3
+Auli,2026-03-21,5800,False,49,emerging,4
+Auli,2026-04-26,850,False,44,emerging,1
+Auli,2026-04-26,1820,False,53,emerging,2
+Auli,2026-04-26,3040,False,56,emerging,3
+Auli,2026-04-26,5920,False,53,emerging,4
+Auli,2026-05-05,860,False,59,emerging,1
+Auli,2026-05-05,1750,False,52,emerging,2
+Auli,2026-05-05,3230,False,49,emerging,3
+Auli,2026-05-05,5890,False,59,emerging,4
+Auli,2026-06-10,850,False,41,emerging,1
+Auli,2026-06-10,1820,False,40,emerging,2
+Auli,2026-06-10,3060,False,55,emerging,3
+Auli,2026-06-10,5710,False,44,emerging,4
+Auli,2026-07-15,820,False,41,emerging,1
+Auli,2026-07-15,1710,False,41,emerging,2
+Auli,2026-07-15,3080,False,44,emerging,3
+Auli,2026-07-15,6060,False,39,emerging,4
+Auli,2026-08-20,840,False,41,emerging,1
+Auli,2026-08-20,1800,False,48,emerging,2
+Auli,2026-08-20,3190,False,56,emerging,3
+Auli,2026-08-20,5540,False,41,emerging,4
+Auli,2026-09-25,890,False,49,emerging,1
+Auli,2026-09-25,1860,False,52,emerging,2
+Auli,2026-09-25,3050,False,44,emerging,3
+Auli,2026-09-25,5830,False,44,emerging,4
+Auli,2026-10-04,880,False,61,emerging,1
+Auli,2026-10-04,1820,False,45,emerging,2
+Auli,2026-10-04,3150,False,49,emerging,3
+Auli,2026-10-04,5830,False,46,emerging,4
+Auli,2026-11-09,820,False,43,emerging,1
+Auli,2026-11-09,1710,False,60,emerging,2
+Auli,2026-11-09,3280,False,62,emerging,3
+Auli,2026-11-09,5840,False,40,emerging,4
+Auli,2026-12-14,1000,True,87,emerging,1
+Auli,2026-12-14,2230,True,75,emerging,2
+Auli,2026-12-14,4010,True,80,emerging,3
+Auli,2026-12-14,7140,True,62,emerging,4
+Khajuraho,2026-01-21,860,False,52,popular,1
+Khajuraho,2026-01-21,1830,False,48,popular,2
+Khajuraho,2026-01-21,3300,False,51,popular,3
+Khajuraho,2026-01-21,5850,False,53,popular,4
+Khajuraho,2026-01-21,14080,False,50,popular,5
+Khajuraho,2026-02-26,810,False,46,popular,1
+Khajuraho,2026-02-26,1880,False,61,popular,2
+Khajuraho,2026-02-26,3120,False,47,popular,3
+Khajuraho,2026-02-26,5810,False,48,popular,4
+Khajuraho,2026-02-26,13340,False,51,popular,5
+Khajuraho,2026-03-05,810,False,59,popular,1
+Khajuraho,2026-03-05,1830,False,60,popular,2
+Khajuraho,2026-03-05,3010,False,59,popular,3
+Khajuraho,2026-03-05,5940,False,48,popular,4
+Khajuraho,2026-03-05,13300,False,57,popular,5
+Khajuraho,2026-04-10,800,False,42,popular,1
+Khajuraho,2026-04-10,1790,False,44,popular,2
+Khajuraho,2026-04-10,3270,False,54,popular,3
+Khajuraho,2026-04-10,5900,False,55,popular,4
+Khajuraho,2026-04-10,14010,False,57,popular,5
+Khajuraho,2026-05-15,800,False,60,popular,1
+Khajuraho,2026-05-15,1760,False,42,popular,2
+Khajuraho,2026-05-15,3080,False,48,popular,3
+Khajuraho,2026-05-15,6050,False,63,popular,4
+Khajuraho,2026-05-15,13930,False,57,popular,5
+Khajuraho,2026-06-20,800,False,41,popular,1
+Khajuraho,2026-06-20,1830,False,61,popular,2
+Khajuraho,2026-06-20,3160,False,61,popular,3
+Khajuraho,2026-06-20,5540,False,52,popular,4
+Khajuraho,2026-06-20,14730,False,49,popular,5
+Khajuraho,2026-07-25,840,False,41,popular,1
+Khajuraho,2026-07-25,1730,False,39,popular,2
+Khajuraho,2026-07-25,3100,False,53,popular,3
+Khajuraho,2026-07-25,5470,False,61,popular,4
+Khajuraho,2026-07-25,14070,False,57,popular,5
+Khajuraho,2026-08-04,810,False,39,popular,1
+Khajuraho,2026-08-04,1800,False,42,popular,2
+Khajuraho,2026-08-04,3210,False,48,popular,3
+Khajuraho,2026-08-04,5820,False,60,popular,4
+Khajuraho,2026-08-04,14780,False,54,popular,5
+Khajuraho,2026-09-09,890,False,62,popular,1
+Khajuraho,2026-09-09,1700,False,58,popular,2
+Khajuraho,2026-09-09,3190,False,42,popular,3
+Khajuraho,2026-09-09,5590,False,58,popular,4
+Khajuraho,2026-09-09,14780,False,40,popular,5
+Khajuraho,2026-10-14,1110,True,83,popular,1
+Khajuraho,2026-10-14,2250,True,83,popular,2
+Khajuraho,2026-10-14,4230,True,77,popular,3
+Khajuraho,2026-10-14,7280,True,65,popular,4
+Khajuraho,2026-10-14,18220,True,83,popular,5
+Khajuraho,2026-11-19,850,False,52,popular,1
+Khajuraho,2026-11-19,1700,False,58,popular,2
+Khajuraho,2026-11-19,3280,False,52,popular,3
+Khajuraho,2026-11-19,5510,False,58,popular,4
+Khajuraho,2026-11-19,14590,False,58,popular,5
+Khajuraho,2026-12-24,900,False,41,popular,1
+Khajuraho,2026-12-24,1890,False,53,popular,2
+Khajuraho,2026-12-24,3030,False,44,popular,3
+Khajuraho,2026-12-24,5520,False,58,popular,4
+Khajuraho,2026-12-24,13270,False,41,popular,5
+Orchha,2026-01-05,870,False,43,gem,1
+Orchha,2026-01-05,1900,False,41,gem,2
+Orchha,2026-01-05,3330,False,44,gem,3
+Orchha,2026-01-05,5830,False,48,gem,4
+Orchha,2026-01-05,13270,False,39,gem,5
+Orchha,2026-02-10,810,False,63,gem,1
+Orchha,2026-02-10,1770,False,46,gem,2
+Orchha,2026-02-10,3240,False,57,gem,3
+Orchha,2026-02-10,5750,False,55,gem,4
+Orchha,2026-02-10,13190,False,54,gem,5
+Orchha,2026-03-15,850,False,38,gem,1
+Orchha,2026-03-15,1870,False,54,gem,2
+Orchha,2026-03-15,3230,False,58,gem,3
+Orchha,2026-03-15,5780,False,38,gem,4
+Orchha,2026-03-15,13580,False,49,gem,5
+Orchha,2026-04-20,850,False,43,gem,1
+Orchha,2026-04-20,1750,False,45,gem,2
+Orchha,2026-04-20,3310,False,60,gem,3
+Orchha,2026-04-20,6110,False,42,gem,4
+Orchha,2026-04-20,14440,False,51,gem,5
+Orchha,2026-05-25,810,False,49,gem,1
+Orchha,2026-05-25,1770,False,41,gem,2
+Orchha,2026-05-25,3380,False,48,gem,3
+Orchha,2026-05-25,5680,False,41,gem,4
+Orchha,2026-05-25,13930,False,54,gem,5
+Orchha,2026-06-04,810,False,41,gem,1
+Orchha,2026-06-04,1870,False,52,gem,2
+Orchha,2026-06-04,3380,False,49,gem,3
+Orchha,2026-06-04,5550,False,50,gem,4
+Orchha,2026-06-04,14020,False,43,gem,5
+Orchha,2026-07-09,860,False,56,gem,1
+Orchha,2026-07-09,1870,False,58,gem,2
+Orchha,2026-07-09,3020,False,61,gem,3
+Orchha,2026-07-09,6040,False,53,gem,4
+Orchha,2026-07-09,13210,False,59,gem,5
+Orchha,2026-08-14,970,True,68,gem,1
+Orchha,2026-08-14,2230,True,67,gem,2
+Orchha,2026-08-14,3820,True,82,gem,3
+Orchha,2026-08-14,7140,True,73,gem,4
+Orchha,2026-08-14,17870,True,74,gem,5
+Orchha,2026-09-19,860,False,53,gem,1
+Orchha,2026-09-19,1850,False,40,gem,2
+Orchha,2026-09-19,3380,False,61,gem,3
+Orchha,2026-09-19,6010,False,61,gem,4
+Orchha,2026-09-19,14370,False,63,gem,5
+Orchha,2026-10-24,860,False,58,gem,1
+Orchha,2026-10-24,1690,False,48,gem,2
+Orchha,2026-10-24,3310,False,41,gem,3
+Orchha,2026-10-24,5990,False,59,gem,4
+Orchha,2026-10-24,14640,False,50,gem,5
+Orchha,2026-11-03,870,False,52,gem,1
+Orchha,2026-11-03,1880,False,54,gem,2
+Orchha,2026-11-03,3360,False,51,gem,3
+Orchha,2026-11-03,5740,False,58,gem,4
+Orchha,2026-11-03,13650,False,61,gem,5
+Orchha,2026-12-08,840,False,44,gem,1
+Orchha,2026-12-08,1830,False,50,gem,2
+Orchha,2026-12-08,3060,False,47,gem,3
+Orchha,2026-12-08,5680,False,49,gem,4
+Orchha,2026-12-08,14580,False,56,gem,5
+Pachmarhi,2026-01-05,800,False,60,emerging,1
+Pachmarhi,2026-01-05,1760,False,63,emerging,2
+Pachmarhi,2026-01-05,3100,False,40,emerging,3
+Pachmarhi,2026-01-05,5670,False,62,emerging,4
+Pachmarhi,2026-01-05,13680,False,61,emerging,5
+Pachmarhi,2026-02-10,850,False,60,emerging,1
+Pachmarhi,2026-02-10,1770,False,60,emerging,2
+Pachmarhi,2026-02-10,3180,False,59,emerging,3
+Pachmarhi,2026-02-10,5500,False,40,emerging,4
+Pachmarhi,2026-02-10,14390,False,49,emerging,5
+Pachmarhi,2026-03-15,890,False,38,emerging,1
+Pachmarhi,2026-03-15,1900,False,38,emerging,2
+Pachmarhi,2026-03-15,3120,False,50,emerging,3
+Pachmarhi,2026-03-15,6020,False,55,emerging,4
+Pachmarhi,2026-03-15,13640,False,38,emerging,5
+Pachmarhi,2026-04-20,880,False,53,emerging,1
+Pachmarhi,2026-04-20,1830,False,49,emerging,2
+Pachmarhi,2026-04-20,3010,False,45,emerging,3
+Pachmarhi,2026-04-20,6040,False,56,emerging,4
+Pachmarhi,2026-04-20,14380,False,45,emerging,5
+Pachmarhi,2026-05-25,860,False,40,emerging,1
+Pachmarhi,2026-05-25,1890,False,41,emerging,2
+Pachmarhi,2026-05-25,3100,False,41,emerging,3
+Pachmarhi,2026-05-25,5780,False,60,emerging,4
+Pachmarhi,2026-05-25,14110,False,44,emerging,5
+Pachmarhi,2026-06-04,810,False,60,emerging,1
+Pachmarhi,2026-06-04,1800,False,57,emerging,2
+Pachmarhi,2026-06-04,3090,False,40,emerging,3
+Pachmarhi,2026-06-04,5510,False,51,emerging,4
+Pachmarhi,2026-06-04,13380,False,46,emerging,5
+Pachmarhi,2026-07-09,890,False,41,emerging,1
+Pachmarhi,2026-07-09,1850,False,51,emerging,2
+Pachmarhi,2026-07-09,3340,False,50,emerging,3
+Pachmarhi,2026-07-09,6010,False,59,emerging,4
+Pachmarhi,2026-07-09,13440,False,58,emerging,5
+Pachmarhi,2026-08-14,1070,True,74,emerging,1
+Pachmarhi,2026-08-14,2220,True,66,emerging,2
+Pachmarhi,2026-08-14,3980,True,81,emerging,3
+Pachmarhi,2026-08-14,6930,True,64,emerging,4
+Pachmarhi,2026-08-14,16340,True,79,emerging,5
+Pachmarhi,2026-09-19,810,False,55,emerging,1
+Pachmarhi,2026-09-19,1850,False,62,emerging,2
+Pachmarhi,2026-09-19,3240,False,48,emerging,3
+Pachmarhi,2026-09-19,5460,False,62,emerging,4
+Pachmarhi,2026-09-19,13740,False,58,emerging,5
+Pachmarhi,2026-10-24,860,False,57,emerging,1
+Pachmarhi,2026-10-24,1880,False,52,emerging,2
+Pachmarhi,2026-10-24,3160,False,39,emerging,3
+Pachmarhi,2026-10-24,5730,False,50,emerging,4
+Pachmarhi,2026-10-24,13360,False,51,emerging,5
+Pachmarhi,2026-11-03,820,False,38,emerging,1
+Pachmarhi,2026-11-03,1730,False,58,emerging,2
+Pachmarhi,2026-11-03,3120,False,44,emerging,3
+Pachmarhi,2026-11-03,5810,False,49,emerging,4
+Pachmarhi,2026-11-03,14080,False,53,emerging,5
+Pachmarhi,2026-12-08,850,False,52,emerging,1
+Pachmarhi,2026-12-08,1840,False,47,emerging,2
+Pachmarhi,2026-12-08,3150,False,56,emerging,3
+Pachmarhi,2026-12-08,6000,False,41,emerging,4
+Pachmarhi,2026-12-08,14150,False,49,emerging,5
+Rann of Kutch,2026-01-23,850,False,46,popular,1
+Rann of Kutch,2026-01-23,1690,False,55,popular,2
+Rann of Kutch,2026-01-23,3090,False,42,popular,3
+Rann of Kutch,2026-01-23,5640,False,57,popular,4
+Rann of Kutch,2026-01-23,14370,False,50,popular,5
+Rann of Kutch,2026-02-02,830,False,40,popular,1
+Rann of Kutch,2026-02-02,1880,False,44,popular,2
+Rann of Kutch,2026-02-02,3140,False,41,popular,3
+Rann of Kutch,2026-02-02,5600,False,53,popular,4
+Rann of Kutch,2026-02-02,14730,False,44,popular,5
+Rann of Kutch,2026-03-07,850,False,43,popular,1
+Rann of Kutch,2026-03-07,1820,False,48,popular,2
+Rann of Kutch,2026-03-07,3380,False,43,popular,3
+Rann of Kutch,2026-03-07,5540,False,59,popular,4
+Rann of Kutch,2026-03-07,13720,False,39,popular,5
+Rann of Kutch,2026-04-12,820,False,56,popular,1
+Rann of Kutch,2026-04-12,1860,False,54,popular,2
+Rann of Kutch,2026-04-12,3140,False,41,popular,3
+Rann of Kutch,2026-04-12,5770,False,42,popular,4
+Rann of Kutch,2026-04-12,13350,False,42,popular,5
+Rann of Kutch,2026-05-17,840,False,58,popular,1
+Rann of Kutch,2026-05-17,1780,False,45,popular,2
+Rann of Kutch,2026-05-17,3070,False,61,popular,3
+Rann of Kutch,2026-05-17,6080,False,47,popular,4
+Rann of Kutch,2026-05-17,13720,False,63,popular,5
+Rann of Kutch,2026-06-22,900,False,54,popular,1
+Rann of Kutch,2026-06-22,1870,False,53,popular,2
+Rann of Kutch,2026-06-22,3190,False,43,popular,3
+Rann of Kutch,2026-06-22,5520,False,45,popular,4
+Rann of Kutch,2026-06-22,14830,False,46,popular,5
+Rann of Kutch,2026-07-01,850,False,43,popular,1
+Rann of Kutch,2026-07-01,1880,False,47,popular,2
+Rann of Kutch,2026-07-01,3250,False,56,popular,3
+Rann of Kutch,2026-07-01,5610,False,55,popular,4
+Rann of Kutch,2026-07-01,13370,False,59,popular,5
+Rann of Kutch,2026-08-06,880,False,56,popular,1
+Rann of Kutch,2026-08-06,1770,False,43,popular,2
+Rann of Kutch,2026-08-06,3120,False,41,popular,3
+Rann of Kutch,2026-08-06,6030,False,49,popular,4
+Rann of Kutch,2026-08-06,13530,False,42,popular,5
+Rann of Kutch,2026-09-11,810,False,63,popular,1
+Rann of Kutch,2026-09-11,1730,False,61,popular,2
+Rann of Kutch,2026-09-11,3080,False,54,popular,3
+Rann of Kutch,2026-09-11,5590,False,41,popular,4
+Rann of Kutch,2026-09-11,14580,False,60,popular,5
+Rann of Kutch,2026-10-16,820,False,46,popular,1
+Rann of Kutch,2026-10-16,1840,False,41,popular,2
+Rann of Kutch,2026-10-16,3220,False,47,popular,3
+Rann of Kutch,2026-10-16,5470,False,59,popular,4
+Rann of Kutch,2026-10-16,13190,False,41,popular,5
+Rann of Kutch,2026-11-21,820,False,44,popular,1
+Rann of Kutch,2026-11-21,1840,False,54,popular,2
+Rann of Kutch,2026-11-21,3010,False,58,popular,3
+Rann of Kutch,2026-11-21,5660,False,49,popular,4
+Rann of Kutch,2026-11-21,13190,False,51,popular,5
+Rann of Kutch,2026-12-26,1030,True,66,popular,1
+Rann of Kutch,2026-12-26,2210,True,83,popular,2
+Rann of Kutch,2026-12-26,3900,True,78,popular,3
+Rann of Kutch,2026-12-26,7090,True,65,popular,4
+Rann of Kutch,2026-12-26,17720,True,75,popular,5
+Ahmedabad,2026-01-19,900,False,57,popular,1
+Ahmedabad,2026-01-19,1850,False,51,popular,2
+Ahmedabad,2026-01-19,3120,False,42,popular,3
+Ahmedabad,2026-01-19,5530,False,54,popular,4
+Ahmedabad,2026-01-19,14120,False,47,popular,5
+Ahmedabad,2026-02-24,820,False,60,popular,1
+Ahmedabad,2026-02-24,1890,False,41,popular,2
+Ahmedabad,2026-02-24,3070,False,59,popular,3
+Ahmedabad,2026-02-24,5900,False,55,popular,4
+Ahmedabad,2026-02-24,13450,False,54,popular,5
+Ahmedabad,2026-03-03,900,False,60,popular,1
+Ahmedabad,2026-03-03,1700,False,48,popular,2
+Ahmedabad,2026-03-03,3110,False,38,popular,3
+Ahmedabad,2026-03-03,5610,False,39,popular,4
+Ahmedabad,2026-03-03,14750,False,52,popular,5
+Ahmedabad,2026-04-08,850,False,45,popular,1
+Ahmedabad,2026-04-08,1730,False,46,popular,2
+Ahmedabad,2026-04-08,3050,False,63,popular,3
+Ahmedabad,2026-04-08,5970,False,45,popular,4
+Ahmedabad,2026-04-08,14140,False,57,popular,5
+Ahmedabad,2026-05-13,810,False,55,popular,1
+Ahmedabad,2026-05-13,1790,False,62,popular,2
+Ahmedabad,2026-05-13,3150,False,50,popular,3
+Ahmedabad,2026-05-13,5600,False,53,popular,4
+Ahmedabad,2026-05-13,14470,False,51,popular,5
+Ahmedabad,2026-06-18,840,False,47,popular,1
+Ahmedabad,2026-06-18,1890,False,38,popular,2
+Ahmedabad,2026-06-18,3230,False,52,popular,3
+Ahmedabad,2026-06-18,5660,False,48,popular,4
+Ahmedabad,2026-06-18,14800,False,42,popular,5
+Ahmedabad,2026-07-23,900,False,61,popular,1
+Ahmedabad,2026-07-23,1850,False,42,popular,2
+Ahmedabad,2026-07-23,3210,False,44,popular,3
+Ahmedabad,2026-07-23,5810,False,39,popular,4
+Ahmedabad,2026-07-23,13490,False,58,popular,5
+Ahmedabad,2026-08-02,810,False,43,popular,1
+Ahmedabad,2026-08-02,1740,False,58,popular,2
+Ahmedabad,2026-08-02,3160,False,51,popular,3
+Ahmedabad,2026-08-02,5520,False,62,popular,4
+Ahmedabad,2026-08-02,13690,False,60,popular,5
+Ahmedabad,2026-09-07,860,False,59,popular,1
+Ahmedabad,2026-09-07,1820,False,59,popular,2
+Ahmedabad,2026-09-07,3020,False,38,popular,3
+Ahmedabad,2026-09-07,5490,False,58,popular,4
+Ahmedabad,2026-09-07,14760,False,61,popular,5
+Ahmedabad,2026-10-12,840,False,59,popular,1
+Ahmedabad,2026-10-12,1720,False,43,popular,2
+Ahmedabad,2026-10-12,3360,False,42,popular,3
+Ahmedabad,2026-10-12,5540,False,56,popular,4
+Ahmedabad,2026-10-12,13560,False,58,popular,5
+Ahmedabad,2026-11-17,890,False,52,popular,1
+Ahmedabad,2026-11-17,1740,False,47,popular,2
+Ahmedabad,2026-11-17,3390,False,45,popular,3
+Ahmedabad,2026-11-17,5770,False,54,popular,4
+Ahmedabad,2026-11-17,14080,False,57,popular,5
+Ahmedabad,2026-12-22,890,False,43,popular,1
+Ahmedabad,2026-12-22,1750,False,54,popular,2
+Ahmedabad,2026-12-22,3210,False,38,popular,3
+Ahmedabad,2026-12-22,5920,False,52,popular,4
+Ahmedabad,2026-12-22,14630,False,57,popular,5
+Dwarka,2026-01-10,870,False,58,popular,1
+Dwarka,2026-01-10,1870,False,54,popular,2
+Dwarka,2026-01-10,3120,False,58,popular,3
+Dwarka,2026-01-10,5560,False,60,popular,4
+Dwarka,2026-01-10,13580,False,56,popular,5
+Dwarka,2026-02-15,870,False,61,popular,1
+Dwarka,2026-02-15,1730,False,52,popular,2
+Dwarka,2026-02-15,3280,False,43,popular,3
+Dwarka,2026-02-15,5980,False,53,popular,4
+Dwarka,2026-02-15,13640,False,38,popular,5
+Dwarka,2026-03-20,880,False,52,popular,1
+Dwarka,2026-03-20,1690,False,52,popular,2
+Dwarka,2026-03-20,3240,False,42,popular,3
+Dwarka,2026-03-20,5970,False,63,popular,4
+Dwarka,2026-03-20,13500,False,55,popular,5
+Dwarka,2026-04-25,860,False,63,popular,1
+Dwarka,2026-04-25,1730,False,62,popular,2
+Dwarka,2026-04-25,3130,False,61,popular,3
+Dwarka,2026-04-25,5650,False,52,popular,4
+Dwarka,2026-04-25,13510,False,42,popular,5
+Dwarka,2026-05-04,850,False,61,popular,1
+Dwarka,2026-05-04,1840,False,39,popular,2
+Dwarka,2026-05-04,3100,False,44,popular,3
+Dwarka,2026-05-04,5670,False,52,popular,4
+Dwarka,2026-05-04,13650,False,48,popular,5
+Dwarka,2026-06-09,820,False,55,popular,1
+Dwarka,2026-06-09,1820,False,49,popular,2
+Dwarka,2026-06-09,3270,False,40,popular,3
+Dwarka,2026-06-09,6120,False,44,popular,4
+Dwarka,2026-06-09,13850,False,49,popular,5
+Dwarka,2026-07-14,820,False,50,popular,1
+Dwarka,2026-07-14,1780,False,63,popular,2
+Dwarka,2026-07-14,3110,False,39,popular,3
+Dwarka,2026-07-14,5540,False,44,popular,4
+Dwarka,2026-07-14,14020,False,38,popular,5
+Dwarka,2026-08-19,810,False,61,popular,1
+Dwarka,2026-08-19,1790,False,59,popular,2
+Dwarka,2026-08-19,3380,False,62,popular,3
+Dwarka,2026-08-19,5930,False,45,popular,4
+Dwarka,2026-08-19,14750,False,49,popular,5
+Dwarka,2026-09-24,860,False,46,popular,1
+Dwarka,2026-09-24,1790,False,45,popular,2
+Dwarka,2026-09-24,3070,False,62,popular,3
+Dwarka,2026-09-24,6060,False,46,popular,4
+Dwarka,2026-09-24,13690,False,52,popular,5
+Dwarka,2026-10-03,890,False,57,popular,1
+Dwarka,2026-10-03,1790,False,55,popular,2
+Dwarka,2026-10-03,3140,False,51,popular,3
+Dwarka,2026-10-03,5810,False,40,popular,4
+Dwarka,2026-10-03,14000,False,39,popular,5
+Dwarka,2026-11-08,810,False,49,popular,1
+Dwarka,2026-11-08,1790,False,53,popular,2
+Dwarka,2026-11-08,3150,False,57,popular,3
+Dwarka,2026-11-08,5920,False,38,popular,4
+Dwarka,2026-11-08,14570,False,40,popular,5
+Dwarka,2026-12-13,820,False,58,popular,1
+Dwarka,2026-12-13,1770,False,47,popular,2
+Dwarka,2026-12-13,3140,False,46,popular,3
+Dwarka,2026-12-13,5990,False,50,popular,4
+Dwarka,2026-12-13,13640,False,39,popular,5
+Puri,2026-01-06,840,False,61,popular,1
+Puri,2026-01-06,1790,False,49,popular,2
+Puri,2026-01-06,3020,False,60,popular,3
+Puri,2026-01-06,5600,False,42,popular,4
+Puri,2026-01-06,13460,False,46,popular,5
+Puri,2026-02-11,810,False,51,popular,1
+Puri,2026-02-11,1880,False,39,popular,2
+Puri,2026-02-11,3130,False,41,popular,3
+Puri,2026-02-11,5890,False,52,popular,4
+Puri,2026-02-11,13820,False,57,popular,5
+Puri,2026-03-16,860,False,38,popular,1
+Puri,2026-03-16,1730,False,55,popular,2
+Puri,2026-03-16,3320,False,48,popular,3
+Puri,2026-03-16,6010,False,44,popular,4
+Puri,2026-03-16,14410,False,62,popular,5
+Puri,2026-04-21,870,False,52,popular,1
+Puri,2026-04-21,1790,False,46,popular,2
+Puri,2026-04-21,3160,False,42,popular,3
+Puri,2026-04-21,5930,False,58,popular,4
+Puri,2026-04-21,14060,False,42,popular,5
+Puri,2026-05-26,830,False,52,popular,1
+Puri,2026-05-26,1710,False,39,popular,2
+Puri,2026-05-26,3320,False,63,popular,3
+Puri,2026-05-26,6050,False,52,popular,4
+Puri,2026-05-26,13960,False,62,popular,5
+Puri,2026-06-05,810,False,62,popular,1
+Puri,2026-06-05,1770,False,49,popular,2
+Puri,2026-06-05,3170,False,54,popular,3
+Puri,2026-06-05,5570,False,60,popular,4
+Puri,2026-06-05,14030,False,60,popular,5
+Puri,2026-07-10,870,False,45,popular,1
+Puri,2026-07-10,1730,False,63,popular,2
+Puri,2026-07-10,3100,False,62,popular,3
+Puri,2026-07-10,5930,False,59,popular,4
+Puri,2026-07-10,13320,False,54,popular,5
+Puri,2026-08-15,1060,True,81,popular,1
+Puri,2026-08-15,2120,True,82,popular,2
+Puri,2026-08-15,3900,True,64,popular,3
+Puri,2026-08-15,7000,True,70,popular,4
+Puri,2026-08-15,16100,True,66,popular,5
+Puri,2026-09-20,850,False,55,popular,1
+Puri,2026-09-20,1890,False,55,popular,2
+Puri,2026-09-20,3380,False,55,popular,3
+Puri,2026-09-20,6130,False,57,popular,4
+Puri,2026-09-20,14440,False,46,popular,5
+Puri,2026-10-25,1010,True,73,popular,1
+Puri,2026-10-25,2370,True,84,popular,2
+Puri,2026-10-25,3800,True,78,popular,3
+Puri,2026-10-25,7190,True,66,popular,4
+Puri,2026-10-25,17320,True,62,popular,5
+Puri,2026-11-04,880,False,41,popular,1
+Puri,2026-11-04,1900,False,55,popular,2
+Puri,2026-11-04,3090,False,43,popular,3
+Puri,2026-11-04,6130,False,58,popular,4
+Puri,2026-11-04,13990,False,55,popular,5
+Puri,2026-12-09,820,False,50,popular,1
+Puri,2026-12-09,1690,False,48,popular,2
+Puri,2026-12-09,3300,False,44,popular,3
+Puri,2026-12-09,5840,False,44,popular,4
+Puri,2026-12-09,14320,False,53,popular,5
+Konark,2026-01-22,900,False,45,popular,1
+Konark,2026-01-22,1760,False,43,popular,2
+Konark,2026-01-22,3260,False,53,popular,3
+Konark,2026-01-22,6010,False,50,popular,4
+Konark,2026-01-22,13360,False,41,popular,5
+Konark,2026-02-01,870,False,61,popular,1
+Konark,2026-02-01,1900,False,41,popular,2
+Konark,2026-02-01,3140,False,55,popular,3
+Konark,2026-02-01,5930,False,44,popular,4
+Konark,2026-02-01,13410,False,45,popular,5
+Konark,2026-03-06,820,False,62,popular,1
+Konark,2026-03-06,1880,False,56,popular,2
+Konark,2026-03-06,3110,False,38,popular,3
+Konark,2026-03-06,6130,False,40,popular,4
+Konark,2026-03-06,14700,False,60,popular,5
+Konark,2026-04-11,800,False,40,popular,1
+Konark,2026-04-11,1830,False,55,popular,2
+Konark,2026-04-11,3390,False,42,popular,3
+Konark,2026-04-11,5820,False,40,popular,4
+Konark,2026-04-11,13300,False,52,popular,5
+Konark,2026-05-16,860,False,50,popular,1
+Konark,2026-05-16,1740,False,41,popular,2
+Konark,2026-05-16,3250,False,38,popular,3
+Konark,2026-05-16,5720,False,44,popular,4
+Konark,2026-05-16,14240,False,44,popular,5
+Konark,2026-06-21,840,False,49,popular,1
+Konark,2026-06-21,1890,False,44,popular,2
+Konark,2026-06-21,3290,False,47,popular,3
+Konark,2026-06-21,5980,False,63,popular,4
+Konark,2026-06-21,14740,False,38,popular,5
+Konark,2026-07-26,870,False,63,popular,1
+Konark,2026-07-26,1860,False,41,popular,2
+Konark,2026-07-26,3040,False,62,popular,3
+Konark,2026-07-26,5590,False,56,popular,4
+Konark,2026-07-26,14390,False,55,popular,5
+Konark,2026-08-05,800,False,41,popular,1
+Konark,2026-08-05,1840,False,42,popular,2
+Konark,2026-08-05,3250,False,40,popular,3
+Konark,2026-08-05,5830,False,40,popular,4
+Konark,2026-08-05,14380,False,53,popular,5
+Konark,2026-09-10,820,False,62,popular,1
+Konark,2026-09-10,1810,False,60,popular,2
+Konark,2026-09-10,3100,False,42,popular,3
+Konark,2026-09-10,5720,False,54,popular,4
+Konark,2026-09-10,13390,False,49,popular,5
+Konark,2026-10-15,970,True,75,popular,1
+Konark,2026-10-15,2320,True,65,popular,2
+Konark,2026-10-15,4160,True,63,popular,3
+Konark,2026-10-15,7650,True,79,popular,4
+Konark,2026-10-15,15870,True,68,popular,5
+Konark,2026-11-20,840,False,46,popular,1
+Konark,2026-11-20,1730,False,62,popular,2
+Konark,2026-11-20,3300,False,51,popular,3
+Konark,2026-11-20,5640,False,46,popular,4
+Konark,2026-11-20,14420,False,43,popular,5
+Konark,2026-12-25,1000,True,82,popular,1
+Konark,2026-12-25,2330,True,62,popular,2
+Konark,2026-12-25,3620,True,64,popular,3
+Konark,2026-12-25,6840,True,64,popular,4
+Konark,2026-12-25,16750,True,80,popular,5
+Raghurajpur,2026-01-25,1030,True,64,gem,1
+Raghurajpur,2026-01-25,2310,True,69,gem,2
+Raghurajpur,2026-01-25,3990,True,68,gem,3
+Raghurajpur,2026-01-25,7620,True,76,gem,4
+Raghurajpur,2026-01-25,18760,True,81,gem,5
+Raghurajpur,2026-02-04,890,False,63,gem,1
+Raghurajpur,2026-02-04,1810,False,45,gem,2
+Raghurajpur,2026-02-04,3140,False,57,gem,3
+Raghurajpur,2026-02-04,6050,False,38,gem,4
+Raghurajpur,2026-02-04,14060,False,46,gem,5
+Raghurajpur,2026-03-09,870,False,58,gem,1
+Raghurajpur,2026-03-09,1870,False,49,gem,2
+Raghurajpur,2026-03-09,3170,False,41,gem,3
+Raghurajpur,2026-03-09,5510,False,58,gem,4
+Raghurajpur,2026-03-09,13510,False,40,gem,5
+Raghurajpur,2026-04-14,800,False,48,gem,1
+Raghurajpur,2026-04-14,1730,False,58,gem,2
+Raghurajpur,2026-04-14,3280,False,43,gem,3
+Raghurajpur,2026-04-14,5890,False,59,gem,4
+Raghurajpur,2026-04-14,13330,False,50,gem,5
+Raghurajpur,2026-05-19,860,False,52,gem,1
+Raghurajpur,2026-05-19,1890,False,38,gem,2
+Raghurajpur,2026-05-19,3080,False,61,gem,3
+Raghurajpur,2026-05-19,6070,False,60,gem,4
+Raghurajpur,2026-05-19,14610,False,50,gem,5
+Raghurajpur,2026-06-24,860,False,52,gem,1
+Raghurajpur,2026-06-24,1900,False,53,gem,2
+Raghurajpur,2026-06-24,3130,False,42,gem,3
+Raghurajpur,2026-06-24,5980,False,52,gem,4
+Raghurajpur,2026-06-24,14270,False,62,gem,5
+Raghurajpur,2026-07-03,850,False,50,gem,1
+Raghurajpur,2026-07-03,1780,False,50,gem,2
+Raghurajpur,2026-07-03,3070,False,54,gem,3
+Raghurajpur,2026-07-03,5570,False,61,gem,4
+Raghurajpur,2026-07-03,14300,False,54,gem,5
+Raghurajpur,2026-08-08,850,False,60,gem,1
+Raghurajpur,2026-08-08,1770,False,44,gem,2
+Raghurajpur,2026-08-08,3300,False,53,gem,3
+Raghurajpur,2026-08-08,6050,False,59,gem,4
+Raghurajpur,2026-08-08,13660,False,62,gem,5
+Raghurajpur,2026-09-13,860,False,62,gem,1
+Raghurajpur,2026-09-13,1810,False,51,gem,2
+Raghurajpur,2026-09-13,3350,False,51,gem,3
+Raghurajpur,2026-09-13,5630,False,47,gem,4
+Raghurajpur,2026-09-13,14000,False,57,gem,5
+Raghurajpur,2026-10-18,800,False,55,gem,1
+Raghurajpur,2026-10-18,1740,False,44,gem,2
+Raghurajpur,2026-10-18,3060,False,54,gem,3
+Raghurajpur,2026-10-18,5940,False,56,gem,4
+Raghurajpur,2026-10-18,13570,False,43,gem,5
+Raghurajpur,2026-11-23,880,False,42,gem,1
+Raghurajpur,2026-11-23,1730,False,44,gem,2
+Raghurajpur,2026-11-23,3220,False,63,gem,3
+Raghurajpur,2026-11-23,5970,False,63,gem,4
+Raghurajpur,2026-11-23,14540,False,39,gem,5
+Raghurajpur,2026-12-02,870,False,63,gem,1
+Raghurajpur,2026-12-02,1750,False,41,gem,2
+Raghurajpur,2026-12-02,3330,False,54,gem,3
+Raghurajpur,2026-12-02,5930,False,63,gem,4
+Raghurajpur,2026-12-02,13670,False,50,gem,5
+Gangtok,2026-01-19,830,False,39,popular,1
+Gangtok,2026-01-19,1780,False,53,popular,2
+Gangtok,2026-01-19,3290,False,61,popular,3
+Gangtok,2026-01-19,5910,False,60,popular,4
+Gangtok,2026-01-19,14530,False,54,popular,5
+Gangtok,2026-02-24,900,False,45,popular,1
+Gangtok,2026-02-24,1780,False,61,popular,2
+Gangtok,2026-02-24,3070,False,38,popular,3
+Gangtok,2026-02-24,5850,False,62,popular,4
+Gangtok,2026-02-24,13790,False,46,popular,5
+Gangtok,2026-03-03,850,False,50,popular,1
+Gangtok,2026-03-03,1840,False,60,popular,2
+Gangtok,2026-03-03,3320,False,55,popular,3
+Gangtok,2026-03-03,6100,False,38,popular,4
+Gangtok,2026-03-03,14070,False,42,popular,5
+Gangtok,2026-04-08,810,False,59,popular,1
+Gangtok,2026-04-08,1730,False,51,popular,2
+Gangtok,2026-04-08,3280,False,43,popular,3
+Gangtok,2026-04-08,6030,False,41,popular,4
+Gangtok,2026-04-08,14100,False,52,popular,5
+Gangtok,2026-05-13,870,False,43,popular,1
+Gangtok,2026-05-13,1770,False,41,popular,2
+Gangtok,2026-05-13,3080,False,53,popular,3
+Gangtok,2026-05-13,6050,False,60,popular,4
+Gangtok,2026-05-13,13570,False,61,popular,5
+Gangtok,2026-06-18,810,False,53,popular,1
+Gangtok,2026-06-18,1740,False,41,popular,2
+Gangtok,2026-06-18,3200,False,45,popular,3
+Gangtok,2026-06-18,5690,False,56,popular,4
+Gangtok,2026-06-18,13500,False,61,popular,5
+Gangtok,2026-07-23,850,False,58,popular,1
+Gangtok,2026-07-23,1770,False,63,popular,2
+Gangtok,2026-07-23,3320,False,42,popular,3
+Gangtok,2026-07-23,5930,False,45,popular,4
+Gangtok,2026-07-23,13210,False,52,popular,5
+Gangtok,2026-08-02,810,False,58,popular,1
+Gangtok,2026-08-02,1770,False,61,popular,2
+Gangtok,2026-08-02,3050,False,44,popular,3
+Gangtok,2026-08-02,5610,False,62,popular,4
+Gangtok,2026-08-02,14570,False,48,popular,5
+Gangtok,2026-09-07,870,False,53,popular,1
+Gangtok,2026-09-07,1780,False,62,popular,2
+Gangtok,2026-09-07,3310,False,54,popular,3
+Gangtok,2026-09-07,5690,False,55,popular,4
+Gangtok,2026-09-07,14140,False,46,popular,5
+Gangtok,2026-10-12,890,False,50,popular,1
+Gangtok,2026-10-12,1750,False,53,popular,2
+Gangtok,2026-10-12,3080,False,57,popular,3
+Gangtok,2026-10-12,5990,False,48,popular,4
+Gangtok,2026-10-12,14830,False,42,popular,5
+Gangtok,2026-11-17,810,False,43,popular,1
+Gangtok,2026-11-17,1860,False,62,popular,2
+Gangtok,2026-11-17,3040,False,45,popular,3
+Gangtok,2026-11-17,5640,False,54,popular,4
+Gangtok,2026-11-17,14510,False,56,popular,5
+Gangtok,2026-12-22,900,False,40,popular,1
+Gangtok,2026-12-22,1820,False,51,popular,2
+Gangtok,2026-12-22,3370,False,61,popular,3
+Gangtok,2026-12-22,5990,False,55,popular,4
+Gangtok,2026-12-22,14740,False,49,popular,5
+Lachung,2026-01-10,830,False,49,emerging,1
+Lachung,2026-01-10,1860,False,46,emerging,2
+Lachung,2026-01-10,3140,False,38,emerging,3
+Lachung,2026-01-10,5920,False,60,emerging,4
+Lachung,2026-02-15,890,False,53,emerging,1
+Lachung,2026-02-15,1790,False,51,emerging,2
+Lachung,2026-02-15,3180,False,52,emerging,3
+Lachung,2026-02-15,5990,False,59,emerging,4
+Lachung,2026-03-20,870,False,61,emerging,1
+Lachung,2026-03-20,1870,False,48,emerging,2
+Lachung,2026-03-20,3350,False,52,emerging,3
+Lachung,2026-03-20,5640,False,51,emerging,4
+Lachung,2026-04-25,850,False,53,emerging,1
+Lachung,2026-04-25,1740,False,57,emerging,2
+Lachung,2026-04-25,3070,False,52,emerging,3
+Lachung,2026-04-25,5490,False,40,emerging,4
+Lachung,2026-05-04,860,False,46,emerging,1
+Lachung,2026-05-04,1780,False,62,emerging,2
+Lachung,2026-05-04,3100,False,59,emerging,3
+Lachung,2026-05-04,5790,False,60,emerging,4
+Lachung,2026-06-09,800,False,48,emerging,1
+Lachung,2026-06-09,1770,False,54,emerging,2
+Lachung,2026-06-09,3310,False,40,emerging,3
+Lachung,2026-06-09,5560,False,55,emerging,4
+Lachung,2026-07-14,840,False,61,emerging,1
+Lachung,2026-07-14,1840,False,45,emerging,2
+Lachung,2026-07-14,3160,False,46,emerging,3
+Lachung,2026-07-14,5810,False,55,emerging,4
+Lachung,2026-08-19,840,False,62,emerging,1
+Lachung,2026-08-19,1870,False,46,emerging,2
+Lachung,2026-08-19,3370,False,45,emerging,3
+Lachung,2026-08-19,5500,False,38,emerging,4
+Lachung,2026-09-24,880,False,58,emerging,1
+Lachung,2026-09-24,1790,False,43,emerging,2
+Lachung,2026-09-24,3340,False,38,emerging,3
+Lachung,2026-09-24,6080,False,38,emerging,4
+Lachung,2026-10-03,890,False,46,emerging,1
+Lachung,2026-10-03,1860,False,49,emerging,2
+Lachung,2026-10-03,3090,False,45,emerging,3
+Lachung,2026-10-03,6050,False,46,emerging,4
+Lachung,2026-11-08,830,False,48,emerging,1
+Lachung,2026-11-08,1790,False,56,emerging,2
+Lachung,2026-11-08,3050,False,56,emerging,3
+Lachung,2026-11-08,5910,False,43,emerging,4
+Lachung,2026-12-13,820,False,51,emerging,1
+Lachung,2026-12-13,1850,False,52,emerging,2
+Lachung,2026-12-13,3280,False,56,emerging,3
+Lachung,2026-12-13,6100,False,43,emerging,4
+Kaziranga,2026-01-16,890,False,45,popular,1
+Kaziranga,2026-01-16,1860,False,53,popular,2
+Kaziranga,2026-01-16,3290,False,60,popular,3
+Kaziranga,2026-01-16,6130,False,42,popular,4
+Kaziranga,2026-01-16,14360,False,57,popular,5
+Kaziranga,2026-02-21,880,False,50,popular,1
+Kaziranga,2026-02-21,1700,False,63,popular,2
+Kaziranga,2026-02-21,3370,False,56,popular,3
+Kaziranga,2026-02-21,5900,False,58,popular,4
+Kaziranga,2026-02-21,14750,False,44,popular,5
+Kaziranga,2026-03-26,810,False,39,popular,1
+Kaziranga,2026-03-26,1760,False,39,popular,2
+Kaziranga,2026-03-26,3250,False,59,popular,3
+Kaziranga,2026-03-26,5680,False,43,popular,4
+Kaziranga,2026-03-26,14750,False,56,popular,5
+Kaziranga,2026-04-05,860,False,58,popular,1
+Kaziranga,2026-04-05,1860,False,51,popular,2
+Kaziranga,2026-04-05,3060,False,47,popular,3
+Kaziranga,2026-04-05,5850,False,39,popular,4
+Kaziranga,2026-04-05,13540,False,51,popular,5
+Kaziranga,2026-05-10,840,False,62,popular,1
+Kaziranga,2026-05-10,1720,False,54,popular,2
+Kaziranga,2026-05-10,3180,False,63,popular,3
+Kaziranga,2026-05-10,6060,False,45,popular,4
+Kaziranga,2026-05-10,13600,False,46,popular,5
+Kaziranga,2026-06-15,800,False,59,popular,1
+Kaziranga,2026-06-15,1800,False,40,popular,2
+Kaziranga,2026-06-15,3120,False,45,popular,3
+Kaziranga,2026-06-15,5950,False,55,popular,4
+Kaziranga,2026-06-15,13980,False,55,popular,5
+Kaziranga,2026-07-20,830,False,42,popular,1
+Kaziranga,2026-07-20,1770,False,58,popular,2
+Kaziranga,2026-07-20,3020,False,48,popular,3
+Kaziranga,2026-07-20,5510,False,63,popular,4
+Kaziranga,2026-07-20,14690,False,61,popular,5
+Kaziranga,2026-08-25,1040,True,74,popular,1
+Kaziranga,2026-08-25,2300,True,64,popular,2
+Kaziranga,2026-08-25,4170,True,63,popular,3
+Kaziranga,2026-08-25,7150,True,84,popular,4
+Kaziranga,2026-08-25,17660,True,81,popular,5
+Kaziranga,2026-09-04,900,False,41,popular,1
+Kaziranga,2026-09-04,1700,False,54,popular,2
+Kaziranga,2026-09-04,3320,False,52,popular,3
+Kaziranga,2026-09-04,6100,False,56,popular,4
+Kaziranga,2026-09-04,14120,False,43,popular,5
+Kaziranga,2026-10-09,850,False,53,popular,1
+Kaziranga,2026-10-09,1730,False,38,popular,2
+Kaziranga,2026-10-09,3370,False,50,popular,3
+Kaziranga,2026-10-09,5970,False,41,popular,4
+Kaziranga,2026-10-09,14060,False,44,popular,5
+Kaziranga,2026-11-14,1080,True,76,popular,1
+Kaziranga,2026-11-14,2280,True,87,popular,2
+Kaziranga,2026-11-14,4080,True,83,popular,3
+Kaziranga,2026-11-14,7630,True,82,popular,4
+Kaziranga,2026-11-14,17850,True,82,popular,5
+Kaziranga,2026-12-19,810,False,42,popular,1
+Kaziranga,2026-12-19,1730,False,44,popular,2
+Kaziranga,2026-12-19,3380,False,58,popular,3
+Kaziranga,2026-12-19,6040,False,63,popular,4
+Kaziranga,2026-12-19,13510,False,63,popular,5
+Majuli,2026-01-18,820,False,47,gem,1
+Majuli,2026-01-18,1810,False,61,gem,2
+Majuli,2026-01-18,3200,False,61,gem,3
+Majuli,2026-01-18,5700,False,42,gem,4
+Majuli,2026-01-18,14580,False,42,gem,5
+Majuli,2026-02-23,880,False,58,gem,1
+Majuli,2026-02-23,1880,False,46,gem,2
+Majuli,2026-02-23,3310,False,46,gem,3
+Majuli,2026-02-23,5660,False,47,gem,4
+Majuli,2026-02-23,13710,False,40,gem,5
+Majuli,2026-03-02,860,False,50,gem,1
+Majuli,2026-03-02,1830,False,45,gem,2
+Majuli,2026-03-02,3100,False,38,gem,3
+Majuli,2026-03-02,5970,False,56,gem,4
+Majuli,2026-03-02,13590,False,62,gem,5
+Majuli,2026-04-07,890,False,40,gem,1
+Majuli,2026-04-07,1800,False,60,gem,2
+Majuli,2026-04-07,3380,False,38,gem,3
+Majuli,2026-04-07,5740,False,60,gem,4
+Majuli,2026-04-07,13570,False,54,gem,5
+Majuli,2026-05-12,880,False,55,gem,1
+Majuli,2026-05-12,1760,False,38,gem,2
+Majuli,2026-05-12,3310,False,53,gem,3
+Majuli,2026-05-12,5960,False,62,gem,4
+Majuli,2026-05-12,14400,False,39,gem,5
+Majuli,2026-06-17,850,False,44,gem,1
+Majuli,2026-06-17,1770,False,58,gem,2
+Majuli,2026-06-17,3170,False,39,gem,3
+Majuli,2026-06-17,5740,False,39,gem,4
+Majuli,2026-06-17,13370,False,59,gem,5
+Majuli,2026-07-22,890,False,50,gem,1
+Majuli,2026-07-22,1720,False,52,gem,2
+Majuli,2026-07-22,3250,False,56,gem,3
+Majuli,2026-07-22,5920,False,49,gem,4
+Majuli,2026-07-22,13290,False,45,gem,5
+Majuli,2026-08-01,860,False,58,gem,1
+Majuli,2026-08-01,1880,False,57,gem,2
+Majuli,2026-08-01,3100,False,50,gem,3
+Majuli,2026-08-01,5780,False,40,gem,4
+Majuli,2026-08-01,13840,False,42,gem,5
+Majuli,2026-09-06,880,False,60,gem,1
+Majuli,2026-09-06,1700,False,57,gem,2
+Majuli,2026-09-06,3220,False,63,gem,3
+Majuli,2026-09-06,5640,False,46,gem,4
+Majuli,2026-09-06,14800,False,38,gem,5
+Majuli,2026-10-11,840,False,63,gem,1
+Majuli,2026-10-11,1900,False,54,gem,2
+Majuli,2026-10-11,3350,False,46,gem,3
+Majuli,2026-10-11,5480,False,58,gem,4
+Majuli,2026-10-11,14250,False,40,gem,5
+Majuli,2026-11-16,800,False,61,gem,1
+Majuli,2026-11-16,1780,False,39,gem,2
+Majuli,2026-11-16,3110,False,48,gem,3
+Majuli,2026-11-16,5850,False,55,gem,4
+Majuli,2026-11-16,14550,False,55,gem,5
+Majuli,2026-12-21,820,False,50,gem,1
+Majuli,2026-12-21,1710,False,61,gem,2
+Majuli,2026-12-21,3040,False,42,gem,3
+Majuli,2026-12-21,5520,False,59,gem,4
+Majuli,2026-12-21,14740,False,42,gem,5
+Tirthan Valley,2026-01-11,810,False,43,gem,1
+Tirthan Valley,2026-01-11,1910,False,52,gem,2
+Tirthan Valley,2026-01-11,3230,False,56,gem,3
+Tirthan Valley,2026-01-11,5680,False,42,gem,4
+Tirthan Valley,2026-01-11,14100,False,49,gem,5
+Tirthan Valley,2026-02-16,860,False,54,gem,1
+Tirthan Valley,2026-02-16,1730,False,55,gem,2
+Tirthan Valley,2026-02-16,3260,False,40,gem,3
+Tirthan Valley,2026-02-16,6020,False,54,gem,4
+Tirthan Valley,2026-02-16,13880,False,49,gem,5
+Tirthan Valley,2026-03-21,850,False,42,gem,1
+Tirthan Valley,2026-03-21,1810,False,40,gem,2
+Tirthan Valley,2026-03-21,3320,False,38,gem,3
+Tirthan Valley,2026-03-21,5690,False,47,gem,4
+Tirthan Valley,2026-03-21,13480,False,54,gem,5
+Tirthan Valley,2026-04-26,890,False,55,gem,1
+Tirthan Valley,2026-04-26,1810,False,48,gem,2
+Tirthan Valley,2026-04-26,3090,False,58,gem,3
+Tirthan Valley,2026-04-26,5480,False,55,gem,4
+Tirthan Valley,2026-04-26,13270,False,46,gem,5
+Tirthan Valley,2026-05-05,830,False,60,gem,1
+Tirthan Valley,2026-05-05,1810,False,57,gem,2
+Tirthan Valley,2026-05-05,3010,False,56,gem,3
+Tirthan Valley,2026-05-05,6060,False,42,gem,4
+Tirthan Valley,2026-05-05,14100,False,59,gem,5
+Tirthan Valley,2026-06-10,820,False,48,gem,1
+Tirthan Valley,2026-06-10,1820,False,52,gem,2
+Tirthan Valley,2026-06-10,3200,False,46,gem,3
+Tirthan Valley,2026-06-10,5770,False,50,gem,4
+Tirthan Valley,2026-06-10,14070,False,54,gem,5
+Tirthan Valley,2026-07-15,830,False,38,gem,1
+Tirthan Valley,2026-07-15,1790,False,44,gem,2
+Tirthan Valley,2026-07-15,3210,False,43,gem,3
+Tirthan Valley,2026-07-15,5790,False,45,gem,4
+Tirthan Valley,2026-07-15,13920,False,44,gem,5
+Tirthan Valley,2026-08-20,840,False,52,gem,1
+Tirthan Valley,2026-08-20,1740,False,45,gem,2
+Tirthan Valley,2026-08-20,3190,False,55,gem,3
+Tirthan Valley,2026-08-20,5610,False,40,gem,4
+Tirthan Valley,2026-08-20,14370,False,62,gem,5
+Tirthan Valley,2026-09-25,810,False,38,gem,1
+Tirthan Valley,2026-09-25,1890,False,40,gem,2
+Tirthan Valley,2026-09-25,3350,False,62,gem,3
+Tirthan Valley,2026-09-25,5570,False,44,gem,4
+Tirthan Valley,2026-09-25,14120,False,56,gem,5
+Tirthan Valley,2026-10-04,870,False,60,gem,1
+Tirthan Valley,2026-10-04,1870,False,60,gem,2
+Tirthan Valley,2026-10-04,3370,False,48,gem,3
+Tirthan Valley,2026-10-04,5680,False,44,gem,4
+Tirthan Valley,2026-10-04,14630,False,57,gem,5
+Tirthan Valley,2026-11-09,880,False,43,gem,1
+Tirthan Valley,2026-11-09,1820,False,48,gem,2
+Tirthan Valley,2026-11-09,3350,False,46,gem,3
+Tirthan Valley,2026-11-09,6110,False,47,gem,4
+Tirthan Valley,2026-11-09,14270,False,62,gem,5
+Tirthan Valley,2026-12-14,1020,True,65,gem,1
+Tirthan Valley,2026-12-14,2110,True,72,gem,2
+Tirthan Valley,2026-12-14,3680,True,86,gem,3
+Tirthan Valley,2026-12-14,6740,True,87,gem,4
+Tirthan Valley,2026-12-14,16540,True,73,gem,5
+Ziro,2026-01-10,880,False,44,gem,1
+Ziro,2026-01-10,1860,False,52,gem,2
+Ziro,2026-01-10,3020,False,46,gem,3
+Ziro,2026-01-10,5870,False,43,gem,4
+Ziro,2026-01-10,13680,False,53,gem,5
+Ziro,2026-02-15,850,False,57,gem,1
+Ziro,2026-02-15,1860,False,39,gem,2
+Ziro,2026-02-15,3350,False,41,gem,3
+Ziro,2026-02-15,6100,False,44,gem,4
+Ziro,2026-02-15,14660,False,56,gem,5
+Ziro,2026-03-20,840,False,62,gem,1
+Ziro,2026-03-20,1870,False,54,gem,2
+Ziro,2026-03-20,3150,False,44,gem,3
+Ziro,2026-03-20,5480,False,58,gem,4
+Ziro,2026-03-20,13200,False,54,gem,5
+Ziro,2026-04-25,820,False,47,gem,1
+Ziro,2026-04-25,1800,False,46,gem,2
+Ziro,2026-04-25,3360,False,41,gem,3
+Ziro,2026-04-25,5460,False,38,gem,4
+Ziro,2026-04-25,13180,False,40,gem,5
+Ziro,2026-05-04,840,False,54,gem,1
+Ziro,2026-05-04,1700,False,49,gem,2
+Ziro,2026-05-04,3030,False,39,gem,3
+Ziro,2026-05-04,5930,False,46,gem,4
+Ziro,2026-05-04,14420,False,56,gem,5
+Ziro,2026-06-09,860,False,59,gem,1
+Ziro,2026-06-09,1840,False,43,gem,2
+Ziro,2026-06-09,3040,False,48,gem,3
+Ziro,2026-06-09,5590,False,46,gem,4
+Ziro,2026-06-09,13310,False,45,gem,5
+Ziro,2026-07-14,850,False,60,gem,1
+Ziro,2026-07-14,1730,False,41,gem,2
+Ziro,2026-07-14,3320,False,44,gem,3
+Ziro,2026-07-14,5740,False,55,gem,4
+Ziro,2026-07-14,13270,False,53,gem,5
+Ziro,2026-08-19,840,False,39,gem,1
+Ziro,2026-08-19,1790,False,45,gem,2
+Ziro,2026-08-19,3040,False,59,gem,3
+Ziro,2026-08-19,5540,False,43,gem,4
+Ziro,2026-08-19,14470,False,45,gem,5
+Ziro,2026-09-24,800,False,58,gem,1
+Ziro,2026-09-24,1780,False,62,gem,2
+Ziro,2026-09-24,3070,False,56,gem,3
+Ziro,2026-09-24,5790,False,63,gem,4
+Ziro,2026-09-24,13510,False,60,gem,5
+Ziro,2026-10-03,870,False,61,gem,1
+Ziro,2026-10-03,1730,False,62,gem,2
+Ziro,2026-10-03,3280,False,42,gem,3
+Ziro,2026-10-03,5620,False,42,gem,4
+Ziro,2026-10-03,14770,False,59,gem,5
+Ziro,2026-11-08,830,False,45,gem,1
+Ziro,2026-11-08,1860,False,54,gem,2
+Ziro,2026-11-08,3350,False,41,gem,3
+Ziro,2026-11-08,5880,False,49,gem,4
+Ziro,2026-11-08,14580,False,44,gem,5
+Ziro,2026-12-13,890,False,58,gem,1
+Ziro,2026-12-13,1740,False,47,gem,2
+Ziro,2026-12-13,3090,False,47,gem,3
+Ziro,2026-12-13,5840,False,51,gem,4
+Ziro,2026-12-13,14670,False,54,gem,5
+Hamirpur,2026-01-14,990,True,76,emerging,1
+Hamirpur,2026-01-14,2120,True,79,emerging,2
+Hamirpur,2026-01-14,3640,True,87,emerging,3
+Hamirpur,2026-01-14,6840,True,66,emerging,4
+Hamirpur,2026-01-14,15780,True,66,emerging,5
+Hamirpur,2026-02-19,860,False,48,emerging,1
+Hamirpur,2026-02-19,1720,False,47,emerging,2
+Hamirpur,2026-02-19,3350,False,51,emerging,3
+Hamirpur,2026-02-19,5500,False,54,emerging,4
+Hamirpur,2026-02-19,13190,False,48,emerging,5
+Hamirpur,2026-03-24,860,False,50,emerging,1
+Hamirpur,2026-03-24,1780,False,47,emerging,2
+Hamirpur,2026-03-24,3250,False,46,emerging,3
+Hamirpur,2026-03-24,5970,False,50,emerging,4
+Hamirpur,2026-03-24,13440,False,50,emerging,5
+Hamirpur,2026-04-03,900,False,42,emerging,1
+Hamirpur,2026-04-03,1770,False,40,emerging,2
+Hamirpur,2026-04-03,3070,False,45,emerging,3
+Hamirpur,2026-04-03,6110,False,38,emerging,4
+Hamirpur,2026-04-03,14340,False,63,emerging,5
+Hamirpur,2026-05-08,880,False,61,emerging,1
+Hamirpur,2026-05-08,1880,False,57,emerging,2
+Hamirpur,2026-05-08,3230,False,45,emerging,3
+Hamirpur,2026-05-08,6030,False,43,emerging,4
+Hamirpur,2026-05-08,14580,False,40,emerging,5
+Hamirpur,2026-06-13,900,False,39,emerging,1
+Hamirpur,2026-06-13,1790,False,55,emerging,2
+Hamirpur,2026-06-13,3320,False,61,emerging,3
+Hamirpur,2026-06-13,6110,False,52,emerging,4
+Hamirpur,2026-06-13,13740,False,58,emerging,5
+Hamirpur,2026-07-18,880,False,53,emerging,1
+Hamirpur,2026-07-18,1860,False,60,emerging,2
+Hamirpur,2026-07-18,3310,False,39,emerging,3
+Hamirpur,2026-07-18,6000,False,40,emerging,4
+Hamirpur,2026-07-18,14840,False,58,emerging,5
+Hamirpur,2026-08-23,830,False,56,emerging,1
+Hamirpur,2026-08-23,1880,False,47,emerging,2
+Hamirpur,2026-08-23,3140,False,44,emerging,3
+Hamirpur,2026-08-23,5930,False,60,emerging,4
+Hamirpur,2026-08-23,14750,False,60,emerging,5
+Hamirpur,2026-09-02,870,False,51,emerging,1
+Hamirpur,2026-09-02,1880,False,56,emerging,2
+Hamirpur,2026-09-02,3290,False,47,emerging,3
+Hamirpur,2026-09-02,5690,False,63,emerging,4
+Hamirpur,2026-09-02,13400,False,48,emerging,5
+Hamirpur,2026-10-07,850,False,50,emerging,1
+Hamirpur,2026-10-07,1890,False,54,emerging,2
+Hamirpur,2026-10-07,3200,False,45,emerging,3
+Hamirpur,2026-10-07,5870,False,49,emerging,4
+Hamirpur,2026-10-07,13930,False,56,emerging,5
+Hamirpur,2026-11-12,820,False,39,emerging,1
+Hamirpur,2026-11-12,1880,False,44,emerging,2
+Hamirpur,2026-11-12,3250,False,58,emerging,3
+Hamirpur,2026-11-12,5720,False,49,emerging,4
+Hamirpur,2026-11-12,13730,False,41,emerging,5
+Hamirpur,2026-12-17,850,False,56,emerging,1
+Hamirpur,2026-12-17,1870,False,56,emerging,2
+Hamirpur,2026-12-17,3130,False,44,emerging,3
+Hamirpur,2026-12-17,5960,False,54,emerging,4
+Hamirpur,2026-12-17,14750,False,41,emerging,5
+Matheran,2026-01-16,900,False,63,popular,1
+Matheran,2026-01-16,1830,False,55,popular,2
+Matheran,2026-01-16,3330,False,60,popular,3
+Matheran,2026-01-16,5760,False,46,popular,4
+Matheran,2026-01-16,14740,False,47,popular,5
+Matheran,2026-02-21,870,False,53,popular,1
+Matheran,2026-02-21,1760,False,50,popular,2
+Matheran,2026-02-21,3240,False,49,popular,3
+Matheran,2026-02-21,6070,False,38,popular,4
+Matheran,2026-02-21,13810,False,57,popular,5
+Matheran,2026-03-26,850,False,49,popular,1
+Matheran,2026-03-26,1820,False,58,popular,2
+Matheran,2026-03-26,3260,False,63,popular,3
+Matheran,2026-03-26,5800,False,59,popular,4
+Matheran,2026-03-26,14310,False,49,popular,5
+Matheran,2026-04-05,900,False,53,popular,1
+Matheran,2026-04-05,1770,False,40,popular,2
+Matheran,2026-04-05,3140,False,41,popular,3
+Matheran,2026-04-05,5950,False,62,popular,4
+Matheran,2026-04-05,14030,False,44,popular,5
+Matheran,2026-05-10,830,False,60,popular,1
+Matheran,2026-05-10,1760,False,42,popular,2
+Matheran,2026-05-10,3040,False,53,popular,3
+Matheran,2026-05-10,5530,False,47,popular,4
+Matheran,2026-05-10,14120,False,47,popular,5
+Matheran,2026-06-15,830,False,48,popular,1
+Matheran,2026-06-15,1810,False,59,popular,2
+Matheran,2026-06-15,3120,False,42,popular,3
+Matheran,2026-06-15,5600,False,47,popular,4
+Matheran,2026-06-15,13450,False,46,popular,5
+Matheran,2026-07-20,880,False,44,popular,1
+Matheran,2026-07-20,1790,False,59,popular,2
+Matheran,2026-07-20,3030,False,61,popular,3
+Matheran,2026-07-20,5670,False,60,popular,4
+Matheran,2026-07-20,14810,False,49,popular,5
+Matheran,2026-08-25,1000,True,68,popular,1
+Matheran,2026-08-25,2280,True,80,popular,2
+Matheran,2026-08-25,3650,True,63,popular,3
+Matheran,2026-08-25,6670,True,74,popular,4
+Matheran,2026-08-25,17940,True,66,popular,5
+Matheran,2026-09-04,820,False,46,popular,1
+Matheran,2026-09-04,1830,False,61,popular,2
+Matheran,2026-09-04,3110,False,62,popular,3
+Matheran,2026-09-04,5520,False,42,popular,4
+Matheran,2026-09-04,14530,False,49,popular,5
+Matheran,2026-10-09,830,False,38,popular,1
+Matheran,2026-10-09,1870,False,54,popular,2
+Matheran,2026-10-09,3220,False,49,popular,3
+Matheran,2026-10-09,5780,False,63,popular,4
+Matheran,2026-10-09,14680,False,51,popular,5
+Matheran,2026-11-14,1030,True,74,popular,1
+Matheran,2026-11-14,2130,True,77,popular,2
+Matheran,2026-11-14,3850,True,72,popular,3
+Matheran,2026-11-14,7130,True,64,popular,4
+Matheran,2026-11-14,18150,True,86,popular,5
+Matheran,2026-12-19,880,False,60,popular,1
+Matheran,2026-12-19,1900,False,49,popular,2
+Matheran,2026-12-19,3030,False,54,popular,3
+Matheran,2026-12-19,5800,False,42,popular,4
+Matheran,2026-12-19,13290,False,53,popular,5
+Mount Abu,2026-01-17,880,False,53,popular,1
+Mount Abu,2026-01-17,1760,False,50,popular,2
+Mount Abu,2026-01-17,3190,False,38,popular,3
+Mount Abu,2026-01-17,5700,False,61,popular,4
+Mount Abu,2026-01-17,14450,False,50,popular,5
+Mount Abu,2026-02-22,900,False,55,popular,1
+Mount Abu,2026-02-22,1880,False,57,popular,2
+Mount Abu,2026-02-22,3320,False,58,popular,3
+Mount Abu,2026-02-22,5880,False,62,popular,4
+Mount Abu,2026-02-22,14160,False,46,popular,5
+Mount Abu,2026-03-01,850,False,53,popular,1
+Mount Abu,2026-03-01,1760,False,49,popular,2
+Mount Abu,2026-03-01,3200,False,61,popular,3
+Mount Abu,2026-03-01,5800,False,54,popular,4
+Mount Abu,2026-03-01,14320,False,41,popular,5
+Mount Abu,2026-04-06,850,False,41,popular,1
+Mount Abu,2026-04-06,1880,False,58,popular,2
+Mount Abu,2026-04-06,3360,False,47,popular,3
+Mount Abu,2026-04-06,5790,False,58,popular,4
+Mount Abu,2026-04-06,14600,False,43,popular,5
+Mount Abu,2026-05-11,900,False,47,popular,1
+Mount Abu,2026-05-11,1800,False,61,popular,2
+Mount Abu,2026-05-11,3350,False,40,popular,3
+Mount Abu,2026-05-11,5910,False,48,popular,4
+Mount Abu,2026-05-11,13900,False,43,popular,5
+Mount Abu,2026-06-16,820,False,49,popular,1
+Mount Abu,2026-06-16,1750,False,61,popular,2
+Mount Abu,2026-06-16,3210,False,52,popular,3
+Mount Abu,2026-06-16,5980,False,38,popular,4
+Mount Abu,2026-06-16,13890,False,60,popular,5
+Mount Abu,2026-07-21,890,False,58,popular,1
+Mount Abu,2026-07-21,1880,False,49,popular,2
+Mount Abu,2026-07-21,3020,False,49,popular,3
+Mount Abu,2026-07-21,5780,False,46,popular,4
+Mount Abu,2026-07-21,13340,False,47,popular,5
+Mount Abu,2026-08-26,990,True,81,popular,1
+Mount Abu,2026-08-26,2280,True,66,popular,2
+Mount Abu,2026-08-26,4180,True,86,popular,3
+Mount Abu,2026-08-26,7500,True,72,popular,4
+Mount Abu,2026-08-26,16340,True,84,popular,5
+Mount Abu,2026-09-05,860,False,38,popular,1
+Mount Abu,2026-09-05,1870,False,43,popular,2
+Mount Abu,2026-09-05,3390,False,60,popular,3
+Mount Abu,2026-09-05,5570,False,53,popular,4
+Mount Abu,2026-09-05,14210,False,48,popular,5
+Mount Abu,2026-10-10,880,False,51,popular,1
+Mount Abu,2026-10-10,1800,False,52,popular,2
+Mount Abu,2026-10-10,3170,False,53,popular,3
+Mount Abu,2026-10-10,5590,False,42,popular,4
+Mount Abu,2026-10-10,14710,False,44,popular,5
+Mount Abu,2026-11-15,1070,True,81,popular,1
+Mount Abu,2026-11-15,2130,True,63,popular,2
+Mount Abu,2026-11-15,3800,True,79,popular,3
+Mount Abu,2026-11-15,7200,True,84,popular,4
+Mount Abu,2026-11-15,18910,True,86,popular,5
+Mount Abu,2026-12-20,820,False,48,popular,1
+Mount Abu,2026-12-20,1740,False,56,popular,2
+Mount Abu,2026-12-20,3240,False,49,popular,3
+Mount Abu,2026-12-20,5500,False,57,popular,4
+Mount Abu,2026-12-20,14130,False,60,popular,5
+Thekkady,2026-01-21,860,False,41,popular,1
+Thekkady,2026-01-21,1760,False,52,popular,2
+Thekkady,2026-01-21,3230,False,63,popular,3
+Thekkady,2026-01-21,6130,False,53,popular,4
+Thekkady,2026-01-21,14500,False,50,popular,5
+Thekkady,2026-02-26,860,False,48,popular,1
+Thekkady,2026-02-26,1790,False,56,popular,2
+Thekkady,2026-02-26,3320,False,60,popular,3
+Thekkady,2026-02-26,5540,False,38,popular,4
+Thekkady,2026-02-26,13820,False,46,popular,5
+Thekkady,2026-03-05,810,False,58,popular,1
+Thekkady,2026-03-05,1780,False,58,popular,2
+Thekkady,2026-03-05,3170,False,55,popular,3
+Thekkady,2026-03-05,6100,False,56,popular,4
+Thekkady,2026-03-05,14700,False,62,popular,5
+Thekkady,2026-04-10,860,False,59,popular,1
+Thekkady,2026-04-10,1820,False,41,popular,2
+Thekkady,2026-04-10,3090,False,58,popular,3
+Thekkady,2026-04-10,5860,False,57,popular,4
+Thekkady,2026-04-10,13520,False,45,popular,5
+Thekkady,2026-05-15,850,False,59,popular,1
+Thekkady,2026-05-15,1880,False,43,popular,2
+Thekkady,2026-05-15,3170,False,63,popular,3
+Thekkady,2026-05-15,5460,False,38,popular,4
+Thekkady,2026-05-15,13690,False,46,popular,5
+Thekkady,2026-06-20,880,False,51,popular,1
+Thekkady,2026-06-20,1750,False,55,popular,2
+Thekkady,2026-06-20,3370,False,42,popular,3
+Thekkady,2026-06-20,6120,False,45,popular,4
+Thekkady,2026-06-20,14390,False,43,popular,5
+Thekkady,2026-07-25,880,False,39,popular,1
+Thekkady,2026-07-25,1860,False,53,popular,2
+Thekkady,2026-07-25,3160,False,60,popular,3
+Thekkady,2026-07-25,5880,False,57,popular,4
+Thekkady,2026-07-25,14700,False,40,popular,5
+Thekkady,2026-08-04,850,False,52,popular,1
+Thekkady,2026-08-04,1740,False,59,popular,2
+Thekkady,2026-08-04,3080,False,50,popular,3
+Thekkady,2026-08-04,5460,False,61,popular,4
+Thekkady,2026-08-04,14750,False,45,popular,5
+Thekkady,2026-09-09,860,False,41,popular,1
+Thekkady,2026-09-09,1780,False,58,popular,2
+Thekkady,2026-09-09,3020,False,39,popular,3
+Thekkady,2026-09-09,6150,False,40,popular,4
+Thekkady,2026-09-09,14810,False,39,popular,5
+Thekkady,2026-10-14,980,True,87,popular,1
+Thekkady,2026-10-14,2210,True,65,popular,2
+Thekkady,2026-10-14,4000,True,75,popular,3
+Thekkady,2026-10-14,7280,True,64,popular,4
+Thekkady,2026-10-14,16870,True,82,popular,5
+Thekkady,2026-11-19,870,False,61,popular,1
+Thekkady,2026-11-19,1860,False,55,popular,2
+Thekkady,2026-11-19,3270,False,38,popular,3
+Thekkady,2026-11-19,5790,False,38,popular,4
+Thekkady,2026-11-19,14340,False,52,popular,5
+Thekkady,2026-12-24,890,False,46,popular,1
+Thekkady,2026-12-24,1770,False,41,popular,2
+Thekkady,2026-12-24,3040,False,59,popular,3
+Thekkady,2026-12-24,5800,False,39,popular,4
+Thekkady,2026-12-24,13700,False,40,popular,5
+Shimla,2026-01-14,1420,True,73,popular,1
+Shimla,2026-01-14,3060,True,73,popular,2
+Shimla,2026-01-14,4830,True,63,popular,3
+Shimla,2026-01-14,10450,True,86,popular,4
+Shimla,2026-01-14,23070,True,79,popular,5
+Shimla,2026-02-19,1100,False,59,popular,1
+Shimla,2026-02-19,2520,False,42,popular,2
+Shimla,2026-02-19,4340,False,52,popular,3
+Shimla,2026-02-19,8090,False,62,popular,4
+Shimla,2026-02-19,21110,False,50,popular,5
+Shimla,2026-03-24,1140,False,47,popular,1
+Shimla,2026-03-24,2400,False,58,popular,2
+Shimla,2026-03-24,4470,False,44,popular,3
+Shimla,2026-03-24,7350,False,43,popular,4
+Shimla,2026-03-24,20510,False,43,popular,5
+Shimla,2026-04-03,1100,False,51,popular,1
+Shimla,2026-04-03,2440,False,57,popular,2
+Shimla,2026-04-03,4320,False,58,popular,3
+Shimla,2026-04-03,7850,False,53,popular,4
+Shimla,2026-04-03,20430,False,50,popular,5
+Shimla,2026-05-08,1130,False,42,popular,1
+Shimla,2026-05-08,2390,False,43,popular,2
+Shimla,2026-05-08,4370,False,42,popular,3
+Shimla,2026-05-08,8100,False,50,popular,4
+Shimla,2026-05-08,18850,False,48,popular,5
+Shimla,2026-06-13,1150,False,55,popular,1
+Shimla,2026-06-13,2280,False,63,popular,2
+Shimla,2026-06-13,4350,False,54,popular,3
+Shimla,2026-06-13,8200,False,42,popular,4
+Shimla,2026-06-13,19420,False,47,popular,5
+Shimla,2026-07-18,1110,False,58,popular,1
+Shimla,2026-07-18,2440,False,58,popular,2
+Shimla,2026-07-18,4500,False,38,popular,3
+Shimla,2026-07-18,8110,False,38,popular,4
+Shimla,2026-07-18,20970,False,53,popular,5
+Shimla,2026-08-23,1150,False,48,popular,1
+Shimla,2026-08-23,2530,False,51,popular,2
+Shimla,2026-08-23,4160,False,54,popular,3
+Shimla,2026-08-23,7500,False,38,popular,4
+Shimla,2026-08-23,18930,False,44,popular,5
+Shimla,2026-09-02,1110,False,46,popular,1
+Shimla,2026-09-02,2330,False,51,popular,2
+Shimla,2026-09-02,4180,False,47,popular,3
+Shimla,2026-09-02,8060,False,38,popular,4
+Shimla,2026-09-02,21070,False,62,popular,5
+Shimla,2026-10-07,1190,False,57,popular,1
+Shimla,2026-10-07,2420,False,41,popular,2
+Shimla,2026-10-07,4150,False,53,popular,3
+Shimla,2026-10-07,7830,False,62,popular,4
+Shimla,2026-10-07,20470,False,59,popular,5
+Shimla,2026-11-12,1100,False,47,popular,1
+Shimla,2026-11-12,2400,False,41,popular,2
+Shimla,2026-11-12,4190,False,42,popular,3
+Shimla,2026-11-12,7680,False,46,popular,4
+Shimla,2026-11-12,19510,False,54,popular,5
+Shimla,2026-12-17,1190,False,40,popular,1
+Shimla,2026-12-17,2360,False,58,popular,2
+Shimla,2026-12-17,4460,False,61,popular,3
+Shimla,2026-12-17,8110,False,41,popular,4
+Shimla,2026-12-17,21140,False,54,popular,5
+Nainital,2026-01-16,900,False,54,popular,1
+Nainital,2026-01-16,1720,False,63,popular,2
+Nainital,2026-01-16,3350,False,38,popular,3
+Nainital,2026-01-16,6100,False,49,popular,4
+Nainital,2026-01-16,14630,False,45,popular,5
+Nainital,2026-02-21,830,False,63,popular,1
+Nainital,2026-02-21,1770,False,50,popular,2
+Nainital,2026-02-21,3380,False,47,popular,3
+Nainital,2026-02-21,5590,False,54,popular,4
+Nainital,2026-02-21,14380,False,61,popular,5
+Nainital,2026-03-26,830,False,58,popular,1
+Nainital,2026-03-26,1790,False,59,popular,2
+Nainital,2026-03-26,3170,False,54,popular,3
+Nainital,2026-03-26,5870,False,38,popular,4
+Nainital,2026-03-26,13380,False,38,popular,5
+Nainital,2026-04-05,880,False,55,popular,1
+Nainital,2026-04-05,1810,False,48,popular,2
+Nainital,2026-04-05,3200,False,51,popular,3
+Nainital,2026-04-05,6010,False,53,popular,4
+Nainital,2026-04-05,14200,False,54,popular,5
+Nainital,2026-05-10,890,False,48,popular,1
+Nainital,2026-05-10,1750,False,60,popular,2
+Nainital,2026-05-10,3050,False,62,popular,3
+Nainital,2026-05-10,6010,False,50,popular,4
+Nainital,2026-05-10,13780,False,39,popular,5
+Nainital,2026-06-15,900,False,43,popular,1
+Nainital,2026-06-15,1710,False,60,popular,2
+Nainital,2026-06-15,3390,False,47,popular,3
+Nainital,2026-06-15,5990,False,45,popular,4
+Nainital,2026-06-15,13840,False,50,popular,5
+Nainital,2026-07-20,890,False,52,popular,1
+Nainital,2026-07-20,1800,False,63,popular,2
+Nainital,2026-07-20,3060,False,49,popular,3
+Nainital,2026-07-20,5950,False,47,popular,4
+Nainital,2026-07-20,13940,False,61,popular,5
+Nainital,2026-08-25,1080,True,69,popular,1
+Nainital,2026-08-25,2170,True,80,popular,2
+Nainital,2026-08-25,4240,True,72,popular,3
+Nainital,2026-08-25,7970,True,79,popular,4
+Nainital,2026-08-25,17650,True,77,popular,5
+Nainital,2026-09-04,870,False,43,popular,1
+Nainital,2026-09-04,1700,False,46,popular,2
+Nainital,2026-09-04,3340,False,59,popular,3
+Nainital,2026-09-04,5610,False,55,popular,4
+Nainital,2026-09-04,13180,False,46,popular,5
+Nainital,2026-10-09,880,False,38,popular,1
+Nainital,2026-10-09,1780,False,44,popular,2
+Nainital,2026-10-09,3190,False,53,popular,3
+Nainital,2026-10-09,5550,False,45,popular,4
+Nainital,2026-10-09,13180,False,50,popular,5
+Nainital,2026-11-14,1010,True,75,popular,1
+Nainital,2026-11-14,2410,True,86,popular,2
+Nainital,2026-11-14,3830,True,79,popular,3
+Nainital,2026-11-14,7580,True,71,popular,4
+Nainital,2026-11-14,17900,True,62,popular,5
+Nainital,2026-12-19,840,False,54,popular,1
+Nainital,2026-12-19,1740,False,61,popular,2
+Nainital,2026-12-19,3370,False,40,popular,3
+Nainital,2026-12-19,5790,False,48,popular,4
+Nainital,2026-12-19,13390,False,48,popular,5
+Kodaikanal,2026-01-25,1110,True,69,popular,1
+Kodaikanal,2026-01-25,2260,True,63,popular,2
+Kodaikanal,2026-01-25,3750,True,71,popular,3
+Kodaikanal,2026-01-25,7110,True,69,popular,4
+Kodaikanal,2026-01-25,18180,True,86,popular,5
+Kodaikanal,2026-02-04,890,False,41,popular,1
+Kodaikanal,2026-02-04,1780,False,59,popular,2
+Kodaikanal,2026-02-04,3350,False,58,popular,3
+Kodaikanal,2026-02-04,6050,False,57,popular,4
+Kodaikanal,2026-02-04,13710,False,41,popular,5
+Kodaikanal,2026-03-09,820,False,54,popular,1
+Kodaikanal,2026-03-09,1700,False,42,popular,2
+Kodaikanal,2026-03-09,3340,False,50,popular,3
+Kodaikanal,2026-03-09,5610,False,54,popular,4
+Kodaikanal,2026-03-09,13990,False,52,popular,5
+Kodaikanal,2026-04-14,870,False,58,popular,1
+Kodaikanal,2026-04-14,1800,False,62,popular,2
+Kodaikanal,2026-04-14,3250,False,60,popular,3
+Kodaikanal,2026-04-14,5860,False,59,popular,4
+Kodaikanal,2026-04-14,14830,False,42,popular,5
+Kodaikanal,2026-05-19,830,False,54,popular,1
+Kodaikanal,2026-05-19,1840,False,44,popular,2
+Kodaikanal,2026-05-19,3290,False,60,popular,3
+Kodaikanal,2026-05-19,6090,False,51,popular,4
+Kodaikanal,2026-05-19,13830,False,56,popular,5
+Kodaikanal,2026-06-24,880,False,52,popular,1
+Kodaikanal,2026-06-24,1720,False,62,popular,2
+Kodaikanal,2026-06-24,3340,False,38,popular,3
+Kodaikanal,2026-06-24,5490,False,44,popular,4
+Kodaikanal,2026-06-24,13450,False,58,popular,5
+Kodaikanal,2026-07-03,850,False,52,popular,1
+Kodaikanal,2026-07-03,1880,False,62,popular,2
+Kodaikanal,2026-07-03,3320,False,44,popular,3
+Kodaikanal,2026-07-03,5560,False,45,popular,4
+Kodaikanal,2026-07-03,14270,False,41,popular,5
+Kodaikanal,2026-08-08,830,False,59,popular,1
+Kodaikanal,2026-08-08,1890,False,56,popular,2
+Kodaikanal,2026-08-08,3270,False,45,popular,3
+Kodaikanal,2026-08-08,6080,False,44,popular,4
+Kodaikanal,2026-08-08,14650,False,54,popular,5
+Kodaikanal,2026-09-13,840,False,60,popular,1
+Kodaikanal,2026-09-13,1710,False,41,popular,2
+Kodaikanal,2026-09-13,3350,False,62,popular,3
+Kodaikanal,2026-09-13,5890,False,48,popular,4
+Kodaikanal,2026-09-13,14260,False,63,popular,5
+Kodaikanal,2026-10-18,870,False,59,popular,1
+Kodaikanal,2026-10-18,1870,False,40,popular,2
+Kodaikanal,2026-10-18,3060,False,43,popular,3
+Kodaikanal,2026-10-18,5550,False,43,popular,4
+Kodaikanal,2026-10-18,13530,False,59,popular,5
+Kodaikanal,2026-11-23,870,False,44,popular,1
+Kodaikanal,2026-11-23,1900,False,47,popular,2
+Kodaikanal,2026-11-23,3200,False,43,popular,3
+Kodaikanal,2026-11-23,6090,False,38,popular,4
+Kodaikanal,2026-11-23,14010,False,61,popular,5
+Kodaikanal,2026-12-02,880,False,63,popular,1
+Kodaikanal,2026-12-02,1860,False,59,popular,2
+Kodaikanal,2026-12-02,3220,False,44,popular,3
+Kodaikanal,2026-12-02,5960,False,60,popular,4
+Kodaikanal,2026-12-02,13530,False,38,popular,5
+Chikmagalur,2026-01-16,870,False,43,popular,1
+Chikmagalur,2026-01-16,1780,False,63,popular,2
+Chikmagalur,2026-01-16,3240,False,51,popular,3
+Chikmagalur,2026-01-16,5460,False,44,popular,4
+Chikmagalur,2026-01-16,14590,False,62,popular,5
+Chikmagalur,2026-02-21,860,False,41,popular,1
+Chikmagalur,2026-02-21,1900,False,50,popular,2
+Chikmagalur,2026-02-21,3030,False,59,popular,3
+Chikmagalur,2026-02-21,5470,False,48,popular,4
+Chikmagalur,2026-02-21,14790,False,51,popular,5
+Chikmagalur,2026-03-26,820,False,41,popular,1
+Chikmagalur,2026-03-26,1880,False,61,popular,2
+Chikmagalur,2026-03-26,3050,False,45,popular,3
+Chikmagalur,2026-03-26,5700,False,43,popular,4
+Chikmagalur,2026-03-26,14040,False,38,popular,5
+Chikmagalur,2026-04-05,840,False,48,popular,1
+Chikmagalur,2026-04-05,1710,False,59,popular,2
+Chikmagalur,2026-04-05,3250,False,52,popular,3
+Chikmagalur,2026-04-05,6030,False,48,popular,4
+Chikmagalur,2026-04-05,13580,False,57,popular,5
+Chikmagalur,2026-05-10,870,False,42,popular,1
+Chikmagalur,2026-05-10,1740,False,53,popular,2
+Chikmagalur,2026-05-10,3340,False,52,popular,3
+Chikmagalur,2026-05-10,6050,False,46,popular,4
+Chikmagalur,2026-05-10,14160,False,39,popular,5
+Chikmagalur,2026-06-15,820,False,46,popular,1
+Chikmagalur,2026-06-15,1790,False,62,popular,2
+Chikmagalur,2026-06-15,3350,False,38,popular,3
+Chikmagalur,2026-06-15,5910,False,50,popular,4
+Chikmagalur,2026-06-15,13710,False,49,popular,5
+Chikmagalur,2026-07-20,850,False,42,popular,1
+Chikmagalur,2026-07-20,1740,False,41,popular,2
+Chikmagalur,2026-07-20,3020,False,58,popular,3
+Chikmagalur,2026-07-20,5600,False,39,popular,4
+Chikmagalur,2026-07-20,14060,False,61,popular,5
+Chikmagalur,2026-08-25,1080,True,83,popular,1
+Chikmagalur,2026-08-25,2200,True,65,popular,2
+Chikmagalur,2026-08-25,3990,True,64,popular,3
+Chikmagalur,2026-08-25,7410,True,78,popular,4
+Chikmagalur,2026-08-25,18530,True,66,popular,5
+Chikmagalur,2026-09-04,820,False,58,popular,1
+Chikmagalur,2026-09-04,1730,False,47,popular,2
+Chikmagalur,2026-09-04,3010,False,56,popular,3
+Chikmagalur,2026-09-04,6080,False,58,popular,4
+Chikmagalur,2026-09-04,14010,False,55,popular,5
+Chikmagalur,2026-10-09,810,False,45,popular,1
+Chikmagalur,2026-10-09,1820,False,40,popular,2
+Chikmagalur,2026-10-09,3120,False,44,popular,3
+Chikmagalur,2026-10-09,5580,False,44,popular,4
+Chikmagalur,2026-10-09,13610,False,57,popular,5
+Chikmagalur,2026-11-14,1090,True,68,popular,1
+Chikmagalur,2026-11-14,2180,True,75,popular,2
+Chikmagalur,2026-11-14,4010,True,73,popular,3
+Chikmagalur,2026-11-14,7640,True,87,popular,4
+Chikmagalur,2026-11-14,17080,True,77,popular,5
+Chikmagalur,2026-12-19,880,False,47,popular,1
+Chikmagalur,2026-12-19,1760,False,40,popular,2
+Chikmagalur,2026-12-19,3270,False,60,popular,3
+Chikmagalur,2026-12-19,5780,False,47,popular,4
+Chikmagalur,2026-12-19,14780,False,40,popular,5
+Gokarna,2026-01-11,860,False,44,popular,1
+Gokarna,2026-01-11,1880,False,40,popular,2
+Gokarna,2026-01-11,3210,False,55,popular,3
+Gokarna,2026-01-11,5950,False,56,popular,4
+Gokarna,2026-01-11,14650,False,59,popular,5
+Gokarna,2026-02-16,890,False,40,popular,1
+Gokarna,2026-02-16,1750,False,44,popular,2
+Gokarna,2026-02-16,3020,False,61,popular,3
+Gokarna,2026-02-16,5990,False,63,popular,4
+Gokarna,2026-02-16,13510,False,46,popular,5
+Gokarna,2026-03-21,830,False,59,popular,1
+Gokarna,2026-03-21,1740,False,55,popular,2
+Gokarna,2026-03-21,3320,False,60,popular,3
+Gokarna,2026-03-21,5820,False,45,popular,4
+Gokarna,2026-03-21,14570,False,53,popular,5
+Gokarna,2026-04-26,800,False,45,popular,1
+Gokarna,2026-04-26,1860,False,45,popular,2
+Gokarna,2026-04-26,3070,False,40,popular,3
+Gokarna,2026-04-26,5570,False,49,popular,4
+Gokarna,2026-04-26,13840,False,62,popular,5
+Gokarna,2026-05-05,810,False,59,popular,1
+Gokarna,2026-05-05,1810,False,52,popular,2
+Gokarna,2026-05-05,3370,False,41,popular,3
+Gokarna,2026-05-05,5700,False,40,popular,4
+Gokarna,2026-05-05,13630,False,45,popular,5
+Gokarna,2026-06-10,870,False,48,popular,1
+Gokarna,2026-06-10,1850,False,53,popular,2
+Gokarna,2026-06-10,3060,False,50,popular,3
+Gokarna,2026-06-10,5720,False,59,popular,4
+Gokarna,2026-06-10,14180,False,48,popular,5
+Gokarna,2026-07-15,830,False,53,popular,1
+Gokarna,2026-07-15,1910,False,56,popular,2
+Gokarna,2026-07-15,3040,False,61,popular,3
+Gokarna,2026-07-15,5470,False,49,popular,4
+Gokarna,2026-07-15,13340,False,54,popular,5
+Gokarna,2026-08-20,880,False,61,popular,1
+Gokarna,2026-08-20,1700,False,38,popular,2
+Gokarna,2026-08-20,3150,False,45,popular,3
+Gokarna,2026-08-20,5660,False,63,popular,4
+Gokarna,2026-08-20,14080,False,57,popular,5
+Gokarna,2026-09-25,890,False,53,popular,1
+Gokarna,2026-09-25,1840,False,55,popular,2
+Gokarna,2026-09-25,3380,False,39,popular,3
+Gokarna,2026-09-25,5860,False,61,popular,4
+Gokarna,2026-09-25,14570,False,47,popular,5
+Gokarna,2026-10-04,840,False,38,popular,1
+Gokarna,2026-10-04,1690,False,47,popular,2
+Gokarna,2026-10-04,3350,False,53,popular,3
+Gokarna,2026-10-04,6030,False,40,popular,4
+Gokarna,2026-10-04,14580,False,50,popular,5
+Gokarna,2026-11-09,900,False,56,popular,1
+Gokarna,2026-11-09,1750,False,49,popular,2
+Gokarna,2026-11-09,3040,False,63,popular,3
+Gokarna,2026-11-09,5690,False,54,popular,4
+Gokarna,2026-11-09,14570,False,47,popular,5
+Gokarna,2026-12-14,1050,True,83,popular,1
+Gokarna,2026-12-14,2190,True,81,popular,2
+Gokarna,2026-12-14,3870,True,75,popular,3
+Gokarna,2026-12-14,7460,True,79,popular,4
+Gokarna,2026-12-14,15890,True,62,popular,5
+Jim Corbett,2026-01-09,890,False,60,popular,1
+Jim Corbett,2026-01-09,1710,False,46,popular,2
+Jim Corbett,2026-01-09,3370,False,61,popular,3
+Jim Corbett,2026-01-09,6140,False,48,popular,4
+Jim Corbett,2026-01-09,13340,False,51,popular,5
+Jim Corbett,2026-02-14,820,False,48,popular,1
+Jim Corbett,2026-02-14,1850,False,43,popular,2
+Jim Corbett,2026-02-14,3200,False,55,popular,3
+Jim Corbett,2026-02-14,6120,False,54,popular,4
+Jim Corbett,2026-02-14,13880,False,43,popular,5
+Jim Corbett,2026-03-19,880,False,58,popular,1
+Jim Corbett,2026-03-19,1810,False,59,popular,2
+Jim Corbett,2026-03-19,3360,False,55,popular,3
+Jim Corbett,2026-03-19,6130,False,53,popular,4
+Jim Corbett,2026-03-19,13690,False,55,popular,5
+Jim Corbett,2026-04-24,900,False,55,popular,1
+Jim Corbett,2026-04-24,1810,False,61,popular,2
+Jim Corbett,2026-04-24,3040,False,40,popular,3
+Jim Corbett,2026-04-24,5630,False,63,popular,4
+Jim Corbett,2026-04-24,14310,False,40,popular,5
+Jim Corbett,2026-05-03,900,False,51,popular,1
+Jim Corbett,2026-05-03,1730,False,58,popular,2
+Jim Corbett,2026-05-03,3330,False,54,popular,3
+Jim Corbett,2026-05-03,6070,False,60,popular,4
+Jim Corbett,2026-05-03,14310,False,61,popular,5
+Jim Corbett,2026-06-08,870,False,46,popular,1
+Jim Corbett,2026-06-08,1700,False,59,popular,2
+Jim Corbett,2026-06-08,3120,False,57,popular,3
+Jim Corbett,2026-06-08,5930,False,60,popular,4
+Jim Corbett,2026-06-08,13450,False,46,popular,5
+Jim Corbett,2026-07-13,850,False,59,popular,1
+Jim Corbett,2026-07-13,1800,False,61,popular,2
+Jim Corbett,2026-07-13,3180,False,57,popular,3
+Jim Corbett,2026-07-13,6100,False,56,popular,4
+Jim Corbett,2026-07-13,14520,False,49,popular,5
+Jim Corbett,2026-08-18,830,False,63,popular,1
+Jim Corbett,2026-08-18,1750,False,41,popular,2
+Jim Corbett,2026-08-18,3100,False,59,popular,3
+Jim Corbett,2026-08-18,5660,False,58,popular,4
+Jim Corbett,2026-08-18,14350,False,52,popular,5
+Jim Corbett,2026-09-23,850,False,38,popular,1
+Jim Corbett,2026-09-23,1710,False,45,popular,2
+Jim Corbett,2026-09-23,3270,False,63,popular,3
+Jim Corbett,2026-09-23,5650,False,62,popular,4
+Jim Corbett,2026-09-23,14250,False,58,popular,5
+Jim Corbett,2026-10-02,860,False,47,popular,1
+Jim Corbett,2026-10-02,1830,False,57,popular,2
+Jim Corbett,2026-10-02,3390,False,62,popular,3
+Jim Corbett,2026-10-02,5610,False,45,popular,4
+Jim Corbett,2026-10-02,14790,False,38,popular,5
+Jim Corbett,2026-11-07,880,False,39,popular,1
+Jim Corbett,2026-11-07,1730,False,41,popular,2
+Jim Corbett,2026-11-07,3300,False,41,popular,3
+Jim Corbett,2026-11-07,5730,False,42,popular,4
+Jim Corbett,2026-11-07,14170,False,56,popular,5
+Jim Corbett,2026-12-12,810,False,58,popular,1
+Jim Corbett,2026-12-12,1820,False,38,popular,2
+Jim Corbett,2026-12-12,3060,False,49,popular,3
+Jim Corbett,2026-12-12,5710,False,49,popular,4
+Jim Corbett,2026-12-12,14080,False,63,popular,5
+Varkala,2026-01-10,870,False,54,popular,1
+Varkala,2026-01-10,1830,False,41,popular,2
+Varkala,2026-01-10,3140,False,59,popular,3
+Varkala,2026-01-10,5890,False,58,popular,4
+Varkala,2026-01-10,14730,False,57,popular,5
+Varkala,2026-02-15,870,False,44,popular,1
+Varkala,2026-02-15,1840,False,63,popular,2
+Varkala,2026-02-15,3370,False,41,popular,3
+Varkala,2026-02-15,5890,False,50,popular,4
+Varkala,2026-02-15,14790,False,57,popular,5
+Varkala,2026-03-20,800,False,51,popular,1
+Varkala,2026-03-20,1830,False,44,popular,2
+Varkala,2026-03-20,3150,False,41,popular,3
+Varkala,2026-03-20,6010,False,39,popular,4
+Varkala,2026-03-20,14270,False,54,popular,5
+Varkala,2026-04-25,860,False,59,popular,1
+Varkala,2026-04-25,1900,False,54,popular,2
+Varkala,2026-04-25,3320,False,41,popular,3
+Varkala,2026-04-25,6010,False,45,popular,4
+Varkala,2026-04-25,13630,False,52,popular,5
+Varkala,2026-05-04,880,False,43,popular,1
+Varkala,2026-05-04,1830,False,52,popular,2
+Varkala,2026-05-04,3260,False,56,popular,3
+Varkala,2026-05-04,5530,False,63,popular,4
+Varkala,2026-05-04,13520,False,45,popular,5
+Varkala,2026-06-09,820,False,47,popular,1
+Varkala,2026-06-09,1880,False,63,popular,2
+Varkala,2026-06-09,3210,False,50,popular,3
+Varkala,2026-06-09,5880,False,56,popular,4
+Varkala,2026-06-09,13600,False,46,popular,5
+Varkala,2026-07-14,840,False,47,popular,1
+Varkala,2026-07-14,1860,False,58,popular,2
+Varkala,2026-07-14,3310,False,45,popular,3
+Varkala,2026-07-14,5500,False,45,popular,4
+Varkala,2026-07-14,14540,False,61,popular,5
+Varkala,2026-08-19,850,False,49,popular,1
+Varkala,2026-08-19,1850,False,60,popular,2
+Varkala,2026-08-19,3380,False,54,popular,3
+Varkala,2026-08-19,6070,False,43,popular,4
+Varkala,2026-08-19,13740,False,38,popular,5
+Varkala,2026-09-24,880,False,63,popular,1
+Varkala,2026-09-24,1760,False,53,popular,2
+Varkala,2026-09-24,3030,False,47,popular,3
+Varkala,2026-09-24,5940,False,41,popular,4
+Varkala,2026-09-24,14070,False,59,popular,5
+Varkala,2026-10-03,890,False,51,popular,1
+Varkala,2026-10-03,1780,False,39,popular,2
+Varkala,2026-10-03,3370,False,42,popular,3
+Varkala,2026-10-03,6120,False,43,popular,4
+Varkala,2026-10-03,13420,False,56,popular,5
+Varkala,2026-11-08,800,False,55,popular,1
+Varkala,2026-11-08,1860,False,56,popular,2
+Varkala,2026-11-08,3110,False,39,popular,3
+Varkala,2026-11-08,6010,False,54,popular,4
+Varkala,2026-11-08,13970,False,60,popular,5
+Varkala,2026-12-13,830,False,41,popular,1
+Varkala,2026-12-13,1900,False,55,popular,2
+Varkala,2026-12-13,3010,False,58,popular,3
+Varkala,2026-12-13,6110,False,52,popular,4
+Varkala,2026-12-13,13220,False,50,popular,5
+Kochi,2026-01-06,880,False,63,popular,1
+Kochi,2026-01-06,1840,False,46,popular,2
+Kochi,2026-01-06,3360,False,56,popular,3
+Kochi,2026-01-06,6060,False,62,popular,4
+Kochi,2026-01-06,13260,False,41,popular,5
+Kochi,2026-02-11,900,False,48,popular,1
+Kochi,2026-02-11,1900,False,61,popular,2
+Kochi,2026-02-11,3390,False,57,popular,3
+Kochi,2026-02-11,5600,False,55,popular,4
+Kochi,2026-02-11,14410,False,39,popular,5
+Kochi,2026-03-16,800,False,50,popular,1
+Kochi,2026-03-16,1850,False,62,popular,2
+Kochi,2026-03-16,3030,False,40,popular,3
+Kochi,2026-03-16,5920,False,49,popular,4
+Kochi,2026-03-16,14830,False,57,popular,5
+Kochi,2026-04-21,870,False,50,popular,1
+Kochi,2026-04-21,1760,False,63,popular,2
+Kochi,2026-04-21,3150,False,58,popular,3
+Kochi,2026-04-21,5740,False,49,popular,4
+Kochi,2026-04-21,13440,False,58,popular,5
+Kochi,2026-05-26,830,False,43,popular,1
+Kochi,2026-05-26,1790,False,39,popular,2
+Kochi,2026-05-26,3020,False,43,popular,3
+Kochi,2026-05-26,6110,False,52,popular,4
+Kochi,2026-05-26,13460,False,38,popular,5
+Kochi,2026-06-05,830,False,51,popular,1
+Kochi,2026-06-05,1780,False,59,popular,2
+Kochi,2026-06-05,3130,False,61,popular,3
+Kochi,2026-06-05,5460,False,39,popular,4
+Kochi,2026-06-05,14320,False,60,popular,5
+Kochi,2026-07-10,880,False,39,popular,1
+Kochi,2026-07-10,1860,False,56,popular,2
+Kochi,2026-07-10,3290,False,61,popular,3
+Kochi,2026-07-10,5890,False,46,popular,4
+Kochi,2026-07-10,14490,False,61,popular,5
+Kochi,2026-08-15,1020,True,67,popular,1
+Kochi,2026-08-15,2400,True,64,popular,2
+Kochi,2026-08-15,3870,True,84,popular,3
+Kochi,2026-08-15,7130,True,86,popular,4
+Kochi,2026-08-15,18100,True,80,popular,5
+Kochi,2026-09-20,810,False,60,popular,1
+Kochi,2026-09-20,1870,False,46,popular,2
+Kochi,2026-09-20,3200,False,44,popular,3
+Kochi,2026-09-20,5990,False,46,popular,4
+Kochi,2026-09-20,13620,False,39,popular,5
+Kochi,2026-10-25,970,True,82,popular,1
+Kochi,2026-10-25,2260,True,63,popular,2
+Kochi,2026-10-25,3970,True,70,popular,3
+Kochi,2026-10-25,7170,True,73,popular,4
+Kochi,2026-10-25,17880,True,72,popular,5
+Kochi,2026-11-04,890,False,50,popular,1
+Kochi,2026-11-04,1720,False,59,popular,2
+Kochi,2026-11-04,3320,False,39,popular,3
+Kochi,2026-11-04,5590,False,55,popular,4
+Kochi,2026-11-04,13190,False,51,popular,5
+Kochi,2026-12-09,850,False,41,popular,1
+Kochi,2026-12-09,1720,False,44,popular,2
+Kochi,2026-12-09,3050,False,38,popular,3
+Kochi,2026-12-09,5800,False,57,popular,4
+Kochi,2026-12-09,14080,False,61,popular,5
+Rameshwaram,2026-01-06,820,False,43,popular,1
+Rameshwaram,2026-01-06,1900,False,38,popular,2
+Rameshwaram,2026-01-06,3390,False,42,popular,3
+Rameshwaram,2026-01-06,6070,False,41,popular,4
+Rameshwaram,2026-01-06,13860,False,44,popular,5
+Rameshwaram,2026-02-11,880,False,51,popular,1
+Rameshwaram,2026-02-11,1780,False,45,popular,2
+Rameshwaram,2026-02-11,3160,False,44,popular,3
+Rameshwaram,2026-02-11,5540,False,44,popular,4
+Rameshwaram,2026-02-11,13960,False,38,popular,5
+Rameshwaram,2026-03-16,860,False,54,popular,1
+Rameshwaram,2026-03-16,1770,False,41,popular,2
+Rameshwaram,2026-03-16,3090,False,55,popular,3
+Rameshwaram,2026-03-16,5540,False,50,popular,4
+Rameshwaram,2026-03-16,13190,False,51,popular,5
+Rameshwaram,2026-04-21,880,False,62,popular,1
+Rameshwaram,2026-04-21,1850,False,59,popular,2
+Rameshwaram,2026-04-21,3110,False,52,popular,3
+Rameshwaram,2026-04-21,5720,False,59,popular,4
+Rameshwaram,2026-04-21,14760,False,48,popular,5
+Rameshwaram,2026-05-26,900,False,43,popular,1
+Rameshwaram,2026-05-26,1780,False,57,popular,2
+Rameshwaram,2026-05-26,3110,False,57,popular,3
+Rameshwaram,2026-05-26,6150,False,45,popular,4
+Rameshwaram,2026-05-26,14680,False,50,popular,5
+Rameshwaram,2026-06-05,860,False,38,popular,1
+Rameshwaram,2026-06-05,1730,False,57,popular,2
+Rameshwaram,2026-06-05,3040,False,59,popular,3
+Rameshwaram,2026-06-05,5760,False,56,popular,4
+Rameshwaram,2026-06-05,13880,False,57,popular,5
+Rameshwaram,2026-07-10,850,False,57,popular,1
+Rameshwaram,2026-07-10,1870,False,38,popular,2
+Rameshwaram,2026-07-10,3170,False,55,popular,3
+Rameshwaram,2026-07-10,5650,False,48,popular,4
+Rameshwaram,2026-07-10,13520,False,51,popular,5
+Rameshwaram,2026-08-15,1090,True,83,popular,1
+Rameshwaram,2026-08-15,2000,True,67,popular,2
+Rameshwaram,2026-08-15,4070,True,67,popular,3
+Rameshwaram,2026-08-15,7620,True,72,popular,4
+Rameshwaram,2026-08-15,17420,True,83,popular,5
+Rameshwaram,2026-09-20,810,False,40,popular,1
+Rameshwaram,2026-09-20,1860,False,50,popular,2
+Rameshwaram,2026-09-20,3180,False,48,popular,3
+Rameshwaram,2026-09-20,5700,False,54,popular,4
+Rameshwaram,2026-09-20,13300,False,63,popular,5
+Rameshwaram,2026-10-25,1120,True,69,popular,1
+Rameshwaram,2026-10-25,2230,True,65,popular,2
+Rameshwaram,2026-10-25,3740,True,82,popular,3
+Rameshwaram,2026-10-25,7280,True,74,popular,4
+Rameshwaram,2026-10-25,17060,True,64,popular,5
+Rameshwaram,2026-11-04,840,False,39,popular,1
+Rameshwaram,2026-11-04,1870,False,49,popular,2
+Rameshwaram,2026-11-04,3080,False,60,popular,3
+Rameshwaram,2026-11-04,5950,False,54,popular,4
+Rameshwaram,2026-11-04,13990,False,61,popular,5
+Rameshwaram,2026-12-09,890,False,60,popular,1
+Rameshwaram,2026-12-09,1710,False,52,popular,2
+Rameshwaram,2026-12-09,3010,False,47,popular,3
+Rameshwaram,2026-12-09,5930,False,56,popular,4
+Rameshwaram,2026-12-09,13910,False,54,popular,5
+Nashik,2026-01-14,1080,True,66,popular,1
+Nashik,2026-01-14,2330,True,75,popular,2
+Nashik,2026-01-14,3910,True,80,popular,3
+Nashik,2026-01-14,6940,True,62,popular,4
+Nashik,2026-01-14,17570,True,66,popular,5
+Nashik,2026-02-19,820,False,59,popular,1
+Nashik,2026-02-19,1720,False,38,popular,2
+Nashik,2026-02-19,3200,False,49,popular,3
+Nashik,2026-02-19,5900,False,41,popular,4
+Nashik,2026-02-19,13520,False,60,popular,5
+Nashik,2026-03-24,890,False,61,popular,1
+Nashik,2026-03-24,1840,False,45,popular,2
+Nashik,2026-03-24,3260,False,44,popular,3
+Nashik,2026-03-24,5650,False,52,popular,4
+Nashik,2026-03-24,14130,False,50,popular,5
+Nashik,2026-04-03,830,False,44,popular,1
+Nashik,2026-04-03,1770,False,59,popular,2
+Nashik,2026-04-03,3050,False,41,popular,3
+Nashik,2026-04-03,5700,False,63,popular,4
+Nashik,2026-04-03,13970,False,54,popular,5
+Nashik,2026-05-08,890,False,61,popular,1
+Nashik,2026-05-08,1870,False,53,popular,2
+Nashik,2026-05-08,3310,False,62,popular,3
+Nashik,2026-05-08,6110,False,50,popular,4
+Nashik,2026-05-08,14260,False,59,popular,5
+Nashik,2026-06-13,830,False,60,popular,1
+Nashik,2026-06-13,1830,False,52,popular,2
+Nashik,2026-06-13,3270,False,39,popular,3
+Nashik,2026-06-13,6010,False,55,popular,4
+Nashik,2026-06-13,13900,False,40,popular,5
+Nashik,2026-07-18,880,False,60,popular,1
+Nashik,2026-07-18,1770,False,63,popular,2
+Nashik,2026-07-18,3310,False,53,popular,3
+Nashik,2026-07-18,6040,False,46,popular,4
+Nashik,2026-07-18,14670,False,41,popular,5
+Nashik,2026-08-23,810,False,40,popular,1
+Nashik,2026-08-23,1780,False,48,popular,2
+Nashik,2026-08-23,3330,False,38,popular,3
+Nashik,2026-08-23,5920,False,43,popular,4
+Nashik,2026-08-23,13610,False,56,popular,5
+Nashik,2026-09-02,810,False,47,popular,1
+Nashik,2026-09-02,1700,False,54,popular,2
+Nashik,2026-09-02,3160,False,43,popular,3
+Nashik,2026-09-02,6040,False,39,popular,4
+Nashik,2026-09-02,14670,False,56,popular,5
+Nashik,2026-10-07,800,False,43,popular,1
+Nashik,2026-10-07,1810,False,39,popular,2
+Nashik,2026-10-07,3290,False,51,popular,3
+Nashik,2026-10-07,5630,False,59,popular,4
+Nashik,2026-10-07,14090,False,55,popular,5
+Nashik,2026-11-12,830,False,41,popular,1
+Nashik,2026-11-12,1740,False,53,popular,2
+Nashik,2026-11-12,3090,False,61,popular,3
+Nashik,2026-11-12,6030,False,47,popular,4
+Nashik,2026-11-12,14160,False,57,popular,5
+Nashik,2026-12-17,810,False,49,popular,1
+Nashik,2026-12-17,1760,False,60,popular,2
+Nashik,2026-12-17,3220,False,50,popular,3
+Nashik,2026-12-17,5720,False,54,popular,4
+Nashik,2026-12-17,14020,False,56,popular,5
+Tawang,2026-01-18,850,False,58,gem,1
+Tawang,2026-01-18,1900,False,56,gem,2
+Tawang,2026-01-18,3150,False,57,gem,3
+Tawang,2026-01-18,5920,False,53,gem,4
+Tawang,2026-02-23,810,False,49,gem,1
+Tawang,2026-02-23,1700,False,40,gem,2
+Tawang,2026-02-23,3070,False,40,gem,3
+Tawang,2026-02-23,6050,False,42,gem,4
+Tawang,2026-03-02,810,False,62,gem,1
+Tawang,2026-03-02,1890,False,59,gem,2
+Tawang,2026-03-02,3380,False,38,gem,3
+Tawang,2026-03-02,5930,False,46,gem,4
+Tawang,2026-04-07,820,False,53,gem,1
+Tawang,2026-04-07,1700,False,61,gem,2
+Tawang,2026-04-07,3330,False,39,gem,3
+Tawang,2026-04-07,5520,False,59,gem,4
+Tawang,2026-05-12,850,False,59,gem,1
+Tawang,2026-05-12,1730,False,43,gem,2
+Tawang,2026-05-12,3390,False,50,gem,3
+Tawang,2026-05-12,5950,False,63,gem,4
+Tawang,2026-06-17,810,False,42,gem,1
+Tawang,2026-06-17,1810,False,61,gem,2
+Tawang,2026-06-17,3240,False,56,gem,3
+Tawang,2026-06-17,5540,False,43,gem,4
+Tawang,2026-07-22,900,False,45,gem,1
+Tawang,2026-07-22,1780,False,42,gem,2
+Tawang,2026-07-22,3190,False,55,gem,3
+Tawang,2026-07-22,5970,False,51,gem,4
+Tawang,2026-08-01,830,False,45,gem,1
+Tawang,2026-08-01,1750,False,58,gem,2
+Tawang,2026-08-01,3120,False,52,gem,3
+Tawang,2026-08-01,5810,False,54,gem,4
+Tawang,2026-09-06,850,False,56,gem,1
+Tawang,2026-09-06,1840,False,55,gem,2
+Tawang,2026-09-06,3070,False,55,gem,3
+Tawang,2026-09-06,5700,False,45,gem,4
+Tawang,2026-10-11,820,False,38,gem,1
+Tawang,2026-10-11,1870,False,60,gem,2
+Tawang,2026-10-11,3040,False,49,gem,3
+Tawang,2026-10-11,5890,False,55,gem,4
+Tawang,2026-11-16,820,False,56,gem,1
+Tawang,2026-11-16,1900,False,51,gem,2
+Tawang,2026-11-16,3050,False,40,gem,3
+Tawang,2026-11-16,5780,False,47,gem,4
+Tawang,2026-12-21,880,False,49,gem,1
+Tawang,2026-12-21,1890,False,50,gem,2
+Tawang,2026-12-21,3240,False,46,gem,3
+Tawang,2026-12-21,5610,False,63,gem,4
+Leh Ladakh,2026-01-16,1230,False,58,popular,1
+Leh Ladakh,2026-01-16,2450,False,39,popular,2
+Leh Ladakh,2026-01-16,4780,False,62,popular,3
+Leh Ladakh,2026-01-16,8460,False,61,popular,4
+Leh Ladakh,2026-01-16,19870,False,57,popular,5
+Leh Ladakh,2026-02-21,1260,False,53,popular,1
+Leh Ladakh,2026-02-21,2710,False,47,popular,2
+Leh Ladakh,2026-02-21,4710,False,50,popular,3
+Leh Ladakh,2026-02-21,8200,False,59,popular,4
+Leh Ladakh,2026-02-21,19910,False,57,popular,5
+Leh Ladakh,2026-03-26,1240,False,52,popular,1
+Leh Ladakh,2026-03-26,2670,False,48,popular,2
+Leh Ladakh,2026-03-26,4580,False,49,popular,3
+Leh Ladakh,2026-03-26,8400,False,58,popular,4
+Leh Ladakh,2026-03-26,19970,False,43,popular,5
+Leh Ladakh,2026-04-05,1370,False,61,popular,1
+Leh Ladakh,2026-04-05,2620,False,60,popular,2
+Leh Ladakh,2026-04-05,4800,False,51,popular,3
+Leh Ladakh,2026-04-05,8570,False,48,popular,4
+Leh Ladakh,2026-04-05,18490,False,57,popular,5
+Leh Ladakh,2026-05-10,1370,False,43,popular,1
+Leh Ladakh,2026-05-10,2500,False,63,popular,2
+Leh Ladakh,2026-05-10,4850,False,52,popular,3
+Leh Ladakh,2026-05-10,7970,False,58,popular,4
+Leh Ladakh,2026-05-10,19850,False,49,popular,5
+Leh Ladakh,2026-06-15,1360,False,42,popular,1
+Leh Ladakh,2026-06-15,2530,False,58,popular,2
+Leh Ladakh,2026-06-15,4360,False,56,popular,3
+Leh Ladakh,2026-06-15,7930,False,42,popular,4
+Leh Ladakh,2026-06-15,19040,False,59,popular,5
+Leh Ladakh,2026-07-20,1270,False,38,popular,1
+Leh Ladakh,2026-07-20,2660,False,53,popular,2
+Leh Ladakh,2026-07-20,4570,False,60,popular,3
+Leh Ladakh,2026-07-20,8630,False,53,popular,4
+Leh Ladakh,2026-07-20,19870,False,55,popular,5
+Leh Ladakh,2026-08-25,1700,True,77,popular,1
+Leh Ladakh,2026-08-25,3170,True,79,popular,2
+Leh Ladakh,2026-08-25,5550,True,70,popular,3
+Leh Ladakh,2026-08-25,10850,True,70,popular,4
+Leh Ladakh,2026-08-25,23730,True,76,popular,5
+Leh Ladakh,2026-09-04,1270,False,54,popular,1
+Leh Ladakh,2026-09-04,2470,False,38,popular,2
+Leh Ladakh,2026-09-04,4650,False,42,popular,3
+Leh Ladakh,2026-09-04,8100,False,59,popular,4
+Leh Ladakh,2026-09-04,19540,False,58,popular,5
+Leh Ladakh,2026-10-09,1260,False,41,popular,1
+Leh Ladakh,2026-10-09,2620,False,45,popular,2
+Leh Ladakh,2026-10-09,4750,False,51,popular,3
+Leh Ladakh,2026-10-09,8380,False,45,popular,4
+Leh Ladakh,2026-10-09,18770,False,48,popular,5
+Leh Ladakh,2026-11-14,1570,True,87,popular,1
+Leh Ladakh,2026-11-14,3220,True,85,popular,2
+Leh Ladakh,2026-11-14,5540,True,76,popular,3
+Leh Ladakh,2026-11-14,9890,True,73,popular,4
+Leh Ladakh,2026-11-14,23430,True,62,popular,5
+Leh Ladakh,2026-12-19,1290,False,50,popular,1
+Leh Ladakh,2026-12-19,2660,False,60,popular,2
+Leh Ladakh,2026-12-19,4480,False,41,popular,3
+Leh Ladakh,2026-12-19,8210,False,55,popular,4
+Leh Ladakh,2026-12-19,18300,False,55,popular,5
+Shillong,2026-01-06,860,False,56,popular,1
+Shillong,2026-01-06,1810,False,52,popular,2
+Shillong,2026-01-06,3090,False,55,popular,3
+Shillong,2026-01-06,5810,False,51,popular,4
+Shillong,2026-01-06,13640,False,49,popular,5
+Shillong,2026-02-11,830,False,44,popular,1
+Shillong,2026-02-11,1800,False,50,popular,2
+Shillong,2026-02-11,3200,False,52,popular,3
+Shillong,2026-02-11,5900,False,57,popular,4
+Shillong,2026-02-11,14820,False,61,popular,5
+Shillong,2026-03-16,850,False,40,popular,1
+Shillong,2026-03-16,1750,False,59,popular,2
+Shillong,2026-03-16,3320,False,43,popular,3
+Shillong,2026-03-16,5730,False,42,popular,4
+Shillong,2026-03-16,13310,False,54,popular,5
+Shillong,2026-04-21,840,False,61,popular,1
+Shillong,2026-04-21,1810,False,53,popular,2
+Shillong,2026-04-21,3310,False,55,popular,3
+Shillong,2026-04-21,5510,False,48,popular,4
+Shillong,2026-04-21,14410,False,62,popular,5
+Shillong,2026-05-26,800,False,54,popular,1
+Shillong,2026-05-26,1880,False,49,popular,2
+Shillong,2026-05-26,3370,False,44,popular,3
+Shillong,2026-05-26,5650,False,42,popular,4
+Shillong,2026-05-26,14120,False,55,popular,5
+Shillong,2026-06-05,850,False,55,popular,1
+Shillong,2026-06-05,1870,False,40,popular,2
+Shillong,2026-06-05,3230,False,39,popular,3
+Shillong,2026-06-05,5570,False,53,popular,4
+Shillong,2026-06-05,13940,False,53,popular,5
+Shillong,2026-07-10,800,False,39,popular,1
+Shillong,2026-07-10,1750,False,58,popular,2
+Shillong,2026-07-10,3080,False,52,popular,3
+Shillong,2026-07-10,5840,False,44,popular,4
+Shillong,2026-07-10,13450,False,40,popular,5
+Shillong,2026-08-15,1150,True,85,popular,1
+Shillong,2026-08-15,2250,True,82,popular,2
+Shillong,2026-08-15,3870,True,77,popular,3
+Shillong,2026-08-15,7690,True,62,popular,4
+Shillong,2026-08-15,18470,True,73,popular,5
+Shillong,2026-09-20,850,False,43,popular,1
+Shillong,2026-09-20,1830,False,52,popular,2
+Shillong,2026-09-20,3270,False,40,popular,3
+Shillong,2026-09-20,5710,False,57,popular,4
+Shillong,2026-09-20,14330,False,42,popular,5
+Shillong,2026-10-25,1120,True,63,popular,1
+Shillong,2026-10-25,2160,True,70,popular,2
+Shillong,2026-10-25,3890,True,73,popular,3
+Shillong,2026-10-25,7230,True,71,popular,4
+Shillong,2026-10-25,16420,True,71,popular,5
+Shillong,2026-11-04,850,False,54,popular,1
+Shillong,2026-11-04,1870,False,47,popular,2
+Shillong,2026-11-04,3300,False,63,popular,3
+Shillong,2026-11-04,5560,False,44,popular,4
+Shillong,2026-11-04,14380,False,39,popular,5
+Shillong,2026-12-09,890,False,50,popular,1
+Shillong,2026-12-09,1700,False,40,popular,2
+Shillong,2026-12-09,3280,False,62,popular,3
+Shillong,2026-12-09,6130,False,44,popular,4
+Shillong,2026-12-09,13620,False,43,popular,5

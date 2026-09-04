@@ -1,0 +1,3502 @@
+[
+  {
+    "id": "rev-00001",
+    "destinationId": "dest-001",
+    "rating": 4,
+    "text": "Incredible experience. The local food was amazing and the staff were super helpful.",
+    "date": "2024-03-16"
+  },
+  {
+    "id": "rev-00002",
+    "destinationId": "dest-001",
+    "rating": 5,
+    "text": "The heritage sites here are world-class. Highly recommend for culture lovers.",
+    "date": "2023-12-14"
+  },
+  {
+    "id": "rev-00003",
+    "destinationId": "dest-001",
+    "rating": 2,
+    "text": "Disappointed with the accommodation. Basic amenities were lacking.",
+    "date": "2023-04-08"
+  },
+  {
+    "id": "rev-00004",
+    "destinationId": "dest-001",
+    "rating": 5,
+    "text": "Outstanding hospitality from the locals. Felt like a home away from home.",
+    "date": "2024-01-19"
+  },
+  {
+    "id": "rev-00005",
+    "destinationId": "dest-001",
+    "rating": 2,
+    "text": "Not worth the long drive. Better options exist nearby for less money.",
+    "date": "2023-03-10"
+  },
+  {
+    "id": "rev-00006",
+    "destinationId": "dest-001",
+    "rating": 4,
+    "text": "Incredible experience. The local food was amazing and the staff were super helpful.",
+    "date": "2024-03-18"
+  },
+  {
+    "id": "rev-00007",
+    "destinationId": "dest-001",
+    "rating": 4,
+    "text": "Outstanding hospitality from the locals. Felt like a home away from home.",
+    "date": "2024-07-23"
+  },
+  {
+    "id": "rev-00008",
+    "destinationId": "dest-001",
+    "rating": 5,
+    "text": "Loved the authentic local food and the guided tours were informative.",
+    "date": "2024-11-17"
+  },
+  {
+    "id": "rev-00009",
+    "destinationId": "dest-001",
+    "rating": 5,
+    "text": "Outstanding hospitality from the locals. Felt like a home away from home.",
+    "date": "2023-02-22"
+  },
+  {
+    "id": "rev-00010",
+    "destinationId": "dest-001",
+    "rating": 2,
+    "text": "The place is getting overtouristed. Lost its original charm.",
+    "date": "2023-12-27"
+  },
+  {
+    "id": "rev-00011",
+    "destinationId": "dest-002",
+    "rating": 4,
+    "text": "Loved the authentic local food and the guided tours were informative.",
+    "date": "2023-06-08"
+  },
+  {
+    "id": "rev-00012",
+    "destinationId": "dest-002",
+    "rating": 3,
+    "text": "Food was delicious but some places were not clean enough for international standards.",
+    "date": "2023-12-25"
+  },
+  {
+    "id": "rev-00013",
+    "destinationId": "dest-002",
+    "rating": 1,
+    "text": "Too expensive for what it offers. Cleanliness could be much better.",
+    "date": "2023-10-13"
+  },
+  {
+    "id": "rev-00014",
+    "destinationId": "dest-002",
+    "rating": 3,
+    "text": "The main attractions are great but the surrounding infrastructure is underdeveloped.",
+    "date": "2024-09-15"
+  },
+  {
+    "id": "rev-00015",
+    "destinationId": "dest-002",
+    "rating": 2,
+    "text": "Not worth the long drive. Better options exist nearby for less money.",
+    "date": "2023-01-30"
+  },
+  {
+    "id": "rev-00016",
+    "destinationId": "dest-002",
+    "rating": 5,
+    "text": "Perfect family destination. Kids loved every moment and everything was safe.",
+    "date": "2023-12-26"
+  },
+  {
+    "id": "rev-00017",
+    "destinationId": "dest-002",
+    "rating": 5,
+    "text": "One of the best trips I've ever taken. Clean, peaceful and worth every rupee.",
+    "date": "2023-03-13"
+  },
+  {
+    "id": "rev-00018",
+    "destinationId": "dest-002",
+    "rating": 4,
+    "text": "Absolutely stunning location! The natural beauty took my breath away.",
+    "date": "2024-06-27"
+  },
+  {
+    "id": "rev-00019",
+    "destinationId": "dest-002",
+    "rating": 5,
+    "text": "The beach was pristine and uncrowded. Great value for money overall.",
+    "date": "2023-12-16"
+  },
+  {
+    "id": "rev-00020",
+    "destinationId": "dest-002",
+    "rating": 5,
+    "text": "Perfect family destination. Kids loved every moment and everything was safe.",
+    "date": "2024-08-04"
+  },
+  {
+    "id": "rev-00021",
+    "destinationId": "dest-003",
+    "rating": 3,
+    "text": "Beautiful location but the crowds in December were overwhelming. Staff was helpful though.",
+    "date": "2023-06-11"
+  },
+  {
+    "id": "rev-00022",
+    "destinationId": "dest-003",
+    "rating": 3,
+    "text": "The roads leading to the destination were terrible. Need major improvement.",
+    "date": "2023-03-25"
+  },
+  {
+    "id": "rev-00023",
+    "destinationId": "dest-003",
+    "rating": 5,
+    "text": "The beach was pristine and uncrowded. Great value for money overall.",
+    "date": "2024-09-13"
+  },
+  {
+    "id": "rev-00024",
+    "destinationId": "dest-003",
+    "rating": 4,
+    "text": "Perfect family destination. Kids loved every moment and everything was safe.",
+    "date": "2024-06-08"
+  },
+  {
+    "id": "rev-00025",
+    "destinationId": "dest-003",
+    "rating": 4,
+    "text": "The beach was pristine and uncrowded. Great value for money overall.",
+    "date": "2023-10-18"
+  },
+  {
+    "id": "rev-00026",
+    "destinationId": "dest-003",
+    "rating": 4,
+    "text": "Good overall experience, though it can get very hot in summer months.",
+    "date": "2024-06-23"
+  },
+  {
+    "id": "rev-00027",
+    "destinationId": "dest-003",
+    "rating": 3,
+    "text": "Beautiful location but the crowds in December were overwhelming. Staff was helpful though.",
+    "date": "2024-02-09"
+  },
+  {
+    "id": "rev-00028",
+    "destinationId": "dest-003",
+    "rating": 1,
+    "text": "The roads leading to the destination were terrible. Need major improvement.",
+    "date": "2023-07-29"
+  },
+  {
+    "id": "rev-00029",
+    "destinationId": "dest-003",
+    "rating": 4,
+    "text": "The heritage sites here are world-class. Highly recommend for culture lovers.",
+    "date": "2023-09-19"
+  },
+  {
+    "id": "rev-00030",
+    "destinationId": "dest-003",
+    "rating": 4,
+    "text": "Incredible experience. The local food was amazing and the staff were super helpful.",
+    "date": "2024-05-24"
+  },
+  {
+    "id": "rev-00031",
+    "destinationId": "dest-004",
+    "rating": 3,
+    "text": "Amazing natural beauty, but the local transport options are very poor.",
+    "date": "2024-01-25"
+  },
+  {
+    "id": "rev-00032",
+    "destinationId": "dest-004",
+    "rating": 5,
+    "text": "The heritage sites here are world-class. Highly recommend for culture lovers.",
+    "date": "2023-03-15"
+  },
+  {
+    "id": "rev-00033",
+    "destinationId": "dest-004",
+    "rating": 5,
+    "text": "Absolutely stunning location! The natural beauty took my breath away.",
+    "date": "2023-01-20"
+  },
+  {
+    "id": "rev-00034",
+    "destinationId": "dest-004",
+    "rating": 5,
+    "text": "Incredible experience. The local food was amazing and the staff were super helpful.",
+    "date": "2024-08-12"
+  },
+  {
+    "id": "rev-00035",
+    "destinationId": "dest-004",
+    "rating": 5,
+    "text": "The beach was pristine and uncrowded. Great value for money overall.",
+    "date": "2023-10-24"
+  },
+  {
+    "id": "rev-00036",
+    "destinationId": "dest-004",
+    "rating": 5,
+    "text": "Absolutely stunning location! The natural beauty took my breath away.",
+    "date": "2023-06-25"
+  },
+  {
+    "id": "rev-00037",
+    "destinationId": "dest-004",
+    "rating": 2,
+    "text": "The place is getting overtouristed. Lost its original charm.",
+    "date": "2024-12-07"
+  },
+  {
+    "id": "rev-00038",
+    "destinationId": "dest-004",
+    "rating": 2,
+    "text": "The roads leading to the destination were terrible. Need major improvement.",
+    "date": "2023-04-19"
+  },
+  {
+    "id": "rev-00039",
+    "destinationId": "dest-004",
+    "rating": 5,
+    "text": "Best hidden gem in India! Way better than the crowded tourist spots.",
+    "date": "2024-06-20"
+  },
+  {
+    "id": "rev-00040",
+    "destinationId": "dest-004",
+    "rating": 5,
+    "text": "Perfect family destination. Kids loved every moment and everything was safe.",
+    "date": "2023-08-15"
+  },
+  {
+    "id": "rev-00041",
+    "destinationId": "dest-005",
+    "rating": 4,
+    "text": "One of the best trips I've ever taken. Clean, peaceful and worth every rupee.",
+    "date": "2024-06-06"
+  },
+  {
+    "id": "rev-00042",
+    "destinationId": "dest-005",
+    "rating": 3,
+    "text": "Staff at the hotel was fantastic but the restaurant attached to it was average.",
+    "date": "2023-12-24"
+  },
+  {
+    "id": "rev-00043",
+    "destinationId": "dest-005",
+    "rating": 4,
+    "text": "One of the best trips I've ever taken. Clean, peaceful and worth every rupee.",
+    "date": "2023-04-16"
+  },
+  {
+    "id": "rev-00044",
+    "destinationId": "dest-005",
+    "rating": 4,
+    "text": "The heritage sites here are world-class. Highly recommend for culture lovers.",
+    "date": "2024-09-08"
+  },
+  {
+    "id": "rev-00045",
+    "destinationId": "dest-005",
+    "rating": 4,
+    "text": "Incredible experience. The local food was amazing and the staff were super helpful.",
+    "date": "2024-10-05"
+  },
+  {
+    "id": "rev-00046",
+    "destinationId": "dest-005",
+    "rating": 5,
+    "text": "Best hidden gem in India! Way better than the crowded tourist spots.",
+    "date": "2024-11-28"
+  },
+  {
+    "id": "rev-00047",
+    "destinationId": "dest-005",
+    "rating": 3,
+    "text": "The place is getting overtouristed. Lost its original charm.",
+    "date": "2024-10-12"
+  },
+  {
+    "id": "rev-00048",
+    "destinationId": "dest-005",
+    "rating": 3,
+    "text": "Too expensive for what it offers. Cleanliness could be much better.",
+    "date": "2023-11-20"
+  },
+  {
+    "id": "rev-00049",
+    "destinationId": "dest-005",
+    "rating": 5,
+    "text": "Incredible experience. The local food was amazing and the staff were super helpful.",
+    "date": "2024-03-28"
+  },
+  {
+    "id": "rev-00050",
+    "destinationId": "dest-005",
+    "rating": 3,
+    "text": "Loved the culture and heritage, but the budget options are quite limited.",
+    "date": "2023-12-27"
+  },
+  {
+    "id": "rev-00051",
+    "destinationId": "dest-006",
+    "rating": 5,
+    "text": "Perfect family destination. Kids loved every moment and everything was safe.",
+    "date": "2024-04-07"
+  },
+  {
+    "id": "rev-00052",
+    "destinationId": "dest-006",
+    "rating": 5,
+    "text": "Outstanding hospitality from the locals. Felt like a home away from home.",
+    "date": "2023-03-20"
+  },
+  {
+    "id": "rev-00053",
+    "destinationId": "dest-006",
+    "rating": 4,
+    "text": "Great heritage sites but accommodation options are limited and overpriced.",
+    "date": "2024-04-18"
+  },
+  {
+    "id": "rev-00054",
+    "destinationId": "dest-006",
+    "rating": 4,
+    "text": "Beautiful location but the crowds in December were overwhelming. Staff was helpful though.",
+    "date": "2024-08-08"
+  },
+  {
+    "id": "rev-00055",
+    "destinationId": "dest-006",
+    "rating": 4,
+    "text": "Scenic and peaceful on weekdays, but weekends get very crowded.",
+    "date": "2024-05-28"
+  },
+  {
+    "id": "rev-00056",
+    "destinationId": "dest-006",
+    "rating": 5,
+    "text": "Absolutely stunning location! The natural beauty took my breath away.",
+    "date": "2023-04-16"
+  },
+  {
+    "id": "rev-00057",
+    "destinationId": "dest-006",
+    "rating": 3,
+    "text": "Too expensive for what it offers. Cleanliness could be much better.",
+    "date": "2023-03-28"
+  },
+  {
+    "id": "rev-00058",
+    "destinationId": "dest-006",
+    "rating": 4,
+    "text": "One of the best trips I've ever taken. Clean, peaceful and worth every rupee.",
+    "date": "2023-09-11"
+  },
+  {
+    "id": "rev-00059",
+    "destinationId": "dest-006",
+    "rating": 3,
+    "text": "Value for money is good but do expect some rough roads on the way in.",
+    "date": "2024-01-08"
+  },
+  {
+    "id": "rev-00060",
+    "destinationId": "dest-006",
+    "rating": 5,
+    "text": "Perfect family destination. Kids loved every moment and everything was safe.",
+    "date": "2024-02-23"
+  },
+  {
+    "id": "rev-00061",
+    "destinationId": "dest-007",
+    "rating": 3,
+    "text": "Not worth the long drive. Better options exist nearby for less money.",
+    "date": "2023-02-23"
+  },
+  {
+    "id": "rev-00062",
+    "destinationId": "dest-007",
+    "rating": 2,
+    "text": "Not worth the long drive. Better options exist nearby for less money.",
+    "date": "2023-03-09"
+  },
+  {
+    "id": "rev-00063",
+    "destinationId": "dest-007",
+    "rating": 5,
+    "text": "Loved the authentic local food and the guided tours were informative.",
+    "date": "2023-10-18"
+  },
+  {
+    "id": "rev-00064",
+    "destinationId": "dest-007",
+    "rating": 4,
+    "text": "Best hidden gem in India! Way better than the crowded tourist spots.",
+    "date": "2023-12-08"
+  },
+  {
+    "id": "rev-00065",
+    "destinationId": "dest-007",
+    "rating": 5,
+    "text": "One of the best trips I've ever taken. Clean, peaceful and worth every rupee.",
+    "date": "2023-11-14"
+  },
+  {
+    "id": "rev-00066",
+    "destinationId": "dest-007",
+    "rating": 3,
+    "text": "Not worth the long drive. Better options exist nearby for less money.",
+    "date": "2024-02-06"
+  },
+  {
+    "id": "rev-00067",
+    "destinationId": "dest-007",
+    "rating": 5,
+    "text": "Incredible experience. The local food was amazing and the staff were super helpful.",
+    "date": "2024-07-26"
+  },
+  {
+    "id": "rev-00068",
+    "destinationId": "dest-007",
+    "rating": 4,
+    "text": "Outstanding hospitality from the locals. Felt like a home away from home.",
+    "date": "2024-11-17"
+  },
+  {
+    "id": "rev-00069",
+    "destinationId": "dest-007",
+    "rating": 3,
+    "text": "Staff at the hotel was fantastic but the restaurant attached to it was average.",
+    "date": "2024-10-23"
+  },
+  {
+    "id": "rev-00070",
+    "destinationId": "dest-007",
+    "rating": 4,
+    "text": "Staff at the hotel was fantastic but the restaurant attached to it was average.",
+    "date": "2023-01-19"
+  },
+  {
+    "id": "rev-00071",
+    "destinationId": "dest-008",
+    "rating": 4,
+    "text": "One of the best trips I've ever taken. Clean, peaceful and worth every rupee.",
+    "date": "2023-12-16"
+  },
+  {
+    "id": "rev-00072",
+    "destinationId": "dest-008",
+    "rating": 1,
+    "text": "Disappointed with the accommodation. Basic amenities were lacking.",
+    "date": "2023-08-20"
+  },
+  {
+    "id": "rev-00073",
+    "destinationId": "dest-008",
+    "rating": 1,
+    "text": "Overcrowded during peak season. Staff seemed overwhelmed and not helpful.",
+    "date": "2023-10-30"
+  },
+  {
+    "id": "rev-00074",
+    "destinationId": "dest-008",
+    "rating": 3,
+    "text": "The roads leading to the destination were terrible. Need major improvement.",
+    "date": "2024-07-06"
+  },
+  {
+    "id": "rev-00075",
+    "destinationId": "dest-008",
+    "rating": 1,
+    "text": "The place is getting overtouristed. Lost its original charm.",
+    "date": "2024-11-08"
+  },
+  {
+    "id": "rev-00076",
+    "destinationId": "dest-008",
+    "rating": 4,
+    "text": "Best hidden gem in India! Way better than the crowded tourist spots.",
+    "date": "2024-09-03"
+  },
+  {
+    "id": "rev-00077",
+    "destinationId": "dest-008",
+    "rating": 4,
+    "text": "One of the best trips I've ever taken. Clean, peaceful and worth every rupee.",
+    "date": "2024-12-10"
+  },
+  {
+    "id": "rev-00078",
+    "destinationId": "dest-008",
+    "rating": 3,
+    "text": "Overcrowded during peak season. Staff seemed overwhelmed and not helpful.",
+    "date": "2024-03-24"
+  },
+  {
+    "id": "rev-00079",
+    "destinationId": "dest-008",
+    "rating": 4,
+    "text": "Outstanding hospitality from the locals. Felt like a home away from home.",
+    "date": "2024-03-30"
+  },
+  {
+    "id": "rev-00080",
+    "destinationId": "dest-008",
+    "rating": 3,
+    "text": "Value for money is good but do expect some rough roads on the way in.",
+    "date": "2024-06-30"
+  },
+  {
+    "id": "rev-00081",
+    "destinationId": "dest-009",
+    "rating": 4,
+    "text": "Magical experience overall. The sunrise view alone was worth the journey.",
+    "date": "2024-01-12"
+  },
+  {
+    "id": "rev-00082",
+    "destinationId": "dest-009",
+    "rating": 4,
+    "text": "Good overall experience, though it can get very hot in summer months.",
+    "date": "2024-04-17"
+  },
+  {
+    "id": "rev-00083",
+    "destinationId": "dest-009",
+    "rating": 3,
+    "text": "Disappointed with the accommodation. Basic amenities were lacking.",
+    "date": "2024-06-24"
+  },
+  {
+    "id": "rev-00084",
+    "destinationId": "dest-009",
+    "rating": 4,
+    "text": "One of the best trips I've ever taken. Clean, peaceful and worth every rupee.",
+    "date": "2024-09-11"
+  },
+  {
+    "id": "rev-00085",
+    "destinationId": "dest-009",
+    "rating": 4,
+    "text": "Perfect family destination. Kids loved every moment and everything was safe.",
+    "date": "2024-10-18"
+  },
+  {
+    "id": "rev-00086",
+    "destinationId": "dest-009",
+    "rating": 4,
+    "text": "Outstanding hospitality from the locals. Felt like a home away from home.",
+    "date": "2024-12-29"
+  },
+  {
+    "id": "rev-00087",
+    "destinationId": "dest-009",
+    "rating": 2,
+    "text": "The roads leading to the destination were terrible. Need major improvement.",
+    "date": "2023-03-27"
+  },
+  {
+    "id": "rev-00088",
+    "destinationId": "dest-009",
+    "rating": 2,
+    "text": "Too expensive for what it offers. Cleanliness could be much better.",
+    "date": "2024-06-09"
+  },
+  {
+    "id": "rev-00089",
+    "destinationId": "dest-009",
+    "rating": 4,
+    "text": "The beach was pristine and uncrowded. Great value for money overall.",
+    "date": "2023-08-16"
+  },
+  {
+    "id": "rev-00090",
+    "destinationId": "dest-009",
+    "rating": 1,
+    "text": "Too expensive for what it offers. Cleanliness could be much better.",
+    "date": "2024-02-29"
+  },
+  {
+    "id": "rev-00091",
+    "destinationId": "dest-010",
+    "rating": 5,
+    "text": "Loved the authentic local food and the guided tours were informative.",
+    "date": "2023-08-30"
+  },
+  {
+    "id": "rev-00092",
+    "destinationId": "dest-010",
+    "rating": 5,
+    "text": "Incredible experience. The local food was amazing and the staff were super helpful.",
+    "date": "2023-08-18"
+  },
+  {
+    "id": "rev-00093",
+    "destinationId": "dest-010",
+    "rating": 5,
+    "text": "Incredible experience. The local food was amazing and the staff were super helpful.",
+    "date": "2023-05-30"
+  },
+  {
+    "id": "rev-00094",
+    "destinationId": "dest-010",
+    "rating": 5,
+    "text": "Perfect family destination. Kids loved every moment and everything was safe.",
+    "date": "2024-12-13"
+  },
+  {
+    "id": "rev-00095",
+    "destinationId": "dest-010",
+    "rating": 2,
+    "text": "Not worth the long drive. Better options exist nearby for less money.",
+    "date": "2024-04-04"
+  },
+  {
+    "id": "rev-00096",
+    "destinationId": "dest-010",
+    "rating": 3,
+    "text": "Great heritage sites but accommodation options are limited and overpriced.",
+    "date": "2023-09-20"
+  },
+  {
+    "id": "rev-00097",
+    "destinationId": "dest-010",
+    "rating": 5,
+    "text": "One of the best trips I've ever taken. Clean, peaceful and worth every rupee.",
+    "date": "2023-04-24"
+  },
+  {
+    "id": "rev-00098",
+    "destinationId": "dest-010",
+    "rating": 2,
+    "text": "Overcrowded during peak season. Staff seemed overwhelmed and not helpful.",
+    "date": "2023-05-05"
+  },
+  {
+    "id": "rev-00099",
+    "destinationId": "dest-010",
+    "rating": 5,
+    "text": "The beach was pristine and uncrowded. Great value for money overall.",
+    "date": "2023-03-06"
+  },
+  {
+    "id": "rev-00100",
+    "destinationId": "dest-010",
+    "rating": 4,
+    "text": "Magical experience overall. The sunrise view alone was worth the journey.",
+    "date": "2024-10-09"
+  },
+  {
+    "id": "rev-00101",
+    "destinationId": "dest-011",
+    "rating": 4,
+    "text": "The heritage sites here are world-class. Highly recommend for culture lovers.",
+    "date": "2023-10-26"
+  },
+  {
+    "id": "rev-00102",
+    "destinationId": "dest-011",
+    "rating": 5,
+    "text": "Best hidden gem in India! Way better than the crowded tourist spots.",
+    "date": "2023-09-04"
+  },
+  {
+    "id": "rev-00103",
+    "destinationId": "dest-011",
+    "rating": 3,
+    "text": "Amazing natural beauty, but the local transport options are very poor.",
+    "date": "2024-06-20"
+  },
+  {
+    "id": "rev-00104",
+    "destinationId": "dest-011",
+    "rating": 3,
+    "text": "The roads leading to the destination were terrible. Need major improvement.",
+    "date": "2024-07-11"
+  },
+  {
+    "id": "rev-00105",
+    "destinationId": "dest-011",
+    "rating": 4,
+    "text": "Loved the authentic local food and the guided tours were informative.",
+    "date": "2024-02-04"
+  },
+  {
+    "id": "rev-00106",
+    "destinationId": "dest-011",
+    "rating": 3,
+    "text": "The roads leading to the destination were terrible. Need major improvement.",
+    "date": "2024-02-01"
+  },
+  {
+    "id": "rev-00107",
+    "destinationId": "dest-011",
+    "rating": 3,
+    "text": "Too expensive for what it offers. Cleanliness could be much better.",
+    "date": "2023-01-17"
+  },
+  {
+    "id": "rev-00108",
+    "destinationId": "dest-011",
+    "rating": 5,
+    "text": "Incredible experience. The local food was amazing and the staff were super helpful.",
+    "date": "2023-09-04"
+  },
+  {
+    "id": "rev-00109",
+    "destinationId": "dest-011",
+    "rating": 4,
+    "text": "Great heritage sites but accommodation options are limited and overpriced.",
+    "date": "2023-05-17"
+  },
+  {
+    "id": "rev-00110",
+    "destinationId": "dest-011",
+    "rating": 5,
+    "text": "Loved the authentic local food and the guided tours were informative.",
+    "date": "2024-10-20"
+  },
+  {
+    "id": "rev-00111",
+    "destinationId": "dest-012",
+    "rating": 5,
+    "text": "Magical experience overall. The sunrise view alone was worth the journey.",
+    "date": "2024-10-08"
+  },
+  {
+    "id": "rev-00112",
+    "destinationId": "dest-012",
+    "rating": 4,
+    "text": "One of the best trips I've ever taken. Clean, peaceful and worth every rupee.",
+    "date": "2024-04-13"
+  },
+  {
+    "id": "rev-00113",
+    "destinationId": "dest-012",
+    "rating": 4,
+    "text": "The heritage sites here are world-class. Highly recommend for culture lovers.",
+    "date": "2023-07-24"
+  },
+  {
+    "id": "rev-00114",
+    "destinationId": "dest-012",
+    "rating": 2,
+    "text": "Too expensive for what it offers. Cleanliness could be much better.",
+    "date": "2024-06-11"
+  },
+  {
+    "id": "rev-00115",
+    "destinationId": "dest-012",
+    "rating": 5,
+    "text": "Loved the authentic local food and the guided tours were informative.",
+    "date": "2023-09-17"
+  },
+  {
+    "id": "rev-00116",
+    "destinationId": "dest-012",
+    "rating": 5,
+    "text": "The heritage sites here are world-class. Highly recommend for culture lovers.",
+    "date": "2024-01-01"
+  },
+  {
+    "id": "rev-00117",
+    "destinationId": "dest-012",
+    "rating": 3,
+    "text": "The roads leading to the destination were terrible. Need major improvement.",
+    "date": "2023-12-06"
+  },
+  {
+    "id": "rev-00118",
+    "destinationId": "dest-012",
+    "rating": 5,
+    "text": "Outstanding hospitality from the locals. Felt like a home away from home.",
+    "date": "2024-02-14"
+  },
+  {
+    "id": "rev-00119",
+    "destinationId": "dest-012",
+    "rating": 4,
+    "text": "The main attractions are great but the surrounding infrastructure is underdeveloped.",
+    "date": "2023-07-11"
+  },
+  {
+    "id": "rev-00120",
+    "destinationId": "dest-012",
+    "rating": 5,
+    "text": "Magical experience overall. The sunrise view alone was worth the journey.",
+    "date": "2024-06-15"
+  },
+  {
+    "id": "rev-00121",
+    "destinationId": "dest-013",
+    "rating": 5,
+    "text": "Incredible experience. The local food was amazing and the staff were super helpful.",
+    "date": "2023-03-22"
+  },
+  {
+    "id": "rev-00122",
+    "destinationId": "dest-013",
+    "rating": 5,
+    "text": "One of the best trips I've ever taken. Clean, peaceful and worth every rupee.",
+    "date": "2023-11-25"
+  },
+  {
+    "id": "rev-00123",
+    "destinationId": "dest-013",
+    "rating": 5,
+    "text": "Outstanding hospitality from the locals. Felt like a home away from home.",
+    "date": "2023-11-10"
+  },
+  {
+    "id": "rev-00124",
+    "destinationId": "dest-013",
+    "rating": 4,
+    "text": "The beach was pristine and uncrowded. Great value for money overall.",
+    "date": "2024-12-07"
+  },
+  {
+    "id": "rev-00125",
+    "destinationId": "dest-013",
+    "rating": 4,
+    "text": "Magical experience overall. The sunrise view alone was worth the journey.",
+    "date": "2023-12-28"
+  },
+  {
+    "id": "rev-00126",
+    "destinationId": "dest-013",
+    "rating": 4,
+    "text": "The main attractions are great but the surrounding infrastructure is underdeveloped.",
+    "date": "2024-10-16"
+  },
+  {
+    "id": "rev-00127",
+    "destinationId": "dest-013",
+    "rating": 1,
+    "text": "The roads leading to the destination were terrible. Need major improvement.",
+    "date": "2024-11-18"
+  },
+  {
+    "id": "rev-00128",
+    "destinationId": "dest-013",
+    "rating": 3,
+    "text": "Scenic and peaceful on weekdays, but weekends get very crowded.",
+    "date": "2023-02-01"
+  },
+  {
+    "id": "rev-00129",
+    "destinationId": "dest-013",
+    "rating": 5,
+    "text": "Best hidden gem in India! Way better than the crowded tourist spots.",
+    "date": "2023-02-05"
+  },
+  {
+    "id": "rev-00130",
+    "destinationId": "dest-013",
+    "rating": 5,
+    "text": "The heritage sites here are world-class. Highly recommend for culture lovers.",
+    "date": "2024-01-06"
+  },
+  {
+    "id": "rev-00131",
+    "destinationId": "dest-014",
+    "rating": 4,
+    "text": "Best hidden gem in India! Way better than the crowded tourist spots.",
+    "date": "2024-09-11"
+  },
+  {
+    "id": "rev-00132",
+    "destinationId": "dest-014",
+    "rating": 5,
+    "text": "Magical experience overall. The sunrise view alone was worth the journey.",
+    "date": "2024-01-16"
+  },
+  {
+    "id": "rev-00133",
+    "destinationId": "dest-014",
+    "rating": 4,
+    "text": "Incredible experience. The local food was amazing and the staff were super helpful.",
+    "date": "2024-06-26"
+  },
+  {
+    "id": "rev-00134",
+    "destinationId": "dest-014",
+    "rating": 5,
+    "text": "Outstanding hospitality from the locals. Felt like a home away from home.",
+    "date": "2023-09-13"
+  },
+  {
+    "id": "rev-00135",
+    "destinationId": "dest-014",
+    "rating": 3,
+    "text": "The roads leading to the destination were terrible. Need major improvement.",
+    "date": "2023-07-10"
+  },
+  {
+    "id": "rev-00136",
+    "destinationId": "dest-014",
+    "rating": 4,
+    "text": "The beach was pristine and uncrowded. Great value for money overall.",
+    "date": "2023-09-26"
+  },
+  {
+    "id": "rev-00137",
+    "destinationId": "dest-014",
+    "rating": 2,
+    "text": "Not worth the long drive. Better options exist nearby for less money.",
+    "date": "2023-08-08"
+  },
+  {
+    "id": "rev-00138",
+    "destinationId": "dest-014",
+    "rating": 3,
+    "text": "Too expensive for what it offers. Cleanliness could be much better.",
+    "date": "2024-05-17"
+  },
+  {
+    "id": "rev-00139",
+    "destinationId": "dest-014",
+    "rating": 4,
+    "text": "One of the best trips I've ever taken. Clean, peaceful and worth every rupee.",
+    "date": "2024-04-07"
+  },
+  {
+    "id": "rev-00140",
+    "destinationId": "dest-014",
+    "rating": 4,
+    "text": "Magical experience overall. The sunrise view alone was worth the journey.",
+    "date": "2024-11-29"
+  },
+  {
+    "id": "rev-00141",
+    "destinationId": "dest-015",
+    "rating": 3,
+    "text": "Too expensive for what it offers. Cleanliness could be much better.",
+    "date": "2023-12-22"
+  },
+  {
+    "id": "rev-00142",
+    "destinationId": "dest-015",
+    "rating": 4,
+    "text": "Staff at the hotel was fantastic but the restaurant attached to it was average.",
+    "date": "2023-11-04"
+  },
+  {
+    "id": "rev-00143",
+    "destinationId": "dest-015",
+    "rating": 3,
+    "text": "Not worth the long drive. Better options exist nearby for less money.",
+    "date": "2024-12-18"
+  },
+  {
+    "id": "rev-00144",
+    "destinationId": "dest-015",
+    "rating": 3,
+    "text": "Scenic and peaceful on weekdays, but weekends get very crowded.",
+    "date": "2023-05-05"
+  },
+  {
+    "id": "rev-00145",
+    "destinationId": "dest-015",
+    "rating": 1,
+    "text": "Overcrowded during peak season. Staff seemed overwhelmed and not helpful.",
+    "date": "2024-05-20"
+  },
+  {
+    "id": "rev-00146",
+    "destinationId": "dest-015",
+    "rating": 5,
+    "text": "Loved the authentic local food and the guided tours were informative.",
+    "date": "2024-04-23"
+  },
+  {
+    "id": "rev-00147",
+    "destinationId": "dest-015",
+    "rating": 1,
+    "text": "The place is getting overtouristed. Lost its original charm.",
+    "date": "2024-09-18"
+  },
+  {
+    "id": "rev-00148",
+    "destinationId": "dest-015",
+    "rating": 2,
+    "text": "The roads leading to the destination were terrible. Need major improvement.",
+    "date": "2024-02-12"
+  },
+  {
+    "id": "rev-00149",
+    "destinationId": "dest-015",
+    "rating": 2,
+    "text": "Not worth the long drive. Better options exist nearby for less money.",
+    "date": "2024-06-22"
+  },
+  {
+    "id": "rev-00150",
+    "destinationId": "dest-015",
+    "rating": 4,
+    "text": "The beach was pristine and uncrowded. Great value for money overall.",
+    "date": "2023-05-09"
+  },
+  {
+    "id": "rev-00151",
+    "destinationId": "dest-016",
+    "rating": 1,
+    "text": "Not worth the long drive. Better options exist nearby for less money.",
+    "date": "2024-04-05"
+  },
+  {
+    "id": "rev-00152",
+    "destinationId": "dest-016",
+    "rating": 5,
+    "text": "Loved the authentic local food and the guided tours were informative.",
+    "date": "2023-05-12"
+  },
+  {
+    "id": "rev-00153",
+    "destinationId": "dest-016",
+    "rating": 3,
+    "text": "The place is getting overtouristed. Lost its original charm.",
+    "date": "2024-08-24"
+  },
+  {
+    "id": "rev-00154",
+    "destinationId": "dest-016",
+    "rating": 5,
+    "text": "One of the best trips I've ever taken. Clean, peaceful and worth every rupee.",
+    "date": "2024-05-29"
+  },
+  {
+    "id": "rev-00155",
+    "destinationId": "dest-016",
+    "rating": 1,
+    "text": "The roads leading to the destination were terrible. Need major improvement.",
+    "date": "2024-06-14"
+  },
+  {
+    "id": "rev-00156",
+    "destinationId": "dest-016",
+    "rating": 4,
+    "text": "One of the best trips I've ever taken. Clean, peaceful and worth every rupee.",
+    "date": "2023-11-27"
+  },
+  {
+    "id": "rev-00157",
+    "destinationId": "dest-016",
+    "rating": 2,
+    "text": "Overcrowded during peak season. Staff seemed overwhelmed and not helpful.",
+    "date": "2024-06-15"
+  },
+  {
+    "id": "rev-00158",
+    "destinationId": "dest-016",
+    "rating": 2,
+    "text": "The roads leading to the destination were terrible. Need major improvement.",
+    "date": "2023-07-21"
+  },
+  {
+    "id": "rev-00159",
+    "destinationId": "dest-016",
+    "rating": 4,
+    "text": "Staff at the hotel was fantastic but the restaurant attached to it was average.",
+    "date": "2023-05-09"
+  },
+  {
+    "id": "rev-00160",
+    "destinationId": "dest-016",
+    "rating": 3,
+    "text": "Good overall experience, though it can get very hot in summer months.",
+    "date": "2024-05-29"
+  },
+  {
+    "id": "rev-00161",
+    "destinationId": "dest-017",
+    "rating": 3,
+    "text": "Good overall experience, though it can get very hot in summer months.",
+    "date": "2023-06-25"
+  },
+  {
+    "id": "rev-00162",
+    "destinationId": "dest-017",
+    "rating": 4,
+    "text": "Good overall experience, though it can get very hot in summer months.",
+    "date": "2024-07-31"
+  },
+  {
+    "id": "rev-00163",
+    "destinationId": "dest-017",
+    "rating": 4,
+    "text": "Absolutely stunning location! The natural beauty took my breath away.",
+    "date": "2023-02-16"
+  },
+  {
+    "id": "rev-00164",
+    "destinationId": "dest-017",
+    "rating": 2,
+    "text": "The place is getting overtouristed. Lost its original charm.",
+    "date": "2024-10-28"
+  },
+  {
+    "id": "rev-00165",
+    "destinationId": "dest-017",
+    "rating": 5,
+    "text": "Best hidden gem in India! Way better than the crowded tourist spots.",
+    "date": "2024-09-24"
+  },
+  {
+    "id": "rev-00166",
+    "destinationId": "dest-017",
+    "rating": 4,
+    "text": "Value for money is good but do expect some rough roads on the way in.",
+    "date": "2024-10-19"
+  },
+  {
+    "id": "rev-00167",
+    "destinationId": "dest-017",
+    "rating": 1,
+    "text": "Disappointed with the accommodation. Basic amenities were lacking.",
+    "date": "2024-12-02"
+  },
+  {
+    "id": "rev-00168",
+    "destinationId": "dest-017",
+    "rating": 4,
+    "text": "Magical experience overall. The sunrise view alone was worth the journey.",
+    "date": "2024-12-06"
+  },
+  {
+    "id": "rev-00169",
+    "destinationId": "dest-017",
+    "rating": 5,
+    "text": "Magical experience overall. The sunrise view alone was worth the journey.",
+    "date": "2024-05-10"
+  },
+  {
+    "id": "rev-00170",
+    "destinationId": "dest-017",
+    "rating": 4,
+    "text": "Outstanding hospitality from the locals. Felt like a home away from home.",
+    "date": "2023-11-17"
+  },
+  {
+    "id": "rev-00171",
+    "destinationId": "dest-018",
+    "rating": 3,
+    "text": "Too expensive for what it offers. Cleanliness could be much better.",
+    "date": "2023-12-20"
+  },
+  {
+    "id": "rev-00172",
+    "destinationId": "dest-018",
+    "rating": 2,
+    "text": "Overcrowded during peak season. Staff seemed overwhelmed and not helpful.",
+    "date": "2024-06-11"
+  },
+  {
+    "id": "rev-00173",
+    "destinationId": "dest-018",
+    "rating": 3,
+    "text": "Scenic and peaceful on weekdays, but weekends get very crowded.",
+    "date": "2024-04-22"
+  },
+  {
+    "id": "rev-00174",
+    "destinationId": "dest-018",
+    "rating": 4,
+    "text": "Magical experience overall. The sunrise view alone was worth the journey.",
+    "date": "2023-05-25"
+  },
+  {
+    "id": "rev-00175",
+    "destinationId": "dest-018",
+    "rating": 5,
+    "text": "Perfect family destination. Kids loved every moment and everything was safe.",
+    "date": "2024-09-22"
+  },
+  {
+    "id": "rev-00176",
+    "destinationId": "dest-018",
+    "rating": 5,
+    "text": "One of the best trips I've ever taken. Clean, peaceful and worth every rupee.",
+    "date": "2024-08-14"
+  },
+  {
+    "id": "rev-00177",
+    "destinationId": "dest-018",
+    "rating": 3,
+    "text": "Food was delicious but some places were not clean enough for international standards.",
+    "date": "2024-05-25"
+  },
+  {
+    "id": "rev-00178",
+    "destinationId": "dest-018",
+    "rating": 2,
+    "text": "Disappointed with the accommodation. Basic amenities were lacking.",
+    "date": "2023-11-12"
+  },
+  {
+    "id": "rev-00179",
+    "destinationId": "dest-018",
+    "rating": 5,
+    "text": "Incredible experience. The local food was amazing and the staff were super helpful.",
+    "date": "2024-06-01"
+  },
+  {
+    "id": "rev-00180",
+    "destinationId": "dest-018",
+    "rating": 4,
+    "text": "The heritage sites here are world-class. Highly recommend for culture lovers.",
+    "date": "2024-08-20"
+  },
+  {
+    "id": "rev-00181",
+    "destinationId": "dest-019",
+    "rating": 5,
+    "text": "Absolutely stunning location! The natural beauty took my breath away.",
+    "date": "2024-05-21"
+  },
+  {
+    "id": "rev-00182",
+    "destinationId": "dest-019",
+    "rating": 4,
+    "text": "Value for money is good but do expect some rough roads on the way in.",
+    "date": "2024-07-03"
+  },
+  {
+    "id": "rev-00183",
+    "destinationId": "dest-019",
+    "rating": 5,
+    "text": "Incredible experience. The local food was amazing and the staff were super helpful.",
+    "date": "2023-05-18"
+  },
+  {
+    "id": "rev-00184",
+    "destinationId": "dest-019",
+    "rating": 2,
+    "text": "Not worth the long drive. Better options exist nearby for less money.",
+    "date": "2024-02-17"
+  },
+  {
+    "id": "rev-00185",
+    "destinationId": "dest-019",
+    "rating": 4,
+    "text": "The beach was pristine and uncrowded. Great value for money overall.",
+    "date": "2024-08-06"
+  },
+  {
+    "id": "rev-00186",
+    "destinationId": "dest-019",
+    "rating": 4,
+    "text": "Scenic and peaceful on weekdays, but weekends get very crowded.",
+    "date": "2023-03-17"
+  },
+  {
+    "id": "rev-00187",
+    "destinationId": "dest-019",
+    "rating": 5,
+    "text": "Magical experience overall. The sunrise view alone was worth the journey.",
+    "date": "2024-09-30"
+  },
+  {
+    "id": "rev-00188",
+    "destinationId": "dest-019",
+    "rating": 3,
+    "text": "Great heritage sites but accommodation options are limited and overpriced.",
+    "date": "2023-04-10"
+  },
+  {
+    "id": "rev-00189",
+    "destinationId": "dest-019",
+    "rating": 5,
+    "text": "Outstanding hospitality from the locals. Felt like a home away from home.",
+    "date": "2023-05-28"
+  },
+  {
+    "id": "rev-00190",
+    "destinationId": "dest-019",
+    "rating": 5,
+    "text": "Loved the authentic local food and the guided tours were informative.",
+    "date": "2024-05-27"
+  },
+  {
+    "id": "rev-00191",
+    "destinationId": "dest-020",
+    "rating": 4,
+    "text": "Absolutely stunning location! The natural beauty took my breath away.",
+    "date": "2024-12-31"
+  },
+  {
+    "id": "rev-00192",
+    "destinationId": "dest-020",
+    "rating": 5,
+    "text": "Magical experience overall. The sunrise view alone was worth the journey.",
+    "date": "2023-06-02"
+  },
+  {
+    "id": "rev-00193",
+    "destinationId": "dest-020",
+    "rating": 3,
+    "text": "Staff at the hotel was fantastic but the restaurant attached to it was average.",
+    "date": "2023-12-02"
+  },
+  {
+    "id": "rev-00194",
+    "destinationId": "dest-020",
+    "rating": 1,
+    "text": "Too expensive for what it offers. Cleanliness could be much better.",
+    "date": "2024-02-07"
+  },
+  {
+    "id": "rev-00195",
+    "destinationId": "dest-020",
+    "rating": 2,
+    "text": "Not worth the long drive. Better options exist nearby for less money.",
+    "date": "2024-08-30"
+  },
+  {
+    "id": "rev-00196",
+    "destinationId": "dest-020",
+    "rating": 5,
+    "text": "Loved the authentic local food and the guided tours were informative.",
+    "date": "2024-12-26"
+  },
+  {
+    "id": "rev-00197",
+    "destinationId": "dest-020",
+    "rating": 3,
+    "text": "Value for money is good but do expect some rough roads on the way in.",
+    "date": "2024-01-13"
+  },
+  {
+    "id": "rev-00198",
+    "destinationId": "dest-020",
+    "rating": 5,
+    "text": "Incredible experience. The local food was amazing and the staff were super helpful.",
+    "date": "2024-08-20"
+  },
+  {
+    "id": "rev-00199",
+    "destinationId": "dest-020",
+    "rating": 5,
+    "text": "Absolutely stunning location! The natural beauty took my breath away.",
+    "date": "2023-09-29"
+  },
+  {
+    "id": "rev-00200",
+    "destinationId": "dest-020",
+    "rating": 3,
+    "text": "The place is getting overtouristed. Lost its original charm.",
+    "date": "2023-08-22"
+  },
+  {
+    "id": "rev-00201",
+    "destinationId": "dest-021",
+    "rating": 4,
+    "text": "Good overall experience, though it can get very hot in summer months.",
+    "date": "2023-06-24"
+  },
+  {
+    "id": "rev-00202",
+    "destinationId": "dest-021",
+    "rating": 5,
+    "text": "Best hidden gem in India! Way better than the crowded tourist spots.",
+    "date": "2023-06-01"
+  },
+  {
+    "id": "rev-00203",
+    "destinationId": "dest-021",
+    "rating": 1,
+    "text": "Overcrowded during peak season. Staff seemed overwhelmed and not helpful.",
+    "date": "2024-08-09"
+  },
+  {
+    "id": "rev-00204",
+    "destinationId": "dest-021",
+    "rating": 1,
+    "text": "The roads leading to the destination were terrible. Need major improvement.",
+    "date": "2023-01-20"
+  },
+  {
+    "id": "rev-00205",
+    "destinationId": "dest-021",
+    "rating": 4,
+    "text": "The beach was pristine and uncrowded. Great value for money overall.",
+    "date": "2024-02-27"
+  },
+  {
+    "id": "rev-00206",
+    "destinationId": "dest-021",
+    "rating": 4,
+    "text": "The main attractions are great but the surrounding infrastructure is underdeveloped.",
+    "date": "2023-03-05"
+  },
+  {
+    "id": "rev-00207",
+    "destinationId": "dest-021",
+    "rating": 3,
+    "text": "Staff at the hotel was fantastic but the restaurant attached to it was average.",
+    "date": "2024-07-28"
+  },
+  {
+    "id": "rev-00208",
+    "destinationId": "dest-021",
+    "rating": 5,
+    "text": "Magical experience overall. The sunrise view alone was worth the journey.",
+    "date": "2023-11-18"
+  },
+  {
+    "id": "rev-00209",
+    "destinationId": "dest-021",
+    "rating": 3,
+    "text": "Disappointed with the accommodation. Basic amenities were lacking.",
+    "date": "2023-12-17"
+  },
+  {
+    "id": "rev-00210",
+    "destinationId": "dest-021",
+    "rating": 5,
+    "text": "Perfect family destination. Kids loved every moment and everything was safe.",
+    "date": "2023-07-16"
+  },
+  {
+    "id": "rev-00211",
+    "destinationId": "dest-022",
+    "rating": 3,
+    "text": "Too expensive for what it offers. Cleanliness could be much better.",
+    "date": "2023-11-02"
+  },
+  {
+    "id": "rev-00212",
+    "destinationId": "dest-022",
+    "rating": 5,
+    "text": "Perfect family destination. Kids loved every moment and everything was safe.",
+    "date": "2024-12-22"
+  },
+  {
+    "id": "rev-00213",
+    "destinationId": "dest-022",
+    "rating": 5,
+    "text": "Magical experience overall. The sunrise view alone was worth the journey.",
+    "date": "2024-05-06"
+  },
+  {
+    "id": "rev-00214",
+    "destinationId": "dest-022",
+    "rating": 5,
+    "text": "Perfect family destination. Kids loved every moment and everything was safe.",
+    "date": "2023-05-05"
+  },
+  {
+    "id": "rev-00215",
+    "destinationId": "dest-022",
+    "rating": 4,
+    "text": "Staff at the hotel was fantastic but the restaurant attached to it was average.",
+    "date": "2024-02-09"
+  },
+  {
+    "id": "rev-00216",
+    "destinationId": "dest-022",
+    "rating": 2,
+    "text": "Overcrowded during peak season. Staff seemed overwhelmed and not helpful.",
+    "date": "2023-02-13"
+  },
+  {
+    "id": "rev-00217",
+    "destinationId": "dest-022",
+    "rating": 5,
+    "text": "Incredible experience. The local food was amazing and the staff were super helpful.",
+    "date": "2024-03-28"
+  },
+  {
+    "id": "rev-00218",
+    "destinationId": "dest-022",
+    "rating": 3,
+    "text": "Value for money is good but do expect some rough roads on the way in.",
+    "date": "2023-07-26"
+  },
+  {
+    "id": "rev-00219",
+    "destinationId": "dest-022",
+    "rating": 3,
+    "text": "Too expensive for what it offers. Cleanliness could be much better.",
+    "date": "2024-12-13"
+  },
+  {
+    "id": "rev-00220",
+    "destinationId": "dest-022",
+    "rating": 4,
+    "text": "Incredible experience. The local food was amazing and the staff were super helpful.",
+    "date": "2023-09-06"
+  },
+  {
+    "id": "rev-00221",
+    "destinationId": "dest-023",
+    "rating": 4,
+    "text": "Loved the authentic local food and the guided tours were informative.",
+    "date": "2024-10-15"
+  },
+  {
+    "id": "rev-00222",
+    "destinationId": "dest-023",
+    "rating": 5,
+    "text": "Incredible experience. The local food was amazing and the staff were super helpful.",
+    "date": "2023-12-05"
+  },
+  {
+    "id": "rev-00223",
+    "destinationId": "dest-023",
+    "rating": 3,
+    "text": "Great heritage sites but accommodation options are limited and overpriced.",
+    "date": "2023-01-06"
+  },
+  {
+    "id": "rev-00224",
+    "destinationId": "dest-023",
+    "rating": 2,
+    "text": "Overcrowded during peak season. Staff seemed overwhelmed and not helpful.",
+    "date": "2024-10-30"
+  },
+  {
+    "id": "rev-00225",
+    "destinationId": "dest-023",
+    "rating": 2,
+    "text": "Disappointed with the accommodation. Basic amenities were lacking.",
+    "date": "2024-10-28"
+  },
+  {
+    "id": "rev-00226",
+    "destinationId": "dest-023",
+    "rating": 5,
+    "text": "Perfect family destination. Kids loved every moment and everything was safe.",
+    "date": "2023-10-20"
+  },
+  {
+    "id": "rev-00227",
+    "destinationId": "dest-023",
+    "rating": 3,
+    "text": "Great heritage sites but accommodation options are limited and overpriced.",
+    "date": "2024-07-01"
+  },
+  {
+    "id": "rev-00228",
+    "destinationId": "dest-023",
+    "rating": 3,
+    "text": "Beautiful location but the crowds in December were overwhelming. Staff was helpful though.",
+    "date": "2024-03-03"
+  },
+  {
+    "id": "rev-00229",
+    "destinationId": "dest-023",
+    "rating": 1,
+    "text": "Overcrowded during peak season. Staff seemed overwhelmed and not helpful.",
+    "date": "2024-02-11"
+  },
+  {
+    "id": "rev-00230",
+    "destinationId": "dest-023",
+    "rating": 3,
+    "text": "Overcrowded during peak season. Staff seemed overwhelmed and not helpful.",
+    "date": "2023-10-24"
+  },
+  {
+    "id": "rev-00231",
+    "destinationId": "dest-024",
+    "rating": 2,
+    "text": "The roads leading to the destination were terrible. Need major improvement.",
+    "date": "2024-08-04"
+  },
+  {
+    "id": "rev-00232",
+    "destinationId": "dest-024",
+    "rating": 4,
+    "text": "Scenic and peaceful on weekdays, but weekends get very crowded.",
+    "date": "2024-04-10"
+  },
+  {
+    "id": "rev-00233",
+    "destinationId": "dest-024",
+    "rating": 3,
+    "text": "The place is getting overtouristed. Lost its original charm.",
+    "date": "2024-05-20"
+  },
+  {
+    "id": "rev-00234",
+    "destinationId": "dest-024",
+    "rating": 3,
+    "text": "Overcrowded during peak season. Staff seemed overwhelmed and not helpful.",
+    "date": "2024-04-24"
+  },
+  {
+    "id": "rev-00235",
+    "destinationId": "dest-024",
+    "rating": 5,
+    "text": "Incredible experience. The local food was amazing and the staff were super helpful.",
+    "date": "2023-06-16"
+  },
+  {
+    "id": "rev-00236",
+    "destinationId": "dest-024",
+    "rating": 3,
+    "text": "Loved the culture and heritage, but the budget options are quite limited.",
+    "date": "2023-01-15"
+  },
+  {
+    "id": "rev-00237",
+    "destinationId": "dest-024",
+    "rating": 3,
+    "text": "Loved the culture and heritage, but the budget options are quite limited.",
+    "date": "2023-06-29"
+  },
+  {
+    "id": "rev-00238",
+    "destinationId": "dest-024",
+    "rating": 4,
+    "text": "The main attractions are great but the surrounding infrastructure is underdeveloped.",
+    "date": "2024-06-11"
+  },
+  {
+    "id": "rev-00239",
+    "destinationId": "dest-024",
+    "rating": 4,
+    "text": "The beach was pristine and uncrowded. Great value for money overall.",
+    "date": "2023-07-09"
+  },
+  {
+    "id": "rev-00240",
+    "destinationId": "dest-024",
+    "rating": 2,
+    "text": "Disappointed with the accommodation. Basic amenities were lacking.",
+    "date": "2023-09-12"
+  },
+  {
+    "id": "rev-00241",
+    "destinationId": "dest-025",
+    "rating": 4,
+    "text": "The beach was pristine and uncrowded. Great value for money overall.",
+    "date": "2024-04-02"
+  },
+  {
+    "id": "rev-00242",
+    "destinationId": "dest-025",
+    "rating": 2,
+    "text": "Too expensive for what it offers. Cleanliness could be much better.",
+    "date": "2024-08-19"
+  },
+  {
+    "id": "rev-00243",
+    "destinationId": "dest-025",
+    "rating": 4,
+    "text": "Beautiful location but the crowds in December were overwhelming. Staff was helpful though.",
+    "date": "2024-10-31"
+  },
+  {
+    "id": "rev-00244",
+    "destinationId": "dest-025",
+    "rating": 4,
+    "text": "The heritage sites here are world-class. Highly recommend for culture lovers.",
+    "date": "2024-11-14"
+  },
+  {
+    "id": "rev-00245",
+    "destinationId": "dest-025",
+    "rating": 4,
+    "text": "Perfect family destination. Kids loved every moment and everything was safe.",
+    "date": "2024-02-20"
+  },
+  {
+    "id": "rev-00246",
+    "destinationId": "dest-025",
+    "rating": 3,
+    "text": "Loved the culture and heritage, but the budget options are quite limited.",
+    "date": "2024-10-16"
+  },
+  {
+    "id": "rev-00247",
+    "destinationId": "dest-025",
+    "rating": 2,
+    "text": "Too expensive for what it offers. Cleanliness could be much better.",
+    "date": "2024-09-21"
+  },
+  {
+    "id": "rev-00248",
+    "destinationId": "dest-025",
+    "rating": 5,
+    "text": "One of the best trips I've ever taken. Clean, peaceful and worth every rupee.",
+    "date": "2023-06-06"
+  },
+  {
+    "id": "rev-00249",
+    "destinationId": "dest-025",
+    "rating": 5,
+    "text": "Best hidden gem in India! Way better than the crowded tourist spots.",
+    "date": "2024-03-01"
+  },
+  {
+    "id": "rev-00250",
+    "destinationId": "dest-025",
+    "rating": 3,
+    "text": "Value for money is good but do expect some rough roads on the way in.",
+    "date": "2023-09-11"
+  },
+  {
+    "id": "rev-00251",
+    "destinationId": "dest-026",
+    "rating": 3,
+    "text": "Good overall experience, though it can get very hot in summer months.",
+    "date": "2024-06-22"
+  },
+  {
+    "id": "rev-00252",
+    "destinationId": "dest-026",
+    "rating": 4,
+    "text": "Outstanding hospitality from the locals. Felt like a home away from home.",
+    "date": "2024-07-31"
+  },
+  {
+    "id": "rev-00253",
+    "destinationId": "dest-026",
+    "rating": 4,
+    "text": "Loved the authentic local food and the guided tours were informative.",
+    "date": "2024-08-09"
+  },
+  {
+    "id": "rev-00254",
+    "destinationId": "dest-026",
+    "rating": 5,
+    "text": "One of the best trips I've ever taken. Clean, peaceful and worth every rupee.",
+    "date": "2024-06-16"
+  },
+  {
+    "id": "rev-00255",
+    "destinationId": "dest-026",
+    "rating": 5,
+    "text": "The heritage sites here are world-class. Highly recommend for culture lovers.",
+    "date": "2023-04-04"
+  },
+  {
+    "id": "rev-00256",
+    "destinationId": "dest-026",
+    "rating": 1,
+    "text": "Disappointed with the accommodation. Basic amenities were lacking.",
+    "date": "2024-04-09"
+  },
+  {
+    "id": "rev-00257",
+    "destinationId": "dest-026",
+    "rating": 5,
+    "text": "The beach was pristine and uncrowded. Great value for money overall.",
+    "date": "2024-07-31"
+  },
+  {
+    "id": "rev-00258",
+    "destinationId": "dest-026",
+    "rating": 5,
+    "text": "Magical experience overall. The sunrise view alone was worth the journey.",
+    "date": "2023-01-23"
+  },
+  {
+    "id": "rev-00259",
+    "destinationId": "dest-026",
+    "rating": 4,
+    "text": "Absolutely stunning location! The natural beauty took my breath away.",
+    "date": "2024-08-15"
+  },
+  {
+    "id": "rev-00260",
+    "destinationId": "dest-026",
+    "rating": 5,
+    "text": "The beach was pristine and uncrowded. Great value for money overall.",
+    "date": "2024-12-18"
+  },
+  {
+    "id": "rev-00261",
+    "destinationId": "dest-027",
+    "rating": 4,
+    "text": "Absolutely stunning location! The natural beauty took my breath away.",
+    "date": "2024-04-28"
+  },
+  {
+    "id": "rev-00262",
+    "destinationId": "dest-027",
+    "rating": 4,
+    "text": "The beach was pristine and uncrowded. Great value for money overall.",
+    "date": "2023-05-19"
+  },
+  {
+    "id": "rev-00263",
+    "destinationId": "dest-027",
+    "rating": 3,
+    "text": "Not worth the long drive. Better options exist nearby for less money.",
+    "date": "2024-03-06"
+  },
+  {
+    "id": "rev-00264",
+    "destinationId": "dest-027",
+    "rating": 5,
+    "text": "The beach was pristine and uncrowded. Great value for money overall.",
+    "date": "2024-01-22"
+  },
+  {
+    "id": "rev-00265",
+    "destinationId": "dest-027",
+    "rating": 4,
+    "text": "Loved the authentic local food and the guided tours were informative.",
+    "date": "2024-10-31"
+  },
+  {
+    "id": "rev-00266",
+    "destinationId": "dest-027",
+    "rating": 1,
+    "text": "The roads leading to the destination were terrible. Need major improvement.",
+    "date": "2024-07-04"
+  },
+  {
+    "id": "rev-00267",
+    "destinationId": "dest-027",
+    "rating": 4,
+    "text": "One of the best trips I've ever taken. Clean, peaceful and worth every rupee.",
+    "date": "2023-01-04"
+  },
+  {
+    "id": "rev-00268",
+    "destinationId": "dest-027",
+    "rating": 2,
+    "text": "Too expensive for what it offers. Cleanliness could be much better.",
+    "date": "2024-11-20"
+  },
+  {
+    "id": "rev-00269",
+    "destinationId": "dest-027",
+    "rating": 4,
+    "text": "The main attractions are great but the surrounding infrastructure is underdeveloped.",
+    "date": "2023-08-24"
+  },
+  {
+    "id": "rev-00270",
+    "destinationId": "dest-027",
+    "rating": 4,
+    "text": "Outstanding hospitality from the locals. Felt like a home away from home.",
+    "date": "2023-10-10"
+  },
+  {
+    "id": "rev-00271",
+    "destinationId": "dest-028",
+    "rating": 4,
+    "text": "Incredible experience. The local food was amazing and the staff were super helpful.",
+    "date": "2024-11-07"
+  },
+  {
+    "id": "rev-00272",
+    "destinationId": "dest-028",
+    "rating": 4,
+    "text": "Absolutely stunning location! The natural beauty took my breath away.",
+    "date": "2023-07-31"
+  },
+  {
+    "id": "rev-00273",
+    "destinationId": "dest-028",
+    "rating": 4,
+    "text": "Best hidden gem in India! Way better than the crowded tourist spots.",
+    "date": "2024-04-02"
+  },
+  {
+    "id": "rev-00274",
+    "destinationId": "dest-028",
+    "rating": 3,
+    "text": "Beautiful location but the crowds in December were overwhelming. Staff was helpful though.",
+    "date": "2023-02-15"
+  },
+  {
+    "id": "rev-00275",
+    "destinationId": "dest-028",
+    "rating": 4,
+    "text": "The heritage sites here are world-class. Highly recommend for culture lovers.",
+    "date": "2023-02-27"
+  },
+  {
+    "id": "rev-00276",
+    "destinationId": "dest-028",
+    "rating": 4,
+    "text": "Perfect family destination. Kids loved every moment and everything was safe.",
+    "date": "2024-08-12"
+  },
+  {
+    "id": "rev-00277",
+    "destinationId": "dest-028",
+    "rating": 5,
+    "text": "Best hidden gem in India! Way better than the crowded tourist spots.",
+    "date": "2023-08-31"
+  },
+  {
+    "id": "rev-00278",
+    "destinationId": "dest-028",
+    "rating": 4,
+    "text": "One of the best trips I've ever taken. Clean, peaceful and worth every rupee.",
+    "date": "2024-02-28"
+  },
+  {
+    "id": "rev-00279",
+    "destinationId": "dest-028",
+    "rating": 4,
+    "text": "Absolutely stunning location! The natural beauty took my breath away.",
+    "date": "2024-10-03"
+  },
+  {
+    "id": "rev-00280",
+    "destinationId": "dest-028",
+    "rating": 4,
+    "text": "Staff at the hotel was fantastic but the restaurant attached to it was average.",
+    "date": "2023-02-18"
+  },
+  {
+    "id": "rev-00281",
+    "destinationId": "dest-029",
+    "rating": 3,
+    "text": "Not worth the long drive. Better options exist nearby for less money.",
+    "date": "2024-01-26"
+  },
+  {
+    "id": "rev-00282",
+    "destinationId": "dest-029",
+    "rating": 3,
+    "text": "Too expensive for what it offers. Cleanliness could be much better.",
+    "date": "2024-03-02"
+  },
+  {
+    "id": "rev-00283",
+    "destinationId": "dest-029",
+    "rating": 5,
+    "text": "Perfect family destination. Kids loved every moment and everything was safe.",
+    "date": "2023-07-08"
+  },
+  {
+    "id": "rev-00284",
+    "destinationId": "dest-029",
+    "rating": 1,
+    "text": "Disappointed with the accommodation. Basic amenities were lacking.",
+    "date": "2023-08-19"
+  },
+  {
+    "id": "rev-00285",
+    "destinationId": "dest-029",
+    "rating": 5,
+    "text": "One of the best trips I've ever taken. Clean, peaceful and worth every rupee.",
+    "date": "2023-03-01"
+  },
+  {
+    "id": "rev-00286",
+    "destinationId": "dest-029",
+    "rating": 3,
+    "text": "The main attractions are great but the surrounding infrastructure is underdeveloped.",
+    "date": "2024-02-02"
+  },
+  {
+    "id": "rev-00287",
+    "destinationId": "dest-029",
+    "rating": 5,
+    "text": "The heritage sites here are world-class. Highly recommend for culture lovers.",
+    "date": "2024-10-24"
+  },
+  {
+    "id": "rev-00288",
+    "destinationId": "dest-029",
+    "rating": 5,
+    "text": "Magical experience overall. The sunrise view alone was worth the journey.",
+    "date": "2023-04-05"
+  },
+  {
+    "id": "rev-00289",
+    "destinationId": "dest-029",
+    "rating": 4,
+    "text": "The heritage sites here are world-class. Highly recommend for culture lovers.",
+    "date": "2023-10-02"
+  },
+  {
+    "id": "rev-00290",
+    "destinationId": "dest-029",
+    "rating": 4,
+    "text": "Best hidden gem in India! Way better than the crowded tourist spots.",
+    "date": "2023-03-16"
+  },
+  {
+    "id": "rev-00291",
+    "destinationId": "dest-030",
+    "rating": 4,
+    "text": "Best hidden gem in India! Way better than the crowded tourist spots.",
+    "date": "2024-05-05"
+  },
+  {
+    "id": "rev-00292",
+    "destinationId": "dest-030",
+    "rating": 5,
+    "text": "Outstanding hospitality from the locals. Felt like a home away from home.",
+    "date": "2023-01-16"
+  },
+  {
+    "id": "rev-00293",
+    "destinationId": "dest-030",
+    "rating": 4,
+    "text": "The heritage sites here are world-class. Highly recommend for culture lovers.",
+    "date": "2024-05-05"
+  },
+  {
+    "id": "rev-00294",
+    "destinationId": "dest-030",
+    "rating": 3,
+    "text": "Not worth the long drive. Better options exist nearby for less money.",
+    "date": "2024-12-21"
+  },
+  {
+    "id": "rev-00295",
+    "destinationId": "dest-030",
+    "rating": 5,
+    "text": "The heritage sites here are world-class. Highly recommend for culture lovers.",
+    "date": "2023-10-17"
+  },
+  {
+    "id": "rev-00296",
+    "destinationId": "dest-030",
+    "rating": 5,
+    "text": "Loved the authentic local food and the guided tours were informative.",
+    "date": "2023-11-12"
+  },
+  {
+    "id": "rev-00297",
+    "destinationId": "dest-030",
+    "rating": 5,
+    "text": "Loved the authentic local food and the guided tours were informative.",
+    "date": "2024-04-22"
+  },
+  {
+    "id": "rev-00298",
+    "destinationId": "dest-030",
+    "rating": 5,
+    "text": "Magical experience overall. The sunrise view alone was worth the journey.",
+    "date": "2023-07-28"
+  },
+  {
+    "id": "rev-00299",
+    "destinationId": "dest-030",
+    "rating": 4,
+    "text": "The beach was pristine and uncrowded. Great value for money overall.",
+    "date": "2024-07-30"
+  },
+  {
+    "id": "rev-00300",
+    "destinationId": "dest-030",
+    "rating": 1,
+    "text": "Not worth the long drive. Better options exist nearby for less money.",
+    "date": "2023-01-17"
+  },
+  {
+    "id": "rev-00301",
+    "destinationId": "dest-031",
+    "rating": 5,
+    "text": "Best hidden gem in India! Way better than the crowded tourist spots.",
+    "date": "2023-10-30"
+  },
+  {
+    "id": "rev-00302",
+    "destinationId": "dest-031",
+    "rating": 4,
+    "text": "Outstanding hospitality from the locals. Felt like a home away from home.",
+    "date": "2024-01-24"
+  },
+  {
+    "id": "rev-00303",
+    "destinationId": "dest-031",
+    "rating": 4,
+    "text": "Food was delicious but some places were not clean enough for international standards.",
+    "date": "2024-07-17"
+  },
+  {
+    "id": "rev-00304",
+    "destinationId": "dest-031",
+    "rating": 4,
+    "text": "Scenic and peaceful on weekdays, but weekends get very crowded.",
+    "date": "2024-05-15"
+  },
+  {
+    "id": "rev-00305",
+    "destinationId": "dest-031",
+    "rating": 3,
+    "text": "Not worth the long drive. Better options exist nearby for less money.",
+    "date": "2024-05-17"
+  },
+  {
+    "id": "rev-00306",
+    "destinationId": "dest-031",
+    "rating": 4,
+    "text": "Outstanding hospitality from the locals. Felt like a home away from home.",
+    "date": "2023-05-24"
+  },
+  {
+    "id": "rev-00307",
+    "destinationId": "dest-031",
+    "rating": 3,
+    "text": "Value for money is good but do expect some rough roads on the way in.",
+    "date": "2024-07-09"
+  },
+  {
+    "id": "rev-00308",
+    "destinationId": "dest-031",
+    "rating": 3,
+    "text": "The roads leading to the destination were terrible. Need major improvement.",
+    "date": "2023-02-04"
+  },
+  {
+    "id": "rev-00309",
+    "destinationId": "dest-031",
+    "rating": 3,
+    "text": "The roads leading to the destination were terrible. Need major improvement.",
+    "date": "2023-02-19"
+  },
+  {
+    "id": "rev-00310",
+    "destinationId": "dest-031",
+    "rating": 1,
+    "text": "Disappointed with the accommodation. Basic amenities were lacking.",
+    "date": "2024-10-07"
+  },
+  {
+    "id": "rev-00311",
+    "destinationId": "dest-032",
+    "rating": 4,
+    "text": "One of the best trips I've ever taken. Clean, peaceful and worth every rupee.",
+    "date": "2023-08-12"
+  },
+  {
+    "id": "rev-00312",
+    "destinationId": "dest-032",
+    "rating": 4,
+    "text": "Outstanding hospitality from the locals. Felt like a home away from home.",
+    "date": "2024-09-24"
+  },
+  {
+    "id": "rev-00313",
+    "destinationId": "dest-032",
+    "rating": 4,
+    "text": "Good overall experience, though it can get very hot in summer months.",
+    "date": "2024-11-06"
+  },
+  {
+    "id": "rev-00314",
+    "destinationId": "dest-032",
+    "rating": 5,
+    "text": "Absolutely stunning location! The natural beauty took my breath away.",
+    "date": "2023-01-13"
+  },
+  {
+    "id": "rev-00315",
+    "destinationId": "dest-032",
+    "rating": 5,
+    "text": "Perfect family destination. Kids loved every moment and everything was safe.",
+    "date": "2023-01-18"
+  },
+  {
+    "id": "rev-00316",
+    "destinationId": "dest-032",
+    "rating": 4,
+    "text": "The beach was pristine and uncrowded. Great value for money overall.",
+    "date": "2023-04-20"
+  },
+  {
+    "id": "rev-00317",
+    "destinationId": "dest-032",
+    "rating": 1,
+    "text": "The place is getting overtouristed. Lost its original charm.",
+    "date": "2023-09-04"
+  },
+  {
+    "id": "rev-00318",
+    "destinationId": "dest-032",
+    "rating": 5,
+    "text": "Loved the authentic local food and the guided tours were informative.",
+    "date": "2023-12-29"
+  },
+  {
+    "id": "rev-00319",
+    "destinationId": "dest-032",
+    "rating": 4,
+    "text": "The beach was pristine and uncrowded. Great value for money overall.",
+    "date": "2024-01-18"
+  },
+  {
+    "id": "rev-00320",
+    "destinationId": "dest-032",
+    "rating": 3,
+    "text": "Disappointed with the accommodation. Basic amenities were lacking.",
+    "date": "2023-09-07"
+  },
+  {
+    "id": "rev-00321",
+    "destinationId": "dest-033",
+    "rating": 2,
+    "text": "Overcrowded during peak season. Staff seemed overwhelmed and not helpful.",
+    "date": "2024-12-01"
+  },
+  {
+    "id": "rev-00322",
+    "destinationId": "dest-033",
+    "rating": 3,
+    "text": "The roads leading to the destination were terrible. Need major improvement.",
+    "date": "2024-10-27"
+  },
+  {
+    "id": "rev-00323",
+    "destinationId": "dest-033",
+    "rating": 2,
+    "text": "The roads leading to the destination were terrible. Need major improvement.",
+    "date": "2024-01-24"
+  },
+  {
+    "id": "rev-00324",
+    "destinationId": "dest-033",
+    "rating": 4,
+    "text": "Magical experience overall. The sunrise view alone was worth the journey.",
+    "date": "2024-10-14"
+  },
+  {
+    "id": "rev-00325",
+    "destinationId": "dest-033",
+    "rating": 4,
+    "text": "One of the best trips I've ever taken. Clean, peaceful and worth every rupee.",
+    "date": "2024-05-26"
+  },
+  {
+    "id": "rev-00326",
+    "destinationId": "dest-033",
+    "rating": 2,
+    "text": "Not worth the long drive. Better options exist nearby for less money.",
+    "date": "2024-08-02"
+  },
+  {
+    "id": "rev-00327",
+    "destinationId": "dest-033",
+    "rating": 3,
+    "text": "The roads leading to the destination were terrible. Need major improvement.",
+    "date": "2023-02-13"
+  },
+  {
+    "id": "rev-00328",
+    "destinationId": "dest-033",
+    "rating": 5,
+    "text": "Best hidden gem in India! Way better than the crowded tourist spots.",
+    "date": "2023-10-05"
+  },
+  {
+    "id": "rev-00329",
+    "destinationId": "dest-033",
+    "rating": 5,
+    "text": "Incredible experience. The local food was amazing and the staff were super helpful.",
+    "date": "2024-07-10"
+  },
+  {
+    "id": "rev-00330",
+    "destinationId": "dest-033",
+    "rating": 3,
+    "text": "Beautiful location but the crowds in December were overwhelming. Staff was helpful though.",
+    "date": "2023-11-19"
+  },
+  {
+    "id": "rev-00331",
+    "destinationId": "dest-034",
+    "rating": 4,
+    "text": "The heritage sites here are world-class. Highly recommend for culture lovers.",
+    "date": "2024-12-30"
+  },
+  {
+    "id": "rev-00332",
+    "destinationId": "dest-034",
+    "rating": 2,
+    "text": "The roads leading to the destination were terrible. Need major improvement.",
+    "date": "2023-06-16"
+  },
+  {
+    "id": "rev-00333",
+    "destinationId": "dest-034",
+    "rating": 4,
+    "text": "Good overall experience, though it can get very hot in summer months.",
+    "date": "2024-11-24"
+  },
+  {
+    "id": "rev-00334",
+    "destinationId": "dest-034",
+    "rating": 2,
+    "text": "Too expensive for what it offers. Cleanliness could be much better.",
+    "date": "2023-05-24"
+  },
+  {
+    "id": "rev-00335",
+    "destinationId": "dest-034",
+    "rating": 3,
+    "text": "Not worth the long drive. Better options exist nearby for less money.",
+    "date": "2023-03-22"
+  },
+  {
+    "id": "rev-00336",
+    "destinationId": "dest-034",
+    "rating": 4,
+    "text": "Outstanding hospitality from the locals. Felt like a home away from home.",
+    "date": "2023-04-11"
+  },
+  {
+    "id": "rev-00337",
+    "destinationId": "dest-034",
+    "rating": 5,
+    "text": "Incredible experience. The local food was amazing and the staff were super helpful.",
+    "date": "2024-09-11"
+  },
+  {
+    "id": "rev-00338",
+    "destinationId": "dest-034",
+    "rating": 2,
+    "text": "The place is getting overtouristed. Lost its original charm.",
+    "date": "2023-12-01"
+  },
+  {
+    "id": "rev-00339",
+    "destinationId": "dest-034",
+    "rating": 5,
+    "text": "Perfect family destination. Kids loved every moment and everything was safe.",
+    "date": "2024-05-17"
+  },
+  {
+    "id": "rev-00340",
+    "destinationId": "dest-034",
+    "rating": 5,
+    "text": "Loved the authentic local food and the guided tours were informative.",
+    "date": "2024-03-18"
+  },
+  {
+    "id": "rev-00341",
+    "destinationId": "dest-035",
+    "rating": 5,
+    "text": "Best hidden gem in India! Way better than the crowded tourist spots.",
+    "date": "2023-03-29"
+  },
+  {
+    "id": "rev-00342",
+    "destinationId": "dest-035",
+    "rating": 1,
+    "text": "Too expensive for what it offers. Cleanliness could be much better.",
+    "date": "2024-12-31"
+  },
+  {
+    "id": "rev-00343",
+    "destinationId": "dest-035",
+    "rating": 4,
+    "text": "Perfect family destination. Kids loved every moment and everything was safe.",
+    "date": "2024-01-25"
+  },
+  {
+    "id": "rev-00344",
+    "destinationId": "dest-035",
+    "rating": 4,
+    "text": "Amazing natural beauty, but the local transport options are very poor.",
+    "date": "2023-11-21"
+  },
+  {
+    "id": "rev-00345",
+    "destinationId": "dest-035",
+    "rating": 4,
+    "text": "Incredible experience. The local food was amazing and the staff were super helpful.",
+    "date": "2023-11-12"
+  },
+  {
+    "id": "rev-00346",
+    "destinationId": "dest-035",
+    "rating": 4,
+    "text": "Perfect family destination. Kids loved every moment and everything was safe.",
+    "date": "2023-05-16"
+  },
+  {
+    "id": "rev-00347",
+    "destinationId": "dest-035",
+    "rating": 5,
+    "text": "The beach was pristine and uncrowded. Great value for money overall.",
+    "date": "2024-07-24"
+  },
+  {
+    "id": "rev-00348",
+    "destinationId": "dest-035",
+    "rating": 3,
+    "text": "The main attractions are great but the surrounding infrastructure is underdeveloped.",
+    "date": "2023-01-27"
+  },
+  {
+    "id": "rev-00349",
+    "destinationId": "dest-035",
+    "rating": 4,
+    "text": "Loved the authentic local food and the guided tours were informative.",
+    "date": "2024-09-03"
+  },
+  {
+    "id": "rev-00350",
+    "destinationId": "dest-035",
+    "rating": 4,
+    "text": "Scenic and peaceful on weekdays, but weekends get very crowded.",
+    "date": "2023-01-13"
+  },
+  {
+    "id": "rev-00351",
+    "destinationId": "dest-036",
+    "rating": 4,
+    "text": "The beach was pristine and uncrowded. Great value for money overall.",
+    "date": "2024-07-26"
+  },
+  {
+    "id": "rev-00352",
+    "destinationId": "dest-036",
+    "rating": 3,
+    "text": "Overcrowded during peak season. Staff seemed overwhelmed and not helpful.",
+    "date": "2024-06-17"
+  },
+  {
+    "id": "rev-00353",
+    "destinationId": "dest-036",
+    "rating": 4,
+    "text": "The beach was pristine and uncrowded. Great value for money overall.",
+    "date": "2023-05-23"
+  },
+  {
+    "id": "rev-00354",
+    "destinationId": "dest-036",
+    "rating": 5,
+    "text": "Perfect family destination. Kids loved every moment and everything was safe.",
+    "date": "2023-05-30"
+  },
+  {
+    "id": "rev-00355",
+    "destinationId": "dest-036",
+    "rating": 5,
+    "text": "The beach was pristine and uncrowded. Great value for money overall.",
+    "date": "2024-03-07"
+  },
+  {
+    "id": "rev-00356",
+    "destinationId": "dest-036",
+    "rating": 5,
+    "text": "Incredible experience. The local food was amazing and the staff were super helpful.",
+    "date": "2023-09-15"
+  },
+  {
+    "id": "rev-00357",
+    "destinationId": "dest-036",
+    "rating": 3,
+    "text": "Not worth the long drive. Better options exist nearby for less money.",
+    "date": "2024-05-22"
+  },
+  {
+    "id": "rev-00358",
+    "destinationId": "dest-036",
+    "rating": 4,
+    "text": "Food was delicious but some places were not clean enough for international standards.",
+    "date": "2023-04-20"
+  },
+  {
+    "id": "rev-00359",
+    "destinationId": "dest-036",
+    "rating": 5,
+    "text": "Absolutely stunning location! The natural beauty took my breath away.",
+    "date": "2023-12-07"
+  },
+  {
+    "id": "rev-00360",
+    "destinationId": "dest-036",
+    "rating": 2,
+    "text": "Disappointed with the accommodation. Basic amenities were lacking.",
+    "date": "2024-03-26"
+  },
+  {
+    "id": "rev-00361",
+    "destinationId": "dest-037",
+    "rating": 4,
+    "text": "Best hidden gem in India! Way better than the crowded tourist spots.",
+    "date": "2023-11-04"
+  },
+  {
+    "id": "rev-00362",
+    "destinationId": "dest-037",
+    "rating": 5,
+    "text": "The heritage sites here are world-class. Highly recommend for culture lovers.",
+    "date": "2023-11-18"
+  },
+  {
+    "id": "rev-00363",
+    "destinationId": "dest-037",
+    "rating": 5,
+    "text": "The beach was pristine and uncrowded. Great value for money overall.",
+    "date": "2023-10-26"
+  },
+  {
+    "id": "rev-00364",
+    "destinationId": "dest-037",
+    "rating": 3,
+    "text": "Value for money is good but do expect some rough roads on the way in.",
+    "date": "2023-11-30"
+  },
+  {
+    "id": "rev-00365",
+    "destinationId": "dest-037",
+    "rating": 5,
+    "text": "The beach was pristine and uncrowded. Great value for money overall.",
+    "date": "2023-04-27"
+  },
+  {
+    "id": "rev-00366",
+    "destinationId": "dest-037",
+    "rating": 3,
+    "text": "Overcrowded during peak season. Staff seemed overwhelmed and not helpful.",
+    "date": "2024-07-12"
+  },
+  {
+    "id": "rev-00367",
+    "destinationId": "dest-037",
+    "rating": 4,
+    "text": "Loved the authentic local food and the guided tours were informative.",
+    "date": "2024-04-17"
+  },
+  {
+    "id": "rev-00368",
+    "destinationId": "dest-037",
+    "rating": 2,
+    "text": "Overcrowded during peak season. Staff seemed overwhelmed and not helpful.",
+    "date": "2023-10-26"
+  },
+  {
+    "id": "rev-00369",
+    "destinationId": "dest-037",
+    "rating": 2,
+    "text": "The roads leading to the destination were terrible. Need major improvement.",
+    "date": "2024-11-20"
+  },
+  {
+    "id": "rev-00370",
+    "destinationId": "dest-037",
+    "rating": 4,
+    "text": "Perfect family destination. Kids loved every moment and everything was safe.",
+    "date": "2023-09-16"
+  },
+  {
+    "id": "rev-00371",
+    "destinationId": "dest-038",
+    "rating": 4,
+    "text": "The main attractions are great but the surrounding infrastructure is underdeveloped.",
+    "date": "2023-03-17"
+  },
+  {
+    "id": "rev-00372",
+    "destinationId": "dest-038",
+    "rating": 5,
+    "text": "Best hidden gem in India! Way better than the crowded tourist spots.",
+    "date": "2024-08-19"
+  },
+  {
+    "id": "rev-00373",
+    "destinationId": "dest-038",
+    "rating": 5,
+    "text": "Loved the authentic local food and the guided tours were informative.",
+    "date": "2024-07-10"
+  },
+  {
+    "id": "rev-00374",
+    "destinationId": "dest-038",
+    "rating": 4,
+    "text": "Outstanding hospitality from the locals. Felt like a home away from home.",
+    "date": "2023-04-22"
+  },
+  {
+    "id": "rev-00375",
+    "destinationId": "dest-038",
+    "rating": 3,
+    "text": "Not worth the long drive. Better options exist nearby for less money.",
+    "date": "2023-12-30"
+  },
+  {
+    "id": "rev-00376",
+    "destinationId": "dest-038",
+    "rating": 4,
+    "text": "Best hidden gem in India! Way better than the crowded tourist spots.",
+    "date": "2024-07-30"
+  },
+  {
+    "id": "rev-00377",
+    "destinationId": "dest-038",
+    "rating": 3,
+    "text": "Not worth the long drive. Better options exist nearby for less money.",
+    "date": "2024-02-14"
+  },
+  {
+    "id": "rev-00378",
+    "destinationId": "dest-038",
+    "rating": 2,
+    "text": "Too expensive for what it offers. Cleanliness could be much better.",
+    "date": "2023-04-19"
+  },
+  {
+    "id": "rev-00379",
+    "destinationId": "dest-038",
+    "rating": 4,
+    "text": "Perfect family destination. Kids loved every moment and everything was safe.",
+    "date": "2024-06-06"
+  },
+  {
+    "id": "rev-00380",
+    "destinationId": "dest-038",
+    "rating": 3,
+    "text": "Staff at the hotel was fantastic but the restaurant attached to it was average.",
+    "date": "2024-04-01"
+  },
+  {
+    "id": "rev-00381",
+    "destinationId": "dest-039",
+    "rating": 4,
+    "text": "Magical experience overall. The sunrise view alone was worth the journey.",
+    "date": "2023-12-20"
+  },
+  {
+    "id": "rev-00382",
+    "destinationId": "dest-039",
+    "rating": 1,
+    "text": "Disappointed with the accommodation. Basic amenities were lacking.",
+    "date": "2023-10-30"
+  },
+  {
+    "id": "rev-00383",
+    "destinationId": "dest-039",
+    "rating": 4,
+    "text": "Incredible experience. The local food was amazing and the staff were super helpful.",
+    "date": "2023-05-26"
+  },
+  {
+    "id": "rev-00384",
+    "destinationId": "dest-039",
+    "rating": 5,
+    "text": "Outstanding hospitality from the locals. Felt like a home away from home.",
+    "date": "2023-07-31"
+  },
+  {
+    "id": "rev-00385",
+    "destinationId": "dest-039",
+    "rating": 5,
+    "text": "Outstanding hospitality from the locals. Felt like a home away from home.",
+    "date": "2023-04-10"
+  },
+  {
+    "id": "rev-00386",
+    "destinationId": "dest-039",
+    "rating": 5,
+    "text": "Magical experience overall. The sunrise view alone was worth the journey.",
+    "date": "2023-03-10"
+  },
+  {
+    "id": "rev-00387",
+    "destinationId": "dest-039",
+    "rating": 4,
+    "text": "Incredible experience. The local food was amazing and the staff were super helpful.",
+    "date": "2023-12-18"
+  },
+  {
+    "id": "rev-00388",
+    "destinationId": "dest-039",
+    "rating": 3,
+    "text": "Amazing natural beauty, but the local transport options are very poor.",
+    "date": "2024-06-12"
+  },
+  {
+    "id": "rev-00389",
+    "destinationId": "dest-039",
+    "rating": 5,
+    "text": "One of the best trips I've ever taken. Clean, peaceful and worth every rupee.",
+    "date": "2024-07-27"
+  },
+  {
+    "id": "rev-00390",
+    "destinationId": "dest-039",
+    "rating": 4,
+    "text": "Magical experience overall. The sunrise view alone was worth the journey.",
+    "date": "2024-02-19"
+  },
+  {
+    "id": "rev-00391",
+    "destinationId": "dest-040",
+    "rating": 4,
+    "text": "Amazing natural beauty, but the local transport options are very poor.",
+    "date": "2024-02-10"
+  },
+  {
+    "id": "rev-00392",
+    "destinationId": "dest-040",
+    "rating": 4,
+    "text": "Best hidden gem in India! Way better than the crowded tourist spots.",
+    "date": "2024-04-05"
+  },
+  {
+    "id": "rev-00393",
+    "destinationId": "dest-040",
+    "rating": 3,
+    "text": "The main attractions are great but the surrounding infrastructure is underdeveloped.",
+    "date": "2024-12-22"
+  },
+  {
+    "id": "rev-00394",
+    "destinationId": "dest-040",
+    "rating": 4,
+    "text": "Perfect family destination. Kids loved every moment and everything was safe.",
+    "date": "2024-08-14"
+  },
+  {
+    "id": "rev-00395",
+    "destinationId": "dest-040",
+    "rating": 4,
+    "text": "Loved the authentic local food and the guided tours were informative.",
+    "date": "2024-01-10"
+  },
+  {
+    "id": "rev-00396",
+    "destinationId": "dest-040",
+    "rating": 4,
+    "text": "Magical experience overall. The sunrise view alone was worth the journey.",
+    "date": "2023-09-26"
+  },
+  {
+    "id": "rev-00397",
+    "destinationId": "dest-040",
+    "rating": 4,
+    "text": "Value for money is good but do expect some rough roads on the way in.",
+    "date": "2024-09-03"
+  },
+  {
+    "id": "rev-00398",
+    "destinationId": "dest-040",
+    "rating": 4,
+    "text": "The beach was pristine and uncrowded. Great value for money overall.",
+    "date": "2023-12-23"
+  },
+  {
+    "id": "rev-00399",
+    "destinationId": "dest-040",
+    "rating": 4,
+    "text": "Magical experience overall. The sunrise view alone was worth the journey.",
+    "date": "2024-11-20"
+  },
+  {
+    "id": "rev-00400",
+    "destinationId": "dest-040",
+    "rating": 3,
+    "text": "Loved the culture and heritage, but the budget options are quite limited.",
+    "date": "2024-11-19"
+  },
+  {
+    "id": "rev-00401",
+    "destinationId": "dest-041",
+    "rating": 4,
+    "text": "Incredible experience. The local food was amazing and the staff were super helpful.",
+    "date": "2023-11-09"
+  },
+  {
+    "id": "rev-00402",
+    "destinationId": "dest-041",
+    "rating": 4,
+    "text": "Outstanding hospitality from the locals. Felt like a home away from home.",
+    "date": "2024-06-07"
+  },
+  {
+    "id": "rev-00403",
+    "destinationId": "dest-041",
+    "rating": 4,
+    "text": "Best hidden gem in India! Way better than the crowded tourist spots.",
+    "date": "2024-08-11"
+  },
+  {
+    "id": "rev-00404",
+    "destinationId": "dest-041",
+    "rating": 5,
+    "text": "One of the best trips I've ever taken. Clean, peaceful and worth every rupee.",
+    "date": "2024-10-12"
+  },
+  {
+    "id": "rev-00405",
+    "destinationId": "dest-041",
+    "rating": 4,
+    "text": "One of the best trips I've ever taken. Clean, peaceful and worth every rupee.",
+    "date": "2024-05-16"
+  },
+  {
+    "id": "rev-00406",
+    "destinationId": "dest-041",
+    "rating": 5,
+    "text": "One of the best trips I've ever taken. Clean, peaceful and worth every rupee.",
+    "date": "2024-04-06"
+  },
+  {
+    "id": "rev-00407",
+    "destinationId": "dest-041",
+    "rating": 3,
+    "text": "Scenic and peaceful on weekdays, but weekends get very crowded.",
+    "date": "2024-05-11"
+  },
+  {
+    "id": "rev-00408",
+    "destinationId": "dest-041",
+    "rating": 5,
+    "text": "The beach was pristine and uncrowded. Great value for money overall.",
+    "date": "2024-02-23"
+  },
+  {
+    "id": "rev-00409",
+    "destinationId": "dest-041",
+    "rating": 4,
+    "text": "The main attractions are great but the surrounding infrastructure is underdeveloped.",
+    "date": "2024-05-15"
+  },
+  {
+    "id": "rev-00410",
+    "destinationId": "dest-041",
+    "rating": 4,
+    "text": "Best hidden gem in India! Way better than the crowded tourist spots.",
+    "date": "2023-08-14"
+  },
+  {
+    "id": "rev-00411",
+    "destinationId": "dest-042",
+    "rating": 4,
+    "text": "Perfect family destination. Kids loved every moment and everything was safe.",
+    "date": "2024-07-04"
+  },
+  {
+    "id": "rev-00412",
+    "destinationId": "dest-042",
+    "rating": 5,
+    "text": "Magical experience overall. The sunrise view alone was worth the journey.",
+    "date": "2024-07-16"
+  },
+  {
+    "id": "rev-00413",
+    "destinationId": "dest-042",
+    "rating": 4,
+    "text": "Best hidden gem in India! Way better than the crowded tourist spots.",
+    "date": "2023-10-02"
+  },
+  {
+    "id": "rev-00414",
+    "destinationId": "dest-042",
+    "rating": 3,
+    "text": "Too expensive for what it offers. Cleanliness could be much better.",
+    "date": "2023-02-12"
+  },
+  {
+    "id": "rev-00415",
+    "destinationId": "dest-042",
+    "rating": 3,
+    "text": "Disappointed with the accommodation. Basic amenities were lacking.",
+    "date": "2023-08-12"
+  },
+  {
+    "id": "rev-00416",
+    "destinationId": "dest-042",
+    "rating": 3,
+    "text": "The roads leading to the destination were terrible. Need major improvement.",
+    "date": "2024-10-31"
+  },
+  {
+    "id": "rev-00417",
+    "destinationId": "dest-042",
+    "rating": 1,
+    "text": "Too expensive for what it offers. Cleanliness could be much better.",
+    "date": "2024-04-05"
+  },
+  {
+    "id": "rev-00418",
+    "destinationId": "dest-042",
+    "rating": 5,
+    "text": "Incredible experience. The local food was amazing and the staff were super helpful.",
+    "date": "2023-05-01"
+  },
+  {
+    "id": "rev-00419",
+    "destinationId": "dest-042",
+    "rating": 1,
+    "text": "Overcrowded during peak season. Staff seemed overwhelmed and not helpful.",
+    "date": "2024-08-25"
+  },
+  {
+    "id": "rev-00420",
+    "destinationId": "dest-042",
+    "rating": 4,
+    "text": "Good overall experience, though it can get very hot in summer months.",
+    "date": "2023-06-19"
+  },
+  {
+    "id": "rev-00421",
+    "destinationId": "dest-043",
+    "rating": 3,
+    "text": "Food was delicious but some places were not clean enough for international standards.",
+    "date": "2023-03-02"
+  },
+  {
+    "id": "rev-00422",
+    "destinationId": "dest-043",
+    "rating": 4,
+    "text": "Staff at the hotel was fantastic but the restaurant attached to it was average.",
+    "date": "2024-09-03"
+  },
+  {
+    "id": "rev-00423",
+    "destinationId": "dest-043",
+    "rating": 5,
+    "text": "Outstanding hospitality from the locals. Felt like a home away from home.",
+    "date": "2023-10-24"
+  },
+  {
+    "id": "rev-00424",
+    "destinationId": "dest-043",
+    "rating": 3,
+    "text": "Staff at the hotel was fantastic but the restaurant attached to it was average.",
+    "date": "2023-05-19"
+  },
+  {
+    "id": "rev-00425",
+    "destinationId": "dest-043",
+    "rating": 1,
+    "text": "Disappointed with the accommodation. Basic amenities were lacking.",
+    "date": "2023-10-11"
+  },
+  {
+    "id": "rev-00426",
+    "destinationId": "dest-043",
+    "rating": 3,
+    "text": "Overcrowded during peak season. Staff seemed overwhelmed and not helpful.",
+    "date": "2023-05-16"
+  },
+  {
+    "id": "rev-00427",
+    "destinationId": "dest-043",
+    "rating": 4,
+    "text": "Outstanding hospitality from the locals. Felt like a home away from home.",
+    "date": "2024-11-23"
+  },
+  {
+    "id": "rev-00428",
+    "destinationId": "dest-043",
+    "rating": 5,
+    "text": "One of the best trips I've ever taken. Clean, peaceful and worth every rupee.",
+    "date": "2024-10-04"
+  },
+  {
+    "id": "rev-00429",
+    "destinationId": "dest-043",
+    "rating": 4,
+    "text": "Magical experience overall. The sunrise view alone was worth the journey.",
+    "date": "2024-10-10"
+  },
+  {
+    "id": "rev-00430",
+    "destinationId": "dest-043",
+    "rating": 2,
+    "text": "The roads leading to the destination were terrible. Need major improvement.",
+    "date": "2024-06-11"
+  },
+  {
+    "id": "rev-00431",
+    "destinationId": "dest-044",
+    "rating": 4,
+    "text": "Scenic and peaceful on weekdays, but weekends get very crowded.",
+    "date": "2024-05-14"
+  },
+  {
+    "id": "rev-00432",
+    "destinationId": "dest-044",
+    "rating": 4,
+    "text": "Absolutely stunning location! The natural beauty took my breath away.",
+    "date": "2024-04-14"
+  },
+  {
+    "id": "rev-00433",
+    "destinationId": "dest-044",
+    "rating": 3,
+    "text": "Scenic and peaceful on weekdays, but weekends get very crowded.",
+    "date": "2024-07-01"
+  },
+  {
+    "id": "rev-00434",
+    "destinationId": "dest-044",
+    "rating": 4,
+    "text": "The beach was pristine and uncrowded. Great value for money overall.",
+    "date": "2024-05-21"
+  },
+  {
+    "id": "rev-00435",
+    "destinationId": "dest-044",
+    "rating": 5,
+    "text": "Perfect family destination. Kids loved every moment and everything was safe.",
+    "date": "2024-07-14"
+  },
+  {
+    "id": "rev-00436",
+    "destinationId": "dest-044",
+    "rating": 4,
+    "text": "Good overall experience, though it can get very hot in summer months.",
+    "date": "2023-12-18"
+  },
+  {
+    "id": "rev-00437",
+    "destinationId": "dest-044",
+    "rating": 1,
+    "text": "The roads leading to the destination were terrible. Need major improvement.",
+    "date": "2023-04-12"
+  },
+  {
+    "id": "rev-00438",
+    "destinationId": "dest-044",
+    "rating": 3,
+    "text": "Value for money is good but do expect some rough roads on the way in.",
+    "date": "2023-05-08"
+  },
+  {
+    "id": "rev-00439",
+    "destinationId": "dest-044",
+    "rating": 2,
+    "text": "Overcrowded during peak season. Staff seemed overwhelmed and not helpful.",
+    "date": "2024-04-12"
+  },
+  {
+    "id": "rev-00440",
+    "destinationId": "dest-044",
+    "rating": 4,
+    "text": "The beach was pristine and uncrowded. Great value for money overall.",
+    "date": "2024-12-06"
+  },
+  {
+    "id": "rev-00441",
+    "destinationId": "dest-045",
+    "rating": 2,
+    "text": "Not worth the long drive. Better options exist nearby for less money.",
+    "date": "2023-06-12"
+  },
+  {
+    "id": "rev-00442",
+    "destinationId": "dest-045",
+    "rating": 1,
+    "text": "Too expensive for what it offers. Cleanliness could be much better.",
+    "date": "2024-11-01"
+  },
+  {
+    "id": "rev-00443",
+    "destinationId": "dest-045",
+    "rating": 5,
+    "text": "Incredible experience. The local food was amazing and the staff were super helpful.",
+    "date": "2024-11-11"
+  },
+  {
+    "id": "rev-00444",
+    "destinationId": "dest-045",
+    "rating": 1,
+    "text": "Overcrowded during peak season. Staff seemed overwhelmed and not helpful.",
+    "date": "2024-02-10"
+  },
+  {
+    "id": "rev-00445",
+    "destinationId": "dest-045",
+    "rating": 4,
+    "text": "Food was delicious but some places were not clean enough for international standards.",
+    "date": "2024-11-02"
+  },
+  {
+    "id": "rev-00446",
+    "destinationId": "dest-045",
+    "rating": 4,
+    "text": "Incredible experience. The local food was amazing and the staff were super helpful.",
+    "date": "2023-08-07"
+  },
+  {
+    "id": "rev-00447",
+    "destinationId": "dest-045",
+    "rating": 4,
+    "text": "One of the best trips I've ever taken. Clean, peaceful and worth every rupee.",
+    "date": "2024-06-15"
+  },
+  {
+    "id": "rev-00448",
+    "destinationId": "dest-045",
+    "rating": 3,
+    "text": "Beautiful location but the crowds in December were overwhelming. Staff was helpful though.",
+    "date": "2024-12-13"
+  },
+  {
+    "id": "rev-00449",
+    "destinationId": "dest-045",
+    "rating": 5,
+    "text": "Incredible experience. The local food was amazing and the staff were super helpful.",
+    "date": "2024-12-11"
+  },
+  {
+    "id": "rev-00450",
+    "destinationId": "dest-045",
+    "rating": 4,
+    "text": "Incredible experience. The local food was amazing and the staff were super helpful.",
+    "date": "2024-01-28"
+  },
+  {
+    "id": "rev-00451",
+    "destinationId": "dest-046",
+    "rating": 4,
+    "text": "Incredible experience. The local food was amazing and the staff were super helpful.",
+    "date": "2023-11-17"
+  },
+  {
+    "id": "rev-00452",
+    "destinationId": "dest-046",
+    "rating": 4,
+    "text": "Perfect family destination. Kids loved every moment and everything was safe.",
+    "date": "2024-01-27"
+  },
+  {
+    "id": "rev-00453",
+    "destinationId": "dest-046",
+    "rating": 3,
+    "text": "Overcrowded during peak season. Staff seemed overwhelmed and not helpful.",
+    "date": "2024-11-24"
+  },
+  {
+    "id": "rev-00454",
+    "destinationId": "dest-046",
+    "rating": 4,
+    "text": "Loved the authentic local food and the guided tours were informative.",
+    "date": "2024-09-16"
+  },
+  {
+    "id": "rev-00455",
+    "destinationId": "dest-046",
+    "rating": 4,
+    "text": "Value for money is good but do expect some rough roads on the way in.",
+    "date": "2023-08-07"
+  },
+  {
+    "id": "rev-00456",
+    "destinationId": "dest-046",
+    "rating": 4,
+    "text": "Amazing natural beauty, but the local transport options are very poor.",
+    "date": "2024-09-22"
+  },
+  {
+    "id": "rev-00457",
+    "destinationId": "dest-046",
+    "rating": 3,
+    "text": "Food was delicious but some places were not clean enough for international standards.",
+    "date": "2023-04-13"
+  },
+  {
+    "id": "rev-00458",
+    "destinationId": "dest-046",
+    "rating": 5,
+    "text": "Incredible experience. The local food was amazing and the staff were super helpful.",
+    "date": "2023-12-26"
+  },
+  {
+    "id": "rev-00459",
+    "destinationId": "dest-046",
+    "rating": 1,
+    "text": "Too expensive for what it offers. Cleanliness could be much better.",
+    "date": "2023-09-11"
+  },
+  {
+    "id": "rev-00460",
+    "destinationId": "dest-046",
+    "rating": 4,
+    "text": "Incredible experience. The local food was amazing and the staff were super helpful.",
+    "date": "2024-07-20"
+  },
+  {
+    "id": "rev-00461",
+    "destinationId": "dest-047",
+    "rating": 4,
+    "text": "Good overall experience, though it can get very hot in summer months.",
+    "date": "2024-12-08"
+  },
+  {
+    "id": "rev-00462",
+    "destinationId": "dest-047",
+    "rating": 4,
+    "text": "Perfect family destination. Kids loved every moment and everything was safe.",
+    "date": "2024-06-14"
+  },
+  {
+    "id": "rev-00463",
+    "destinationId": "dest-047",
+    "rating": 4,
+    "text": "Food was delicious but some places were not clean enough for international standards.",
+    "date": "2023-10-30"
+  },
+  {
+    "id": "rev-00464",
+    "destinationId": "dest-047",
+    "rating": 4,
+    "text": "Food was delicious but some places were not clean enough for international standards.",
+    "date": "2024-01-31"
+  },
+  {
+    "id": "rev-00465",
+    "destinationId": "dest-047",
+    "rating": 4,
+    "text": "Magical experience overall. The sunrise view alone was worth the journey.",
+    "date": "2024-06-24"
+  },
+  {
+    "id": "rev-00466",
+    "destinationId": "dest-047",
+    "rating": 2,
+    "text": "The roads leading to the destination were terrible. Need major improvement.",
+    "date": "2023-11-21"
+  },
+  {
+    "id": "rev-00467",
+    "destinationId": "dest-047",
+    "rating": 5,
+    "text": "Best hidden gem in India! Way better than the crowded tourist spots.",
+    "date": "2024-01-10"
+  },
+  {
+    "id": "rev-00468",
+    "destinationId": "dest-047",
+    "rating": 5,
+    "text": "One of the best trips I've ever taken. Clean, peaceful and worth every rupee.",
+    "date": "2023-03-16"
+  },
+  {
+    "id": "rev-00469",
+    "destinationId": "dest-047",
+    "rating": 4,
+    "text": "Incredible experience. The local food was amazing and the staff were super helpful.",
+    "date": "2023-09-26"
+  },
+  {
+    "id": "rev-00470",
+    "destinationId": "dest-047",
+    "rating": 5,
+    "text": "Absolutely stunning location! The natural beauty took my breath away.",
+    "date": "2024-06-02"
+  },
+  {
+    "id": "rev-00471",
+    "destinationId": "dest-048",
+    "rating": 5,
+    "text": "Loved the authentic local food and the guided tours were informative.",
+    "date": "2024-03-09"
+  },
+  {
+    "id": "rev-00472",
+    "destinationId": "dest-048",
+    "rating": 3,
+    "text": "Great heritage sites but accommodation options are limited and overpriced.",
+    "date": "2023-10-12"
+  },
+  {
+    "id": "rev-00473",
+    "destinationId": "dest-048",
+    "rating": 4,
+    "text": "Incredible experience. The local food was amazing and the staff were super helpful.",
+    "date": "2023-06-09"
+  },
+  {
+    "id": "rev-00474",
+    "destinationId": "dest-048",
+    "rating": 4,
+    "text": "The beach was pristine and uncrowded. Great value for money overall.",
+    "date": "2023-11-14"
+  },
+  {
+    "id": "rev-00475",
+    "destinationId": "dest-048",
+    "rating": 3,
+    "text": "Food was delicious but some places were not clean enough for international standards.",
+    "date": "2023-09-08"
+  },
+  {
+    "id": "rev-00476",
+    "destinationId": "dest-048",
+    "rating": 4,
+    "text": "The beach was pristine and uncrowded. Great value for money overall.",
+    "date": "2024-04-09"
+  },
+  {
+    "id": "rev-00477",
+    "destinationId": "dest-048",
+    "rating": 4,
+    "text": "Beautiful location but the crowds in December were overwhelming. Staff was helpful though.",
+    "date": "2024-11-13"
+  },
+  {
+    "id": "rev-00478",
+    "destinationId": "dest-048",
+    "rating": 3,
+    "text": "Amazing natural beauty, but the local transport options are very poor.",
+    "date": "2023-01-13"
+  },
+  {
+    "id": "rev-00479",
+    "destinationId": "dest-048",
+    "rating": 3,
+    "text": "Beautiful location but the crowds in December were overwhelming. Staff was helpful though.",
+    "date": "2024-05-23"
+  },
+  {
+    "id": "rev-00480",
+    "destinationId": "dest-048",
+    "rating": 3,
+    "text": "The place is getting overtouristed. Lost its original charm.",
+    "date": "2023-09-23"
+  },
+  {
+    "id": "rev-00481",
+    "destinationId": "dest-049",
+    "rating": 5,
+    "text": "One of the best trips I've ever taken. Clean, peaceful and worth every rupee.",
+    "date": "2023-05-01"
+  },
+  {
+    "id": "rev-00482",
+    "destinationId": "dest-049",
+    "rating": 2,
+    "text": "The roads leading to the destination were terrible. Need major improvement.",
+    "date": "2024-03-15"
+  },
+  {
+    "id": "rev-00483",
+    "destinationId": "dest-049",
+    "rating": 5,
+    "text": "Incredible experience. The local food was amazing and the staff were super helpful.",
+    "date": "2024-12-30"
+  },
+  {
+    "id": "rev-00484",
+    "destinationId": "dest-049",
+    "rating": 1,
+    "text": "Not worth the long drive. Better options exist nearby for less money.",
+    "date": "2024-05-23"
+  },
+  {
+    "id": "rev-00485",
+    "destinationId": "dest-049",
+    "rating": 4,
+    "text": "Outstanding hospitality from the locals. Felt like a home away from home.",
+    "date": "2024-05-26"
+  },
+  {
+    "id": "rev-00486",
+    "destinationId": "dest-049",
+    "rating": 2,
+    "text": "Overcrowded during peak season. Staff seemed overwhelmed and not helpful.",
+    "date": "2023-06-11"
+  },
+  {
+    "id": "rev-00487",
+    "destinationId": "dest-049",
+    "rating": 4,
+    "text": "Incredible experience. The local food was amazing and the staff were super helpful.",
+    "date": "2023-08-22"
+  },
+  {
+    "id": "rev-00488",
+    "destinationId": "dest-049",
+    "rating": 3,
+    "text": "Beautiful location but the crowds in December were overwhelming. Staff was helpful though.",
+    "date": "2023-01-13"
+  },
+  {
+    "id": "rev-00489",
+    "destinationId": "dest-049",
+    "rating": 5,
+    "text": "Magical experience overall. The sunrise view alone was worth the journey.",
+    "date": "2024-01-28"
+  },
+  {
+    "id": "rev-00490",
+    "destinationId": "dest-049",
+    "rating": 1,
+    "text": "Overcrowded during peak season. Staff seemed overwhelmed and not helpful.",
+    "date": "2024-07-20"
+  },
+  {
+    "id": "rev-00491",
+    "destinationId": "dest-050",
+    "rating": 3,
+    "text": "Not worth the long drive. Better options exist nearby for less money.",
+    "date": "2024-11-02"
+  },
+  {
+    "id": "rev-00492",
+    "destinationId": "dest-050",
+    "rating": 4,
+    "text": "Outstanding hospitality from the locals. Felt like a home away from home.",
+    "date": "2024-03-02"
+  },
+  {
+    "id": "rev-00493",
+    "destinationId": "dest-050",
+    "rating": 2,
+    "text": "Too expensive for what it offers. Cleanliness could be much better.",
+    "date": "2023-03-21"
+  },
+  {
+    "id": "rev-00494",
+    "destinationId": "dest-050",
+    "rating": 3,
+    "text": "Great heritage sites but accommodation options are limited and overpriced.",
+    "date": "2023-07-03"
+  },
+  {
+    "id": "rev-00495",
+    "destinationId": "dest-050",
+    "rating": 4,
+    "text": "Loved the authentic local food and the guided tours were informative.",
+    "date": "2024-02-15"
+  },
+  {
+    "id": "rev-00496",
+    "destinationId": "dest-050",
+    "rating": 5,
+    "text": "Magical experience overall. The sunrise view alone was worth the journey.",
+    "date": "2023-11-15"
+  },
+  {
+    "id": "rev-00497",
+    "destinationId": "dest-050",
+    "rating": 5,
+    "text": "Loved the authentic local food and the guided tours were informative.",
+    "date": "2023-01-09"
+  },
+  {
+    "id": "rev-00498",
+    "destinationId": "dest-050",
+    "rating": 5,
+    "text": "Perfect family destination. Kids loved every moment and everything was safe.",
+    "date": "2024-09-29"
+  },
+  {
+    "id": "rev-00499",
+    "destinationId": "dest-050",
+    "rating": 5,
+    "text": "Outstanding hospitality from the locals. Felt like a home away from home.",
+    "date": "2023-07-20"
+  },
+  {
+    "id": "rev-00500",
+    "destinationId": "dest-050",
+    "rating": 3,
+    "text": "Staff at the hotel was fantastic but the restaurant attached to it was average.",
+    "date": "2023-06-04"
+  }
+]

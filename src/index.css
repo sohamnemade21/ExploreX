@@ -1,0 +1,147 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --font-display: 'Fraunces', 'Cormorant Garamond', Georgia, serif;
+    --font-serif: 'Cormorant Garamond', 'Fraunces', Georgia, serif;
+    --font-prose: 'Newsreader', Georgia, serif;
+    --font-sans: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    --font-mono: 'Space Mono', monospace;
+
+    /* ExploreX — Natural Travel Design System */
+    --color-bg: #FFFFFF;
+    --color-surface: #FFFFFF;
+    --color-surface-subtle: #F7F7F4;
+    --color-border: #E4E4DF;
+    --color-text-primary: #242424;
+    --color-text-secondary: #6B6B67;
+    --color-text-muted: #9A9A96;
+    --color-accent: #B45F3C;
+    --color-accent-hover: #91482D;
+    --color-accent-light: #F5EDE8;
+    --color-sage: #5F7564;
+    --color-sage-bg: #EEF2ED;
+    --color-success: #3F684F;
+  }
+
+  html, body {
+    font-family: var(--font-sans);
+    background-color: #FFFFFF;
+    color: #242424;
+    overflow-x: hidden;
+    max-width: 100vw;
+    letter-spacing: -0.012em;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  h1, h2, h3, .font-serif-heading {
+    font-family: var(--font-display);
+    font-feature-settings: "liga" 1, "dlig" 1;
+    letter-spacing: -0.02em;
+    color: #242424;
+  }
+
+  .font-mono-tag {
+    font-family: var(--font-mono);
+    letter-spacing: 0.05em;
+  }
+}
+
+/* Editorial Typography & Layout Utilities */
+.font-display {
+  font-family: 'Fraunces', 'Cormorant Garamond', serif;
+  font-feature-settings: "liga" 1;
+}
+
+.font-editorial {
+  font-family: 'Cormorant Garamond', serif;
+}
+
+.font-prose {
+  font-family: 'Newsreader', Georgia, serif;
+}
+
+.font-mono-meta {
+  font-family: 'Space Mono', monospace;
+  letter-spacing: 0.06em;
+}
+
+/* Print-like Drop-Cap */
+.drop-cap:first-letter {
+  font-family: 'Fraunces', serif;
+  float: left;
+  font-size: 2.8rem;
+  line-height: 0.85;
+  margin: 0.1em 0.12em 0 0;
+  color: #B45F3C;
+  font-style: italic;
+}
+
+/* Subtle Natural Borders & Depth */
+.border-paper {
+  border-color: #E4E4DF;
+}
+
+.border-paper-strong {
+  border-color: #D4D4D4;
+}
+
+.bg-linen {
+  background-color: #FFFFFF;
+}
+
+.bg-linen-dim {
+  background-color: #F7F7F4;
+}
+
+.bg-linen-card {
+  background-color: #FFFFFF;
+}
+
+/* Subtle natural soft shadow */
+.shadow-editorial {
+  box-shadow: 0 2px 8px -1px rgba(0, 0, 0, 0.04), 0 1px 3px -1px rgba(0, 0, 0, 0.02);
+}
+
+.shadow-editorial-lg {
+  box-shadow: 0 8px 24px -4px rgba(0, 0, 0, 0.06), 0 2px 6px -1px rgba(0, 0, 0, 0.02);
+}
+
+/* Touch scroll container for horizontal chips & carousels */
+.carousel-scroll {
+  overflow-x: auto;
+  overscroll-behavior-x: contain;
+  scroll-snap-type: x mandatory;
+  -webkit-overflow-scrolling: touch;
+}
+
+.carousel-scroll > * {
+  scroll-snap-align: start;
+}
+
+/* Balanced Content Container with Generous Side Margins */
+.page-container {
+  width: 100%;
+  max-width: 1360px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 1.25rem;
+  padding-right: 1.25rem;
+}
+
+@media (min-width: 640px) {
+  .page-container {
+    padding-left: 2rem;
+    padding-right: 2rem;
+  }
+}
+
+@media (min-width: 1024px) {
+  .page-container {
+    padding-left: 3rem;
+    padding-right: 3rem;
+  }
+}
+
+

@@ -1,0 +1,404 @@
+destination,name,lat,lng,category,mapped_category,avg_visit_duration_mins,open_hour,close_hour,indoor_outdoor,estimated_cost,avg_rating,crowd_level
+Tarkarli,Tarkarli Beach,16.0350,73.4900,beach,beach,120,06:00,19:00,outdoor,0,4.7,high
+Tarkarli,Sindhudurg Sea Fort,16.0420,73.4630,fort,fort,180,08:00,17:30,outdoor,100,4.6,high
+Tarkarli,Devbagh Sangam Point,15.9980,73.4960,beach,beach,90,06:00,18:30,outdoor,0,4.5,med
+Tarkarli,Atithi Bamboo Malvani Dining,16.0360,73.4890,restaurant,restaurant,60,11:30,22:30,indoor,450,4.6,high
+Tarkarli,Malvan Marine Reserve,16.0610,73.4610,park,park,150,09:00,17:00,outdoor,1500,4.3,high
+Tarkarli,Malvan Rock Garden,16.0625,73.4645,park,park,60,16:00,20:00,outdoor,20,4.2,med
+Sindhudurg,Vijaydurg Sea Fort,16.5624,73.3329,fort,fort,150,08:30,18:00,outdoor,50,4.7,med
+Sindhudurg,Sindhudurg Fort Citadel,16.0420,73.4630,fort,fort,180,08:00,17:30,outdoor,100,4.7,high
+Sindhudurg,Padmagad Island Fortress,16.0450,73.4610,fort,fort,90,09:00,17:00,outdoor,0,4.1,low
+Sindhudurg,Chaitanya Seafood Hotel,16.0650,73.4620,restaurant,restaurant,60,11:00,22:00,indoor,400,4.5,high
+Sindhudurg,Achara Mangrove Beach,16.2085,73.4442,beach,beach,120,06:00,19:00,outdoor,0,4.5,med
+Sindhudurg,Chivla Beach Cove,16.0680,73.4615,beach,beach,90,06:00,19:00,outdoor,0,4.4,low
+Kolhapur,Mahalakshmi Ambabai Temple,16.6953,74.2232,temple,temple,90,05:00,22:00,indoor,0,4.8,high
+Kolhapur,Panhala Fort Ramparts,16.8115,74.1085,fort,fort,180,06:00,19:00,outdoor,30,4.7,high
+Kolhapur,Rankala Lake Walkway,16.6890,74.2120,park,park,90,06:00,22:00,outdoor,0,4.5,high
+Kolhapur,New Palace Shahu Museum,16.7185,74.2340,museum,museum,120,09:30,17:30,indoor,50,4.6,med
+Kolhapur,Opal Kolhapuri Thali House,16.7020,74.2390,restaurant,restaurant,75,12:00,22:30,indoor,500,4.6,high
+Kolhapur,Bhavani Mandap Chappal Market,16.6960,74.2240,market,market,90,10:00,21:00,outdoor,0,4.4,high
+Solapur,Solapur Bhuikot Fort,17.6599,75.9064,fort,fort,90,09:00,18:00,outdoor,20,4.3,med
+Solapur,Siddheshwar Temple Lake,17.6620,75.9040,temple,temple,75,05:00,21:30,indoor,0,4.6,high
+Solapur,Great Indian Bustard Reserve Nannaj,17.8200,75.9200,park,park,180,06:00,18:00,outdoor,50,4.2,low
+Solapur,Pundalik Shenoli Chivda Mess,17.6580,75.9020,restaurant,restaurant,45,08:00,21:00,indoor,200,4.5,med
+Solapur,Solapur Textile Market,17.6650,75.9110,market,market,90,10:00,20:30,outdoor,0,4.1,high
+Solapur,Great Indian Bustard Sanctuary Gate Nannaj,17.8100,75.9100,park,park,120,06:00,18:00,outdoor,50,4.3,low
+Aurangabad,Ajanta Caves Art,20.5523,75.7004,museum,museum,240,09:00,17:00,indoor,600,4.9,high
+Aurangabad,Ellora Kailasa Temple Cave,20.0268,75.1780,temple,temple,240,06:00,18:00,outdoor,600,4.9,high
+Aurangabad,Bibi Ka Maqbara Tomb,19.9015,75.3202,museum,museum,90,08:00,20:00,outdoor,110,4.5,high
+Aurangabad,Daulatabad Fort Hill Citadel,19.9427,75.2132,fort,fort,180,09:00,17:30,outdoor,100,4.7,high
+Aurangabad,Bhoj Naan Qalia Dining,19.8780,75.3400,restaurant,restaurant,60,11:30,22:30,indoor,350,4.4,high
+Aurangabad,Gul Mandi Silk Bazaar,19.8750,75.3350,market,market,90,10:00,21:00,outdoor,0,4.2,med
+Ratnagiri,Ratnadurg Coastal Fort,16.9902,73.3120,fort,fort,90,07:00,19:00,outdoor,0,4.6,med
+Ratnagiri,Thiba Palace Royal Residence,16.9920,73.3080,museum,museum,60,10:00,17:00,indoor,30,4.3,low
+Ratnagiri,Ganpatipule Temple Beach,17.1460,73.2680,beach,beach,120,06:00,21:00,outdoor,0,4.8,high
+Ratnagiri,Vivek Hotel Malvani Kitchen,16.9890,73.3100,restaurant,restaurant,60,11:00,22:00,indoor,400,4.5,med
+Ratnagiri,Bhatye Beach Sands,16.9750,73.2980,beach,beach,90,06:00,19:30,outdoor,0,4.4,med
+Ratnagiri,Mandavi Beach Gateway of Ratnagiri,16.9850,73.2850,beach,beach,90,06:00,20:00,outdoor,0,4.5,med
+Lonavala,Karla Caves Rock Shrines,18.7830,73.4700,temple,temple,120,09:00,17:00,outdoor,300,4.6,high
+Lonavala,Lohagad Hill Fort Trek,18.7060,73.4790,fort,fort,180,08:00,18:00,outdoor,30,4.7,high
+Lonavala,Tiger Point Ridge Overlook,18.7180,73.3750,park,park,60,06:00,19:00,outdoor,20,4.5,high
+Lonavala,Bhushi Dam Monsoon Spillway,18.7300,73.4100,waterfall,waterfall,90,09:00,17:00,outdoor,0,4.3,high
+Lonavala,Rama Krishna Veg Dining,18.7550,73.4090,restaurant,restaurant,60,08:00,22:30,indoor,450,4.4,high
+Lonavala,Maganlal Chikki Store Bazaar,18.7560,73.4080,market,market,45,09:00,21:30,indoor,0,4.6,high
+Pune,Shaniwar Wada Palace Citadel,18.5196,73.8553,fort,fort,90,08:00,18:30,outdoor,25,4.5,high
+Pune,Aga Khan Palace Memorial,18.5524,73.9015,museum,museum,90,09:00,17:30,indoor,25,4.6,med
+Pune,Dagadusheth Halwai Ganapati Temple,18.5165,73.8560,temple,temple,45,06:00,22:30,indoor,0,4.8,high
+Pune,Sinhagad Mountain Fort,18.3660,73.7550,fort,fort,180,05:00,19:00,outdoor,50,4.7,high
+Pune,Vaishali Restaurant Fergusson Road,18.5240,73.8410,restaurant,restaurant,60,07:00,23:00,indoor,350,4.7,high
+Pune,High Spirits Club Koregaon,18.5390,73.8950,nightlife,nightlife,180,20:00,01:30,indoor,1200,4.5,high
+Mahabaleshwar,Arthur Seat Plateau Point,17.9740,73.6180,park,park,90,06:00,18:00,outdoor,20,4.7,high
+Mahabaleshwar,Pratapgad Hill Fort,17.9360,73.5780,fort,fort,180,08:00,18:00,outdoor,30,4.7,high
+Mahabaleshwar,Venna Lake Boat Club,17.9250,73.6450,park,park,90,08:00,20:00,outdoor,300,4.4,high
+Mahabaleshwar,Lingmala Waterfalls Drop,17.9260,73.6800,waterfall,waterfall,90,08:00,17:30,outdoor,20,4.5,med
+Mahabaleshwar,Mapro Garden Strawberry Cafe,17.9280,73.7050,restaurant,restaurant,90,09:00,22:00,indoor,500,4.7,high
+Mahabaleshwar,Elphinstone Point View,17.9600,73.6100,park,park,60,06:00,18:00,outdoor,20,4.6,med
+Alibaug,Kolaba Sea Fort Citadel,18.6414,72.8722,fort,fort,120,10:00,17:00,outdoor,20,4.6,high
+Alibaug,Varsoli Beach Sands,18.6580,72.8690,beach,beach,90,06:00,19:00,outdoor,0,4.4,med
+Alibaug,Nagaon Water Sports Beach,18.6120,72.9050,beach,beach,150,07:00,18:30,outdoor,500,4.5,high
+Alibaug,Sanman Konkani Restaurant,18.6420,72.8750,restaurant,restaurant,60,11:30,22:00,indoor,500,4.6,high
+Alibaug,Kashid Beach Coast,18.4680,72.9080,beach,beach,120,06:00,19:00,outdoor,0,4.7,high
+Alibaug,Kanakeshwar Devasthan Hill Steps,18.7300,72.8800,temple,temple,120,06:00,19:00,outdoor,0,4.5,med
+North Goa,Baga Beach Strip,15.5553,73.7517,beach,beach,180,00:00,23:59,outdoor,0,4.5,high
+North Goa,Calangute Shoreline,15.5442,73.7553,beach,beach,180,00:00,23:59,outdoor,0,4.4,high
+North Goa,Aguada Lighthouse Fort,15.4926,73.7737,fort,fort,90,08:30,17:30,outdoor,50,4.6,high
+North Goa,Anjuna Wednesday Flea Market,15.5782,73.7410,market,market,150,09:00,19:00,outdoor,0,4.3,high
+North Goa,Britto's Beach Shack Restaurant,15.5560,73.7510,restaurant,restaurant,90,08:30,23:30,outdoor,800,4.5,high
+North Goa,Tito's Nightclub Lane,15.5562,73.7525,nightlife,nightlife,240,20:00,04:00,indoor,1500,4.2,high
+North Goa,Chapora Fort Cliff,15.6056,73.7360,fort,fort,75,09:00,17:30,outdoor,0,4.5,high
+South Goa,Palolem Bay Beach,15.0100,74.0233,beach,beach,180,06:00,22:00,outdoor,0,4.8,high
+South Goa,Cabo de Rama Cliff Fort,15.0886,73.9213,fort,fort,90,09:00,17:30,outdoor,0,4.6,med
+South Goa,Dudhsagar Waterfalls Trek,15.3144,74.3143,waterfall,waterfall,240,07:00,17:00,outdoor,500,4.7,high
+South Goa,Fisherman's Wharf Cavelossim,15.1720,73.9450,restaurant,restaurant,90,12:00,23:00,outdoor,1200,4.6,high
+South Goa,Agonda Quiet Beach,15.0442,73.9875,beach,beach,150,06:00,20:00,outdoor,0,4.7,med
+South Goa,Colva Beach Promenade,15.2785,73.9168,beach,beach,120,06:00,21:00,outdoor,0,4.3,med
+Panjim,Immaculate Conception Cathedral,15.4989,73.8284,temple,temple,45,09:00,19:00,indoor,0,4.6,high
+Panjim,Fontainhas Heritage Quarter,15.4952,73.8322,park,park,90,07:00,19:00,outdoor,0,4.7,high
+Panjim,Deltin Royale Casino Ship,15.4990,73.8200,nightlife,nightlife,300,18:00,06:00,indoor,3500,4.3,high
+Panjim,Viva Panjim Kitchen,15.4955,73.8320,restaurant,restaurant,75,12:00,23:00,indoor,600,4.6,high
+Panjim,Miramar Beach Estuary,15.4800,73.8090,beach,beach,60,06:00,21:00,outdoor,0,4.2,med
+Panjim,Reis Magos Fort Estuary,15.4980,73.8080,fort,fort,90,09:30,17:30,outdoor,50,4.6,med
+Jaipur,Amber Palace Fort,26.9855,75.8513,fort,fort,180,08:00,17:30,outdoor,500,4.7,high
+Jaipur,Hawa Mahal Frontage,26.9239,75.8267,museum,museum,60,09:00,17:00,outdoor,200,4.6,high
+Jaipur,City Palace Jaipur Courtyards,26.9258,75.8237,museum,museum,120,09:30,17:00,indoor,700,4.5,high
+Jaipur,Jantar Mantar Sundial Site,26.9248,75.8246,museum,museum,75,09:00,16:30,outdoor,200,4.5,med
+Jaipur,Chokhi Dhani Resort Dining,26.7680,75.8360,restaurant,restaurant,180,17:00,23:00,outdoor,1100,4.4,high
+Jaipur,Johri Bazaar Gem Market,26.9210,75.8280,market,market,120,11:00,21:00,outdoor,0,4.4,high
+Udaipur,City Palace Udaipur Museum,24.5764,73.6835,museum,museum,180,09:00,17:30,indoor,400,4.7,high
+Udaipur,Lake Pichola Boat Jetty,24.5780,73.6800,park,park,60,09:00,18:00,outdoor,800,4.8,high
+Udaipur,Jag Mandir Island Palace,24.5677,73.6780,fort,fort,90,10:00,18:00,outdoor,400,4.6,med
+Udaipur,Saheliyon Ki Bari Fountains,24.6015,73.6862,park,park,60,09:00,19:00,outdoor,50,4.4,med
+Udaipur,Ambrai Lakefront Restaurant,24.5790,73.6810,restaurant,restaurant,90,12:30,22:30,outdoor,1200,4.7,high
+Udaipur,Bagore Ki Haveli Museum,24.5801,73.6817,museum,museum,90,10:00,20:00,indoor,100,4.6,high
+Jodhpur,Mehrangarh Fort Citadel,26.2980,73.0189,fort,fort,180,09:00,17:00,outdoor,200,4.8,high
+Jodhpur,Jaswant Thada Marble Shrine,26.3020,73.0220,museum,museum,60,09:00,17:00,outdoor,50,4.6,med
+Jodhpur,Umaid Bhawan Palace Wings,26.2810,73.0470,museum,museum,90,09:00,17:00,indoor,100,4.5,high
+Jodhpur,Gypsy Thali Restaurant Jodhpur,26.2750,73.0150,restaurant,restaurant,60,11:30,22:30,indoor,450,4.6,high
+Jodhpur,Sardar Clock Tower Market,26.2950,73.0240,market,market,120,10:00,21:00,outdoor,0,4.4,high
+Jodhpur,Mandore Gardens Cenotaphs,26.3500,73.0400,park,park,90,08:00,20:00,outdoor,0,4.6,med
+Jaisalmer,Jaisalmer Golden Fort,26.9157,70.9083,fort,fort,180,09:00,18:00,outdoor,100,4.7,high
+Jaisalmer,Patwon Ki Haveli Carvings,26.9180,70.9120,museum,museum,90,09:00,17:00,indoor,100,4.6,high
+Jaisalmer,Sam Sand Dunes Desert Safari,26.8300,70.5200,park,park,180,15:30,20:30,outdoor,800,4.6,high
+Jaisalmer,Gadisar Lake Reservoir,26.9100,70.9200,park,park,60,08:00,19:00,outdoor,20,4.5,med
+Jaisalmer,The Trio Fort Rooftop Dining,26.9160,70.9090,restaurant,restaurant,75,11:00,23:00,outdoor,700,4.5,high
+Jaisalmer,Bada Bagh Royal Cenotaphs,26.9400,70.8800,museum,museum,60,08:00,18:00,outdoor,100,4.6,med
+Pushkar,Brahma Temple Sanctum,26.4897,74.5511,temple,temple,60,06:00,21:00,indoor,0,4.6,high
+Pushkar,Pushkar Sacred Lake Ghats,26.4880,74.5530,temple,temple,90,05:00,21:00,outdoor,0,4.7,high
+Pushkar,Savitri Devi Hill Cable Car,26.4840,74.5420,temple,temple,90,06:00,19:00,outdoor,120,4.5,high
+Pushkar,La Capitale Falafel Cafe,26.4890,74.5520,restaurant,restaurant,45,10:00,22:00,indoor,300,4.5,med
+Pushkar,Pushkar Bazaar Handicrafts,26.4900,74.5500,market,market,120,10:00,21:00,outdoor,0,4.4,high
+Pushkar,Varaha Temple Ancient Shrine,26.4885,74.5525,temple,temple,45,06:00,20:00,indoor,0,4.5,med
+Munnar,Eravikulam National Park Tahr,10.1500,77.0600,park,park,180,07:30,16:00,outdoor,200,4.7,high
+Munnar,Mattupetty Dam Lake,10.1050,77.1230,park,park,90,09:30,17:00,outdoor,50,4.4,high
+Munnar,Tata Tea Museum Factory,10.0800,77.0600,museum,museum,75,09:00,17:00,indoor,120,4.5,med
+Munnar,Attukad Falls Trail,10.0550,77.0420,waterfall,waterfall,90,09:00,18:00,outdoor,0,4.6,med
+Munnar,Saravana Bhavan Munnar,10.0880,77.0590,restaurant,restaurant,45,07:00,22:00,indoor,250,4.4,high
+Munnar,Lockhart Gap Viewpoint,10.0400,77.1200,park,park,60,06:00,18:00,outdoor,0,4.6,med
+Alleppey,Alleppey Backwaters Jetty,9.4981,76.3388,park,park,300,08:00,18:00,outdoor,3500,4.8,high
+Alleppey,Marari Beach Palms,9.6000,76.2800,beach,beach,120,06:00,19:00,outdoor,0,4.7,med
+Alleppey,Alleppey Lighthouse Tower,9.4920,76.3180,museum,museum,45,15:00,17:30,indoor,20,4.3,med
+Alleppey,Thaff Toddy & Seafood Dining,9.4950,76.3320,restaurant,restaurant,60,11:00,22:30,indoor,400,4.5,high
+Alleppey,Pathiramanal Island Bird Sanctuary,9.6100,76.3800,park,park,120,06:00,18:00,outdoor,50,4.5,low
+Alleppey,Krishnapuram Palace Museum,9.2400,76.5300,museum,museum,90,09:00,16:30,indoor,20,4.4,med
+Wayanad,Banasura Sagar Earth Dam,11.6700,75.9500,park,park,120,09:00,17:00,outdoor,40,4.5,high
+Wayanad,Edakkal Caves Petroglyphs,11.6280,76.2340,museum,museum,150,09:00,16:00,outdoor,50,4.6,high
+Wayanad,Meenmutty Falls Trek,11.6600,75.9100,waterfall,waterfall,180,09:00,17:00,outdoor,30,4.5,med
+Wayanad,Wilton Restaurant Wayanad,11.6850,76.1300,restaurant,restaurant,60,11:00,22:00,indoor,350,4.4,med
+Wayanad,Banasura Hill Trek Base,11.6800,75.9300,park,park,180,07:00,16:00,outdoor,50,4.7,med
+Wayanad,Kuruva Island Bamboo Rafting,11.8200,76.0800,park,park,120,09:00,16:00,outdoor,110,4.6,high
+Coorg,Abbey Falls Cascade,12.4450,75.7200,waterfall,waterfall,90,09:00,17:00,outdoor,15,4.5,high
+Coorg,Namdroling Monastery Golden Temple,12.4300,75.9600,temple,temple,90,09:00,18:00,indoor,0,4.8,high
+Coorg,Dubare Elephant Camp,12.3700,75.9000,park,park,150,09:00,17:00,outdoor,100,4.4,high
+Coorg,Raintree Coorg Cuisine Restaurant,12.4200,75.7380,restaurant,restaurant,75,12:00,22:00,indoor,600,4.6,high
+Coorg,Madikeri Fort Museum,12.4220,75.7390,fort,fort,60,10:00,17:30,indoor,20,4.2,med
+Coorg,Tadiandamol Peak Trek Trail,12.2100,75.6100,park,park,240,06:00,16:00,outdoor,20,4.8,med
+Hampi,Virupaksha Temple Complex,15.3350,76.4600,temple,temple,120,06:00,20:00,indoor,25,4.8,high
+Hampi,Vijaya Vittala Stone Chariot,15.3380,76.4780,temple,temple,150,08:30,17:30,outdoor,40,4.9,high
+Hampi,Lotus Mahal Royal Enclosure,15.3180,76.4720,fort,fort,90,08:00,18:00,outdoor,40,4.7,high
+Hampi,Hemakuta Hill Sunset Point,15.3330,76.4590,park,park,60,06:00,19:00,outdoor,0,4.8,high
+Hampi,Mango Tree Restaurant Hampi,15.3340,76.4610,restaurant,restaurant,60,08:00,22:00,indoor,300,4.5,high
+Hampi,Anegundi Monkey Temple Anjanadri Hill,15.3540,76.4710,temple,temple,120,05:30,20:00,outdoor,0,4.8,high
+Mysuru,Mysore Palace Illuminations,12.3052,76.6552,museum,museum,180,10:00,17:30,indoor,100,4.8,high
+Mysuru,Chamundeshwari Temple Hill,12.2750,76.6700,temple,temple,90,07:30,21:00,indoor,0,4.7,high
+Mysuru,Sri Chamarajendra Zoological Gardens,12.3020,76.6640,park,park,180,08:30,17:30,outdoor,100,4.6,high
+Mysuru,MTR Mavalli Tiffin Room Mysuru,12.3070,76.6520,restaurant,restaurant,45,07:00,21:30,indoor,200,4.6,high
+Mysuru,Devaraja Silk & Spice Market,12.3090,76.6510,market,market,90,10:00,21:00,outdoor,0,4.4,high
+Mysuru,Brindavan Gardens Fountains,12.4200,76.5700,park,park,120,06:30,20:00,outdoor,50,4.5,high
+Ooty,Ooty Botanical Gardens,11.4150,76.7110,park,park,120,07:00,18:30,outdoor,50,4.6,high
+Ooty,Doddabetta Peak Viewpoint,11.4010,76.7350,park,park,90,09:00,18:00,outdoor,10,4.5,high
+Ooty,Ooty Lake Boating House,11.4080,76.6880,park,park,90,09:00,18:00,outdoor,260,4.3,high
+Ooty,Nilgiri Mountain Railway Museum,11.4060,76.6950,museum,museum,60,08:00,17:00,indoor,20,4.6,high
+Ooty,Place To Bee Organic Restaurant,11.4120,76.7020,restaurant,restaurant,60,11:00,21:30,indoor,450,4.5,med
+Ooty,Rose Garden Elk Hill,11.4080,76.7080,park,park,90,07:30,18:00,outdoor,40,4.5,high
+Chettinad,Chettinad Palace Mansion,10.1747,78.7844,museum,museum,90,09:00,17:00,indoor,100,4.7,med
+Chettinad,Athangudi Tile Factory,10.1600,78.8100,museum,museum,60,09:00,18:00,indoor,50,4.6,med
+Chettinad,The Bangala Cuisine Restaurant,10.1730,78.7820,restaurant,restaurant,90,12:00,22:00,indoor,1100,4.8,high
+Chettinad,Karaikudi Antique Market,10.0700,78.7800,market,market,90,10:00,20:00,outdoor,0,4.5,med
+Chettinad,Kandukathan Heritage Village Walk,10.1700,78.7900,park,park,90,07:00,19:00,outdoor,0,4.6,med
+Chettinad,Solai Andavar Temple Shrine,10.1800,78.8000,temple,temple,45,06:00,19:00,indoor,0,4.5,low
+Madurai,Meenakshi Amman Temple Gopuram,9.9195,78.1193,temple,temple,150,05:00,21:30,indoor,0,4.9,high
+Madurai,Thirumalai Nayakkar Mahal Palace,9.9150,78.1230,museum,museum,90,09:00,17:00,indoor,50,4.6,high
+Madurai,Murugan Temple Thiruparankundram,9.8800,78.0700,temple,temple,60,05:30,20:30,indoor,0,4.7,high
+Madurai,Murugan Idli Shop Restaurant,9.9180,78.1180,restaurant,restaurant,45,07:00,23:00,indoor,150,4.7,high
+Madurai,Vandiyur Mariamman Teppakulam Lake,9.9100,78.1500,park,park,60,06:00,20:00,outdoor,0,4.5,med
+Madurai,Gandhi Memorial Museum Madurai,9.9300,78.1400,museum,museum,90,10:00,17:45,indoor,0,4.6,med
+Kanyakumari,Vivekananda Rock Memorial,8.0780,77.5550,temple,temple,120,08:00,16:00,outdoor,70,4.8,high
+Kanyakumari,Thiruvalluvar Statue Pier,8.0770,77.5560,museum,museum,60,08:00,16:00,outdoor,50,4.7,high
+Kanyakumari,Kanyakumari Sunset Point Beach,8.0883,77.5385,beach,beach,90,06:00,19:00,outdoor,0,4.7,high
+Kanyakumari,The Sea Shore Hotel Restaurant,8.0850,77.5400,restaurant,restaurant,60,11:00,22:00,indoor,500,4.3,high
+Kanyakumari,Our Lady of Ransom Church,8.0820,77.5500,temple,temple,45,06:00,20:00,indoor,0,4.6,med
+Kanyakumari,Padmanabhapuram Wooden Palace,8.2500,77.3200,museum,museum,120,09:00,16:30,indoor,50,4.7,high
+Manali,Hadimba Devi Temple Wood Architecture,32.2480,77.1800,temple,temple,60,08:00,18:00,outdoor,0,4.7,high
+Manali,Solang Valley Adventure Park,32.3160,77.1580,park,park,240,09:00,17:00,outdoor,1200,4.6,high
+Manali,Jogini Waterfall Trek,32.2650,77.1950,waterfall,waterfall,150,08:00,16:00,outdoor,0,4.8,high
+Manali,Chopsticks Restaurant Mall Road,32.2430,77.1890,restaurant,restaurant,60,11:00,22:30,indoor,550,4.5,high
+Manali,Manali Mall Road Souvenir Market,32.2420,77.1880,market,market,120,10:00,22:00,outdoor,0,4.4,high
+Manali,Vashisht Hot Water Springs,32.2600,77.1900,temple,temple,60,07:00,21:00,indoor,0,4.5,high
+Kasol,Manikaran Sahib Gurudwara Hot Springs,32.0270,77.3460,temple,temple,90,05:00,21:00,indoor,0,4.7,high
+Kasol,Chalal Trekking Trail Parvati River,32.0120,77.3180,park,park,120,08:00,18:00,outdoor,0,4.7,high
+Kasol,Evergreen Cafe Israeli Restaurant,32.0100,77.3150,restaurant,restaurant,75,09:00,23:00,indoor,400,4.6,high
+Kasol,Tosh Village Viewpoint Trek,32.0150,77.4500,park,park,180,07:00,17:00,outdoor,0,4.8,high
+Kasol,Kheerganga Trek Hot Spring Top,31.9800,77.5100,park,park,300,06:00,17:00,outdoor,0,4.8,high
+Kasol,Grahan Village Nature Trail,32.0000,77.2800,park,park,180,07:00,17:00,outdoor,0,4.6,med
+Spiti Valley,Key Monastery Cliff Architecture,32.2992,78.0108,temple,temple,90,06:00,18:00,indoor,0,4.9,high
+Spiti Valley,Chandratal High Altitude Lake,32.4804,77.6158,park,park,180,06:00,18:00,outdoor,0,4.9,high
+Spiti Valley,Dhankar Fort Monastery,32.2150,78.2200,fort,fort,90,07:00,17:00,outdoor,0,4.8,med
+Spiti Valley,Kaza Market Cafe & Restaurant,32.2260,78.0700,restaurant,restaurant,60,08:00,21:00,indoor,350,4.5,med
+Spiti Valley,Langza Buddha Statue Fossil Village,32.2580,78.0850,museum,museum,90,07:00,18:00,outdoor,0,4.9,high
+Spiti Valley,Hikkim World Highest Post Office,32.2400,78.0800,museum,museum,45,09:00,17:00,indoor,0,4.8,high
+Dharamsala,Namgyal Monastery Dalai Lama Residence,32.2350,76.3220,temple,temple,90,06:00,19:00,indoor,0,4.8,high
+Dharamsala,Bhagsunag Waterfall & Temple,32.2450,76.3350,waterfall,waterfall,90,08:00,18:00,outdoor,0,4.5,high
+Dharamsala,HPCA International Cricket Stadium,32.2190,76.3234,park,park,60,09:00,17:00,outdoor,30,4.7,high
+Dharamsala,Tibet Kitchen Restaurant McLeod Ganj,32.2360,76.3210,restaurant,restaurant,60,11:30,22:00,indoor,400,4.6,high
+Dharamsala,Triund Hill Trek Base Camp,32.2580,76.3500,park,park,240,06:00,17:00,outdoor,0,4.8,high
+Dharamsala,St. John in the Wilderness Church,32.2400,76.3150,temple,temple,45,08:00,18:00,outdoor,0,4.6,med
+Rishikesh,Laxman Jhula Suspension Bridge,30.1235,78.2676,park,park,45,00:00,23:59,outdoor,0,4.6,high
+Rishikesh,Parmarth Niketan Ganga Aarti Ghat,30.1190,78.3150,temple,temple,90,16:30,19:30,outdoor,0,4.8,high
+Rishikesh,Beatles Ashram Maharishi Mahesh Yogi,30.1150,78.3120,museum,museum,120,09:00,16:00,outdoor,150,4.5,med
+Rishikesh,Shivpuri Rafting Point,30.1380,78.3850,waterfall,waterfall,180,08:00,15:00,outdoor,1000,4.7,high
+Rishikesh,Chotiwala Vegetarian Restaurant,30.1220,78.3250,restaurant,restaurant,60,08:00,22:00,indoor,300,4.3,high
+Rishikesh,Ram Jhula Suspension Bridge,30.1180,78.3120,park,park,45,00:00,23:59,outdoor,0,4.6,high
+Mussoorie,Kempty Falls Cascades,30.4850,78.0400,waterfall,waterfall,120,08:00,17:00,outdoor,50,4.3,high
+Mussoorie,Gun Hill Cable Car Viewpoint,30.4580,78.0750,park,park,60,10:00,18:00,outdoor,120,4.4,high
+Mussoorie,Mussoorie Mall Road Arcade,30.4598,78.0644,market,market,120,10:00,22:00,outdoor,0,4.5,high
+Mussoorie,Lovely Omelette Centre Restaurant,30.4600,78.0650,restaurant,restaurant,30,08:00,21:00,indoor,150,4.6,high
+Mussoorie,Company Garden Botanical Park,30.4650,78.0550,park,park,90,08:30,18:00,outdoor,25,4.4,high
+Mussoorie,Cloud's End Forest Trail,30.4600,78.0100,park,park,90,08:00,18:00,outdoor,50,4.5,med
+Auli,Auli Artificial Lake Ski Resort,30.5280,79.5682,park,park,180,08:00,17:00,outdoor,500,4.8,high
+Auli,Gorson Bugyal Meadow Trek,30.5400,79.5800,park,park,240,07:00,16:00,outdoor,0,4.9,med
+Auli,Joshimath Ropeway Station,30.5500,79.5600,park,park,60,09:00,16:30,outdoor,1000,4.6,high
+Auli,Auli Alpine Heights Restaurant,30.5290,79.5690,restaurant,restaurant,60,08:00,21:00,indoor,500,4.3,med
+Auli,Chenab Lake Alpine Meadow,30.5400,79.5700,park,park,120,08:00,17:00,outdoor,0,4.7,low
+Auli,Kwani Bugyal Trek Point,30.5600,79.6000,park,park,240,07:00,16:00,outdoor,0,4.8,low
+Khajuraho,Kandariya Mahadeva Temple Carvings,24.8318,79.9199,temple,temple,150,06:00,18:00,outdoor,40,4.9,high
+Khajuraho,Western Group Temples Complex,24.8320,79.9200,temple,temple,180,06:00,18:00,outdoor,40,4.8,high
+Khajuraho,Raneh Falls Canyon & Crater,24.8000,79.8500,waterfall,waterfall,120,08:00,17:00,outdoor,100,4.6,med
+Khajuraho,Raja Cafe Lakeview Restaurant,24.8310,79.9180,restaurant,restaurant,60,08:00,22:00,indoor,400,4.5,med
+Khajuraho,Eastern Group Jain Temples,24.8400,79.9300,temple,temple,90,06:00,18:00,outdoor,0,4.7,med
+Khajuraho,Panna National Park Jungle Gate,24.7200,80.0000,park,park,180,06:00,16:00,outdoor,1000,4.7,high
+Orchha,Orchha Fort Palace Complex,24.9878,78.6398,fort,fort,180,09:00,17:30,outdoor,100,4.8,high
+Orchha,Raja Mahal & Jahangir Mahal,24.9880,78.6400,fort,fort,120,09:00,17:30,indoor,100,4.7,high
+Orchha,Ram Raja Temple,24.9860,78.6380,temple,temple,60,08:00,21:00,indoor,0,4.8,high
+Orchha,Open Air Betwa Tarang Restaurant,24.9850,78.6370,restaurant,restaurant,60,11:00,22:00,outdoor,450,4.5,med
+Orchha,Chatturtiya Cenotaphs Betwa Riverbank,24.9830,78.6360,museum,museum,75,08:00,18:30,outdoor,0,4.7,med
+Orchha,Laxmi Narayan Temple Murals,24.9900,78.6300,temple,temple,60,09:00,18:00,indoor,0,4.6,med
+Pachmarhi,Bee Falls Water Cascade,22.4674,78.4344,waterfall,waterfall,120,09:00,17:00,outdoor,15,4.6,high
+Pachmarhi,Dhupgarh Sunset Point Peak,22.4500,78.3700,park,park,90,06:00,19:00,outdoor,50,4.8,high
+Pachmarhi,Jatashankar Cave Temple,22.4700,78.4400,temple,temple,75,06:00,18:00,indoor,0,4.5,med
+Pachmarhi,Chinnar Hotel Local Restaurant,22.4680,78.4350,restaurant,restaurant,60,08:00,22:00,indoor,300,4.2,med
+Pachmarhi,Apsara Vihar Fairy Pool Waterfall,22.4650,78.4380,waterfall,waterfall,90,09:00,17:00,outdoor,15,4.5,med
+Pachmarhi,Pandav Caves Archaeological Site,22.4690,78.4320,museum,museum,60,08:00,18:00,outdoor,0,4.4,med
+Rann of Kutch,White Rann Salt Desert Expanses,23.7842,69.8597,park,park,180,06:00,20:00,outdoor,100,4.9,high
+Rann of Kutch,Kala Dungar Black Hill Viewpoint,23.9500,69.8000,park,park,90,06:00,19:00,outdoor,0,4.6,high
+Rann of Kutch,Kutch Craft Village Bhujodi,23.2300,69.7200,market,market,120,09:00,18:00,outdoor,0,4.7,med
+Rann of Kutch,Rann Utsav Tent City Dining Hall,23.7800,69.8500,restaurant,restaurant,60,07:00,22:00,indoor,600,4.4,high
+Rann of Kutch,Dholavira Harappan Excavation Site,23.8800,70.2100,museum,museum,180,09:00,17:00,outdoor,20,4.8,med
+Rann of Kutch,Mandvi Beach Windmills,22.8200,69.3400,beach,beach,120,06:00,19:30,outdoor,0,4.6,high
+Ahmedabad,Sabarmati Ashram Gandhi Memorial,23.0600,72.5800,museum,museum,90,08:30,18:30,outdoor,0,4.8,high
+Ahmedabad,Adalaj Stepwell Architecture,23.1667,72.5800,museum,museum,60,08:00,18:00,outdoor,20,4.7,high
+Ahmedabad,Kankaria Lake Front Promenade,23.0060,72.6020,park,park,120,09:00,22:00,outdoor,25,4.5,high
+Ahmedabad,Agashiye Rooftop Gujarati Thali,23.0250,72.5830,restaurant,restaurant,90,12:00,22:30,outdoor,1100,4.8,high
+Ahmedabad,Manek Chowk Night Food Market,23.0240,72.5880,nightlife,nightlife,120,20:00,01:30,outdoor,200,4.6,high
+Ahmedabad,Hutheesing Jain Temple Carvings,23.0350,72.5920,temple,temple,60,08:00,20:00,indoor,0,4.7,med
+Dwarka,Dwarkadhish Temple Jagat Mandir,22.2442,68.9685,temple,temple,120,06:30,21:30,indoor,0,4.9,high
+Dwarka,Bet Dwarka Island Boat Ghat,22.4500,69.1000,temple,temple,180,08:00,18:00,outdoor,50,4.7,high
+Dwarka,Rukmini Devi Temple,22.2600,68.9800,temple,temple,45,06:00,19:00,indoor,0,4.5,med
+Dwarka,Shrinath Dining Hall Kathiyawadi Thali,22.2450,68.9690,restaurant,restaurant,45,11:00,22:00,indoor,250,4.4,high
+Dwarka,Nageshwar Jyotirlinga Temple Shiva Statue,22.3300,69.0800,temple,temple,75,06:00,21:00,indoor,0,4.8,high
+Dwarka,Bhadkeshwar Mahadev Temple Cliff,22.2400,68.9600,temple,temple,45,06:00,19:30,outdoor,0,4.7,high
+Puri,Shree Jagannath Temple Dham,19.8135,85.8312,temple,temple,150,05:00,23:00,indoor,0,4.9,high
+Puri,Golden Puri Beach Sea Waves,19.7980,85.8250,beach,beach,120,05:00,20:00,outdoor,0,4.7,high
+Puri,Gundicha Temple Compound,19.8300,85.8400,temple,temple,60,06:00,20:00,indoor,0,4.5,med
+Puri,Chung Wah Chinese & Seafood Restaurant,19.8000,85.8220,restaurant,restaurant,60,11:30,22:30,indoor,400,4.4,high
+Puri,Chilika Lake Satapada Dolphin Point,19.6700,85.4300,park,park,180,07:00,17:00,outdoor,800,4.7,high
+Puri,Swargadvar Beach Craft Stalls,19.8000,85.8180,market,market,90,16:00,22:00,outdoor,0,4.4,high
+Konark,Konark Sun Temple Stone Chariot,19.8876,86.0945,temple,temple,150,06:00,20:00,outdoor,40,4.9,high
+Konark,Chandrabhaga Beach Sunrise Point,19.8700,86.1100,beach,beach,90,05:00,19:00,outdoor,0,4.7,med
+Konark,ASI Archaeological Museum Konark,19.8890,86.0920,museum,museum,60,09:00,17:00,indoor,10,4.3,low
+Konark,Kamats Restaurant Konark Highway,19.8850,86.0930,restaurant,restaurant,45,07:00,21:30,indoor,250,4.2,med
+Konark,Ramachandi Temple Beach Estuary,19.8600,86.0400,beach,beach,90,06:00,19:00,outdoor,0,4.6,med
+Konark,Kuruma Buddhist Archaeological Site,19.8700,86.1400,museum,museum,60,09:00,17:00,outdoor,0,4.3,low
+Raghurajpur,Raghurajpur Pattachitra Artisan Village,19.8667,85.8167,market,market,150,08:00,18:00,outdoor,0,4.8,high
+Raghurajpur,Gotipua Dance Academy Workshop,19.8670,85.8170,museum,museum,90,09:00,17:00,indoor,100,4.7,med
+Raghurajpur,Heritage Artisan Palm Leaf Studio,19.8660,85.8160,market,market,60,09:00,18:00,indoor,0,4.6,med
+Raghurajpur,Village Craftsman Kitchen Restaurant,19.8665,85.8165,restaurant,restaurant,45,11:00,20:00,indoor,200,4.4,med
+Raghurajpur,Sirlo Heritage Village Palm Craft Studio,19.8680,85.8150,market,market,60,09:00,18:00,indoor,0,4.5,low
+Raghurajpur,Bhargavi Riverbank Artisan Path,19.8650,85.8180,park,park,60,06:00,18:30,outdoor,0,4.6,low
+Gangtok,Rumtek Monastery Golden Stupa,27.3000,88.5600,temple,temple,120,06:00,18:00,indoor,10,4.8,high
+Gangtok,Tsomgo Changu Lake Border,27.3800,88.7600,park,park,180,07:30,15:00,outdoor,200,4.8,high
+Gangtok,Nathula Pass Indo China Border,27.3900,88.8300,park,park,180,07:30,13:00,outdoor,200,4.7,high
+Gangtok,The Square Restaurant MG Marg,27.3300,88.6100,restaurant,restaurant,60,11:00,22:00,indoor,500,4.6,high
+Gangtok,Enchey Monastery Nyingma Order,27.3400,88.6200,temple,temple,60,06:00,18:00,indoor,0,4.6,med
+Gangtok,Namgyal Institute of Tibetology Museum,27.3200,88.6100,museum,museum,90,10:00,16:00,indoor,20,4.7,med
+Lachung,Yumthang Valley of Flowers,27.8200,88.7000,park,park,240,06:00,16:00,outdoor,100,4.9,high
+Lachung,Zero Point Yumesamdong Snow Peak,27.9200,88.7300,park,park,180,06:00,14:00,outdoor,200,4.8,high
+Lachung,Lachung Monastery,27.6891,88.7430,temple,temple,45,07:00,17:00,indoor,0,4.5,low
+Lachung,Homestay Traditional Sikkimese Kitchen Restaurant,27.6900,88.7440,restaurant,restaurant,60,07:00,21:00,indoor,300,4.4,med
+Lachung,Katao Snow Peak Point,27.7500,88.8000,park,park,180,06:00,15:00,outdoor,200,4.8,high
+Lachung,Bhim Nala Waterfalls Cascade,27.6500,88.7200,waterfall,waterfall,60,08:00,17:00,outdoor,0,4.5,med
+Kaziranga,Kaziranga Central Range Kohora Safari,26.5775,93.1711,park,park,240,07:00,16:00,outdoor,1500,4.8,high
+Kaziranga,Kaziranga National Orchid Park,26.5800,93.1800,park,park,90,08:00,17:00,outdoor,100,4.6,med
+Kaziranga,Western Range Bagori Rhino Zone,26.5900,93.0500,park,park,180,07:00,16:00,outdoor,1500,4.7,high
+Kaziranga,Maihang Assamese Ethnic Thali Restaurant,26.5780,93.1730,restaurant,restaurant,60,11:00,22:00,indoor,350,4.6,high
+Kaziranga,Eastern Range Agratoli Waterfowl Zone,26.6200,93.3000,park,park,180,07:00,16:00,outdoor,1500,4.7,med
+Kaziranga,Burapahar Range Trekking Trail,26.5400,92.9500,park,park,180,07:00,15:00,outdoor,500,4.5,low
+Majuli,Kamalabari Satra Vaishnavite Monastery,26.9500,94.1600,temple,temple,90,06:00,18:00,indoor,0,4.7,med
+Majuli,Auniati Satra Museum Artifacts,26.9400,94.1500,museum,museum,75,09:00,17:00,indoor,20,4.6,med
+Majuli,Samaguri Satra Mask Making Workshop,26.9600,94.1800,museum,museum,90,09:00,17:00,indoor,50,4.8,med
+Majuli,Majuli Tribal Kitchen Fish Thali Restaurant,26.9510,94.1610,restaurant,restaurant,45,11:00,20:30,indoor,200,4.5,med
+Majuli,Bengenati Satra Historic Collection,26.9700,94.2000,museum,museum,60,09:00,17:00,indoor,0,4.5,low
+Majuli,Garmur Satra Vaishnavite Center,26.9600,94.1700,temple,temple,60,06:00,18:00,indoor,0,4.6,med
+Tirthan Valley,Great Himalayan National Park Trek Entrance,31.6410,77.3480,park,park,300,08:00,17:00,outdoor,100,4.8,med
+Tirthan Valley,Choie Waterfall Hike,31.6300,77.3400,waterfall,waterfall,120,08:00,17:00,outdoor,0,4.7,med
+Tirthan Valley,Jibhi Waterfall & Wooden Bridge,31.6350,77.3500,waterfall,waterfall,90,08:00,18:00,outdoor,20,4.6,high
+Tirthan Valley,Trout House Grill Restaurant,31.6420,77.3490,restaurant,restaurant,60,12:00,22:00,indoor,600,4.6,high
+Tirthan Valley,Chehni Kothi Ancient Timber Tower,31.6200,77.3300,fort,fort,120,08:00,17:00,outdoor,0,4.8,med
+Tirthan Valley,Serolsar Lake Jalori Pass Hike,31.5300,77.3800,park,park,240,07:00,16:00,outdoor,0,4.9,high
+Ziro,Apatani Tribal Village Hong Walk,27.5946,93.8385,park,park,120,08:00,17:00,outdoor,0,4.7,med
+Ziro,Tarin Fish Farm Paddy Field,27.5800,93.8300,park,park,60,09:00,16:00,outdoor,20,4.3,low
+Ziro,Kile Pakho Ridge Viewpoint,27.6100,93.8500,park,park,90,06:00,17:00,outdoor,0,4.6,low
+Ziro,Ziro Valley Local Kitchen Rice Wine & Food,27.5950,93.8390,restaurant,restaurant,60,11:00,21:00,indoor,300,4.5,med
+Ziro,Meghna Cave Temple Ancient Shrine,27.6200,93.8100,temple,temple,60,06:00,18:00,outdoor,0,4.6,low
+Ziro,Talley Valley Wildlife Sanctuary Entrance,27.5300,93.9000,park,park,240,07:00,16:00,outdoor,50,4.7,low
+Hamirpur,Tauni Devi Temple Shrine,31.6862,76.5213,temple,temple,60,06:00,20:00,indoor,0,4.5,med
+Hamirpur,Sujanpur Tira Fort Ruins,31.8300,76.5000,fort,fort,90,08:00,18:00,outdoor,0,4.3,low
+Hamirpur,Gasota Mahadev Temple Pond,31.6700,76.5300,temple,temple,45,06:00,19:00,outdoor,0,4.4,low
+Hamirpur,Himachal Rasoi Restaurant Hamirpur,31.6870,76.5220,restaurant,restaurant,45,09:00,21:30,indoor,250,4.3,med
+Hamirpur,Awah Devi Temple Hill Peak,31.7500,76.6200,temple,temple,60,06:00,19:00,outdoor,0,4.5,low
+Hamirpur,Deotsidh Baba Balak Nath Cave Temple,31.4200,76.5200,temple,temple,90,05:00,21:00,indoor,0,4.7,high
+Matheran,Panorama Point Sunset Edge,18.9865,73.2679,park,park,90,06:00,18:30,outdoor,50,4.7,high
+Matheran,Echo Point Valley Sound Echo,18.9820,73.2650,park,park,60,06:00,18:30,outdoor,50,4.5,high
+Matheran,Charlotte Lake Dam,18.9800,73.2700,park,park,90,06:00,19:00,outdoor,0,4.6,high
+Matheran,Shabbir's Biryani House Restaurant,18.9860,73.2680,restaurant,restaurant,45,11:00,22:00,indoor,350,4.4,high
+Matheran,Louisa Point Precipice,18.9810,73.2610,park,park,90,06:00,18:30,outdoor,50,4.6,med
+Matheran,One Tree Hill Point Ridge,18.9750,73.2720,park,park,90,06:00,18:30,outdoor,50,4.6,med
+Mount Abu,Dilwara Jain Temples Marble Carvings,24.6000,72.7200,temple,temple,120,12:00,18:00,indoor,0,4.9,high
+Mount Abu,Nakki Lake Boating Promenades,24.5926,72.7156,park,park,90,08:00,20:00,outdoor,200,4.5,high
+Mount Abu,Guru Shikhar Peak Summit,24.6500,72.7800,temple,temple,90,08:00,18:00,outdoor,10,4.6,high
+Mount Abu,Mulberry Tree Restaurant Mount Abu,24.5930,72.7160,restaurant,restaurant,60,11:00,22:30,indoor,500,4.5,high
+Mount Abu,Achalgarh Fort & Shiv Temple,24.6200,72.7700,fort,fort,90,08:00,18:00,outdoor,0,4.5,med
+Mount Abu,Peace Park Brahma Kumaris Garden,24.6300,72.7500,park,park,75,08:00,19:00,outdoor,0,4.7,med
+Thekkady,Periyar Wildlife Sanctuary Lake Boating,9.6031,77.1615,park,park,180,06:00,17:00,outdoor,500,4.7,high
+Thekkady,Kadathanadan Kalari Centre Martial Arts,9.6000,77.1600,museum,museum,60,18:00,20:00,indoor,300,4.8,high
+Thekkady,Elephant Junction Plantation,9.6100,77.1700,park,park,90,08:30,17:30,outdoor,400,4.4,high
+Thekkady,Grandma's Cafe & Restaurant Thekkady,9.6020,77.1620,restaurant,restaurant,45,08:00,22:00,indoor,350,4.5,med
+Thekkady,Pandikuzhi Viewpoint Waterfall,9.6300,77.2000,waterfall,waterfall,90,08:00,18:00,outdoor,0,4.5,med
+Thekkady,Chellarkovil Eco Tourism Viewpoint,9.6500,77.1500,park,park,90,08:00,17:30,outdoor,20,4.6,med
+Shimla,Shimla Ridge & Christ Church,31.1048,77.1734,park,park,90,08:00,21:00,outdoor,0,4.7,high
+Shimla,Jakhoo Temple Hanuman Statue,31.1000,77.1800,temple,temple,90,07:00,19:00,outdoor,0,4.6,high
+Shimla,Viceregal Lodge Indian Institute of Advanced Study,31.1020,77.1400,museum,museum,90,10:00,17:00,indoor,50,4.6,high
+Shimla,The Devicos Restaurant & Bar,31.1040,77.1730,restaurant,restaurant,75,12:00,23:00,indoor,700,4.4,high
+Shimla,Kufri Adventure Park Snow Point,31.1000,77.2700,park,park,180,09:00,17:00,outdoor,300,4.4,high
+Shimla,Tara Devi Temple Hilltop,31.0600,77.1300,temple,temple,90,07:00,19:00,outdoor,0,4.7,med
+Nainital,Naini Lake Boating Club,29.3803,79.4636,park,park,120,06:00,19:00,outdoor,210,4.7,high
+Nainital,Naina Devi Temple Complex,29.3900,79.4600,temple,temple,60,06:00,20:00,indoor,0,4.8,high
+Nainital,Snow View Point Cable Car,29.3950,79.4680,park,park,90,10:00,17:00,outdoor,300,4.4,high
+Nainital,Machan Restaurant Mall Road Nainital,29.3810,79.4640,restaurant,restaurant,60,11:00,22:30,indoor,500,4.4,high
+Nainital,Tiffin Top Dorothy's Seat Hike,29.3850,79.4500,park,park,120,06:00,18:00,outdoor,0,4.6,high
+Nainital,Bhimtal Lake Butterfly Conservatory,29.3400,79.5500,park,park,120,08:00,18:00,outdoor,150,4.5,med
+Kodaikanal,Kodai Lake Pedalo Boating,10.2381,77.4892,park,park,120,09:00,18:00,outdoor,150,4.6,high
+Kodaikanal,Coaker's Walk Valley Trail,10.2320,77.4920,park,park,60,07:00,19:00,outdoor,30,4.6,high
+Kodaikanal,Pillar Rocks Viewpoint Clifftop,10.2100,77.4650,park,park,60,09:00,16:30,outdoor,10,4.5,high
+Kodaikanal,Altaf's Cafe Middle Eastern Restaurant,10.2370,77.4880,restaurant,restaurant,60,11:00,22:00,indoor,400,4.5,med
+Kodaikanal,Bryant Park Botanical Display,10.2340,77.4950,park,park,90,09:00,18:00,outdoor,30,4.5,high
+Kodaikanal,Silver Cascade Falls Lookout,10.2500,77.5200,waterfall,waterfall,45,08:00,17:30,outdoor,0,4.3,high
+Chikmagalur,Mullayanagiri Peak Summit Hike,13.3900,75.7200,park,park,150,06:00,18:00,outdoor,0,4.8,high
+Chikmagalur,Baba Budangiri Shrine Range,13.4200,75.7600,temple,temple,120,08:00,17:00,outdoor,0,4.6,high
+Chikmagalur,Hebbe Falls Jeep Trek,13.4300,75.7800,waterfall,waterfall,180,08:00,16:00,outdoor,400,4.7,med
+Chikmagalur,Town Canteen Masala Dosa Restaurant,13.3150,75.7750,restaurant,restaurant,45,07:00,21:00,indoor,150,4.7,high
+Chikmagalur,Jhari Waterfalls Dhab Dhabe,13.4100,75.7400,waterfall,waterfall,120,08:00,17:00,outdoor,300,4.7,high
+Chikmagalur,Bhadra Wildlife Sanctuary Safari Gate,13.6800,75.6300,park,park,180,06:00,16:00,outdoor,400,4.6,med
+Gokarna,Om Beach Sunset Cove,14.5180,74.3160,beach,beach,180,06:00,21:00,outdoor,0,4.8,high
+Gokarna,Mahabaleshwar Temple Shiva Linga,14.5479,74.3188,temple,temple,60,06:00,20:30,indoor,0,4.7,high
+Gokarna,Kudle Beach Shacks,14.5280,74.3170,beach,beach,150,06:00,22:00,outdoor,0,4.7,high
+Gokarna,Namaste Cafe Beach Restaurant,14.5185,74.3165,restaurant,restaurant,75,08:00,23:00,outdoor,500,4.5,high
+Gokarna,Half Moon Beach Secluded Cove,14.5100,74.3150,beach,beach,120,06:00,19:00,outdoor,0,4.8,med
+Gokarna,Paradise Beach Rocky Shore,14.5050,74.3140,beach,beach,120,06:00,19:00,outdoor,0,4.8,med
+Jim Corbett,Dhikala Zone Forest Safari Entrance,29.5300,78.7747,park,park,240,06:00,16:00,outdoor,2000,4.8,high
+Jim Corbett,Corbett Waterfalls Ramnagar,29.4000,79.0800,waterfall,waterfall,90,08:00,17:00,outdoor,50,4.5,med
+Jim Corbett,Garjiya Devi Temple Riverbed,29.4700,78.8500,temple,temple,60,06:00,19:00,outdoor,0,4.6,high
+Jim Corbett,Corbett Grill Kumaoni Thali Restaurant,29.5310,78.7750,restaurant,restaurant,60,11:00,22:00,indoor,600,4.4,high
+Jim Corbett,Bijrani Safari Gate Ramnagar,29.4200,79.0500,park,park,240,06:00,16:00,outdoor,1500,4.7,high
+Jim Corbett,Sitabani Temple Forest Reserve,29.4500,79.1500,temple,temple,120,07:00,17:00,outdoor,50,4.5,med
+Varkala,Varkala Cliff Beach & Sunset View,8.7379,76.7163,beach,beach,180,06:00,22:00,outdoor,0,4.8,high
+Varkala,Janardhanaswamy Ancient Temple,8.7300,76.7150,temple,temple,60,05:30,20:00,indoor,0,4.6,med
+Varkala,Kapil Beach Backwaters Estuary,8.7800,76.6800,beach,beach,120,06:00,19:00,outdoor,0,4.7,med
+Varkala,Darjeeling Cafe Cliffside Restaurant,8.7385,76.7165,restaurant,restaurant,75,08:00,23:00,outdoor,550,4.6,high
+Varkala,Black Beach Odayam Cove,8.7450,76.7120,beach,beach,90,06:00,19:00,outdoor,0,4.7,med
+Varkala,Anjengo Fort & Lighthouse,8.6800,76.7600,fort,fort,75,09:00,17:00,outdoor,20,4.5,med
+Kochi,Chinese Fishing Nets Fort Kochi,9.9670,76.2430,park,park,60,06:00,19:00,outdoor,0,4.6,high
+Kochi,Mattancherry Dutch Palace Museum,9.9580,76.2590,museum,museum,90,10:00,17:00,indoor,10,4.4,high
+Kochi,Paradesi Synagogue Jew Town,9.9570,76.2600,temple,temple,45,10:00,17:00,indoor,10,4.5,med
+Kochi,Kashi Art Cafe & Restaurant,9.9650,76.2440,restaurant,restaurant,60,08:30,22:00,indoor,400,4.7,high
+Kochi,Hill Palace Museum Tripunithura,9.9530,76.3530,museum,museum,120,09:00,16:30,indoor,30,4.6,high
+Kochi,Cherai Beach Vypeen Island,10.1400,76.1700,beach,beach,120,06:00,20:00,outdoor,0,4.6,high
+Rameshwaram,Ramanathaswamy Temple Corridor,9.2876,79.3129,temple,temple,150,05:00,21:00,indoor,0,4.9,high
+Rameshwaram,Pamban Sea Bridge Viewpoint,9.2795,79.2030,park,park,60,06:00,19:00,outdoor,0,4.8,high
+Rameshwaram,Dhanushkodi Ghost Town Ruins,9.1780,79.4200,beach,beach,180,06:00,18:00,outdoor,50,4.8,high
+Rameshwaram,Sri Saravana South Indian Restaurant,9.2880,79.3130,restaurant,restaurant,45,07:00,22:00,indoor,200,4.4,high
+Rameshwaram,Jatayu Tirtham Sacred Tank,9.2900,79.3150,temple,temple,45,06:00,19:00,indoor,0,4.5,med
+Rameshwaram,Kothandaramaswamy Temple Dhanushkodi Road,9.2300,79.3500,temple,temple,60,06:00,18:00,outdoor,0,4.7,med
+Nashik,Sula Vineyards Winery & Tasting,19.9880,73.6880,park,park,180,11:30,22:30,outdoor,1000,4.7,high
+Nashik,Trimbakeshwar Shiva Jyotirlinga Temple,19.9320,73.5300,temple,temple,120,05:30,21:00,indoor,0,4.8,high
+Nashik,Pandavleni Caves Rock Cut Art,19.9470,73.7650,museum,museum,90,08:30,17:30,outdoor,25,4.4,med
+Nashik,Sadhana Chulivarchi Misal Restaurant,19.9950,73.7850,restaurant,restaurant,60,08:00,18:00,indoor,250,4.7,high
+Nashik,Someshwar Waterfall & Temple,19.9980,73.7400,waterfall,waterfall,75,07:00,19:00,outdoor,0,4.5,high
+Nashik,Kalaram Temple Panchavati,20.0050,73.7920,temple,temple,60,05:30,21:00,indoor,0,4.7,high
+Tawang,Tawang Monastery Gaden Namgyal Lhatse,27.5861,91.8594,temple,temple,120,07:00,19:00,indoor,20,4.9,high
+Tawang,Sela Pass High Altitude Lake,27.5000,92.1000,park,park,90,07:00,16:00,outdoor,0,4.8,high
+Tawang,Tawang War Memorial,27.5800,91.8600,museum,museum,60,08:00,18:00,outdoor,0,4.7,med
+Tawang,Dragon Restaurant Traditional Monpa Food,27.5850,91.8580,restaurant,restaurant,60,11:00,21:00,indoor,350,4.5,med
+Tawang,Nuranang Waterfalls Jang Falls,27.5800,91.9800,waterfall,waterfall,90,08:00,17:00,outdoor,0,4.9,high
+Tawang,Pangang Teng Tso P.T. Tso Lake,27.6500,91.8700,park,park,90,07:00,15:00,outdoor,0,4.8,med
+Leh Ladakh,Pangong Tso High Altitude Lake,33.7597,78.6493,park,park,240,06:00,18:00,outdoor,200,4.9,high
+Leh Ladakh,Thiksey Monastery,34.0564,77.6667,temple,temple,90,07:00,19:00,indoor,50,4.8,med
+Leh Ladakh,Nubra Valley Hunder Sand Dunes,34.6860,77.5670,park,park,180,06:00,18:00,outdoor,300,4.8,high
+Leh Ladakh,Shanti Stupa Leh,34.1685,77.5775,temple,temple,60,05:00,21:00,outdoor,0,4.7,high
+Leh Ladakh,Leh Palace Ruins,34.1661,77.5866,fort,fort,75,08:00,17:00,outdoor,300,4.3,med
+Leh Ladakh,The Tibetan Kitchen Restaurant,34.1620,77.5840,restaurant,restaurant,60,12:00,22:00,indoor,500,4.6,high
+Shillong,Elephant Falls Cascade,25.5350,91.8230,waterfall,waterfall,90,09:00,17:00,outdoor,20,4.5,high
+Shillong,Shillong Peak Viewpoint,25.5300,91.8400,park,park,75,09:00,15:30,outdoor,50,4.4,high
+Shillong,Don Bosco Museum of Indigenous Cultures,25.5900,91.8900,museum,museum,150,09:00,17:30,indoor,100,4.8,high
+Shillong,City Hut Family Dhaba Khasi Restaurant,25.5780,91.8930,restaurant,restaurant,60,11:30,22:00,indoor,500,4.6,high
+Shillong,Umiam Barapani Lake Boating Deck,25.6500,91.9000,park,park,120,09:00,17:00,outdoor,50,4.6,high
+Shillong,Ward's Lake Wooden Bridge,25.5750,91.8850,park,park,75,08:30,17:30,outdoor,20,4.5,high

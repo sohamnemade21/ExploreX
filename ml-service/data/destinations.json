@@ -1,0 +1,1714 @@
+[
+  {
+    "id": "dest-001",
+    "name": "Tarkarli",
+    "state": "Maharashtra",
+    "lat": 15.995500215104453,
+    "lng": 73.46450058636738,
+    "vibe": [
+      "beach",
+      "nature",
+      "adventure"
+    ],
+    "thematicTags": [
+      "beaches",
+      "wildlife",
+      "food"
+    ],
+    "bestMonths": [
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "rating": 4.0,
+    "startingPrice": 2677,
+    "popularityTier": "gem",
+    "tierCategory": "Tier-3",
+    "affordabilityIndex": 86,
+    "sustainabilityScore": 95,
+    "currentCapacityLoadPct": 29,
+    "isOvertouristed": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "id": "dest-002",
+    "name": "Sindhudurg",
+    "state": "Maharashtra",
+    "lat": 16.02973877665259,
+    "lng": 73.50843843639372,
+    "vibe": [
+      "heritage",
+      "beach",
+      "adventure"
+    ],
+    "thematicTags": [
+      "heritage",
+      "beaches",
+      "history"
+    ],
+    "bestMonths": [
+      "November",
+      "December",
+      "January"
+    ],
+    "rating": 3.8,
+    "startingPrice": 2711,
+    "popularityTier": "gem",
+    "tierCategory": "Tier-3",
+    "affordabilityIndex": 82,
+    "sustainabilityScore": 61,
+    "currentCapacityLoadPct": 84,
+    "isOvertouristed": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "id": "dest-003",
+    "name": "Kolhapur",
+    "state": "Maharashtra",
+    "lat": 16.707040374581,
+    "lng": 74.24422490125876,
+    "vibe": [
+      "cultural",
+      "culinary",
+      "heritage"
+    ],
+    "thematicTags": [
+      "culture",
+      "food",
+      "heritage",
+      "festivals"
+    ],
+    "bestMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "rating": 4.6,
+    "startingPrice": 1959,
+    "popularityTier": "emerging",
+    "tierCategory": "Tier-2",
+    "affordabilityIndex": 96,
+    "sustainabilityScore": 69,
+    "currentCapacityLoadPct": 94,
+    "isOvertouristed": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "id": "dest-004",
+    "name": "Solapur",
+    "state": "Maharashtra",
+    "lat": 17.680408812440813,
+    "lng": 75.90778531367752,
+    "vibe": [
+      "cultural",
+      "heritage",
+      "shopping"
+    ],
+    "thematicTags": [
+      "culture",
+      "clothing",
+      "shopping",
+      "heritage"
+    ],
+    "bestMonths": [
+      "October",
+      "November",
+      "December",
+      "January"
+    ],
+    "rating": 4.7,
+    "startingPrice": 1303,
+    "popularityTier": "emerging",
+    "tierCategory": "Tier-2",
+    "affordabilityIndex": 100,
+    "sustainabilityScore": 89,
+    "currentCapacityLoadPct": 83,
+    "isOvertouristed": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "id": "dest-005",
+    "name": "Aurangabad",
+    "state": "Maharashtra",
+    "lat": 19.873805010330358,
+    "lng": 75.33610958999624,
+    "vibe": [
+      "heritage",
+      "cultural",
+      "spiritual"
+    ],
+    "thematicTags": [
+      "heritage",
+      "history",
+      "art",
+      "culture"
+    ],
+    "bestMonths": [
+      "October",
+      "November",
+      "February",
+      "March"
+    ],
+    "rating": 4.9,
+    "startingPrice": 2172,
+    "popularityTier": "popular",
+    "tierCategory": "Tier-2",
+    "affordabilityIndex": 90,
+    "sustainabilityScore": 65,
+    "currentCapacityLoadPct": 84,
+    "isOvertouristed": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "id": "dest-006",
+    "name": "Ratnagiri",
+    "state": "Maharashtra",
+    "lat": 16.991598546012746,
+    "lng": 73.30917958760969,
+    "vibe": [
+      "beach",
+      "nature",
+      "culinary"
+    ],
+    "thematicTags": [
+      "beaches",
+      "food",
+      "nature"
+    ],
+    "bestMonths": [
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "rating": 4.2,
+    "startingPrice": 2535,
+    "popularityTier": "gem",
+    "tierCategory": "Tier-3",
+    "affordabilityIndex": 85,
+    "sustainabilityScore": 61,
+    "currentCapacityLoadPct": 26,
+    "isOvertouristed": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "id": "dest-007",
+    "name": "Lonavala",
+    "state": "Maharashtra",
+    "lat": 18.750724561829095,
+    "lng": 73.4144623152796,
+    "vibe": [
+      "mountain",
+      "nature",
+      "wellness"
+    ],
+    "thematicTags": [
+      "nature",
+      "adventure",
+      "food"
+    ],
+    "bestMonths": [
+      "June",
+      "July",
+      "August",
+      "September"
+    ],
+    "rating": 4.2,
+    "startingPrice": 3082,
+    "popularityTier": "popular",
+    "tierCategory": "Tier-2",
+    "affordabilityIndex": 79,
+    "sustainabilityScore": 57,
+    "currentCapacityLoadPct": 88,
+    "isOvertouristed": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "id": "dest-008",
+    "name": "Pune",
+    "state": "Maharashtra",
+    "lat": 18.521547042905134,
+    "lng": 73.86009143672429,
+    "vibe": [
+      "urban",
+      "culinary",
+      "heritage"
+    ],
+    "thematicTags": [
+      "culture",
+      "food",
+      "history",
+      "art"
+    ],
+    "bestMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "rating": 3.9,
+    "startingPrice": 3416,
+    "popularityTier": "popular",
+    "tierCategory": "Tier-1",
+    "affordabilityIndex": 72,
+    "sustainabilityScore": 73,
+    "currentCapacityLoadPct": 76,
+    "isOvertouristed": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "id": "dest-009",
+    "name": "Mahabaleshwar",
+    "state": "Maharashtra",
+    "lat": 17.9311063544203,
+    "lng": 73.66632967333511,
+    "vibe": [
+      "mountain",
+      "nature",
+      "wellness"
+    ],
+    "thematicTags": [
+      "nature",
+      "food",
+      "adventure"
+    ],
+    "bestMonths": [
+      "March",
+      "April",
+      "May",
+      "October",
+      "November"
+    ],
+    "rating": 4.2,
+    "startingPrice": 3232,
+    "popularityTier": "popular",
+    "tierCategory": "Tier-2",
+    "affordabilityIndex": 76,
+    "sustainabilityScore": 73,
+    "currentCapacityLoadPct": 40,
+    "isOvertouristed": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "id": "dest-010",
+    "name": "Alibaug",
+    "state": "Maharashtra",
+    "lat": 18.63425308194312,
+    "lng": 72.86910541400455,
+    "vibe": [
+      "beach",
+      "wellness",
+      "nature"
+    ],
+    "thematicTags": [
+      "beaches",
+      "nature",
+      "food"
+    ],
+    "bestMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "rating": 4.5,
+    "startingPrice": 2959,
+    "popularityTier": "popular",
+    "tierCategory": "Tier-2",
+    "affordabilityIndex": 82,
+    "sustainabilityScore": 95,
+    "currentCapacityLoadPct": 76,
+    "isOvertouristed": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "id": "dest-011",
+    "name": "Goa",
+    "state": "Goa",
+    "lat": 15.30118262011334,
+    "lng": 74.11742277296396,
+    "vibe": [
+      "beach",
+      "nightlife",
+      "adventure",
+      "luxury"
+    ],
+    "thematicTags": [
+      "beaches",
+      "food",
+      "culture",
+      "festivals"
+    ],
+    "bestMonths": [
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "rating": 4.6,
+    "startingPrice": 4883,
+    "popularityTier": "popular",
+    "tierCategory": "Tier-1",
+    "affordabilityIndex": 50,
+    "sustainabilityScore": 98,
+    "currentCapacityLoadPct": 39,
+    "isOvertouristed": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "id": "dest-012",
+    "name": "Panjim",
+    "state": "Goa",
+    "lat": 15.494398956535687,
+    "lng": 73.83550782359242,
+    "vibe": [
+      "urban",
+      "cultural",
+      "heritage"
+    ],
+    "thematicTags": [
+      "culture",
+      "heritage",
+      "food",
+      "art"
+    ],
+    "bestMonths": [
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "rating": 4.6,
+    "startingPrice": 4412,
+    "popularityTier": "popular",
+    "tierCategory": "Tier-1",
+    "affordabilityIndex": 58,
+    "sustainabilityScore": 84,
+    "currentCapacityLoadPct": 78,
+    "isOvertouristed": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "id": "dest-013",
+    "name": "Jaipur",
+    "state": "Rajasthan",
+    "lat": 26.918857038403797,
+    "lng": 75.79251999823093,
+    "vibe": [
+      "heritage",
+      "cultural",
+      "shopping"
+    ],
+    "thematicTags": [
+      "heritage",
+      "culture",
+      "art",
+      "shopping",
+      "history"
+    ],
+    "bestMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "rating": 4.1,
+    "startingPrice": 3816,
+    "popularityTier": "popular",
+    "tierCategory": "Tier-1",
+    "affordabilityIndex": 65,
+    "sustainabilityScore": 98,
+    "currentCapacityLoadPct": 71,
+    "isOvertouristed": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "id": "dest-014",
+    "name": "Udaipur",
+    "state": "Rajasthan",
+    "lat": 24.580354817519513,
+    "lng": 73.70621965687172,
+    "vibe": [
+      "heritage",
+      "luxury",
+      "cultural"
+    ],
+    "thematicTags": [
+      "heritage",
+      "culture",
+      "art",
+      "history"
+    ],
+    "bestMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "rating": 4.8,
+    "startingPrice": 4667,
+    "popularityTier": "popular",
+    "tierCategory": "Tier-1",
+    "affordabilityIndex": 58,
+    "sustainabilityScore": 75,
+    "currentCapacityLoadPct": 81,
+    "isOvertouristed": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "id": "dest-015",
+    "name": "Jodhpur",
+    "state": "Rajasthan",
+    "lat": 26.297108773305897,
+    "lng": 73.04591263802122,
+    "vibe": [
+      "heritage",
+      "cultural",
+      "culinary"
+    ],
+    "thematicTags": [
+      "heritage",
+      "culture",
+      "food",
+      "history"
+    ],
+    "bestMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "rating": 4.8,
+    "startingPrice": 3834,
+    "popularityTier": "popular",
+    "tierCategory": "Tier-1",
+    "affordabilityIndex": 68,
+    "sustainabilityScore": 75,
+    "currentCapacityLoadPct": 57,
+    "isOvertouristed": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "id": "dest-016",
+    "name": "Jaisalmer",
+    "state": "Rajasthan",
+    "lat": 26.90679260639051,
+    "lng": 70.92089977964183,
+    "vibe": [
+      "adventure",
+      "heritage",
+      "rural"
+    ],
+    "thematicTags": [
+      "heritage",
+      "adventure",
+      "culture",
+      "rural_tribal"
+    ],
+    "bestMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "rating": 4.4,
+    "startingPrice": 3682,
+    "popularityTier": "popular",
+    "tierCategory": "Tier-2",
+    "affordabilityIndex": 72,
+    "sustainabilityScore": 64,
+    "currentCapacityLoadPct": 63,
+    "isOvertouristed": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "id": "dest-017",
+    "name": "Pushkar",
+    "state": "Rajasthan",
+    "lat": 26.497956457672046,
+    "lng": 74.5489880101028,
+    "vibe": [
+      "spiritual",
+      "cultural",
+      "adventure"
+    ],
+    "thematicTags": [
+      "spirituality",
+      "culture",
+      "festivals",
+      "heritage"
+    ],
+    "bestMonths": [
+      "October",
+      "November",
+      "February",
+      "March"
+    ],
+    "rating": 4.0,
+    "startingPrice": 2370,
+    "popularityTier": "emerging",
+    "tierCategory": "Tier-3",
+    "affordabilityIndex": 86,
+    "sustainabilityScore": 92,
+    "currentCapacityLoadPct": 84,
+    "isOvertouristed": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "id": "dest-018",
+    "name": "Munnar",
+    "state": "Kerala",
+    "lat": 10.080818188243477,
+    "lng": 77.04994232750849,
+    "vibe": [
+      "mountain",
+      "nature",
+      "wellness"
+    ],
+    "thematicTags": [
+      "nature",
+      "wildlife",
+      "tea"
+    ],
+    "bestMonths": [
+      "September",
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "rating": 3.9,
+    "startingPrice": 3621,
+    "popularityTier": "popular",
+    "tierCategory": "Tier-2",
+    "affordabilityIndex": 72,
+    "sustainabilityScore": 87,
+    "currentCapacityLoadPct": 93,
+    "isOvertouristed": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "id": "dest-019",
+    "name": "Alleppey",
+    "state": "Kerala",
+    "lat": 9.499928180614639,
+    "lng": 76.33669534623348,
+    "vibe": [
+      "nature",
+      "wellness",
+      "rural"
+    ],
+    "thematicTags": [
+      "nature",
+      "food",
+      "culture",
+      "rural_tribal"
+    ],
+    "bestMonths": [
+      "September",
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "rating": 4.5,
+    "startingPrice": 3839,
+    "popularityTier": "popular",
+    "tierCategory": "Tier-2",
+    "affordabilityIndex": 68,
+    "sustainabilityScore": 65,
+    "currentCapacityLoadPct": 84,
+    "isOvertouristed": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "id": "dest-020",
+    "name": "Wayanad",
+    "state": "Kerala",
+    "lat": 11.695421567552271,
+    "lng": 76.1392155940447,
+    "vibe": [
+      "nature",
+      "adventure",
+      "eco_friendly"
+    ],
+    "thematicTags": [
+      "nature",
+      "wildlife",
+      "rural_tribal"
+    ],
+    "bestMonths": [
+      "September",
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "rating": 3.8,
+    "startingPrice": 3369,
+    "popularityTier": "emerging",
+    "tierCategory": "Tier-2",
+    "affordabilityIndex": 76,
+    "sustainabilityScore": 88,
+    "currentCapacityLoadPct": 62,
+    "isOvertouristed": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "id": "dest-021",
+    "name": "Coorg",
+    "state": "Karnataka",
+    "lat": 12.34237197465315,
+    "lng": 75.80880350946062,
+    "vibe": [
+      "nature",
+      "adventure",
+      "wellness"
+    ],
+    "thematicTags": [
+      "nature",
+      "wildlife",
+      "food",
+      "culture"
+    ],
+    "bestMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "rating": 4.1,
+    "startingPrice": 3880,
+    "popularityTier": "popular",
+    "tierCategory": "Tier-2",
+    "affordabilityIndex": 65,
+    "sustainabilityScore": 62,
+    "currentCapacityLoadPct": 64,
+    "isOvertouristed": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "id": "dest-022",
+    "name": "Hampi",
+    "state": "Karnataka",
+    "lat": 15.344076318550423,
+    "lng": 76.46851705880756,
+    "vibe": [
+      "heritage",
+      "cultural",
+      "adventure"
+    ],
+    "thematicTags": [
+      "heritage",
+      "history",
+      "art",
+      "culture"
+    ],
+    "bestMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "rating": 4.1,
+    "startingPrice": 2056,
+    "popularityTier": "popular",
+    "tierCategory": "Tier-2",
+    "affordabilityIndex": 93,
+    "sustainabilityScore": 84,
+    "currentCapacityLoadPct": 30,
+    "isOvertouristed": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "id": "dest-023",
+    "name": "Mysuru",
+    "state": "Karnataka",
+    "lat": 12.304252556786896,
+    "lng": 76.64641037139673,
+    "vibe": [
+      "heritage",
+      "cultural",
+      "culinary"
+    ],
+    "thematicTags": [
+      "heritage",
+      "culture",
+      "food",
+      "art",
+      "festivals"
+    ],
+    "bestMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "rating": 4.1,
+    "startingPrice": 3127,
+    "popularityTier": "popular",
+    "tierCategory": "Tier-1",
+    "affordabilityIndex": 79,
+    "sustainabilityScore": 66,
+    "currentCapacityLoadPct": 94,
+    "isOvertouristed": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "id": "dest-024",
+    "name": "Ooty",
+    "state": "Tamil Nadu",
+    "lat": 11.407056785370992,
+    "lng": 76.70025021600149,
+    "vibe": [
+      "mountain",
+      "nature",
+      "wellness"
+    ],
+    "thematicTags": [
+      "nature",
+      "tea",
+      "food"
+    ],
+    "bestMonths": [
+      "March",
+      "April",
+      "May",
+      "October",
+      "November",
+      "December"
+    ],
+    "rating": 4.4,
+    "startingPrice": 3198,
+    "popularityTier": "popular",
+    "tierCategory": "Tier-2",
+    "affordabilityIndex": 79,
+    "sustainabilityScore": 87,
+    "currentCapacityLoadPct": 55,
+    "isOvertouristed": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "id": "dest-025",
+    "name": "Chettinad",
+    "state": "Tamil Nadu",
+    "lat": 10.101978891689205,
+    "lng": 78.69977211416058,
+    "vibe": [
+      "cultural",
+      "culinary",
+      "heritage"
+    ],
+    "thematicTags": [
+      "culture",
+      "food",
+      "heritage",
+      "art",
+      "rural_tribal"
+    ],
+    "bestMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "rating": 3.9,
+    "startingPrice": 2785,
+    "popularityTier": "gem",
+    "tierCategory": "Tier-3",
+    "affordabilityIndex": 82,
+    "sustainabilityScore": 88,
+    "currentCapacityLoadPct": 15,
+    "isOvertouristed": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "id": "dest-026",
+    "name": "Madurai",
+    "state": "Tamil Nadu",
+    "lat": 9.916158503329884,
+    "lng": 78.12756019198409,
+    "vibe": [
+      "heritage",
+      "spiritual",
+      "culinary"
+    ],
+    "thematicTags": [
+      "heritage",
+      "spirituality",
+      "food",
+      "culture",
+      "history"
+    ],
+    "bestMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "rating": 4.8,
+    "startingPrice": 2043,
+    "popularityTier": "popular",
+    "tierCategory": "Tier-2",
+    "affordabilityIndex": 90,
+    "sustainabilityScore": 74,
+    "currentCapacityLoadPct": 60,
+    "isOvertouristed": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "id": "dest-027",
+    "name": "Kanyakumari",
+    "state": "Tamil Nadu",
+    "lat": 8.096559689873546,
+    "lng": 77.5526541233906,
+    "vibe": [
+      "spiritual",
+      "nature",
+      "heritage"
+    ],
+    "thematicTags": [
+      "spirituality",
+      "beaches",
+      "heritage",
+      "nature"
+    ],
+    "bestMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "rating": 3.9,
+    "startingPrice": 2137,
+    "popularityTier": "popular",
+    "tierCategory": "Tier-2",
+    "affordabilityIndex": 93,
+    "sustainabilityScore": 86,
+    "currentCapacityLoadPct": 38,
+    "isOvertouristed": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "id": "dest-028",
+    "name": "Manali",
+    "state": "Himachal Pradesh",
+    "lat": 32.2363011325788,
+    "lng": 77.1964486608217,
+    "vibe": [
+      "mountain",
+      "adventure",
+      "nature"
+    ],
+    "thematicTags": [
+      "adventure",
+      "nature",
+      "wildlife"
+    ],
+    "bestMonths": [
+      "March",
+      "April",
+      "May",
+      "June",
+      "October",
+      "November"
+    ],
+    "rating": 4.3,
+    "startingPrice": 4408,
+    "popularityTier": "popular",
+    "tierCategory": "Tier-2",
+    "affordabilityIndex": 58,
+    "sustainabilityScore": 85,
+    "currentCapacityLoadPct": 51,
+    "isOvertouristed": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "id": "dest-029",
+    "name": "Kasol",
+    "state": "Himachal Pradesh",
+    "lat": 32.01325897945638,
+    "lng": 77.31197984599994,
+    "vibe": [
+      "mountain",
+      "adventure",
+      "wellness"
+    ],
+    "thematicTags": [
+      "nature",
+      "adventure",
+      "culture"
+    ],
+    "bestMonths": [
+      "March",
+      "April",
+      "May",
+      "June",
+      "October"
+    ],
+    "rating": 4.5,
+    "startingPrice": 2491,
+    "popularityTier": "emerging",
+    "tierCategory": "Tier-3",
+    "affordabilityIndex": 86,
+    "sustainabilityScore": 89,
+    "currentCapacityLoadPct": 55,
+    "isOvertouristed": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "id": "dest-030",
+    "name": "Spiti Valley",
+    "state": "Himachal Pradesh",
+    "lat": 32.24302972282782,
+    "lng": 78.06095811227333,
+    "vibe": [
+      "mountain",
+      "adventure",
+      "spiritual"
+    ],
+    "thematicTags": [
+      "adventure",
+      "heritage",
+      "spirituality",
+      "rural_tribal"
+    ],
+    "bestMonths": [
+      "June",
+      "July",
+      "August",
+      "September"
+    ],
+    "rating": 3.9,
+    "startingPrice": 3310,
+    "popularityTier": "gem",
+    "tierCategory": "Rural/Village",
+    "affordabilityIndex": 72,
+    "sustainabilityScore": 83,
+    "currentCapacityLoadPct": 81,
+    "isOvertouristed": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "id": "dest-031",
+    "name": "Dharamsala",
+    "state": "Himachal Pradesh",
+    "lat": 32.220768802288205,
+    "lng": 76.31514381677971,
+    "vibe": [
+      "mountain",
+      "spiritual",
+      "cultural"
+    ],
+    "thematicTags": [
+      "spirituality",
+      "culture",
+      "heritage",
+      "art"
+    ],
+    "bestMonths": [
+      "March",
+      "April",
+      "May",
+      "September",
+      "October",
+      "November"
+    ],
+    "rating": 4.6,
+    "startingPrice": 2830,
+    "popularityTier": "popular",
+    "tierCategory": "Tier-2",
+    "affordabilityIndex": 79,
+    "sustainabilityScore": 92,
+    "currentCapacityLoadPct": 59,
+    "isOvertouristed": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "id": "dest-032",
+    "name": "Rishikesh",
+    "state": "Uttarakhand",
+    "lat": 30.094108400260122,
+    "lng": 78.27419270800507,
+    "vibe": [
+      "spiritual",
+      "adventure",
+      "wellness"
+    ],
+    "thematicTags": [
+      "spirituality",
+      "adventure",
+      "culture",
+      "nature"
+    ],
+    "bestMonths": [
+      "February",
+      "March",
+      "April",
+      "May",
+      "September",
+      "October",
+      "November"
+    ],
+    "rating": 3.9,
+    "startingPrice": 2421,
+    "popularityTier": "popular",
+    "tierCategory": "Tier-2",
+    "affordabilityIndex": 86,
+    "sustainabilityScore": 69,
+    "currentCapacityLoadPct": 38,
+    "isOvertouristed": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "id": "dest-033",
+    "name": "Mussoorie",
+    "state": "Uttarakhand",
+    "lat": 30.45228473614741,
+    "lng": 78.0586462369745,
+    "vibe": [
+      "mountain",
+      "nature",
+      "adventure"
+    ],
+    "thematicTags": [
+      "nature",
+      "adventure",
+      "heritage"
+    ],
+    "bestMonths": [
+      "March",
+      "April",
+      "May",
+      "September",
+      "October",
+      "November"
+    ],
+    "rating": 4.8,
+    "startingPrice": 3592,
+    "popularityTier": "popular",
+    "tierCategory": "Tier-2",
+    "affordabilityIndex": 72,
+    "sustainabilityScore": 72,
+    "currentCapacityLoadPct": 92,
+    "isOvertouristed": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "id": "dest-034",
+    "name": "Auli",
+    "state": "Uttarakhand",
+    "lat": 30.518859944847915,
+    "lng": 79.56745945885889,
+    "vibe": [
+      "mountain",
+      "adventure",
+      "nature"
+    ],
+    "thematicTags": [
+      "adventure",
+      "nature",
+      "sports"
+    ],
+    "bestMonths": [
+      "December",
+      "January",
+      "February",
+      "March",
+      "April",
+      "May"
+    ],
+    "rating": 4.2,
+    "startingPrice": 4848,
+    "popularityTier": "emerging",
+    "tierCategory": "Tier-3",
+    "affordabilityIndex": 50,
+    "sustainabilityScore": 91,
+    "currentCapacityLoadPct": 90,
+    "isOvertouristed": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "id": "dest-035",
+    "name": "Khajuraho",
+    "state": "Madhya Pradesh",
+    "lat": 24.82908595133179,
+    "lng": 79.91722204552099,
+    "vibe": [
+      "heritage",
+      "cultural",
+      "spiritual"
+    ],
+    "thematicTags": [
+      "heritage",
+      "history",
+      "art",
+      "spirituality"
+    ],
+    "bestMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "rating": 4.8,
+    "startingPrice": 2327,
+    "popularityTier": "popular",
+    "tierCategory": "Tier-2",
+    "affordabilityIndex": 86,
+    "sustainabilityScore": 61,
+    "currentCapacityLoadPct": 85,
+    "isOvertouristed": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "id": "dest-036",
+    "name": "Orchha",
+    "state": "Madhya Pradesh",
+    "lat": 25.34321225348154,
+    "lng": 78.64656427176882,
+    "vibe": [
+      "heritage",
+      "spiritual",
+      "nature"
+    ],
+    "thematicTags": [
+      "heritage",
+      "spirituality",
+      "history",
+      "nature"
+    ],
+    "bestMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "rating": 4.7,
+    "startingPrice": 1855,
+    "popularityTier": "gem",
+    "tierCategory": "Tier-3",
+    "affordabilityIndex": 93,
+    "sustainabilityScore": 98,
+    "currentCapacityLoadPct": 27,
+    "isOvertouristed": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "id": "dest-037",
+    "name": "Pachmarhi",
+    "state": "Madhya Pradesh",
+    "lat": 22.460804178168814,
+    "lng": 78.43197227095666,
+    "vibe": [
+      "nature",
+      "adventure",
+      "heritage"
+    ],
+    "thematicTags": [
+      "nature",
+      "wildlife",
+      "heritage",
+      "adventure"
+    ],
+    "bestMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April",
+      "May"
+    ],
+    "rating": 4.3,
+    "startingPrice": 2742,
+    "popularityTier": "emerging",
+    "tierCategory": "Tier-2",
+    "affordabilityIndex": 82,
+    "sustainabilityScore": 70,
+    "currentCapacityLoadPct": 54,
+    "isOvertouristed": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "id": "dest-038",
+    "name": "Rann of Kutch",
+    "state": "Gujarat",
+    "lat": 23.745489719081412,
+    "lng": 69.85050769776748,
+    "vibe": [
+      "adventure",
+      "cultural",
+      "nature"
+    ],
+    "thematicTags": [
+      "culture",
+      "rural_tribal",
+      "festivals",
+      "nature"
+    ],
+    "bestMonths": [
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "rating": 4.7,
+    "startingPrice": 3581,
+    "popularityTier": "popular",
+    "tierCategory": "Tier-2",
+    "affordabilityIndex": 72,
+    "sustainabilityScore": 84,
+    "currentCapacityLoadPct": 61,
+    "isOvertouristed": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "id": "dest-039",
+    "name": "Ahmedabad",
+    "state": "Gujarat",
+    "lat": 23.033042897879973,
+    "lng": 72.58781175876202,
+    "vibe": [
+      "heritage",
+      "cultural",
+      "culinary"
+    ],
+    "thematicTags": [
+      "heritage",
+      "culture",
+      "food",
+      "history",
+      "art"
+    ],
+    "bestMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "rating": 3.8,
+    "startingPrice": 2347,
+    "popularityTier": "popular",
+    "tierCategory": "Tier-1",
+    "affordabilityIndex": 86,
+    "sustainabilityScore": 61,
+    "currentCapacityLoadPct": 36,
+    "isOvertouristed": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "id": "dest-040",
+    "name": "Dwarka",
+    "state": "Gujarat",
+    "lat": 22.23612828115905,
+    "lng": 68.96662716835942,
+    "vibe": [
+      "spiritual",
+      "heritage",
+      "beach"
+    ],
+    "thematicTags": [
+      "spirituality",
+      "heritage",
+      "beaches",
+      "history"
+    ],
+    "bestMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "rating": 4.8,
+    "startingPrice": 1830,
+    "popularityTier": "popular",
+    "tierCategory": "Tier-2",
+    "affordabilityIndex": 93,
+    "sustainabilityScore": 70,
+    "currentCapacityLoadPct": 51,
+    "isOvertouristed": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "id": "dest-041",
+    "name": "Puri",
+    "state": "Odisha",
+    "lat": 19.800043107567028,
+    "lng": 85.82980843515175,
+    "vibe": [
+      "spiritual",
+      "beach",
+      "cultural"
+    ],
+    "thematicTags": [
+      "spirituality",
+      "beaches",
+      "heritage",
+      "festivals",
+      "culture"
+    ],
+    "bestMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "rating": 4.8,
+    "startingPrice": 2032,
+    "popularityTier": "popular",
+    "tierCategory": "Tier-2",
+    "affordabilityIndex": 93,
+    "sustainabilityScore": 65,
+    "currentCapacityLoadPct": 78,
+    "isOvertouristed": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "id": "dest-042",
+    "name": "Konark",
+    "state": "Odisha",
+    "lat": 19.890931830072002,
+    "lng": 86.0986101063483,
+    "vibe": [
+      "heritage",
+      "spiritual",
+      "beach"
+    ],
+    "thematicTags": [
+      "heritage",
+      "history",
+      "art",
+      "spirituality",
+      "beaches"
+    ],
+    "bestMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "rating": 4.7,
+    "startingPrice": 1938,
+    "popularityTier": "popular",
+    "tierCategory": "Tier-2",
+    "affordabilityIndex": 96,
+    "sustainabilityScore": 73,
+    "currentCapacityLoadPct": 84,
+    "isOvertouristed": true,
+    "dataSource": "synthetic"
+  },
+  {
+    "id": "dest-043",
+    "name": "Raghurajpur",
+    "state": "Odisha",
+    "lat": 19.929797957345354,
+    "lng": 85.82435401796828,
+    "vibe": [
+      "cultural",
+      "heritage",
+      "rural"
+    ],
+    "thematicTags": [
+      "culture",
+      "art",
+      "rural_tribal",
+      "heritage"
+    ],
+    "bestMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "rating": 3.9,
+    "startingPrice": 1676,
+    "popularityTier": "gem",
+    "tierCategory": "Rural/Village",
+    "affordabilityIndex": 100,
+    "sustainabilityScore": 86,
+    "currentCapacityLoadPct": 34,
+    "isOvertouristed": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "id": "dest-044",
+    "name": "Gangtok",
+    "state": "Sikkim",
+    "lat": 27.34095951120758,
+    "lng": 88.60314330545815,
+    "vibe": [
+      "mountain",
+      "adventure",
+      "cultural"
+    ],
+    "thematicTags": [
+      "nature",
+      "adventure",
+      "culture",
+      "wildlife"
+    ],
+    "bestMonths": [
+      "March",
+      "April",
+      "May",
+      "September",
+      "October",
+      "November"
+    ],
+    "rating": 4.4,
+    "startingPrice": 4057,
+    "popularityTier": "popular",
+    "tierCategory": "Tier-2",
+    "affordabilityIndex": 65,
+    "sustainabilityScore": 89,
+    "currentCapacityLoadPct": 37,
+    "isOvertouristed": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "id": "dest-045",
+    "name": "Lachung",
+    "state": "Sikkim",
+    "lat": 27.67613759159457,
+    "lng": 88.74515656993988,
+    "vibe": [
+      "mountain",
+      "nature",
+      "adventure"
+    ],
+    "thematicTags": [
+      "nature",
+      "wildlife",
+      "adventure",
+      "rural_tribal"
+    ],
+    "bestMonths": [
+      "March",
+      "April",
+      "May",
+      "September",
+      "October"
+    ],
+    "rating": 4.7,
+    "startingPrice": 4335,
+    "popularityTier": "gem",
+    "tierCategory": "Rural/Village",
+    "affordabilityIndex": 58,
+    "sustainabilityScore": 88,
+    "currentCapacityLoadPct": 35,
+    "isOvertouristed": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "id": "dest-046",
+    "name": "Kaziranga",
+    "state": "Assam",
+    "lat": 26.581504251072083,
+    "lng": 93.16570407790003,
+    "vibe": [
+      "nature",
+      "adventure",
+      "eco_friendly"
+    ],
+    "thematicTags": [
+      "wildlife",
+      "nature",
+      "rural_tribal"
+    ],
+    "bestMonths": [
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April"
+    ],
+    "rating": 3.9,
+    "startingPrice": 3591,
+    "popularityTier": "popular",
+    "tierCategory": "Tier-2",
+    "affordabilityIndex": 72,
+    "sustainabilityScore": 93,
+    "currentCapacityLoadPct": 38,
+    "isOvertouristed": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "id": "dest-047",
+    "name": "Majuli",
+    "state": "Assam",
+    "lat": 26.942387630206643,
+    "lng": 94.16838449830672,
+    "vibe": [
+      "cultural",
+      "rural",
+      "nature"
+    ],
+    "thematicTags": [
+      "culture",
+      "rural_tribal",
+      "art",
+      "festivals"
+    ],
+    "bestMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "rating": 4.4,
+    "startingPrice": 2067,
+    "popularityTier": "gem",
+    "tierCategory": "Rural/Village",
+    "affordabilityIndex": 93,
+    "sustainabilityScore": 70,
+    "currentCapacityLoadPct": 20,
+    "isOvertouristed": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "id": "dest-048",
+    "name": "Tirthan Valley",
+    "state": "Himachal Pradesh",
+    "lat": 31.59008518398847,
+    "lng": 77.37632383601579,
+    "vibe": [
+      "nature",
+      "adventure",
+      "wellness"
+    ],
+    "thematicTags": [
+      "nature",
+      "wildlife",
+      "adventure",
+      "rural_tribal"
+    ],
+    "bestMonths": [
+      "April",
+      "May",
+      "June",
+      "September",
+      "October"
+    ],
+    "rating": 4.1,
+    "startingPrice": 3002,
+    "popularityTier": "gem",
+    "tierCategory": "Rural/Village",
+    "affordabilityIndex": 79,
+    "sustainabilityScore": 75,
+    "currentCapacityLoadPct": 48,
+    "isOvertouristed": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "id": "dest-049",
+    "name": "Ziro Valley",
+    "state": "Arunachal Pradesh",
+    "lat": 27.54614449145141,
+    "lng": 93.82158036663411,
+    "vibe": [
+      "nature",
+      "cultural",
+      "rural"
+    ],
+    "thematicTags": [
+      "culture",
+      "rural_tribal",
+      "nature",
+      "festivals"
+    ],
+    "bestMonths": [
+      "September",
+      "October",
+      "November"
+    ],
+    "rating": 4.8,
+    "startingPrice": 3304,
+    "popularityTier": "gem",
+    "tierCategory": "Rural/Village",
+    "affordabilityIndex": 72,
+    "sustainabilityScore": 63,
+    "currentCapacityLoadPct": 53,
+    "isOvertouristed": false,
+    "dataSource": "synthetic"
+  },
+  {
+    "id": "dest-050",
+    "name": "Hamirpur",
+    "state": "Himachal Pradesh",
+    "lat": 31.67646521442199,
+    "lng": 76.51626308624535,
+    "vibe": [
+      "rural",
+      "cultural",
+      "nature"
+    ],
+    "thematicTags": [
+      "culture",
+      "heritage",
+      "nature",
+      "rural_tribal"
+    ],
+    "bestMonths": [
+      "March",
+      "April",
+      "May",
+      "September",
+      "October",
+      "November"
+    ],
+    "rating": 4.1,
+    "startingPrice": 1478,
+    "popularityTier": "gem",
+    "tierCategory": "Rural/Village",
+    "affordabilityIndex": 100,
+    "sustainabilityScore": 84,
+    "currentCapacityLoadPct": 27,
+    "isOvertouristed": false,
+    "dataSource": "synthetic"
+  }
+]

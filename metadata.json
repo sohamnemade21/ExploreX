@@ -1,0 +1,6 @@
+{
+  "name": "ExploreX - Smart Tourism Platform",
+  "description": "AI-Powered Personalized Tourism & Travel Optimization Platform featuring intelligent itinerary autopilot, multi-modal travel bookings, The Explorer micro-mobility, group expense splitter, magic moments gallery, and real-time destination analytics.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
