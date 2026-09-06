@@ -62,7 +62,12 @@ export interface AppDatabase {
   }[];
 }
 
-const DB_FILE_PATH = path.join(process.cwd(), 'data_store.json');
+const getDbFilePath = (): string => {
+  if (process.env.VERCEL) {
+    return path.join('/tmp', 'data_store.json');
+  }
+  return path.join(process.cwd(), 'data_store.json');
+};
 
 const INITIAL_BOOKINGS: Booking[] = [
   {
@@ -615,8 +620,12 @@ class DatabaseManager {
 
   private loadDatabase(): AppDatabase {
     try {
-      if (fs.existsSync(DB_FILE_PATH)) {
-        const raw = fs.readFileSync(DB_FILE_PATH, 'utf-8');
+      const dbPath = getDbFilePath();
+      const fallbackPath = path.join(process.cwd(), 'data_store.json');
+      const targetPath = fs.existsSync(dbPath) ? dbPath : (fs.existsSync(fallbackPath) ? fallbackPath : null);
+
+      if (targetPath) {
+        const raw = fs.readFileSync(targetPath, 'utf-8');
         const parsed = JSON.parse(raw);
         
         // Merge stored destinations with any newly added expanded Indian destinations
@@ -711,9 +720,11 @@ class DatabaseManager {
   private saveDatabase(db?: AppDatabase) {
     try {
       const dataToSave = db || this.data;
-      fs.writeFileSync(DB_FILE_PATH, JSON.stringify(dataToSave, null, 2), 'utf-8');
+      const targetPath = getDbFilePath();
+      fs.writeFileSync(targetPath, JSON.stringify(dataToSave, null, 2), 'utf-8');
     } catch (err) {
-      console.error('Failed to write database file:', err);
+      // In serverless, disk writes to read-only directories are non-fatal since in-memory state is maintained
+      console.warn('Notice: In-memory database updated (disk cache skipped):', (err as any)?.message || err);
     }
   }
 

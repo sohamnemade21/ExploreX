@@ -19,14 +19,48 @@ async function initOnce() {
 // Fire and forget on module load — handles both standalone and serverless
 initOnce().catch(err => console.warn('Init warning:', err?.message || err));
 
-// Body parsers with raw body preservation for cryptographic signature verification (Razorpay webhook)
-app.use(express.json({
-  limit: '20mb',
-  verify: (req: any, _res, buf) => {
-    req.rawBody = buf.toString('utf8');
+// Universal Body Parser (Vercel Serverless + Standalone Node.js)
+// In serverless runtimes (@vercel/node), req.body is often pre-parsed before hitting Express.
+app.use((req: any, _res: express.Response, next: express.NextFunction) => {
+  // If req.body is already an object, preserve rawBody if needed and proceed
+  if (req.body && typeof req.body === 'object' && !Buffer.isBuffer(req.body)) {
+    if (!req.rawBody) {
+      try {
+        req.rawBody = JSON.stringify(req.body);
+      } catch {}
+    }
+    return next();
   }
-}));
-app.use(express.urlencoded({ extended: true, limit: '20mb' }));
+
+  // If req.body is a string, parse it
+  if (typeof req.body === 'string') {
+    req.rawBody = req.body;
+    try {
+      req.body = JSON.parse(req.body);
+    } catch {}
+    return next();
+  }
+
+  // Otherwise, use standard express.json() for stream-based requests
+  express.json({
+    limit: '20mb',
+    verify: (r: any, _res, buf) => {
+      r.rawBody = buf.toString('utf8');
+    }
+  })(req, _res, (err) => {
+    if (err) {
+      console.warn('JSON body parser notice:', err.message);
+    }
+    next();
+  });
+});
+
+app.use((req: any, res: express.Response, next: express.NextFunction) => {
+  if (req.body && typeof req.body === 'object') {
+    return next();
+  }
+  express.urlencoded({ extended: true, limit: '20mb' })(req, res, () => next());
+});
 
 // CORS & Security Headers for production resilience
 app.use((req, res, next) => {
@@ -80,10 +114,14 @@ app.use('/api/*', (req, res) => {
   });
 });
 
-// Global error handler
-app.use((err: any, _req: express.Request, res: express.Response, _next: express.NextFunction) => {
-  console.error('Unhandled server error:', err);
-  res.status(err.status || 500).json({
+// Global error handler with clean logging and status resolution
+app.use((err: any, req: express.Request, res: express.Response, _next: express.NextFunction) => {
+  console.error(`[ExploreX API Error] ${req.method} ${req.originalUrl || req.url}:`, err);
+  const status = typeof err.status === 'number' && err.status >= 400 && err.status < 600
+    ? err.status
+    : (typeof err.statusCode === 'number' && err.statusCode >= 400 && err.statusCode < 600 ? err.statusCode : 500);
+
+  res.status(status).json({
     error: err.message || 'Internal server error occurred.',
     timestamp: new Date().toISOString()
   });

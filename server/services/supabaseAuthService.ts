@@ -2,6 +2,7 @@ import { Request, Response, NextFunction } from 'express';
 import { supabase, supabaseAdmin, supabaseConfig } from '../config/supabase';
 import { db } from '../db';
 import { UserProfile } from '../../src/types';
+import { INITIAL_USER_PROFILE } from '../data/initialData';
 
 export interface AuthSessionResponse {
   token: string;
@@ -74,6 +75,9 @@ export class SupabaseAuthService {
     // Step 1: Create user in Supabase Auth.
     // If supabaseAdmin is available, create confirmed user to avoid triggering unwanted Supabase confirmation emails.
     let supabaseUserId: string | null = null;
+    let directSessionToken: string | null = null;
+    let createdUserObj: any = null;
+
     if (supabaseAdmin) {
       const { data: created, error: adminCreateErr } = await supabaseAdmin.auth.admin.createUser({
         email: cleanEmail,
@@ -83,12 +87,16 @@ export class SupabaseAuthService {
       });
 
       if (adminCreateErr) {
+        if (adminCreateErr.message?.toLowerCase().includes('already') || adminCreateErr.message?.toLowerCase().includes('exists')) {
+          throw new Error('An account with this email address already exists. Please log in.');
+        }
         throw new Error(adminCreateErr.message);
       }
       if (!created.user) {
         throw new Error('Failed to create user in Supabase Auth.');
       }
       supabaseUserId = created.user.id;
+      createdUserObj = created.user;
     } else {
       const { data: signUpData, error: signUpErr } = await supabase.auth.signUp({
         email: cleanEmail,
@@ -99,41 +107,76 @@ export class SupabaseAuthService {
       });
 
       if (signUpErr) {
+        if (signUpErr.message?.toLowerCase().includes('already') || signUpErr.message?.toLowerCase().includes('exists')) {
+          throw new Error('An account with this email address already exists. Please log in.');
+        }
         throw new Error(signUpErr.message);
       }
       if (!signUpData.user) {
         throw new Error('Failed to register user in Supabase Auth.');
       }
       supabaseUserId = signUpData.user.id;
+      createdUserObj = signUpData.user;
+      if (signUpData.session?.access_token) {
+        directSessionToken = signUpData.session.access_token;
+      }
     }
 
     // Step 2: Authenticate user using Supabase signInWithPassword to issue active JWT session token
-    const { data: signInData, error: signInErr } = await supabase.auth.signInWithPassword({
-      email: cleanEmail,
-      password: pass
-    });
+    let finalToken = directSessionToken;
+    let finalUser = createdUserObj;
 
-    if (signInErr || !signInData.session || !signInData.user) {
-      throw new Error(signInErr?.message || 'Authentication failed after account creation.');
+    if (!finalToken) {
+      const { data: signInData, error: signInErr } = await supabase.auth.signInWithPassword({
+        email: cleanEmail,
+        password: pass
+      });
+
+      if (signInErr || !signInData.session || !signInData.user) {
+        if (signInErr?.message?.toLowerCase().includes('confirm')) {
+          throw new Error('Account created! Please check your email inbox to verify your email, or configure SUPABASE_SERVICE_ROLE_KEY to auto-confirm.');
+        }
+        throw new Error(signInErr?.message || 'Authentication failed after account creation.');
+      }
+
+      finalToken = signInData.session.access_token;
+      finalUser = signInData.user;
     }
 
     // Step 3: Link/synchronize user profile with authenticated Supabase user ID in db
-    const authenticatedId = signInData.user.id || supabaseUserId;
+    const authenticatedId = finalUser.id || supabaseUserId;
     const isAdmin = this.isAuthorizedAdminEmail(cleanEmail);
-    let profile = db.getUser(authenticatedId);
+    let profile: UserProfile;
+    try {
+      profile = db.getUser(authenticatedId);
+    } catch {
+      profile = {
+        ...INITIAL_USER_PROFILE,
+        id: authenticatedId,
+        name: cleanName,
+        email: cleanEmail,
+        role: isAdmin ? 'admin' : 'user'
+      };
+    }
+
     profile = {
       ...profile,
       id: authenticatedId,
       name: cleanName,
       email: cleanEmail,
       role: isAdmin ? 'admin' : (profile.role || 'user'),
-      walletBalance: profile.walletBalance || 5000,
+      walletBalance: typeof profile.walletBalance === 'number' ? profile.walletBalance : 5000,
       joinedDate: profile.joinedDate || new Date().toLocaleDateString('en-US', { month: 'long', year: 'numeric' })
     };
-    db.updateUser(authenticatedId, profile);
+
+    try {
+      db.updateUser(authenticatedId, profile);
+    } catch (err) {
+      console.warn('Profile cache sync warning:', err);
+    }
 
     return {
-      token: signInData.session.access_token,
+      token: finalToken,
       user: profile
     };
   }
@@ -156,7 +199,7 @@ export class SupabaseAuthService {
     }
 
     if (!this.isLive() || !supabase) {
-      throw new Error('Supabase Authentication is required but not configured.');
+      throw new Error('Supabase Authentication is required but not configured. Please ensure SUPABASE_URL and SUPABASE_ANON_KEY environment variables are configured.');
     }
 
     const { data, error } = await supabase.auth.signInWithPassword({
@@ -173,7 +216,18 @@ export class SupabaseAuthService {
     }
 
     // Link profile with authenticated Supabase user ID
-    let profile = db.getUser(data.user.id);
+    let profile: UserProfile;
+    try {
+      profile = db.getUser(data.user.id);
+    } catch {
+      profile = {
+        ...INITIAL_USER_PROFILE,
+        id: data.user.id,
+        email: cleanEmail,
+        role: this.isAuthorizedAdminEmail(cleanEmail) ? 'admin' : 'user'
+      };
+    }
+
     const metadataName = data.user.user_metadata?.name || cleanEmail.split('@')[0];
     const isAdmin = this.isAuthorizedAdminEmail(cleanEmail);
     profile = {
@@ -185,7 +239,12 @@ export class SupabaseAuthService {
       walletBalance: typeof profile.walletBalance === 'number' ? profile.walletBalance : 5000,
       joinedDate: profile.joinedDate || new Date().toLocaleDateString('en-US', { month: 'long', year: 'numeric' })
     };
-    db.updateUser(data.user.id, profile);
+
+    try {
+      db.updateUser(data.user.id, profile);
+    } catch (err) {
+      console.warn('Profile cache sync warning:', err);
+    }
 
     return {
       token: data.session.access_token,

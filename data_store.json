@@ -1635,7 +1635,7 @@
           }
         ],
         "checkInStatus": "safe",
-        "lastCheckInTime": "2026-09-06T17:35:09.868Z",
+        "lastCheckInTime": "2026-09-06T17:57:30.707Z",
         "checkInIntervalHours": 6,
         "discreetSosEnabled": false,
         "saferTransportPreferred": true,
@@ -2156,6 +2156,150 @@
       "id": "240fb5eb-bd10-4665-b0c4-da46ca684fed",
       "email": "traveler_1788716109871@example.com",
       "name": "Aarav Sharma",
+      "phone": "+91 98210 34982",
+      "avatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?auto=format&fit=crop&w=240&q=80",
+      "bio": "Passionate travel photographer, cultural foodie & mountain enthusiast exploring breathtaking corners of our planet.",
+      "homeCity": "Mumbai, Maharashtra",
+      "joinedDate": "January 2025",
+      "walletBalance": 37350,
+      "preferences": {
+        "vibes": [
+          "mountain",
+          "beach",
+          "heritage",
+          "culinary",
+          "nature"
+        ],
+        "budgetLevel": "moderate",
+        "pace": "moderate",
+        "dietary": [
+          "Vegetarian Friendly",
+          "Seafood"
+        ],
+        "travelStyle": "friends",
+        "ecoFriendly": true,
+        "accommodationType": "resort"
+      },
+      "savedDestinations": [
+        "dest-bali",
+        "dest-switzerland",
+        "dest-tokyo"
+      ],
+      "savedPackages": [
+        "pkg-bali-escape",
+        "pkg-swiss-alps"
+      ],
+      "travelHistory": [
+        {
+          "id": "hist-1",
+          "destination": "Kyoto & Osaka",
+          "country": "Japan",
+          "image": "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?auto=format&fit=crop&w=400&q=80",
+          "year": 2025,
+          "durationDays": 8,
+          "highlight": "Bamboo forest morning walk and Gion tea house experience",
+          "rating": 5
+        },
+        {
+          "id": "hist-2",
+          "destination": "Amalfi Coast",
+          "country": "Italy",
+          "image": "https://images.unsplash.com/photo-1533105079780-92b9be482077?auto=format&fit=crop&w=400&q=80",
+          "year": 2024,
+          "durationDays": 6,
+          "highlight": "Cliffside sunset dinner overlooking Positano",
+          "rating": 5
+        }
+      ],
+      "travelDNA": {
+        "culturalExplorer": 88,
+        "adventureSeeker": 76,
+        "gastronomyLover": 92,
+        "relaxationScore": 80,
+        "ecoConscious": 85,
+        "spontaneity": 68,
+        "primaryArchetype": "Curious Culture & Culinary Voyager",
+        "secondaryArchetype": "Eco-Minded Scenic Alpine Explorer",
+        "description": "You are naturally drawn to authentic local flavors, historic architecture, and breathtaking panoramic landscapes while prioritizing sustainable, well-balanced pacing."
+      },
+      "role": "user"
+    },
+    "52e9fada-c0cf-40b8-a0ad-765f40439f81": {
+      "id": "52e9fada-c0cf-40b8-a0ad-765f40439f81",
+      "email": "traveler_1788717450710@example.com",
+      "name": "Aarav Sharma",
+      "phone": "+91 98210 34982",
+      "avatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?auto=format&fit=crop&w=240&q=80",
+      "bio": "Passionate travel photographer, cultural foodie & mountain enthusiast exploring breathtaking corners of our planet.",
+      "homeCity": "Mumbai, Maharashtra",
+      "joinedDate": "January 2025",
+      "walletBalance": 37350,
+      "preferences": {
+        "vibes": [
+          "mountain",
+          "beach",
+          "heritage",
+          "culinary",
+          "nature"
+        ],
+        "budgetLevel": "moderate",
+        "pace": "moderate",
+        "dietary": [
+          "Vegetarian Friendly",
+          "Seafood"
+        ],
+        "travelStyle": "friends",
+        "ecoFriendly": true,
+        "accommodationType": "resort"
+      },
+      "savedDestinations": [
+        "dest-bali",
+        "dest-switzerland",
+        "dest-tokyo"
+      ],
+      "savedPackages": [
+        "pkg-bali-escape",
+        "pkg-swiss-alps"
+      ],
+      "travelHistory": [
+        {
+          "id": "hist-1",
+          "destination": "Kyoto & Osaka",
+          "country": "Japan",
+          "image": "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?auto=format&fit=crop&w=400&q=80",
+          "year": 2025,
+          "durationDays": 8,
+          "highlight": "Bamboo forest morning walk and Gion tea house experience",
+          "rating": 5
+        },
+        {
+          "id": "hist-2",
+          "destination": "Amalfi Coast",
+          "country": "Italy",
+          "image": "https://images.unsplash.com/photo-1533105079780-92b9be482077?auto=format&fit=crop&w=400&q=80",
+          "year": 2024,
+          "durationDays": 6,
+          "highlight": "Cliffside sunset dinner overlooking Positano",
+          "rating": 5
+        }
+      ],
+      "travelDNA": {
+        "culturalExplorer": 88,
+        "adventureSeeker": 76,
+        "gastronomyLover": 92,
+        "relaxationScore": 80,
+        "ecoConscious": 85,
+        "spontaneity": 68,
+        "primaryArchetype": "Curious Culture & Culinary Voyager",
+        "secondaryArchetype": "Eco-Minded Scenic Alpine Explorer",
+        "description": "You are naturally drawn to authentic local flavors, historic architecture, and breathtaking panoramic landscapes while prioritizing sustainable, well-balanced pacing."
+      },
+      "role": "user"
+    },
+    "cfdde73f-241e-4094-9482-427c1ed9144f": {
+      "id": "cfdde73f-241e-4094-9482-427c1ed9144f",
+      "email": "traveler_1788717467545@example.com",
+      "name": "Test Production Traveler",
       "phone": "+91 98210 34982",
       "avatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?auto=format&fit=crop&w=240&q=80",
       "bio": "Passionate travel photographer, cultural foodie & mountain enthusiast exploring breathtaking corners of our planet.",
@@ -8301,6 +8445,48 @@
   ],
   "bookings": [
     {
+      "id": "EXX-BKG-MTQ46OB6-2X5R",
+      "userId": "usr-test",
+      "serviceType": "package",
+      "title": "Goa Coastal & Heritage Tour",
+      "destinationName": "Goa",
+      "bookingDate": "2026-09-06T17:57:28.338Z",
+      "travelDate": "2026-11-01",
+      "passengersCount": 2,
+      "passengerDetails": [
+        {
+          "name": "Test User",
+          "age": 28,
+          "gender": "Male"
+        }
+      ],
+      "totalAmount": 39200,
+      "status": "confirmed",
+      "paymentMethod": "card_demo",
+      "paymentStatus": "paid",
+      "isSimulation": true,
+      "details": {
+        "paymentId": "pay-1788717448338-smw1",
+        "currency": "INR",
+        "amountInINR": 39200,
+        "razorpayPaymentId": "pay_rzp_test_1788717449259",
+        "razorpayOrderId": "order_rzp_safe_1788717448342_bqwzh",
+        "providerReference": "EXX-CONF-B62X5R",
+        "confirmationNotice": "ExploreX Simulated Reservation (Safe Demo Mode)"
+      },
+      "invoice": {
+        "invoiceNo": "INV-1788717448338",
+        "baseFare": 40000,
+        "taxes": 7200,
+        "discounts": 8000,
+        "grandTotal": 39200,
+        "generatedAt": "2026-09-06T17:57:28.338Z"
+      },
+      "emailStatus": "failed",
+      "emailError": "Resend API 401: {\"statusCode\":401,\"name\":\"validation_error\",\"message\":\"API key is invalid\"}",
+      "emailRecipient": "soham@explorex.com"
+    },
+    {
       "id": "EXX-BKG-MTQ3DXH0-C10E",
       "userId": "usr-test",
       "serviceType": "package",
@@ -10435,8 +10621,8 @@
         "duration": "2h 35m",
         "pnrNumber": "PNR-AI8923",
         "baggage": "15kg Check-in + 7kg Cabin",
-        "razorpayPaymentId": "pay_webhook_1788716112204",
-        "razorpayOrderId": "order_webhook_1788716112204"
+        "razorpayPaymentId": "pay_webhook_1788717453149",
+        "razorpayOrderId": "order_webhook_1788717453149"
       },
       "invoice": {
         "invoiceNo": "INV-2026-9812",
