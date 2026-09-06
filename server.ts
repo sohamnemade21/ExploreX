@@ -1,56 +1,15 @@
 import 'dotenv/config';
-import express from 'express';
-import path from 'path';
-import fs from 'fs';
 import http from 'http';
 import { createServer as createViteServer } from 'vite';
-import { apiRouter } from './server/routes/api';
-import { ENV, validateEnvironment } from './server/config/env';
-import { ensureAdminAccount } from './server/services/supabaseAuthService';
+import path from 'path';
+import express from 'express';
+import { app } from './server/app';
+import { ENV } from './server/config/env';
 
-const app = express();
 const server = http.createServer(app);
 const PORT = process.env.PORT ? parseInt(process.env.PORT, 10) : (ENV.PORT || 3000);
 
-// Body parsers with raw body preservation for cryptographic signature verification
-app.use(express.json({
-  limit: '20mb',
-  verify: (req: any, _res, buf) => {
-    req.rawBody = buf.toString('utf8');
-  }
-}));
-app.use(express.urlencoded({ extended: true, limit: '20mb' }));
-
-// Static uploads directory for Magic Moments
-const uploadDir = path.join(process.cwd(), 'uploads');
-if (!fs.existsSync(uploadDir)) {
-  fs.mkdirSync(uploadDir, { recursive: true });
-}
-app.use('/uploads', express.static(uploadDir));
-
-// Health check
-app.get('/api/health', (req, res) => {
-  res.json({
-    status: 'online',
-    platform: 'ExploreX - Smart Tourism Platform',
-    timestamp: new Date().toISOString()
-  });
-});
-
-// Mount main API router under /api/v1
-app.use('/api/v1', apiRouter);
-
-// Also alias /api to /api/v1 for convenience
-app.use('/api', apiRouter);
-
-// Static assets (images)
-app.use('/images', express.static(path.join(process.cwd(), 'public', 'images')));
-app.use(express.static(path.join(process.cwd(), 'public')));
-
 async function startServer() {
-  validateEnvironment();
-  await ensureAdminAccount();
-
   if (ENV.NODE_ENV !== 'production') {
     const vite = await createViteServer({
       server: {
@@ -102,4 +61,3 @@ async function checkMLServiceHealth() {
 }
 
 startServer();
-

@@ -50,10 +50,12 @@ export const adminRateLimiter = (req: Request, res: Response, next: () => void) 
   next();
 };
 
-// Ensure upload directory exists
-const UPLOAD_DIR = path.join(process.cwd(), 'uploads');
+// Ensure upload directory exists (use /tmp on Vercel serverless)
+const UPLOAD_DIR = process.env.VERCEL ? path.join('/tmp', 'uploads') : path.join(process.cwd(), 'uploads');
 if (!fs.existsSync(UPLOAD_DIR)) {
-  fs.mkdirSync(UPLOAD_DIR, { recursive: true });
+  try {
+    fs.mkdirSync(UPLOAD_DIR, { recursive: true });
+  } catch {}
 }
 
 // Multer storage
