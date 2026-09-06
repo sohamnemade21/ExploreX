@@ -19,10 +19,27 @@ import { api } from '../services/api';
 import { useAuth } from '../context/AuthContext';
 import { useToast } from '../context/ToastContext';
 import { formatINR } from '../utils/currency';
+import { LockedFeatureGate } from '../components/LockedFeatureGate';
 
 export const WalletView: React.FC = () => {
   const { user, refreshProfile } = useAuth();
   const { success, error } = useToast();
+
+  if (!user) {
+    return (
+      <LockedFeatureGate
+        title="Expedition Ledger & Group Splitter"
+        category="Financial Atelier"
+        description="Manage your prepaid travel credits, top up your wallet with Razorpay/UPI, track expedition ledgers, and automatically settle group trip expenses."
+        perks={[
+          'Instant 1-click checkout with in-app wallet balance',
+          'Zero convenience fees on domestic travel bookings',
+          'Multi-traveler group expense logging and auto-split settlement',
+          'Exportable PDF expedition receipts and GST tax invoices'
+        ]}
+      />
+    );
+  }
 
   const [activeTab, setActiveTab] = useState<'wallet' | 'group'>('wallet');
 

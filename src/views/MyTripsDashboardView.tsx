@@ -35,6 +35,7 @@ import { NavTab } from '../components/Navbar';
 import { InvoiceModal } from '../components/InvoiceModal';
 import { formatINR } from '../utils/currency';
 import { Button } from '../components/ui/Button';
+import { LockedFeatureGate } from '../components/LockedFeatureGate';
 
 interface MyTripsDashboardViewProps {
   onNavigate: (tab: NavTab, params?: any) => void;
@@ -75,39 +76,18 @@ export const MyTripsDashboardView: React.FC<MyTripsDashboardViewProps> = ({ onNa
 
   if (!isAuthenticated || !user) {
     return (
-      <div className="max-w-4xl mx-auto px-4 py-20 text-center space-y-6 bg-white">
-        <div className="w-16 h-16 bg-[#F7F7F4] text-[#91482D] rounded-2xl flex items-center justify-center mx-auto border border-[#E4E4DF] shadow-2xs">
-          <Briefcase className="w-8 h-8" />
-        </div>
-        <div className="space-y-2">
-          <div className="text-[10px] font-mono uppercase tracking-widest text-[#91482D] font-bold">
-            Traveler Records
-          </div>
-          <h2 className="font-display text-3xl sm:text-4xl font-bold text-[#242424]">
-            Your Travel Folio & Reservations
-          </h2>
-          <p className="font-prose text-sm text-[#6B6B67] max-w-md mx-auto italic">
-            Please sign in to access your confirmed journeys, active e-tickets, and travel vouchers.
-          </p>
-        </div>
-        <div className="flex flex-col sm:flex-row justify-center gap-3 pt-2">
-          <Button
-            variant="primary"
-            size="md"
-            onClick={() => onNavigate('login')}
-            className="bg-[#242424] hover:bg-[#91482D]"
-          >
-            Sign In to View Trips
-          </Button>
-          <Button
-            variant="outline"
-            size="md"
-            onClick={() => onNavigate('signup')}
-          >
-            Create an Account
-          </Button>
-        </div>
-      </div>
+      <LockedFeatureGate
+        title="Your Travel Folio & Reservations"
+        category="Traveler Records"
+        description="Access your confirmed journeys, download verifiable PDF e-tickets, manage seat allocations, and track upcoming itineraries."
+        perks={[
+          'Live boarding passes with QR codes for flights, trains & buses',
+          'Automated schedule change alerts & PNR status tracking',
+          'Instant invoice generation and GST breakdown',
+          '1-click rescheduling and zero-penalty cancellations'
+        ]}
+        onNavigate={onNavigate}
+      />
     );
   }
 

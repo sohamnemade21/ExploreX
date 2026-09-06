@@ -15,7 +15,8 @@ import {
   X, 
   Camera, 
   LogOut,
-  ChevronDown
+  ChevronDown,
+  Lock
 } from 'lucide-react';
 import { useAuth } from '../context/AuthContext';
 import { formatINR } from '../utils/currency';
@@ -57,22 +58,22 @@ export const Navbar: React.FC<NavbarProps> = ({ currentTab, activeTab, onSelectT
     return () => window.removeEventListener('explorex:open-safety', handleOpenSafety);
   }, []);
 
-  const handleOpenAuth = (mode: 'login' | 'signup') => {
-    onSelectTab(mode);
-  };
-
   const navItems = [
-    { id: 'home', label: 'Home', icon: Compass },
-    { id: 'explore', label: 'Explore', icon: Map },
-    { id: 'destinations', label: 'Destinations', icon: Compass },
-    { id: 'packages', label: 'Packages', icon: Package },
-    { id: 'bookings', label: 'Bookings', icon: Ticket },
-    { id: 'mytrips', label: 'My Trips', icon: Briefcase },
-    { id: 'explorer', label: 'The Explorer', icon: Car },
-    { id: 'ai', label: 'AI Assistant', icon: Sparkles, badge: 'AI' }
+    { id: 'home', label: 'Home', icon: Compass, locked: false },
+    { id: 'explore', label: 'Explore', icon: Map, locked: false },
+    { id: 'destinations', label: 'Destinations', icon: Compass, locked: false },
+    { id: 'packages', label: 'Packages', icon: Package, locked: false },
+    { id: 'bookings', label: 'Bookings', icon: Ticket, locked: true },
+    { id: 'mytrips', label: 'My Trips', icon: Briefcase, locked: true },
+    { id: 'explorer', label: 'The Explorer', icon: Car, locked: true },
+    { id: 'ai', label: 'AI Assistant', icon: Sparkles, badge: 'AI', locked: true }
   ];
 
   const handleNavClick = (tabId: string) => {
+    const item = navItems.find(n => n.id === tabId);
+    if (!isAuthenticated && item?.locked) {
+      openAuthModal('login');
+    }
     onSelectTab(tabId as NavTab);
     setMobileMenuOpen(false);
   };
@@ -110,6 +111,8 @@ export const Navbar: React.FC<NavbarProps> = ({ currentTab, activeTab, onSelectT
             {navItems.map(item => {
               const Icon = item.icon;
               const isActive = effectiveTab === item.id;
+              const isItemLocked = !isAuthenticated && item.locked;
+
               return (
                 <button
                   key={item.id}
@@ -122,6 +125,9 @@ export const Navbar: React.FC<NavbarProps> = ({ currentTab, activeTab, onSelectT
                 >
                   <Icon className={`w-3.5 h-3.5 xl:w-3.5 xl:h-3.5 shrink-0 ${isActive ? 'text-[#B45F3C]' : 'text-[#6B6B67]'}`} />
                   <span>{item.label}</span>
+                  {isItemLocked && (
+                    <Lock className="w-2.5 h-2.5 text-[#B45F3C] opacity-75 shrink-0" />
+                  )}
                   {item.badge && (
                     <span className="px-1.5 py-0.2 bg-[#5F7564] text-white text-[8px] font-mono font-bold rounded leading-tight">
                       {item.badge}
@@ -299,13 +305,13 @@ export const Navbar: React.FC<NavbarProps> = ({ currentTab, activeTab, onSelectT
                   <span className="font-mono text-[11px] uppercase tracking-wider font-bold">Safety / SOS</span>
                 </button>
                 <button
-                  onClick={() => handleNavClick('login')}
+                  onClick={() => openAuthModal('login')}
                   className="px-3 xl:px-3.5 py-1.5 text-xs font-mono uppercase tracking-wider font-bold text-[#242424] hover:text-[#B45F3C] hover:bg-[#F7F7F4] rounded-lg transition-colors cursor-pointer whitespace-nowrap shrink-0"
                 >
                   Sign In
                 </button>
                 <button
-                  onClick={() => handleNavClick('signup')}
+                  onClick={() => openAuthModal('signup')}
                   className="px-3 xl:px-3.5 py-1.5 bg-[#242424] hover:bg-[#B45F3C] text-white text-xs font-mono uppercase tracking-wider font-bold rounded-lg transition-colors cursor-pointer whitespace-nowrap shrink-0"
                 >
                   Sign Up
@@ -341,6 +347,8 @@ export const Navbar: React.FC<NavbarProps> = ({ currentTab, activeTab, onSelectT
           {navItems.map(item => {
             const Icon = item.icon;
             const isActive = effectiveTab === item.id;
+            const isItemLocked = !isAuthenticated && item.locked;
+
             return (
               <button
                 key={item.id}
@@ -355,11 +363,16 @@ export const Navbar: React.FC<NavbarProps> = ({ currentTab, activeTab, onSelectT
                   <Icon className={`w-4 h-4 ${isActive ? 'text-[#B45F3C]' : 'text-[#6B6B67]'}`} />
                   <span>{item.label}</span>
                 </div>
-                {item.badge && (
-                  <span className="px-1.5 py-0.2 bg-[#5F7564] text-white text-[9px] font-mono font-bold rounded">
-                    {item.badge}
-                  </span>
-                )}
+                <div className="flex items-center gap-2">
+                  {isItemLocked && (
+                    <Lock className="w-3 h-3 text-[#B45F3C]" />
+                  )}
+                  {item.badge && (
+                    <span className="px-1.5 py-0.2 bg-[#5F7564] text-white text-[9px] font-mono font-bold rounded">
+                      {item.badge}
+                    </span>
+                  )}
+                </div>
               </button>
             );
           })}
@@ -427,14 +440,20 @@ export const Navbar: React.FC<NavbarProps> = ({ currentTab, activeTab, onSelectT
                 </button>
                 <div className="grid grid-cols-2 gap-2">
                   <button
-                    onClick={() => handleNavClick('login')}
+                    onClick={() => {
+                      openAuthModal('login');
+                      setMobileMenuOpen(false);
+                    }}
                     className="w-full py-2.5 bg-[#F7F7F4] hover:bg-[#E4E4DF] text-[#242424] font-mono text-xs uppercase tracking-wider font-bold rounded-xl transition-colors text-center cursor-pointer border border-[#E4E4DF]"
                   >
                     Sign In
                   </button>
                   <button
-                    onClick={() => handleNavClick('signup')}
-                    className="w-full py-2.5 bg-[#242424] hover:bg-[#91482D] text-[#FFFFFF] font-mono text-xs uppercase tracking-wider font-bold rounded-xl transition-colors text-center cursor-pointer"
+                    onClick={() => {
+                      openAuthModal('signup');
+                      setMobileMenuOpen(false);
+                    }}
+                    className="w-full py-2.5 bg-[#242424] hover:bg-[#B45F3C] text-[#FFFFFF] font-mono text-xs uppercase tracking-wider font-bold rounded-xl transition-colors text-center cursor-pointer"
                   >
                     Sign Up
                   </button>

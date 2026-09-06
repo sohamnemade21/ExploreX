@@ -36,13 +36,25 @@ export const AuthProvider: React.FC<{ children: React.ReactNode }> = ({ children
       return null;
     }
   });
-  const [isLoading, setIsLoading] = useState<boolean>(false);
-  const [isAuthModalOpen, setIsAuthModalOpen] = useState<boolean>(false);
-  const [authModalMode, setAuthModalMode] = useState<'login' | 'signup' | 'forgot'>('login');
+
+  const [isLoading, setIsLoading] = useState<boolean>(true);
+
+  // First-visit authentication gate: automatically open modal on first visit if not authenticated
+  const [isAuthModalOpen, setIsAuthModalOpen] = useState<boolean>(() => {
+    try {
+      const token = localStorage.getItem('explorex_auth_token');
+      return !token;
+    } catch {
+      return true;
+    }
+  });
+
+  const [authModalMode, setAuthModalMode] = useState<'login' | 'signup' | 'forgot'>('signup');
   const { success, error } = useToast();
 
   useEffect(() => {
     const initSession = async () => {
+      setIsLoading(true);
       const token = localStorage.getItem('explorex_auth_token');
       if (token) {
         try {
@@ -50,6 +62,7 @@ export const AuthProvider: React.FC<{ children: React.ReactNode }> = ({ children
           if (session.authenticated && session.user) {
             setUser(session.user);
             localStorage.setItem('explorex_session_user', JSON.stringify(session.user));
+            setIsAuthModalOpen(false);
           } else {
             setUser(null);
             localStorage.removeItem('explorex_session_user');
@@ -65,6 +78,7 @@ export const AuthProvider: React.FC<{ children: React.ReactNode }> = ({ children
         setUser(null);
         localStorage.removeItem('explorex_session_user');
       }
+      setIsLoading(false);
     };
     initSession();
   }, []);
@@ -103,7 +117,7 @@ export const AuthProvider: React.FC<{ children: React.ReactNode }> = ({ children
         localStorage.setItem('explorex_session_user', JSON.stringify(res.user));
         localStorage.setItem('explorex_auth_token', res.token);
         closeAuthModal();
-        success('Sign in successful', '');
+        success('Sign in successful', `Welcome back, ${res.user.name}!`);
         return true;
       }
       return false;
@@ -121,7 +135,7 @@ export const AuthProvider: React.FC<{ children: React.ReactNode }> = ({ children
         localStorage.setItem('explorex_session_user', JSON.stringify(res.user));
         localStorage.setItem('explorex_auth_token', res.token);
         closeAuthModal();
-        success('Sign up successful', '');
+        success('Sign up successful', `Welcome to ExploreX, ${res.user.name}!`);
         return true;
       }
       return false;
@@ -145,6 +159,10 @@ export const AuthProvider: React.FC<{ children: React.ReactNode }> = ({ children
   };
 
   const updateProfile = async (updates: Partial<UserProfile>) => {
+    if (!user) {
+      openAuthModal('login');
+      return;
+    }
     try {
       const updated = await api.updateProfile(updates);
       setUser(updated);
@@ -156,6 +174,10 @@ export const AuthProvider: React.FC<{ children: React.ReactNode }> = ({ children
   };
 
   const updatePreferences = async (prefs: UserPreferences) => {
+    if (!user) {
+      openAuthModal('login');
+      return;
+    }
     try {
       const updated = await api.updatePreferences(prefs);
       setUser(updated);
@@ -167,6 +189,10 @@ export const AuthProvider: React.FC<{ children: React.ReactNode }> = ({ children
   };
 
   const toggleSaveDestination = async (destinationId: string) => {
+    if (!user) {
+      openAuthModal('login');
+      return;
+    }
     try {
       const updated = await api.toggleSaveDestination(destinationId);
       const isSaved = updated.savedDestinations.includes(destinationId);
@@ -179,6 +205,10 @@ export const AuthProvider: React.FC<{ children: React.ReactNode }> = ({ children
   };
 
   const toggleSavePackage = async (packageId: string) => {
+    if (!user) {
+      openAuthModal('login');
+      return;
+    }
     try {
       const updated = await api.toggleSavePackage(packageId);
       const isSaved = updated.savedPackages.includes(packageId);

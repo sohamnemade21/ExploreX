@@ -68,9 +68,28 @@ const POPULAR_ROUTES = [
 ];
 
 
+import { LockedFeatureGate } from '../components/LockedFeatureGate';
+
 export const BookingsView: React.FC<BookingsViewProps> = ({ onNavigate }) => {
   const { user, refreshProfile } = useAuth();
   const { success, error } = useToast();
+
+  if (!user) {
+    return (
+      <LockedFeatureGate
+        title="Live Travel Bookings & Ticketing Desk"
+        category="Reservations Concierge"
+        description="Book verified commercial flights, premier trains, luxury AC interstate buses, and boutique heritage stays with guaranteed confirmation."
+        perks={[
+          'Instant PNR confirmation and verifiable digital vouchers',
+          'Free date rescheduling and automated cancellation shields',
+          'Use ExploreX Wallet balances or Razorpay / UPI checkouts',
+          'Centralized reservation archive in your personal My Trips folio'
+        ]}
+        onNavigate={onNavigate}
+      />
+    );
+  }
 
   const [activeServiceTab, setActiveServiceTab] = useState<'flight' | 'train' | 'bus' | 'hotel'>('flight');
   const [bookings, setBookings] = useState<Booking[]>([]);

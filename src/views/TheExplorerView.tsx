@@ -22,6 +22,7 @@ import { useToast } from '../context/ToastContext';
 import { MapComponent } from '../components/MapComponent';
 import { NavTab } from '../components/Navbar';
 import { formatINR } from '../utils/currency';
+import { LockedFeatureGate } from '../components/LockedFeatureGate';
 
 interface TheExplorerViewProps {
   initialDestination?: string;
@@ -31,6 +32,23 @@ interface TheExplorerViewProps {
 export const TheExplorerView: React.FC<TheExplorerViewProps> = ({ initialDestination = '', onNavigate }) => {
   const { user, refreshProfile } = useAuth();
   const { success, error } = useToast();
+
+  if (!user) {
+    return (
+      <LockedFeatureGate
+        title="The Explorer On-Demand Transit"
+        category="Curator Fleet & Rides"
+        description="Private chauffeured airport transfers, luxury outstation rentals, and verified local rides are reserved exclusively for ExploreX members."
+        perks={[
+          'Instant private chauffeured AC sedans & luxury SUVs',
+          'Live flight synchronization & guaranteed zero wait-time',
+          'Pay securely with in-app expedition wallet credits',
+          'Luggage concierge assistance and 24/7 SOS safety monitoring'
+        ]}
+        onNavigate={onNavigate}
+      />
+    );
+  }
 
   const [vehicles, setVehicles] = useState<ExplorerVehicleOption[]>([]);
   const [selectedVehicleType, setSelectedVehicleType] = useState<string>('sedan');

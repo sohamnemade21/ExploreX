@@ -39,6 +39,7 @@ import { useAuth } from '../context/AuthContext';
 import { useToast } from '../context/ToastContext';
 import { NavTab } from '../components/Navbar';
 import { formatINR } from '../utils/currency';
+import { LockedFeatureGate } from '../components/LockedFeatureGate';
 
 interface AIAssistantViewProps {
   initialPrompt?: string;
@@ -53,6 +54,23 @@ export const AIAssistantView: React.FC<AIAssistantViewProps> = ({
 }) => {
   const { user } = useAuth();
   const { error, success, info } = useToast();
+
+  if (!user) {
+    return (
+      <LockedFeatureGate
+        title="Universal AI Travel Concierge & Planner"
+        category="Intelligent Atelier"
+        description="Craft bespoke multi-day itineraries, dynamically adapt schedules to live weather, simulate What-If travel scenarios, and chat 24/7 with the ExploreX travel intelligence model."
+        perks={[
+          'Day-by-day customized itineraries matched to your Travel DNA',
+          'Autopilot dynamic replanning with real-time monsoon & heat wave alerts',
+          'What-If budget & pace simulation algorithms',
+          'Export and sync directly to your personal calendar & wallet'
+        ]}
+        onNavigate={onNavigate}
+      />
+    );
+  }
 
   const [activeSubTab, setActiveSubTab] = useState<'itinerary' | 'concierge' | 'weather' | 'adapt' | 'whatif'>('itinerary');
 

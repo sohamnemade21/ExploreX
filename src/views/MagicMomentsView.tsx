@@ -20,10 +20,27 @@ import { MagicMomentAlbum, MagicMomentPhoto } from '../types';
 import { api } from '../services/api';
 import { useAuth } from '../context/AuthContext';
 import { useToast } from '../context/ToastContext';
+import { LockedFeatureGate } from '../components/LockedFeatureGate';
 
 export const MagicMomentsView: React.FC = () => {
   const { user } = useAuth();
   const { success, error } = useToast();
+
+  if (!user) {
+    return (
+      <LockedFeatureGate
+        title="Magic Moments Visual Travel Journal"
+        category="Memories & Albums"
+        description="Preserve high-resolution photos, geotag expedition landmarks, organize albums by journey, and access encrypted cloud storage."
+        perks={[
+          'Up to 20MB cloud storage for travel albums and captures',
+          'AI-assisted photo geotagging and date indexing',
+          'Interactive full-screen lightbox and downloadable high-res assets',
+          'Linked directly to your confirmed past and upcoming journeys'
+        ]}
+      />
+    );
+  }
 
   const [albums, setAlbums] = useState<MagicMomentAlbum[]>([]);
   const [selectedAlbumId, setSelectedAlbumId] = useState<string>('');

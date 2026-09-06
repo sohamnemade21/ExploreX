@@ -23,8 +23,19 @@ import { LoginView } from './views/LoginView';
 import { SignupView } from './views/SignupView';
 import { Destination, TravelPackage } from './types';
 
+const LOCKED_TABS: NavTab[] = [
+  'bookings',
+  'mytrips',
+  'explorer',
+  'ai',
+  'moments',
+  'wallet',
+  'profile',
+  'admin'
+];
+
 const MainAppContent: React.FC = () => {
-  const { user } = useAuth();
+  const { user, isAuthenticated, openAuthModal } = useAuth();
   const { success, error } = useToast();
 
   const [activeTab, setActiveTab] = useState<NavTab>(() => {
@@ -35,8 +46,6 @@ const MainAppContent: React.FC = () => {
     }
     return 'home';
   });
-  const [authModalOpen, setAuthModalOpen] = useState<boolean>(false);
-  const [authModalMode, setAuthModalMode] = useState<'login' | 'signup'>('login');
 
   // Navigation parameters passed across views
   const [navParams, setNavParams] = useState<Record<string, any>>({});
@@ -49,6 +58,11 @@ const MainAppContent: React.FC = () => {
   const [selectedDestinationForModal, setSelectedDestinationForModal] = useState<Destination | null>(null);
 
   const handleNavigate = (tab: NavTab, params?: Record<string, any>) => {
+    // If attempting to access locked tab while unauthenticated, trigger auth modal gate
+    if (!isAuthenticated && LOCKED_TABS.includes(tab)) {
+      openAuthModal('login');
+    }
+
     setActiveTab(tab);
     if (params) {
       setNavParams(params);
@@ -82,6 +96,10 @@ const MainAppContent: React.FC = () => {
   }, []);
 
   const handleBookPackage = (pkg: TravelPackage) => {
+    if (!isAuthenticated) {
+      openAuthModal('signup');
+      return;
+    }
     setSelectedPkgForBooking(pkg);
     setBookingPkgModalOpen(true);
   };
@@ -98,10 +116,7 @@ const MainAppContent: React.FC = () => {
       <Navbar
         activeTab={activeTab}
         onSelectTab={handleNavigate}
-        onOpenAuth={(mode) => {
-          setAuthModalMode(mode);
-          setAuthModalOpen(true);
-        }}
+        onOpenAuth={(mode) => openAuthModal(mode)}
       />
 
       {/* Main Content View Switcher */}
@@ -190,15 +205,11 @@ const MainAppContent: React.FC = () => {
       {/* Footer */}
       <Footer onSelectTab={handleNavigate} />
 
-      {/* Global Auth Modal */}
-      <AuthModal
-        isOpen={authModalOpen}
-        onClose={() => setAuthModalOpen(false)}
-        initialMode={authModalMode}
-      />
+      {/* Global First-Visit & Action Auth Modal Gate */}
+      <AuthModal />
 
       {/* Direct Package Booking Checkout Modal */}
-      {selectedPkgForBooking && (
+      {selectedPkgForBooking && isAuthenticated && (
         <BookingCheckoutModal
           isOpen={bookingPkgModalOpen}
           onClose={() => {

@@ -23,6 +23,7 @@ import { useAuth } from '../context/AuthContext';
 import { useToast } from '../context/ToastContext';
 import { NavTab } from '../components/Navbar';
 import { TravelVibe, UserPreferences } from '../types';
+import { LockedFeatureGate } from '../components/LockedFeatureGate';
 
 interface ProfileViewProps {
   onNavigate: (tab: NavTab) => void;
@@ -87,36 +88,18 @@ export const ProfileView: React.FC<ProfileViewProps> = ({ onNavigate }) => {
 
   if (!user) {
     return (
-      <div className="max-w-4xl mx-auto px-4 py-20 text-center space-y-6 bg-white">
-        <div className="w-16 h-16 bg-[#F7F7F4] text-[#91482D] rounded-2xl flex items-center justify-center mx-auto border border-[#E4E4DF] shadow-2xs">
-          <User className="w-8 h-8" />
-        </div>
-        <div className="space-y-2">
-          <div className="text-[10px] font-mono uppercase tracking-widest text-[#91482D] font-bold">
-            Curator Profile
-          </div>
-          <h2 className="font-display text-3xl sm:text-4xl font-bold text-[#242424]">
-            Traveler Profile & Travel DNA
-          </h2>
-          <p className="font-prose text-sm text-[#6B6B67] max-w-md mx-auto italic">
-            Please sign in to view and customize your travel preferences, saved trips, and passport details.
-          </p>
-        </div>
-        <div className="flex flex-col sm:flex-row justify-center gap-3 pt-2">
-          <button
-            onClick={() => onNavigate('login')}
-            className="px-6 py-2.5 bg-[#242424] hover:bg-[#91482D] text-[#FFFFFF] text-xs font-mono uppercase tracking-wider font-bold rounded-xl shadow-xs transition-colors cursor-pointer"
-          >
-            Sign In
-          </button>
-          <button
-            onClick={() => onNavigate('signup')}
-            className="px-6 py-2.5 bg-white hover:bg-[#F7F7F4] text-[#242424] text-xs font-mono uppercase tracking-wider font-bold rounded-xl border border-[#E4E4DF] transition-colors cursor-pointer"
-          >
-            Create an Account
-          </button>
-        </div>
-      </div>
+      <LockedFeatureGate
+        title="Curator Profile & Travel DNA Settings"
+        category="Member Profile"
+        description="Customize your travel archetype, pace preferences, dietary constraints, safety emergency contacts, and passport records."
+        perks={[
+          'Personalized AI itinerary scoring based on Travel DNA',
+          'Automated safety check-ins with trusted contacts',
+          'Expedition history and saved destination wishlists',
+          'International travel documentation & emergency SOS configuration'
+        ]}
+        onNavigate={onNavigate}
+      />
     );
   }
 
