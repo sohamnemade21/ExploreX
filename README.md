@@ -1,6 +1,6 @@
-# ExploreX (WanderAI) 🌍
+# ExploreX 🌍
 ### AI-Powered Smart Tourism, Sustainable Demand Balancing & Travel Intelligence Platform
-**Smart India Hackathon (SIH) Specification & Production Architecture**
+
 
 ---
 
@@ -476,5 +476,5 @@ uvicorn main:app --reload --port 8000
 ---
 
 <div align="center">
-  <sub>Built with ❤️ for sustainable tourism and the Smart India Hackathon.</sub>
+  <sub>Built with ❤️ for sustainable tourism .</sub>
 </div>
