@@ -21,6 +21,7 @@ import { paymentService } from '../services/paymentService';
 import { PdfInvoiceService } from '../services/pdfInvoiceService';
 import { weatherService } from '../services/weatherService';
 import { safetyService } from '../services/safetyService';
+import { databaseService } from '../services/databaseService';
 import { ENV } from '../config/env';
 
 export const apiRouter = Router();
@@ -1879,6 +1880,35 @@ apiRouter.post('/payments/webhook', razorpayWebhookHandler);
 apiRouter.post('/razorpay/create-order', createRazorpayOrder);
 apiRouter.post('/razorpay/verify-payment', verifyRazorpayPayment);
 apiRouter.post('/razorpay/webhook', razorpayWebhookHandler);
+
+// 8. Database Health, Status, and Sync Endpoints
+apiRouter.get('/database/status', async (_req: Request, res: Response) => {
+  try {
+    const status = await databaseService.getStatus();
+    res.json(status);
+  } catch (err: any) {
+    res.status(500).json({ error: err.message || 'Failed to fetch database status' });
+  }
+});
+
+apiRouter.post('/database/sync', async (_req: Request, res: Response) => {
+  try {
+    const result = await databaseService.syncToSupabase();
+    res.json(result);
+  } catch (err: any) {
+    res.status(500).json({ error: err.message || 'Failed to synchronize database' });
+  }
+});
+
+apiRouter.post('/database/seed', async (_req: Request, res: Response) => {
+  try {
+    const result = await databaseService.seedDatabase();
+    res.json(result);
+  } catch (err: any) {
+    res.status(500).json({ error: err.message || 'Failed to seed database' });
+  }
+});
+
 
 
 

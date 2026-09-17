@@ -313,15 +313,17 @@ export const DestinationsView: React.FC<DestinationsViewProps> = ({
                           </span>
                         )}
                       </div>
-                      <button
-                        onClick={(e) => {
-                          e.stopPropagation();
-                          toggleSaveDestination(dest.id);
-                        }}
-                        className="p-1.5 rounded-full bg-white/80 backdrop-blur-md text-slate-700 hover:text-rose-600 transition-colors shadow-2xs"
-                      >
-                        <Heart className={`w-3.5 h-3.5 ${isSaved ? 'text-rose-600 fill-rose-600' : ''}`} />
-                      </button>
+                      <div className="flex items-center gap-1.5">
+                        <button
+                          onClick={(e) => {
+                            e.stopPropagation();
+                            toggleSaveDestination(dest.id);
+                          }}
+                          className="p-1.5 rounded-full bg-white/80 backdrop-blur-md text-slate-700 hover:text-rose-600 transition-colors shadow-2xs"
+                        >
+                          <Heart className={`w-3.5 h-3.5 ${isSaved ? 'text-rose-600 fill-rose-600' : ''}`} />
+                        </button>
+                      </div>
                     </div>
 
                     {/* Crowds & Weather Badge */}
@@ -571,6 +573,8 @@ export const DestinationsView: React.FC<DestinationsViewProps> = ({
                   </div>
                 </div>
               )}
+
+
 
               {/* TAB 2: WHAT'S FAMOUS HERE */}
               {modalTab === 'culture' && (

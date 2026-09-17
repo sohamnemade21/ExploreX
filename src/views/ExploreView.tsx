@@ -365,7 +365,9 @@ export const ExploreView: React.FC<ExploreViewProps> = ({
             </div>
           )}
 
-          {/* TAB 2: WHAT'S FAMOUS HERE? */}
+
+
+          {/* TAB 3: WHAT'S FAMOUS HERE? */}
           {activeTabSection === 'famous' && (
             <div className="bg-white p-6 rounded-3xl border border-slate-200 shadow-sm space-y-6 animate-in fade-in">
               <div className="flex items-center justify-between border-b border-slate-100 pb-4">

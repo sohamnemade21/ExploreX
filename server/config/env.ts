@@ -1,4 +1,33 @@
-import 'dotenv/config';
+import dotenv from 'dotenv';
+import path from 'path';
+import fs from 'fs';
+import { fileURLToPath } from 'url';
+const getEnvDir = (): string => {
+  try {
+    if (typeof __dirname !== 'undefined') return __dirname;
+    if (typeof import.meta !== 'undefined' && (import.meta as any)?.url) {
+      return path.dirname(fileURLToPath((import.meta as any).url));
+    }
+  } catch {}
+  return process.cwd();
+};
+
+const currentDir = getEnvDir();
+
+// Look for .env in current working directory and project root
+const envPaths = [
+  path.resolve(process.cwd(), '.env'),
+  path.resolve(process.cwd(), '..', '.env'),
+  path.resolve(currentDir, '..', '..', '.env'),
+  path.resolve(currentDir, '..', '.env'),
+  path.resolve(currentDir, '.env'),
+];
+
+for (const envPath of envPaths) {
+  if (fs.existsSync(envPath)) {
+    dotenv.config({ path: envPath });
+  }
+}
 
 export interface EnvConfig {
   PORT: number;
@@ -36,31 +65,52 @@ function maskSecret(val?: string): string {
   return `${val.substring(0, 4)}...${val.substring(val.length - 4)}`;
 }
 
-// Normalize Supabase key: allow either SUPABASE_ANON_KEY or SUPABASE_API_KEY
-const resolvedSupabaseAnonKey = process.env.SUPABASE_ANON_KEY || process.env.SUPABASE_API_KEY || undefined;
+// Clean any trailing comments or flags from env values
+function cleanEnvString(val?: string): string | undefined {
+  if (!val) return undefined;
+  // Remove trailing inline comments or annotations like '---done', '# ...', or whitespace
+  const cleaned = val.split(/\s+---|\s+#/)[0].trim();
+  return cleaned.length > 0 ? cleaned : undefined;
+}
+
+function cleanUrl(val?: string): string | undefined {
+  const cleaned = cleanEnvString(val);
+  if (!cleaned || cleaned.includes('your-project-id') || cleaned.includes('placeholder')) return undefined;
+  try {
+    const u = new URL(cleaned);
+    return (u.protocol === 'http:' || u.protocol === 'https:') ? u.origin : undefined;
+  } catch {
+    return undefined;
+  }
+}
+
+// Normalize Supabase url and key: allow SUPABASE_URL, VITE_SUPABASE_URL, SUPABASE_ANON_KEY, VITE_SUPABASE_ANON_KEY, or SUPABASE_API_KEY
+const resolvedSupabaseUrl = cleanUrl(process.env.SUPABASE_URL) || cleanUrl(process.env.VITE_SUPABASE_URL) || undefined;
+const resolvedSupabaseAnonKey = cleanEnvString(process.env.SUPABASE_ANON_KEY) || cleanEnvString(process.env.VITE_SUPABASE_ANON_KEY) || cleanEnvString(process.env.SUPABASE_API_KEY) || undefined;
+const resolvedSupabaseServiceRoleKey = cleanEnvString(process.env.SUPABASE_SERVICE_ROLE_KEY) || undefined;
 
 export const ENV = {
-  PORT: parseInt(process.env.PORT || '3000', 10),
-  NODE_ENV: process.env.NODE_ENV || 'development',
-  APP_URL: process.env.APP_URL || 'http://localhost:3000',
-  ML_SERVICE_URL: process.env.ML_SERVICE_URL || 'http://localhost:8000',
+  PORT: parseInt(cleanEnvString(process.env.PORT) || '3000', 10),
+  NODE_ENV: cleanEnvString(process.env.NODE_ENV) || 'development',
+  APP_URL: cleanEnvString(process.env.APP_URL) || 'http://localhost:3000',
+  ML_SERVICE_URL: cleanEnvString(process.env.ML_SERVICE_URL) || 'http://localhost:8000',
   
-  GEMINI_API_KEY: process.env.GEMINI_API_KEY || undefined,
-  OPENAI_API_KEY: process.env.OPENAI_API_KEY || undefined,
+  GEMINI_API_KEY: cleanEnvString(process.env.GEMINI_API_KEY) || undefined,
+  OPENAI_API_KEY: cleanEnvString(process.env.OPENAI_API_KEY) || undefined,
 
-  SUPABASE_URL: process.env.SUPABASE_URL || undefined,
+  SUPABASE_URL: resolvedSupabaseUrl,
   SUPABASE_ANON_KEY: resolvedSupabaseAnonKey,
-  SUPABASE_API_KEY: process.env.SUPABASE_API_KEY || undefined,
-  SUPABASE_SERVICE_ROLE_KEY: process.env.SUPABASE_SERVICE_ROLE_KEY || undefined,
+  SUPABASE_API_KEY: cleanEnvString(process.env.SUPABASE_API_KEY) || undefined,
+  SUPABASE_SERVICE_ROLE_KEY: resolvedSupabaseServiceRoleKey,
   
-  RAZORPAY_KEY_ID: process.env.RAZORPAY_KEY_ID || undefined,
-  RAZORPAY_KEY_SECRET: process.env.RAZORPAY_KEY_SECRET || undefined,
-  RAZORPAY_WEBHOOK_SECRET: process.env.RAZORPAY_WEBHOOK_SECRET || undefined,
+  RAZORPAY_KEY_ID: cleanEnvString(process.env.RAZORPAY_KEY_ID) || undefined,
+  RAZORPAY_KEY_SECRET: cleanEnvString(process.env.RAZORPAY_KEY_SECRET) || undefined,
+  RAZORPAY_WEBHOOK_SECRET: cleanEnvString(process.env.RAZORPAY_WEBHOOK_SECRET) || undefined,
 
-  RESEND_API_KEY: process.env.RESEND_API_KEY || undefined,
-  RESEND_FROM_EMAIL: process.env.RESEND_FROM_EMAIL || 'confirmations@explorex.com',
+  RESEND_API_KEY: cleanEnvString(process.env.RESEND_API_KEY) || undefined,
+  RESEND_FROM_EMAIL: cleanEnvString(process.env.RESEND_FROM_EMAIL) || 'confirmations@explorex.com',
 
-  GOOGLE_MAPS_API_KEY: process.env.GOOGLE_MAPS_API_KEY || undefined,
+  GOOGLE_MAPS_API_KEY: cleanEnvString(process.env.GOOGLE_MAPS_API_KEY) || undefined,
 };
 
 /**

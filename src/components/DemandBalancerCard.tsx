@@ -15,6 +15,7 @@ import {
   Info
 } from 'lucide-react';
 import { DemandBalancerQuery, DemandBalancerResult, TravelVibe, ThematicTag, Destination } from '../types';
+import { api } from '../services/api';
 
 interface DemandBalancerProps {
   onSelectDestination: (destination: Destination) => void;
@@ -75,15 +76,9 @@ export const DemandBalancerCard: React.FC<DemandBalancerProps> = ({
         avoidOvertouristed
       };
 
-      const res = await fetch('/api/ai/demand-balancer', {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify(queryPayload)
-      });
-
-      if (res.ok) {
-        const data: DemandBalancerResult[] = await res.json();
-        setResults(data);
+      const data = await api.balanceTourismDemand(queryPayload);
+      if (data) {
+        setResults(data as DemandBalancerResult[]);
       }
     } catch (err) {
       console.error('Demand Balancer fetch error:', err);

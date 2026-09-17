@@ -15,6 +15,7 @@ import {
   Gem
 } from 'lucide-react';
 import { CulturalSpecialties, Destination } from '../types';
+import { api } from '../services/api';
 
 interface CulturalDiscoveryProps {
   destination?: Destination;
@@ -67,14 +68,12 @@ export const CulturalSpecialtyDiscovery: React.FC<CulturalDiscoveryProps> = ({
     const fetchCultureData = async () => {
       setLoading(true);
       try {
-        const params = new URLSearchParams();
-        if (searchQuery) params.append('q', searchQuery);
-        if (activeCategory !== 'all') params.append('category', activeCategory);
-        if (selectedState !== 'all') params.append('state', selectedState);
-
-        const res = await fetch(`/api/culture/search?${params.toString()}`);
-        if (res.ok) {
-          const data = await res.json();
+        const data = await api.searchCulturalSpecialties({
+          q: searchQuery || undefined,
+          category: activeCategory !== 'all' ? activeCategory : undefined,
+          state: selectedState !== 'all' ? selectedState : undefined
+        });
+        if (data) {
           setItems(data);
         }
       } catch (err) {

@@ -11,6 +11,7 @@ import {
   ShieldCheck
 } from 'lucide-react';
 import { Destination } from '../types';
+import { api } from '../services/api';
 
 interface HierarchyBrowserProps {
   onSelectDestination: (dest: Destination) => void;
@@ -31,9 +32,8 @@ export const IndiaTravelHierarchyBrowser: React.FC<HierarchyBrowserProps> = ({
   useEffect(() => {
     const fetchHierarchy = async () => {
       try {
-        const res = await fetch('/api/culture/hierarchy');
-        if (res.ok) {
-          const data = await res.json();
+        const data = await api.getIndiaHierarchy();
+        if (data) {
           setHierarchyData(data);
           // Set defaults
           const states = Object.keys(data);

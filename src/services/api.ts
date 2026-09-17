@@ -22,7 +22,9 @@ import {
   AdminUserDetail
 } from '../types';
 
-const API_BASE = '/api/v1';
+const envApiUrl = (typeof import.meta !== 'undefined' && import.meta.env ? (import.meta.env.VITE_API_URL || import.meta.env.VITE_API_BASE_URL || '') : '').trim();
+export const API_ROOT = envApiUrl ? envApiUrl.replace(/\/+$/, '') : '';
+export const API_BASE = `${API_ROOT}/api/v1`;
 
 async function request<T>(endpoint: string, options?: RequestInit): Promise<T> {
   const token = localStorage.getItem('explorex_auth_token');
@@ -369,7 +371,7 @@ export const api = {
     request<{ success: boolean; message: string }>('/admin/reset-db', { method: 'POST' }),
   getExportBookingsUrl: () => {
     const token = localStorage.getItem('explorex_auth_token');
-    return `/api/v1/admin/export/bookings${token ? `?token=${encodeURIComponent(token)}` : ''}`;
+    return `${API_BASE}/admin/export/bookings${token ? `?token=${encodeURIComponent(token)}` : ''}`;
   },
 
   // India Demand Balancer & Culture Engine
@@ -421,5 +423,71 @@ export const api = {
     request<{ verified: boolean; message: string; paymentId?: string; orderId?: string; bookingStatus?: string }>('/payments/verify', { method: 'POST', body: JSON.stringify(details) }),
   resendBookingEmail: (bookingId: string, email?: string) =>
     request<{ success: boolean; message: string; recipient: string }>(`/bookings/${bookingId}/resend-email`, { method: 'POST', body: JSON.stringify({ email }) }),
+
+  // Database Management
+  getDatabaseStatus: () =>
+    request<{
+      connected: boolean;
+      provider: 'supabase' | 'local_store';
+      supabaseConfigured: boolean;
+      supabaseUrl: string | null;
+      latencyMs: number;
+      tables: { name: string; count: number; synced: boolean; status: string }[];
+      summary: { totalDestinations: number; totalPOIs: number; totalPackages: number; totalBookings: number; totalUsers: number; totalReviews: number };
+      lastSyncAt: string | null;
+    }>('/database/status'),
+  syncDatabase: () =>
+    request<{ success: boolean; message: string; syncedRecords: Record<string, number> }>('/database/sync', { method: 'POST' }),
+  seedDatabase: () =>
+    request<{ success: boolean; count: number }>('/database/seed', { method: 'POST' }),
+
+  // Traveler Safety & Emergency Hub
+  getSafetyProfile: (userId?: string) =>
+    request<any>('/safety/profile', {
+      headers: userId ? { 'x-user-id': userId } : {}
+    }),
+  updateSafetyProfile: (profile: any, userId?: string) =>
+    request<any>('/safety/profile', {
+      method: 'PUT',
+      headers: userId ? { 'x-user-id': userId } : {},
+      body: JSON.stringify(profile)
+    }),
+  getSafetyAlerts: (params: { destination: string; lat?: number; lng?: number; travelMode?: string }) => {
+    const q = new URLSearchParams();
+    q.set('destination', params.destination);
+    if (params.lat !== undefined) q.set('lat', params.lat.toString());
+    if (params.lng !== undefined) q.set('lng', params.lng.toString());
+    if (params.travelMode) q.set('travelMode', params.travelMode);
+    return request<any[]>(`/safety/alerts?${q.toString()}`);
+  },
+  getGroupSafetyStatus: (userId?: string) =>
+    request<any[]>('/safety/group-status', {
+      headers: userId ? { 'x-user-id': userId } : {}
+    }),
+  triggerSOS: (payload: { alertType: string; customNote?: string; location?: { lat: number; lng: number; accuracyMeters?: number }; activeDestination?: string }, userId?: string) =>
+    request<any>('/safety/sos', {
+      method: 'POST',
+      headers: userId ? { 'x-user-id': userId } : {},
+      body: JSON.stringify(payload)
+    }),
+  resolveSOS: (payload?: { alertId?: string; resolutionNote?: string }, userId?: string) =>
+    request<any>('/safety/sos/resolve', {
+      method: 'POST',
+      headers: userId ? { 'x-user-id': userId } : {},
+      body: JSON.stringify(payload || {})
+    }),
+  safetyCheckIn: (payload: { checkInStatus: string; currentZone?: string; activeDestination?: string; location?: { lat: number; lng: number; accuracyMeters?: number } }, userId?: string) =>
+    request<any>('/safety/checkin', {
+      method: 'POST',
+      headers: userId ? { 'x-user-id': userId } : {},
+      body: JSON.stringify(payload)
+    }),
+  sendEmergencyContactAlert: (payload: { contactName: string; contactPhone: string; relationship: string; message: string; activeDestination?: string }, userId?: string) =>
+    request<any>('/safety/contact-alert', {
+      method: 'POST',
+      headers: userId ? { 'x-user-id': userId } : {},
+      body: JSON.stringify(payload)
+    }),
 };
+
 

@@ -284,6 +284,7 @@ export const HomeView: React.FC<HomeViewProps> = ({
                   <span className="absolute top-2 left-2 px-1.5 py-0.5 bg-[#242424]/90 backdrop-blur-md text-white text-[8.5px] font-mono tracking-wider uppercase font-semibold rounded">
                     0{idx + 1} • {gem.state || 'India'}
                   </span>
+
                   {gem.whyAlternativeBetter && (
                     <span className="absolute bottom-2 left-2 px-1.5 py-0.5 bg-[#B45F3C] text-white text-[8.5px] font-semibold rounded">
                       Try instead of {gem.whyAlternativeBetter.replacesFamousSpot}

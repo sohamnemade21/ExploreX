@@ -35,6 +35,7 @@ import {
 } from 'lucide-react';
 import { EmergencyContact, TravelerSafetyProfile, TravelMode, SafetyAlert } from '../types';
 import { useAuth } from '../context/AuthContext';
+import { api } from '../services/api';
 
 interface TravelerSafetyCenterModalProps {
   isOpen: boolean;
@@ -128,14 +129,8 @@ export const TravelerSafetyCenterModal: React.FC<TravelerSafetyCenterModalProps>
     setLoading(true);
     try {
       // Fetch safety profile
-      const profRes = await fetch('/api/safety/profile', {
-        headers: {
-          'Authorization': `Bearer ${localStorage.getItem('token') || ''}`,
-          'x-user-id': user?.id || 'usr-current'
-        }
-      });
-      if (profRes.ok) {
-        const data = await profRes.json();
+      const data = await api.getSafetyProfile(user?.id);
+      if (data) {
         setSafetyProfile(data);
         if (data.checkInStatus === 'sos_active') {
           setSosActiveResult({
@@ -149,12 +144,13 @@ export const TravelerSafetyCenterModal: React.FC<TravelerSafetyCenterModalProps>
       }
 
       // Fetch dynamic alerts
-      const latParam = activeCoordinates?.lat ? `&lat=${activeCoordinates.lat}` : '';
-      const lngParam = activeCoordinates?.lng ? `&lng=${activeCoordinates.lng}` : '';
-      const modeParam = safetyProfile?.travelMode ? `&travelMode=${safetyProfile.travelMode}` : '';
-      const alertsRes = await fetch(`/api/safety/alerts?destination=${encodeURIComponent(activeDestinationName)}${latParam}${lngParam}${modeParam}`);
-      if (alertsRes.ok) {
-        const alertsData = await alertsRes.json();
+      const alertsData = await api.getSafetyAlerts({
+        destination: activeDestinationName,
+        lat: activeCoordinates?.lat,
+        lng: activeCoordinates?.lng,
+        travelMode: safetyProfile?.travelMode
+      });
+      if (alertsData) {
         setAlerts(alertsData);
       }
     } catch (err) {
@@ -166,14 +162,8 @@ export const TravelerSafetyCenterModal: React.FC<TravelerSafetyCenterModalProps>
 
   const loadGroupStatus = async () => {
     try {
-      const res = await fetch('/api/safety/group-status', {
-        headers: {
-          'Authorization': `Bearer ${localStorage.getItem('token') || ''}`,
-          'x-user-id': user?.id || 'usr-current'
-        }
-      });
-      if (res.ok) {
-        const data = await res.json();
+      const data = await api.getGroupSafetyStatus(user?.id);
+      if (data) {
         setGroupStatuses(data);
       }
     } catch (err) {
@@ -187,15 +177,7 @@ export const TravelerSafetyCenterModal: React.FC<TravelerSafetyCenterModalProps>
     setSafetyProfile(updated);
 
     try {
-      await fetch('/api/safety/profile', {
-        method: 'PUT',
-        headers: {
-          'Content-Type': 'application/json',
-          'Authorization': `Bearer ${localStorage.getItem('token') || ''}`,
-          'x-user-id': user?.id || 'usr-current'
-        },
-        body: JSON.stringify(updates)
-      });
+      await api.updateSafetyProfile(updates, user?.id);
     } catch (err) {
       console.warn('Update safety profile error:', err);
     }
@@ -221,29 +203,17 @@ export const TravelerSafetyCenterModal: React.FC<TravelerSafetyCenterModalProps>
   const executeSosTrigger = async () => {
     try {
       const payload = {
-        travelMode: safetyProfile?.travelMode || 'general',
+        alertType: safetyProfile?.travelMode || 'general',
+        customNote: 'Emergency Assistance Requested immediately via ExploreX Safety System.',
         location: {
-          destinationName: activeDestinationName,
-          lat: activeCoordinates?.lat,
-          lng: activeCoordinates?.lng
+          lat: activeCoordinates?.lat || 0,
+          lng: activeCoordinates?.lng || 0
         },
-        customMessage: 'Emergency Assistance Requested immediately via ExploreX Safety System.',
-        isDiscreet: discreetModeActive,
-        timestamp: new Date().toISOString()
+        activeDestination: activeDestinationName
       };
 
-      const res = await fetch('/api/safety/sos', {
-        method: 'POST',
-        headers: {
-          'Content-Type': 'application/json',
-          'Authorization': `Bearer ${localStorage.getItem('token') || ''}`,
-          'x-user-id': user?.id || 'usr-current'
-        },
-        body: JSON.stringify(payload)
-      });
-
-      if (res.ok) {
-        const result = await res.json();
+      const result = await api.triggerSOS(payload, user?.id);
+      if (result) {
         setSosActiveResult(result);
         setSafetyProfile(prev => prev ? { ...prev, checkInStatus: 'sos_active' } : null);
         if (discreetModeActive) {
@@ -258,15 +228,8 @@ export const TravelerSafetyCenterModal: React.FC<TravelerSafetyCenterModalProps>
 
   const handleResolveSos = async () => {
     try {
-      const res = await fetch('/api/safety/sos/resolve', {
-        method: 'POST',
-        headers: {
-          'Content-Type': 'application/json',
-          'Authorization': `Bearer ${localStorage.getItem('token') || ''}`,
-          'x-user-id': user?.id || 'usr-current'
-        }
-      });
-      if (res.ok) {
+      const res = await api.resolveSOS({}, user?.id);
+      if (res) {
         setSosActiveResult(null);
         setSafetyProfile(prev => prev ? { ...prev, checkInStatus: 'safe', lastCheckInTime: new Date().toISOString() } : null);
       }
@@ -277,19 +240,15 @@ export const TravelerSafetyCenterModal: React.FC<TravelerSafetyCenterModalProps>
 
   const handleSafetyCheckIn = async (presetNote = 'Safe and sound on journey') => {
     try {
-      const res = await fetch('/api/safety/checkin', {
-        method: 'POST',
-        headers: {
-          'Content-Type': 'application/json',
-          'Authorization': `Bearer ${localStorage.getItem('token') || ''}`,
-          'x-user-id': user?.id || 'usr-current'
-        },
-        body: JSON.stringify({ status: 'safe', note: presetNote })
-      });
-      if (res.ok) {
-        const data = await res.json();
-        setCheckInSuccessMsg(`Check-in recorded at ${new Date(data.lastCheckInTime).toLocaleTimeString('en-IN', { hour: '2-digit', minute: '2-digit' })}`);
-        setSafetyProfile(prev => prev ? { ...prev, checkInStatus: 'safe', lastCheckInTime: data.lastCheckInTime } : null);
+      const data = await api.safetyCheckIn({
+        checkInStatus: 'safe',
+        activeDestination: activeDestinationName,
+        currentZone: presetNote,
+        location: activeCoordinates ? { lat: activeCoordinates.lat, lng: activeCoordinates.lng } : undefined
+      }, user?.id);
+      if (data) {
+        setCheckInSuccessMsg(`Check-in recorded at ${new Date(data.lastCheckInTime || new Date()).toLocaleTimeString('en-IN', { hour: '2-digit', minute: '2-digit' })}`);
+        setSafetyProfile(prev => prev ? { ...prev, checkInStatus: 'safe', lastCheckInTime: data.lastCheckInTime || new Date().toISOString() } : null);
         setTimeout(() => setCheckInSuccessMsg(null), 4000);
       }
     } catch (err) {
@@ -300,22 +259,15 @@ export const TravelerSafetyCenterModal: React.FC<TravelerSafetyCenterModalProps>
   const handleQuickContactPing = async () => {
     try {
       const primary = safetyProfile?.emergencyContacts?.find(c => c.isPrimary) || safetyProfile?.emergencyContacts?.[0];
-      const res = await fetch('/api/safety/contact-alert', {
-        method: 'POST',
-        headers: {
-          'Content-Type': 'application/json',
-          'Authorization': `Bearer ${localStorage.getItem('token') || ''}`,
-          'x-user-id': user?.id || 'usr-current'
-        },
-        body: JSON.stringify({
-          contactId: primary?.id,
-          note: `Quick Safety Ping: I am currently near ${activeDestinationName}. Everything is fine!`,
-          location: { destinationName: activeDestinationName, lat: activeCoordinates?.lat, lng: activeCoordinates?.lng }
-        })
-      });
-      if (res.ok) {
-        const data = await res.json();
-        setQuickPingSuccess(`Reassurance ping sent to ${data.recipientName} (${data.phoneMasked})`);
+      const data = await api.sendEmergencyContactAlert({
+        contactName: primary?.name || 'Emergency Contact',
+        contactPhone: primary?.phone || '',
+        relationship: primary?.relationship || 'Contact',
+        message: `Quick Safety Ping: I am currently near ${activeDestinationName}. Everything is fine!`,
+        activeDestination: activeDestinationName
+      }, user?.id);
+      if (data) {
+        setQuickPingSuccess(`Reassurance ping sent to ${data.recipientName || primary?.name || 'Contact'} (${data.phoneMasked || primary?.phone || ''})`);
         setTimeout(() => setQuickPingSuccess(null), 3500);
       }
     } catch (err) {

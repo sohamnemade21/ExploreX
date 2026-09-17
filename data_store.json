@@ -2367,6 +2367,177 @@
         "description": "You are naturally drawn to authentic local flavors, historic architecture, and breathtaking panoramic landscapes while prioritizing sustainable, well-balanced pacing."
       },
       "role": "user"
+    },
+    "337c0e31-90ab-42d6-a3b3-a0099184e5ac": {
+      "id": "337c0e31-90ab-42d6-a3b3-a0099184e5ac",
+      "email": "anjannaik2006@gmail.com",
+      "name": "Anjan Naik",
+      "phone": "+91 98210 34982",
+      "avatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?auto=format&fit=crop&w=240&q=80",
+      "bio": "Passionate travel photographer, cultural foodie & mountain enthusiast exploring breathtaking corners of our planet.",
+      "homeCity": "Mumbai, Maharashtra",
+      "joinedDate": "January 2025",
+      "walletBalance": 37350,
+      "preferences": {
+        "vibes": [
+          "mountain",
+          "beach",
+          "heritage",
+          "culinary",
+          "nature"
+        ],
+        "budgetLevel": "moderate",
+        "pace": "moderate",
+        "dietary": [
+          "Vegetarian Friendly",
+          "Seafood"
+        ],
+        "travelStyle": "friends",
+        "ecoFriendly": true,
+        "accommodationType": "resort"
+      },
+      "savedDestinations": [
+        "dest-bali",
+        "dest-switzerland",
+        "dest-tokyo"
+      ],
+      "savedPackages": [
+        "pkg-bali-escape",
+        "pkg-swiss-alps"
+      ],
+      "travelHistory": [
+        {
+          "id": "hist-1",
+          "destination": "Kyoto & Osaka",
+          "country": "Japan",
+          "image": "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?auto=format&fit=crop&w=400&q=80",
+          "year": 2025,
+          "durationDays": 8,
+          "highlight": "Bamboo forest morning walk and Gion tea house experience",
+          "rating": 5
+        },
+        {
+          "id": "hist-2",
+          "destination": "Amalfi Coast",
+          "country": "Italy",
+          "image": "https://images.unsplash.com/photo-1533105079780-92b9be482077?auto=format&fit=crop&w=400&q=80",
+          "year": 2024,
+          "durationDays": 6,
+          "highlight": "Cliffside sunset dinner overlooking Positano",
+          "rating": 5
+        }
+      ],
+      "travelDNA": {
+        "culturalExplorer": 88,
+        "adventureSeeker": 76,
+        "gastronomyLover": 92,
+        "relaxationScore": 80,
+        "ecoConscious": 85,
+        "spontaneity": 68,
+        "primaryArchetype": "Curious Culture & Culinary Voyager",
+        "secondaryArchetype": "Eco-Minded Scenic Alpine Explorer",
+        "description": "You are naturally drawn to authentic local flavors, historic architecture, and breathtaking panoramic landscapes while prioritizing sustainable, well-balanced pacing."
+      },
+      "role": "user"
+    },
+    "497312ab-3ea3-4e2b-a9ea-08ae5aceff72": {
+      "id": "497312ab-3ea3-4e2b-a9ea-08ae5aceff72",
+      "email": "nemadesoham21@gmail.com",
+      "name": "Soham",
+      "phone": "+91 98210 34982",
+      "avatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?auto=format&fit=crop&w=240&q=80",
+      "bio": "Passionate travel photographer, cultural foodie & mountain enthusiast exploring breathtaking corners of our planet.",
+      "homeCity": "Mumbai, Maharashtra",
+      "joinedDate": "January 2025",
+      "walletBalance": 37350,
+      "preferences": {
+        "vibes": [
+          "mountain",
+          "beach",
+          "heritage",
+          "culinary",
+          "nature"
+        ],
+        "budgetLevel": "moderate",
+        "pace": "moderate",
+        "dietary": [
+          "Vegetarian Friendly",
+          "Seafood"
+        ],
+        "travelStyle": "friends",
+        "ecoFriendly": true,
+        "accommodationType": "resort"
+      },
+      "savedDestinations": [
+        "dest-bali",
+        "dest-switzerland",
+        "dest-tokyo"
+      ],
+      "savedPackages": [
+        "pkg-bali-escape",
+        "pkg-swiss-alps"
+      ],
+      "travelHistory": [
+        {
+          "id": "hist-1",
+          "destination": "Kyoto & Osaka",
+          "country": "Japan",
+          "image": "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?auto=format&fit=crop&w=400&q=80",
+          "year": 2025,
+          "durationDays": 8,
+          "highlight": "Bamboo forest morning walk and Gion tea house experience",
+          "rating": 5
+        },
+        {
+          "id": "hist-2",
+          "destination": "Amalfi Coast",
+          "country": "Italy",
+          "image": "https://images.unsplash.com/photo-1533105079780-92b9be482077?auto=format&fit=crop&w=400&q=80",
+          "year": 2024,
+          "durationDays": 6,
+          "highlight": "Cliffside sunset dinner overlooking Positano",
+          "rating": 5
+        }
+      ],
+      "travelDNA": {
+        "culturalExplorer": 88,
+        "adventureSeeker": 76,
+        "gastronomyLover": 92,
+        "relaxationScore": 80,
+        "ecoConscious": 85,
+        "spontaneity": 68,
+        "primaryArchetype": "Curious Culture & Culinary Voyager",
+        "secondaryArchetype": "Eco-Minded Scenic Alpine Explorer",
+        "description": "You are naturally drawn to authentic local flavors, historic architecture, and breathtaking panoramic landscapes while prioritizing sustainable, well-balanced pacing."
+      },
+      "role": "user",
+      "safetyProfile": {
+        "travelMode": "general",
+        "travelerCountry": "IN",
+        "isInternational": false,
+        "emergencyContacts": [
+          {
+            "id": "contact-default-1",
+            "name": "Primary Emergency Contact",
+            "relationship": "Family / Guardian",
+            "phone": "",
+            "countryCode": "+91",
+            "isPrimary": true
+          }
+        ],
+        "checkInStatus": "safe",
+        "lastCheckInTime": "2026-09-17T08:52:24.368Z",
+        "checkInIntervalHours": 6,
+        "discreetSosEnabled": false,
+        "saferTransportPreferred": true,
+        "saferRoutePreferred": true,
+        "avoidNightTravel": true,
+        "nightWarningThresholdHour": 20,
+        "femaleFriendlyStayPreferred": false,
+        "shareLiveTripWithContacts": true,
+        "groupLocationSharing": true,
+        "privacyLocationLevel": "precise"
+      }
     }
   },
   "destinations": [

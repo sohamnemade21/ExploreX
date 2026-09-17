@@ -24,6 +24,7 @@ import { useToast } from '../context/ToastContext';
 import { NavTab } from '../components/Navbar';
 import { TravelVibe, UserPreferences } from '../types';
 import { LockedFeatureGate } from '../components/LockedFeatureGate';
+import { api } from '../services/api';
 
 interface ProfileViewProps {
   onNavigate: (tab: NavTab) => void;
@@ -66,18 +67,9 @@ export const ProfileView: React.FC<ProfileViewProps> = ({ onNavigate }) => {
 
   const handleQuickCheckIn = async () => {
     try {
-      const res = await fetch('/api/safety/checkin', {
-        method: 'POST',
-        headers: {
-          'Content-Type': 'application/json',
-          'Authorization': `Bearer ${localStorage.getItem('token') || ''}`,
-          'x-user-id': user?.id || 'usr-current'
-        },
-        body: JSON.stringify({ status: 'safe', note: 'All good from profile' })
-      });
-      if (res.ok) {
-        const data = await res.json();
-        setCheckInSuccess(`Check-in recorded at ${new Date(data.lastCheckInTime).toLocaleTimeString('en-IN')}`);
+      const data = await api.safetyCheckIn({ status: 'safe', note: 'All good from profile' } as any, user?.id);
+      if (data) {
+        setCheckInSuccess(`Check-in recorded at ${new Date(data.lastCheckInTime || new Date()).toLocaleTimeString('en-IN')}`);
         success('Checked In', 'Your trusted contacts can see you are safe.');
         setTimeout(() => setCheckInSuccess(null), 4000);
       }

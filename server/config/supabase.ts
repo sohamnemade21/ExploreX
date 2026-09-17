@@ -8,18 +8,27 @@ export interface SupabaseConfig {
   isConfigured: boolean;
 }
 
+function isValidHttpUrl(string?: string | null): boolean {
+  if (!string || string.includes('your-project-id') || string.includes('placeholder')) return false;
+  try {
+    const url = new URL(string);
+    return url.protocol === 'http:' || url.protocol === 'https:';
+  } catch {
+    return false;
+  }
+}
+
 /**
  * Normalized Supabase configuration.
  * Resolves both SUPABASE_ANON_KEY and SUPABASE_API_KEY naming conventions.
  */
 export const supabaseConfig: SupabaseConfig = {
-  url: ENV.SUPABASE_URL || null,
-  anonKey: ENV.SUPABASE_ANON_KEY || null,
-  serviceRoleKey: ENV.SUPABASE_SERVICE_ROLE_KEY || null,
+  url: isValidHttpUrl(ENV.SUPABASE_URL) ? ENV.SUPABASE_URL! : null,
+  anonKey: (ENV.SUPABASE_ANON_KEY && !ENV.SUPABASE_ANON_KEY.includes('your-anon-key')) ? ENV.SUPABASE_ANON_KEY : null,
+  serviceRoleKey: (ENV.SUPABASE_SERVICE_ROLE_KEY && !ENV.SUPABASE_SERVICE_ROLE_KEY.includes('your-service-role')) ? ENV.SUPABASE_SERVICE_ROLE_KEY : null,
   isConfigured: Boolean(
-    ENV.SUPABASE_URL && 
+    isValidHttpUrl(ENV.SUPABASE_URL) && 
     ENV.SUPABASE_ANON_KEY && 
-    !ENV.SUPABASE_URL.includes('your-project-id') &&
     !ENV.SUPABASE_ANON_KEY.includes('your-anon-key')
   ),
 };
@@ -27,7 +36,7 @@ export const supabaseConfig: SupabaseConfig = {
 /**
  * Standard Supabase client for Authentication and User sessions.
  */
-export const supabase: SupabaseClient | null = supabaseConfig.isConfigured && supabaseConfig.url && supabaseConfig.anonKey
+export const supabase: SupabaseClient | null = (supabaseConfig.isConfigured && supabaseConfig.url && supabaseConfig.anonKey)
   ? createClient(supabaseConfig.url, supabaseConfig.anonKey, {
       auth: {
         autoRefreshToken: false,
