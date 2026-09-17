@@ -10,6 +10,7 @@ coverage/
 .vercel
 server.cjs
 server.cjs.map
+api/index.js
 
 # Logs
 logs
@@ -48,3 +49,5 @@ Thumbs.db
 *.ntvs*
 *.njsproj
 *.sln
+
+.vercel
